@@ -1,4 +1,4 @@
-// scanner.js — SEC EDGAR Split Scanner v5
+// scanner.js — SEC EDGAR Split Scanner v6
 import fetch from 'node-fetch';
 import fs from 'fs';
 
@@ -17,8 +17,6 @@ const QUERIES = [
 function parseDisplayName(displayNames) {
   if (!displayNames?.length) return { company: 'Unknown', ticker: '' };
   const raw = displayNames[0];
-  // Format: "iSHARES TRUST  (IWF, IEFA)  (CIK 0001100663)"
-  // or just: "iSHARES TRUST  (CIK 0001100663)"
   const tickerMatch = raw.match(/\(([A-Z]{1,6}(?:,\s*[A-Z]{1,6})*)\)\s+\(CIK/);
   const ticker = tickerMatch ? tickerMatch[1].split(',')[0].trim() : '';
   const company = raw.split('(')[0].trim() || raw;
@@ -26,10 +24,10 @@ function parseDisplayName(displayNames) {
 }
 
 function extractDetails(text) {
-  if (!text) return { type: 'unknown', ratio: '', exDate: '' };
+  if (!text) return { type: 'unknown', ratio: '', exDate: '', ticker: '' };
   const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
 
-  // Type detection
+  // Type
   const isReverse = /reverse\s+(stock\s+)?split|1[- ]for[- ]\d+\s+reverse/i.test(clean);
   const isForward = /forward\s+(stock\s+|share\s+)?split|\d+\s*-\s*for\s*-\s*1\b/i.test(clean);
   let type = 'unknown';
@@ -55,13 +53,13 @@ function extractDetails(text) {
     }
   }
 
-  // Ex-date — full month names to avoid truncation
+  // Ex-date — full and abbreviated months
   let exDate = '';
-  const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec';
+  const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan\\.?|Feb\\.?|Mar\\.?|Apr\\.?|Jun\\.?|Jul\\.?|Aug\\.?|Sep\\.?|Oct\\.?|Nov\\.?|Dec\\.?';
   const exTries = [
     new RegExp(`ex[- ]?(?:distribution\\s+)?date[^:\\n]{0,30}:\\s*((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
     new RegExp(`ex[- ]?date[^:\\n]{0,20}:\\s*(\\d{1,2}\\/\\d{1,2}\\/\\d{4})`, 'i'),
-    new RegExp(`(?:begin|commence)\\s+trading[^.\\n]{0,80}((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
+    new RegExp(`(?:begin|commence|start)\\s+trading[^.\\n]{0,80}((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
     new RegExp(`split-adjusted[^.\\n]{0,80}((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
     new RegExp(`effective[^.\\n]{0,60}((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
     new RegExp(`((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})[^.\\n]{0,30}ex[- ]?date`, 'i'),
@@ -72,34 +70,47 @@ function extractDetails(text) {
     if (m?.[1]) { exDate = m[1].trim().replace(/\s+/g, ' '); break; }
   }
 
-  // Also try to extract ETF ticker from document text
+  // Ticker — covers stocks and ETF-specific language
   let ticker = '';
   const tickTries = [
-    /\((?:nasdaq|nyse(?:arca|mkt)?|otc|cboe)[:\s]+([A-Z]{1,6})\)/i,
-    /ticker(?:\s+symbol)?[:\s"]+([A-Z]{1,6})\b/i,
-    /trading\s+(?:symbol|under)[\s:"]+([A-Z]{1,6})\b/i,
+    // ETF 497 filings: "ticker symbol: MSTU" or "(NasdaqGM: MSTU)"
+    /\((?:nasdaq(?:gm|gs|cm)?|nyse(?:arca|mkt)?|cboe|bats)[:\s]+([A-Z]{1,6})\)/i,
+    /ticker\s+symbol[:\s"]+([A-Z]{1,6})\b/i,
+    /trading\s+(?:symbol|under\s+the\s+symbol)[:\s"]+([A-Z]{1,6})\b/i,
     /listed\s+(?:on|under)[^.]{0,40}\(([A-Z]{1,6})\)/i,
-    /symbol[:\s"]+([A-Z]{1,6})\b/i,
+    /\bsymbol[:\s"]+([A-Z]{1,6})\b/i,
+    // 497 often says "The Fund trades under the ticker MSTU"
+    /trades?\s+under\s+(?:the\s+)?(?:ticker|symbol)[:\s"]+([A-Z]{1,6})\b/i,
+    // "Fund's ticker symbol is MSTU"
+    /ticker\s+symbol\s+is\s+([A-Z]{2,6})\b/i,
   ];
   for (const pat of tickTries) {
     const m = clean.match(pat);
-    if (m?.[1]?.length <= 6 && m[1].length >= 1) { ticker = m[1].toUpperCase(); break; }
+    if (m?.[1]?.length >= 2 && m[1].length <= 6) { ticker = m[1].toUpperCase(); break; }
   }
 
   return { type, ratio, exDate, ticker };
 }
 
-// Skip these — they mention splits but aren't split filings
-const NOISE_COMPANIES = ['clearway energy', 'marketwise', 'principal funds',
-  'vanguard fenway', 'vanguard chester', 'vanguard malvern', 'vanguard windsor',
-  'columbia funds', 'columbia etf', 'invesco exchange', 'invesco actively',
-  'j.p. morgan exchange', 'goldman sachs trust', 'new york life',
-  'american century', 'bny mellon', 'mml series', 'northern lights fund',
-  'ea series trust', 'rayliant', 'proshares trust', 'vaneck etf'];
+// ETF fund families that mention "stock split" in prospectuses but aren't actual split filings
+const NOISE_LIST = [
+  'principal funds','vanguard fenway','vanguard chester','vanguard malvern','vanguard windsor',
+  'vanguard admiral','columbia funds','columbia etf','invesco exchange-traded fund trust',
+  'invesco actively managed','j.p. morgan exchange','goldman sachs trust','new york life',
+  'american century','bny mellon','mml series','northern lights fund','ea series trust',
+  'rayliant','proshares trust','vaneck etf','spdr dow jones','spdr s&p 500 etf trust',
+  'spdr s&p midcap','select sector spdr','state street institutional','fidelity salem',
+  'parnassus','gabelli','neuberger berman equity','mutual fund & variable','mutual fund series',
+  'first eagle','cash account trust','innovator etfs','listed funds trust','touchstone etf',
+  'capital-force','ubs series','calvert','chesapeake investment','proShares trust ii',
+  'baillie gifford etf','moa funds','payden','credit suisse opportunity','truth social funds',
+  'first trust exchange','eaton vance','ultimus','world funds','pimco funds','wisdom tree trust',
+  'vegashares','rbb fund','clearway energy','marketwise',
+];
 
 const ETF_KEYWORDS = ['etf','fund','trust','ishares','vanguard','spdr','invesco',
   'wisdomtree','proshares','direxion','graniteshares','global x','abrdn','blackrock',
-  'tidal','themes etf','granite'];
+  'tidal','themes etf','granite','volatility shares','valkyrie'];
 
 function isETF(company = '', formType = '') {
   if (formType === '497') return true;
@@ -108,7 +119,7 @@ function isETF(company = '', formType = '') {
 
 function isNoise(company = '') {
   const c = company.toLowerCase();
-  return NOISE_COMPANIES.some(n => c.includes(n));
+  return NOISE_LIST.some(n => c.includes(n));
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
@@ -135,10 +146,8 @@ async function fetchFilingDoc(src, hitId) {
     const cik     = (src.ciks?.[0] || '').replace(/\D/g, '');
     const docFile = hitId.includes(':') ? hitId.split(':')[1] : null;
     if (!adsh || !cik) return '';
-
     const accPath = adsh.replace(/-/g, '');
     let docUrl;
-
     if (docFile) {
       docUrl = `https://www.sec.gov/Archives/edgar/data/${parseInt(cik)}/${accPath}/${docFile}`;
     } else {
@@ -151,7 +160,6 @@ async function fetchFilingDoc(src, hitId) {
       if (!links.length) return '';
       docUrl = links[0].startsWith('http') ? links[0] : `https://www.sec.gov${links[0]}`;
     }
-
     const res = await fetch(docUrl, { headers: { 'User-Agent': USER_AGENT } });
     if (!res.ok) return '';
     return (await res.text()).slice(0, 15000);
@@ -159,7 +167,7 @@ async function fetchFilingDoc(src, hitId) {
 }
 
 async function main() {
-  console.log(`\n=== SEC Split Scanner v5 — ${new Date().toISOString()} ===\n`);
+  console.log(`\n=== SEC Split Scanner v6 — ${new Date().toISOString()} ===\n`);
 
   let existing = [];
   if (fs.existsSync(OUT_FILE)) {
@@ -184,25 +192,32 @@ async function main() {
         if (!id || existingIds.has(id)) continue;
 
         const src = hit._source || {};
-        const { company, ticker } = parseDisplayName(src.display_names);
+        const { company, ticker: displayTicker } = parseDisplayName(src.display_names);
         const filedAt  = src.file_date || '';
         const formType = src.form || src.root_forms?.[0] || '';
         const cik      = src.ciks?.[0] || '';
 
-        if (isNoise(company)) { console.log(`  - noise: ${company}`); existingIds.add(id); continue; }
+        if (isNoise(company)) {
+          console.log(`  - noise: ${company}`);
+          existingIds.add(id);
+          continue;
+        }
 
         await sleep(250);
         const docText = await fetchFilingDoc(src, id);
         const ex = extractDetails(docText);
 
         if (ex.type === 'unknown' && !/split/i.test(docText)) {
-          console.log(`  - skip: ${company}`); existingIds.add(id); continue;
+          console.log(`  - skip: ${company}`);
+          existingIds.add(id);
+          continue;
         }
 
+        // Prefer display_names ticker, fall back to doc-extracted ticker
+        const ticker = displayTicker || ex.ticker || '';
+
         const record = {
-          id, company,
-          ticker:   ticker || ex.ticker || '',
-          formType, filedAt,
+          id, company, ticker, formType, filedAt,
           ratio:    ex.ratio  || '',
           exDate:   ex.exDate || '',
           type:     ex.type   || 'unknown',
