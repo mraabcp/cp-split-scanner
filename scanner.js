@@ -1,10 +1,9 @@
-// scanner.js — Split Scanner v10 (Massive/Polygon API)
+// scanner.js — Split Scanner v11 (Massive/Polygon API)
 import fetch from 'node-fetch';
 import fs from 'fs';
 
 const API_KEY  = process.env.POLYGON_API_KEY;
 const BASE_URL = 'https://api.polygon.io/v3/reference/splits';
-const TICKERS_URL = 'https://api.polygon.io/v3/reference/tickers';
 const OUT_FILE = 'splits.json';
 
 if (!API_KEY) { console.error('Missing POLYGON_API_KEY'); process.exit(1); }
@@ -27,7 +26,7 @@ async function fetchSplits() {
   let url = `${BASE_URL}?execution_date.gte=${from}&execution_date.lte=${to}&limit=1000&order=desc&sort=execution_date&apiKey=${API_KEY}`;
 
   while (url) {
-    console.log(`  Fetching splits page...`);
+    console.log(`  Fetching splits...`);
     const res = await fetch(url);
     if (!res.ok) throw new Error(`HTTP ${res.status}: ${await res.text()}`);
     const data = await res.json();
@@ -41,52 +40,47 @@ async function fetchSplits() {
   return allResults;
 }
 
-// Fetch ticker details one at a time with rate limiting
-async function fetchTickerDetailsBatch(tickers) {
-  const details = {};
-  for (let i = 0; i < tickers.length; i++) {
-    const ticker = tickers[i];
-    try {
-      const res = await fetch(`${TICKERS_URL}/${ticker}?apiKey=${API_KEY}`);
-      if (res.ok) {
-        const data = await res.json();
-        if (data.results) {
-          details[ticker] = { name: data.results.name, type: data.results.type };
-        }
-      }
-    } catch(e) {}
-    await sleep(250); // ~4 req/sec, well within free tier
-    if ((i+1) % 10 === 0) console.log(`  Fetched ${i+1}/${tickers.length} ticker details...`);
-  }
-  return details;
+// Fetch company name from Polygon ticker details (best effort)
+async function fetchTickerName(ticker) {
+  try {
+    const res = await fetch(
+      `https://api.polygon.io/v3/reference/tickers/${encodeURIComponent(ticker)}?apiKey=${API_KEY}`
+    );
+    if (!res.ok) return null;
+    const data = await res.json();
+    return data.results ? { name: data.results.name, type: data.results.type } : null;
+  } catch(e) { return null; }
 }
 
 const ETF_TYPES = new Set(['ETF','ETV','ETN','ETP']);
 
 async function main() {
-  console.log(`\n=== Split Scanner v10 (Massive API) — ${new Date().toISOString()} ===\n`);
+  console.log(`\n=== Split Scanner v11 (Massive API) — ${new Date().toISOString()} ===\n`);
 
   const splits = await fetchSplits();
   console.log(`\nTotal splits fetched: ${splits.length}`);
+  if (splits.length > 0) {
+    console.log('Sample record:', JSON.stringify(splits[0], null, 2));
+  }
 
-  // Get all unique tickers and fetch details in bulk
-  const tickers = [...new Set(splits.map(s => s.ticker))];
-  console.log(`\nFetching details for ${tickers.length} unique tickers...`);
-  const tickerDetails = await fetchTickerDetailsBatch(tickers);
-  console.log(`Got details for ${Object.keys(tickerDetails).length} tickers`);
+  // Skip ticker detail calls - free tier rate limit (5/min) makes it too slow
+  // Company names resolved client-side via ticker symbol
+  const tickerDetails = {};
 
   const enriched = splits.map(s => {
-    const details = tickerDetails[s.ticker] || {};
-    const company = details.name || s.ticker;
-    const isETF   = ETF_TYPES.has(details.type);
+    const details = tickerDetails[s.ticker];
+    const company = details?.name || s.ticker;
+    const isETF   = ETF_TYPES.has(details?.type);
 
-    // Map Polygon adjustment_type to forward/reverse
+    // Derive type from ratio if adjustment_type missing
+    const n = Number(s.split_to)   || 1;
+    const d = Number(s.split_from) || 1;
     let type = 'unknown';
-    if (s.adjustment_type === 'forward_split') type = 'forward';
+    if (s.adjustment_type === 'forward_split')  type = 'forward';
     else if (s.adjustment_type === 'reverse_split') type = 'reverse';
+    else if (n > d) type = 'forward';
+    else if (d > n) type = 'reverse';
 
-    const n = s.split_to   || 1;
-    const d = s.split_from || 1;
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
 
     return {
