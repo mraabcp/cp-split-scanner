@@ -1,4 +1,4 @@
-// scanner.js — SEC EDGAR Split Scanner v6
+// scanner.js — SEC EDGAR Split Scanner v7
 import fetch from 'node-fetch';
 import fs from 'fs';
 
@@ -27,7 +27,6 @@ function extractDetails(text) {
   if (!text) return { type: 'unknown', ratio: '', exDate: '', ticker: '' };
   const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
 
-  // Type
   const isReverse = /reverse\s+(stock\s+)?split|1[- ]for[- ]\d+\s+reverse/i.test(clean);
   const isForward = /forward\s+(stock\s+|share\s+)?split|\d+\s*-\s*for\s*-\s*1\b/i.test(clean);
   let type = 'unknown';
@@ -38,7 +37,6 @@ function extractDetails(text) {
     if (m) type = parseInt(m[1]) > parseInt(m[2]) ? 'forward' : 'reverse';
   }
 
-  // Ratio
   let ratio = '';
   const ratioTries = [
     /(\d+)[- ]for[- ](\d+)\s+(forward\s+)?(stock\s+|share\s+)?split/i,
@@ -53,7 +51,6 @@ function extractDetails(text) {
     }
   }
 
-  // Ex-date — full and abbreviated months
   let exDate = '';
   const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan\\.?|Feb\\.?|Mar\\.?|Apr\\.?|Jun\\.?|Jul\\.?|Aug\\.?|Sep\\.?|Oct\\.?|Nov\\.?|Dec\\.?';
   const exTries = [
@@ -70,19 +67,15 @@ function extractDetails(text) {
     if (m?.[1]) { exDate = m[1].trim().replace(/\s+/g, ' '); break; }
   }
 
-  // Ticker — covers stocks and ETF-specific language
   let ticker = '';
   const tickTries = [
-    // ETF 497 filings: "ticker symbol: MSTU" or "(NasdaqGM: MSTU)"
     /\((?:nasdaq(?:gm|gs|cm)?|nyse(?:arca|mkt)?|cboe|bats)[:\s]+([A-Z]{1,6})\)/i,
     /ticker\s+symbol[:\s"]+([A-Z]{1,6})\b/i,
     /trading\s+(?:symbol|under\s+the\s+symbol)[:\s"]+([A-Z]{1,6})\b/i,
     /listed\s+(?:on|under)[^.]{0,40}\(([A-Z]{1,6})\)/i,
-    /\bsymbol[:\s"]+([A-Z]{1,6})\b/i,
-    // 497 often says "The Fund trades under the ticker MSTU"
     /trades?\s+under\s+(?:the\s+)?(?:ticker|symbol)[:\s"]+([A-Z]{1,6})\b/i,
-    // "Fund's ticker symbol is MSTU"
     /ticker\s+symbol\s+is\s+([A-Z]{2,6})\b/i,
+    /\bsymbol[:\s"]+([A-Z]{2,6})\b/i,
   ];
   for (const pat of tickTries) {
     const m = clean.match(pat);
@@ -92,7 +85,6 @@ function extractDetails(text) {
   return { type, ratio, exDate, ticker };
 }
 
-// ETF fund families that mention "stock split" in prospectuses but aren't actual split filings
 const NOISE_LIST = [
   'principal funds','vanguard fenway','vanguard chester','vanguard malvern','vanguard windsor',
   'vanguard admiral','columbia funds','columbia etf','invesco exchange-traded fund trust',
@@ -102,10 +94,15 @@ const NOISE_LIST = [
   'spdr s&p midcap','select sector spdr','state street institutional','fidelity salem',
   'parnassus','gabelli','neuberger berman equity','mutual fund & variable','mutual fund series',
   'first eagle','cash account trust','innovator etfs','listed funds trust','touchstone etf',
-  'capital-force','ubs series','calvert','chesapeake investment','proShares trust ii',
-  'baillie gifford etf','moa funds','payden','credit suisse opportunity','truth social funds',
-  'first trust exchange','eaton vance','ultimus','world funds','pimco funds','wisdom tree trust',
-  'vegashares','rbb fund','clearway energy','marketwise',
+  'capital-force','ubs series','calvert','chesapeake investment','proshares trust ii',
+  'baillie gifford etf','payden','credit suisse opportunity','truth social funds',
+  'first trust exchange','eaton vance','ultimus','world funds','pimco funds','wisdomtree trust',
+  'vegashares','rbb fund','clearway energy','marketwise','moa funds','ridgefield acquisition',
+  'lxp industrial','entrepreneur universe','momentus inc','boxlight corp','22nd century',
+  'wheeler real estate','tilray','phoenix motor','374water','interactive strength',
+  'strive, inc','bonk, inc','protext mobility','awaysis capital','birchtech corp',
+  'bnb plus corp','sharonai','ai era corp','leafbuyer','yijia group','brooqly',
+  'sunshine biopharma','teucrium','lifeward','vtx group',
 ];
 
 const ETF_KEYWORDS = ['etf','fund','trust','ishares','vanguard','spdr','invesco',
@@ -124,7 +121,7 @@ function isNoise(company = '') {
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-async function searchEDGAR(query, forms) {
+async function searchPage(query, forms, from) {
   const end = new Date();
   const start = new Date();
   start.setDate(start.getDate() - LOOKBACK_DAYS);
@@ -133,11 +130,44 @@ async function searchEDGAR(query, forms) {
     startdt: start.toISOString().slice(0, 10),
     enddt:   end.toISOString().slice(0, 10),
     forms,
+    from: String(from),
   });
   const url = `https://efts.sec.gov/LATEST/search-index?${params}`;
   const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' } });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.json();
+}
+
+async function getAllHits(query, forms, existingIds) {
+  const allHits = [];
+  let from = 0;
+  let pageNum = 0;
+
+  while (pageNum < 30) {
+    const data = await searchPage(query, forms, from);
+    const hits = data?.hits?.hits || [];
+    const total = data?.hits?.total?.value ?? 0;
+
+    const newHits = hits.filter(h => h._id && !existingIds.has(h._id));
+    allHits.push(...newHits);
+
+    console.log(`  page ${pageNum + 1}: ${hits.length} returned, ${newHits.length} new (${total} total)`);
+
+    from += hits.length;
+    pageNum++;
+
+    if (hits.length === 0 || from >= total) break;
+
+    // If whole page was already known, we've caught up to existing data — stop
+    if (newHits.length === 0) {
+      console.log(`  all on this page already known — stopping`);
+      break;
+    }
+
+    await sleep(700);
+  }
+
+  return allHits;
 }
 
 async function fetchFilingDoc(src, hitId) {
@@ -167,7 +197,7 @@ async function fetchFilingDoc(src, hitId) {
 }
 
 async function main() {
-  console.log(`\n=== SEC Split Scanner v6 — ${new Date().toISOString()} ===\n`);
+  console.log(`\n=== SEC Split Scanner v7 — ${new Date().toISOString()} ===\n`);
 
   let existing = [];
   if (fs.existsSync(OUT_FILE)) {
@@ -182,10 +212,8 @@ async function main() {
   for (const { q, forms } of QUERIES) {
     console.log(`\nQuery: ${q} [${forms}]`);
     try {
-      const data  = await searchEDGAR(q, forms);
-      const hits  = data?.hits?.hits || [];
-      const total = data?.hits?.total?.value ?? hits.length;
-      console.log(`  ${hits.length} hits (${total} total)`);
+      const hits = await getAllHits(q, forms, existingIds);
+      console.log(`  total new hits to process: ${hits.length}`);
 
       for (const hit of hits) {
         const id  = hit._id;
@@ -213,7 +241,6 @@ async function main() {
           continue;
         }
 
-        // Prefer display_names ticker, fall back to doc-extracted ticker
         const ticker = displayTicker || ex.ticker || '';
 
         const record = {
