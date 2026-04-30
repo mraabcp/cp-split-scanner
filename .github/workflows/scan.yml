@@ -1,0 +1,35 @@
+name: SEC Split Scanner
+
+on:
+  schedule:
+    - cron: '0 14 * * 1-5'  # 9am ET (14:00 UTC), Monday-Friday
+  workflow_dispatch:          # also allows manual trigger from GitHub UI
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install node-fetch@3
+
+      - name: Run EDGAR scanner
+        run: node scanner.js
+
+      - name: Commit updated splits.json
+        run: |
+          git config user.name "split-scanner-bot"
+          git config user.email "actions@github.com"
+          git add splits.json
+          git diff --staged --quiet || git commit -m "scan: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
