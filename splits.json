@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-04-30T17:10:23.496Z",
-  "totalRecords": 162,
-  "newThisScan": 66,
+  "lastUpdated": "2026-04-30T17:17:45.971Z",
+  "totalRecords": 187,
+  "newThisScan": 25,
   "splits": [
     {
       "id": "0001731122-26-000632:e7587_ex99-1.htm",
@@ -1312,6 +1312,30 @@
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001901799&type=8-K&dateb=&owner=include&count=10"
     },
     {
+      "id": "0001213900-26-018208:ea0277528-01_497.htm",
+      "company": "Volatility Shares Trust",
+      "ticker": "FOR",
+      "formType": "497",
+      "filedAt": "2026-02-19",
+      "ratio": "1-for-20",
+      "exDate": "February 27, 2026",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001213900-26-018211:ea0277528-02_497.htm",
+      "company": "Volatility Shares Trust",
+      "ticker": "FOR",
+      "formType": "497",
+      "filedAt": "2026-02-19",
+      "ratio": "1-for-20",
+      "exDate": "February 27, 2026",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001884021&type=497&dateb=&owner=include&count=10"
+    },
+    {
       "id": "0001193125-26-057419:buru-ex3_1.htm",
       "company": "Nuburu, Inc.",
       "ticker": "BURU",
@@ -1394,6 +1418,18 @@
       "type": "reverse",
       "isETF": false,
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001407583&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001230245-26-000008:q42025ex99earningspressrel.htm",
+      "company": "PIPER SANDLER COMPANIES",
+      "ticker": "PIPR",
+      "formType": "8-K",
+      "filedAt": "2026-02-06",
+      "ratio": "4-for-1",
+      "exDate": "",
+      "type": "forward",
+      "isETF": false,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001230245&type=8-K&dateb=&owner=include&count=10"
     },
     {
       "id": "0001213900-26-012533:ea027565601ex99-1_urban.htm",
@@ -1624,6 +1660,42 @@
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593549&type=8-K&dateb=&owner=include&count=10"
     },
     {
+      "id": "0001771146-26-000105:t-rex2xsmretfcancellationr.htm",
+      "company": "ETF Opportunities Trust",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2026-01-16",
+      "ratio": "1-for-10",
+      "exDate": "January 23, 2026",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001771146-26-000032:etfopps-txrex2xsmretfrever.htm",
+      "company": "ETF Opportunities Trust",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2026-01-09",
+      "ratio": "",
+      "exDate": "January 26, 2026",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-26-000065:valkyrie-497_010226.htm",
+      "company": "Valkyrie ETF Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2026-01-02",
+      "ratio": "",
+      "exDate": "January 26, 2026",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001877493&type=497&dateb=&owner=include&count=10"
+    },
+    {
       "id": "0001493152-25-029513:ex99-1.htm",
       "company": "Co-Diagnostics, Inc.",
       "ticker": "CODX",
@@ -1780,6 +1852,18 @@
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001263364&type=8-K&dateb=&owner=include&count=10"
     },
     {
+      "id": "0001104659-25-121598:tm2533583d1_ex2-3.htm",
+      "company": "ConnectM Technology Solutions, Inc.",
+      "ticker": "CNTM",
+      "formType": "8-K",
+      "filedAt": "2025-12-16",
+      "ratio": "",
+      "exDate": "",
+      "type": "unknown",
+      "isETF": false,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001895249&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "id": "0001140361-25-045538:ef20061186_ex99-1.htm",
       "company": "TILE SHOP HOLDINGS, INC.",
       "ticker": "TTSH",
@@ -1826,6 +1910,18 @@
       "type": "reverse",
       "isETF": false,
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001775734&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001104659-25-119779:tm2533039d1_497.htm",
+      "company": "BAILLIE GIFFORD FUNDS",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-12-10",
+      "ratio": "1-for-3",
+      "exDate": "",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001120543&type=497&dateb=&owner=include&count=10"
     },
     {
       "id": "0001213900-25-119226:ea026848301ex99-1_treasure.htm",
@@ -1876,6 +1972,18 @@
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001382101&type=8-K&dateb=&owner=include&count=10"
     },
     {
+      "id": "0001140361-25-044210:ef20060535_ex3-2.htm",
+      "company": "TILE SHOP HOLDINGS, INC.",
+      "ticker": "TTSH",
+      "formType": "8-K",
+      "filedAt": "2025-12-03",
+      "ratio": "",
+      "exDate": "",
+      "type": "forward",
+      "isETF": false,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001552800&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
       "id": "0001104659-25-117540:mtva-20251202xex99d1.htm",
       "company": "MetaVia Inc.",
       "ticker": "MTVA",
@@ -1886,6 +1994,126 @@
       "type": "reverse",
       "isETF": false,
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001638287&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-019088:peartree-497_120125.htm",
+      "company": "Pear Tree Funds",
+      "ticker": "USBNX",
+      "formType": "497",
+      "filedAt": "2025-12-01",
+      "ratio": "",
+      "exDate": "",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000722885&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018864:msty-497_112625.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-26",
+      "ratio": "",
+      "exDate": "December 8, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018868:amdy-497_112625.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-26",
+      "ratio": "",
+      "exDate": "December 8, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018866:pypy-497_112625.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-26",
+      "ratio": "",
+      "exDate": "December 8, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018306:defiance-497_112125.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-21",
+      "ratio": "",
+      "exDate": "December 9, 2025",
+      "type": "forward",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018305:nvox-497_112125.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-21",
+      "ratio": "",
+      "exDate": "December 9, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018308:smcz-497_112125.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-21",
+      "ratio": "",
+      "exDate": "December 9, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018302:mst-497_112125.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-21",
+      "ratio": "",
+      "exDate": "December 9, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018304:defiance-497_112125.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-21",
+      "ratio": "",
+      "exDate": "December 9, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-018253:mstu_497-112025.htm",
+      "company": "ETF Opportunities Trust",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-20",
+      "ratio": "",
+      "exDate": "December 3, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001771146&type=497&dateb=&owner=include&count=10"
     },
     {
       "id": "0001213900-25-112368:ea026625901ex99-1_mawson.htm",
@@ -1934,6 +2162,78 @@
       "type": "reverse",
       "isETF": false,
       "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001141284&type=8-K&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-017903:ymshort-497_111425.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-14",
+      "ratio": "",
+      "exDate": "December 2, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-017895:oark-497_111425.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-14",
+      "ratio": "",
+      "exDate": "December 2, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-017902:ybit_497-111425.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-14",
+      "ratio": "",
+      "exDate": "December 1, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-017904:ulty_497-111425.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-14",
+      "ratio": "",
+      "exDate": "December 1, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-017896:ym-497_111425.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-14",
+      "ratio": "",
+      "exDate": "December 2, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
+    },
+    {
+      "id": "0001999371-25-017899:ym-497_111425.htm",
+      "company": "Tidal Trust II",
+      "ticker": "",
+      "formType": "497",
+      "filedAt": "2025-11-14",
+      "ratio": "",
+      "exDate": "December 1, 2025",
+      "type": "reverse",
+      "isETF": true,
+      "edgarUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001924868&type=497&dateb=&owner=include&count=10"
     },
     {
       "id": "0001213900-25-109617:ea026498101ex3-2_larosa.htm",
