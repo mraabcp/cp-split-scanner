@@ -7,12 +7,13 @@ const OUT_FILE = 'splits.json';
 const LOOKBACK_DAYS = 180;
 
 const QUERIES = [
-  { q: '"stock split"',                          forms: '8-K'     },
-  { q: '"reverse split"',                        forms: '8-K'     },
-  { q: '"forward split"',                        forms: '8-K,497' },
-  { q: '"share split"',                          forms: '497'     },
-  { q: '"stock split"',                          forms: '497'     },
-  { q: '"share split" "split-adjusted basis"',   forms: '497'     }, // catches Vanguard supplements
+  { q: '"stock split"',                        forms: '8-K'               },
+  { q: '"reverse split"',                      forms: '8-K'               },
+  { q: '"forward split"',                      forms: '8-K,497'           },
+  { q: '"share split"',                        forms: '497'               },
+  { q: '"stock split"',                        forms: '497'               },
+  { q: '"share split" "split-adjusted"',       forms: '497,N-CSRS,N-CSR' }, // Vanguard uses N-CSRS
+  { q: '"forward share split"',                forms: 'N-CSRS,N-CSR,497' }, // Vanguard language
 ];
 
 // ── Noise lists ──────────────────────────────────────────────────────────────
@@ -147,11 +148,24 @@ function parseETFTable(text) {
 function extractETFExDates(text) {
   const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
   const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan\\.?|Feb\\.?|Mar\\.?|Apr\\.?|Jun\\.?|Jul\\.?|Aug\\.?|Sep\\.?|Oct\\.?|Nov\\.?|Dec\\.?';
+  
+  // Try to find the ex-date specifically (most reliable)
+  const exDatePatterns = [
+    new RegExp(`(?:ex[- ]?date|split-adjusted basis|begin trading)[^.\\n]{0,80}((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
+    new RegExp(`((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})[^.\\n]{0,40}(?:ex[- ]?date|split-adjusted)`, 'i'),
+    new RegExp(`effective[^.\\n]{0,60}((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
+  ];
+  
+  for (const pat of exDatePatterns) {
+    const m = clean.match(pat);
+    if (m?.[1]) return [m[1].trim().replace(/\s+/g, ' ')];
+  }
+  
+  // Fall back to all dates found
   const dateReg = new RegExp(`((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'gi');
   const dates = [];
   let m;
   while ((m = dateReg.exec(clean)) !== null) dates.push(m[1].trim().replace(/\s+/g,' '));
-  // Return all unique dates found — caller can assign to funds
   return [...new Set(dates)];
 }
 
@@ -247,7 +261,7 @@ function parseDisplayName(displayNames) {
   return { company, ticker };
 }
 
-async function searchPage(query, forms, from) {
+async function searchPage(query, forms, from, retries = 3) {
   const end = new Date();
   const start = new Date();
   start.setDate(start.getDate() - LOOKBACK_DAYS);
@@ -258,9 +272,18 @@ async function searchPage(query, forms, from) {
     forms, from: String(from),
   });
   const url = `https://efts.sec.gov/LATEST/search-index?${params}`;
-  const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' } });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  return res.json();
+  
+  for (let attempt = 0; attempt < retries; attempt++) {
+    if (attempt > 0) {
+      const wait = 5000 * attempt;
+      console.log(`  Retry ${attempt}/${retries-1} after ${wait}ms...`);
+      await sleep(wait);
+    }
+    const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' } });
+    if (res.ok) return res.json();
+    if (res.status === 500 && attempt < retries - 1) continue;
+    throw new Error(`HTTP ${res.status}`);
+  }
 }
 
 async function getAllHits(query, forms, existingIds) {
