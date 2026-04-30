@@ -57,7 +57,7 @@ function extractDetails(text) {
 
   // Ex-date — full month names to avoid truncation
   let exDate = '';
-  const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December';
+  const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec';
   const exTries = [
     new RegExp(`ex[- ]?(?:distribution\\s+)?date[^:\\n]{0,30}:\\s*((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
     new RegExp(`ex[- ]?date[^:\\n]{0,20}:\\s*(\\d{1,2}\\/\\d{1,2}\\/\\d{4})`, 'i'),
@@ -72,7 +72,21 @@ function extractDetails(text) {
     if (m?.[1]) { exDate = m[1].trim().replace(/\s+/g, ' '); break; }
   }
 
-  return { type, ratio, exDate };
+  // Also try to extract ETF ticker from document text
+  let ticker = '';
+  const tickTries = [
+    /\((?:nasdaq|nyse(?:arca|mkt)?|otc|cboe)[:\s]+([A-Z]{1,6})\)/i,
+    /ticker(?:\s+symbol)?[:\s"]+([A-Z]{1,6})\b/i,
+    /trading\s+(?:symbol|under)[\s:"]+([A-Z]{1,6})\b/i,
+    /listed\s+(?:on|under)[^.]{0,40}\(([A-Z]{1,6})\)/i,
+    /symbol[:\s"]+([A-Z]{1,6})\b/i,
+  ];
+  for (const pat of tickTries) {
+    const m = clean.match(pat);
+    if (m?.[1]?.length <= 6 && m[1].length >= 1) { ticker = m[1].toUpperCase(); break; }
+  }
+
+  return { type, ratio, exDate, ticker };
 }
 
 // Skip these — they mention splits but aren't split filings
@@ -187,7 +201,7 @@ async function main() {
 
         const record = {
           id, company,
-          ticker:   ticker    || '',
+          ticker:   ticker || ex.ticker || '',
           formType, filedAt,
           ratio:    ex.ratio  || '',
           exDate:   ex.exDate || '',
