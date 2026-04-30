@@ -2,7 +2,7 @@ name: SEC Split Scanner
 
 on:
   schedule:
-    - cron: '0 14 * * 1-5'  # 9am ET (14:00 UTC), Monday-Friday
+    - cron: '0 14 * * 1'  # 9am ET (14:00 UTC), Monday-Friday
   workflow_dispatch:          # also allows manual trigger from GitHub UI
 
 jobs:
