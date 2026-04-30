@@ -41,24 +41,22 @@ async function fetchSplits() {
   return allResults;
 }
 
-// Bulk fetch ticker details in batches
+// Fetch ticker details one at a time with rate limiting
 async function fetchTickerDetailsBatch(tickers) {
   const details = {};
-  // Polygon tickers endpoint supports comma-separated list
-  const batchSize = 50;
-  for (let i = 0; i < tickers.length; i += batchSize) {
-    const batch = tickers.slice(i, i + batchSize);
-    const url = `${TICKERS_URL}?ticker=${batch.join(',')}&limit=1000&apiKey=${API_KEY}`;
+  for (let i = 0; i < tickers.length; i++) {
+    const ticker = tickers[i];
     try {
-      const res = await fetch(url);
-      if (!res.ok) { console.log(`  Ticker batch error: ${res.status}`); continue; }
-      const data = await res.json();
-      for (const t of (data.results || [])) {
-        details[t.ticker] = { name: t.name, type: t.type };
+      const res = await fetch(`${TICKERS_URL}/${ticker}?apiKey=${API_KEY}`);
+      if (res.ok) {
+        const data = await res.json();
+        if (data.results) {
+          details[ticker] = { name: data.results.name, type: data.results.type };
+        }
       }
-    } catch(e) { console.log(`  Ticker batch error: ${e.message}`); }
-    await sleep(500);
-    console.log(`  Fetched ticker details batch ${Math.floor(i/batchSize)+1}/${Math.ceil(tickers.length/batchSize)}`);
+    } catch(e) {}
+    await sleep(250); // ~4 req/sec, well within free tier
+    if ((i+1) % 10 === 0) console.log(`  Fetched ${i+1}/${tickers.length} ticker details...`);
   }
   return details;
 }
