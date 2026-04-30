@@ -63,14 +63,37 @@ async function main() {
     console.log('Sample record:', JSON.stringify(splits[0], null, 2));
   }
 
-  // Skip ticker detail calls - free tier rate limit (5/min) makes it too slow
-  // Company names resolved client-side via ticker symbol
+  // Fetch company names from Yahoo Finance (free, no auth)
   const tickerDetails = {};
+  const uniqueTickers = [...new Set(splits.map(s => s.ticker))];
+  console.log(`\nFetching company names for ${uniqueTickers.length} tickers from Yahoo...`);
+  for (let i = 0; i < uniqueTickers.length; i++) {
+    const ticker = uniqueTickers[i];
+    try {
+      const res = await fetch(
+        `https://query1.finance.yahoo.com/v1/finance/search?q=${encodeURIComponent(ticker)}&quotesCount=1&newsCount=0`,
+        { headers: { 'User-Agent': 'Mozilla/5.0' } }
+      );
+      if (res.ok) {
+        const data = await res.json();
+        const quote = data?.quotes?.[0];
+        if (quote && quote.symbol === ticker) {
+          tickerDetails[ticker] = {
+            name: quote.longname || quote.shortname || ticker,
+            type: quote.quoteType || '',
+          };
+        }
+      }
+    } catch(e) {}
+    await sleep(150);
+    if ((i+1) % 10 === 0) console.log(`  ${i+1}/${uniqueTickers.length} done`);
+  }
+  console.log(`Got names for ${Object.keys(tickerDetails).length}/${uniqueTickers.length} tickers`);
 
   const enriched = splits.map(s => {
     const details = tickerDetails[s.ticker];
     const company = details?.name || s.ticker;
-    const isETF   = ETF_TYPES.has(details?.type);
+    const isETF   = details?.type === 'ETF' || ETF_TYPES.has(details?.type);
 
     // Derive type from ratio if adjustment_type missing
     const n = Number(s.split_to)   || 1;
