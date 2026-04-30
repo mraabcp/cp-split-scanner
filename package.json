@@ -1,0 +1,12 @@
+{
+  "name": "cp-split-scanner",
+  "version": "1.0.0",
+  "description": "Daily SEC EDGAR split filing scanner for Cerity Partners",
+  "type": "module",
+  "scripts": {
+    "scan": "node scanner.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
