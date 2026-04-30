@@ -1,4 +1,4 @@
-// scanner.js — SEC EDGAR Split Scanner v7
+// scanner.js — SEC EDGAR Split Scanner v8
 import fetch from 'node-fetch';
 import fs from 'fs';
 
@@ -14,15 +14,98 @@ const QUERIES = [
   { q: '"stock split"',   forms: '497'     },
 ];
 
-function parseDisplayName(displayNames) {
-  if (!displayNames?.length) return { company: 'Unknown', ticker: '' };
-  const raw = displayNames[0];
-  const tickerMatch = raw.match(/\(([A-Z]{1,6}(?:,\s*[A-Z]{1,6})*)\)\s+\(CIK/);
-  const ticker = tickerMatch ? tickerMatch[1].split(',')[0].trim() : '';
-  const company = raw.split('(')[0].trim() || raw;
-  return { company, ticker };
+// ── Noise lists ──────────────────────────────────────────────────────────────
+const NOISE_LIST = [
+  'principal funds','vanguard fenway','vanguard chester','vanguard malvern','vanguard windsor',
+  'vanguard admiral','columbia funds','columbia etf trust i','columbia etf trust ii',
+  'invesco exchange-traded fund trust','invesco actively managed','j.p. morgan exchange',
+  'goldman sachs trust','new york life','american century','bny mellon','mml series',
+  'northern lights fund','ea series trust','rayliant','proshares trust','vaneck etf',
+  'spdr dow jones','spdr s&p 500 etf trust','spdr s&p midcap','select sector spdr',
+  'state street institutional','fidelity salem','fidelity concord','fidelity investment trust',
+  'parnassus','gabelli','neuberger berman equity','mutual fund & variable','mutual fund series trust',
+  'first eagle','cash account trust','innovator etfs','listed funds trust','touchstone etf',
+  'capital-force','ubs series','calvert','chesapeake investment','proshares trust ii',
+  'baillie gifford etf','payden','credit suisse opportunity','truth social funds',
+  'first trust exchange','eaton vance','ultimus','world funds','pimco funds','wisdomtree trust',
+  'vegashares','rbb fund','rbb fund trust','clearway energy','marketwise',
+  'moa funds','ridgefield acquisition','lxp industrial','entrepreneur universe','momentus inc',
+  'boxlight corp','22nd century','wheeler real estate','tilray','phoenix motor','374water',
+  'interactive strength','strive, inc','bonk, inc','leafbuyer','yijia group','brooqly',
+  'sunshine biopharma','teucrium','lifeward','bnb plus corp','sharonai','ai era corp',
+  'protext mobility','awaysis capital','birchtech corp','dbx etf','hsbc funds',
+  'exchange place advisors','neuberger berman etf','columbia funds series',
+  'invesco exchange-traded fund trust ii','advisors series trust','lord abbett trust',
+  'vela funds','pace select advisors','morgan stanley etf','uscf etf','amplify etf',
+  'investment managers series trust','trust for professional managers','direxion shares etf',
+  'vaneck funds','abrdn funds','etf series solutions','marketwise',
+];
+
+const ETF_KEYWORDS = ['etf','fund','trust','ishares','vanguard','spdr','invesco',
+  'wisdomtree','proshares','direxion','graniteshares','global x','abrdn','blackrock',
+  'tidal','themes etf','granite','volatility shares','valkyrie'];
+
+function isETF(company = '', formType = '') {
+  if (formType === '497') return true;
+  return ETF_KEYWORDS.some(k => company.toLowerCase().includes(k));
 }
 
+function isNoise(company = '') {
+  const c = company.toLowerCase();
+  return NOISE_LIST.some(n => c.includes(n));
+}
+
+// ── ETF 497 table parser ─────────────────────────────────────────────────────
+// iShares/BlackRock 497s contain pipe-delimited tables like:
+// | Fund Name | Ticker | Forward Split Ratio |
+// | iShares Russell 1000 Growth ETF | IWF | 4:1 |
+function parseETFTable(text) {
+  const results = [];
+  const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+
+  // Find table rows with ticker and ratio
+  // Pattern: | Fund Name | TICKER | N:M | or | N:M |
+  const rowReg = /\|\s*([^|]{5,60})\s*\|\s*([A-Z]{1,6})\s*\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
+  let m;
+  while ((m = rowReg.exec(clean)) !== null) {
+    const [, fundName, ticker, num, den] = m;
+    if (/fund name|ticker|ratio/i.test(fundName)) continue; // skip header rows
+    const n = parseInt(num), d = parseInt(den);
+    const type = n > d ? 'forward' : 'reverse';
+    const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
+    results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
+  }
+
+  // Also try: | Fund Name | Ticker | N-for-M |
+  const rowReg2 = /\|\s*([^|]{5,60})\s*\|\s*([A-Z]{1,6})\s*\|\s*(\d+)[- ]for[- ](\d+)\s*\|/gi;
+  while ((m = rowReg2.exec(clean)) !== null) {
+    const [, fundName, ticker, num, den] = m;
+    if (/fund name|ticker|ratio/i.test(fundName)) continue;
+    const n = parseInt(num), d = parseInt(den);
+    const type = n > d ? 'forward' : 'reverse';
+    const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
+    // Don't duplicate
+    if (!results.find(r => r.ticker === ticker.trim())) {
+      results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
+    }
+  }
+
+  return results;
+}
+
+// Extract ex-dates per ticker from ETF filing text
+function extractETFExDates(text) {
+  const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+  const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan\\.?|Feb\\.?|Mar\\.?|Apr\\.?|Jun\\.?|Jul\\.?|Aug\\.?|Sep\\.?|Oct\\.?|Nov\\.?|Dec\\.?';
+  const dateReg = new RegExp(`((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'gi');
+  const dates = [];
+  let m;
+  while ((m = dateReg.exec(clean)) !== null) dates.push(m[1].trim().replace(/\s+/g,' '));
+  // Return all unique dates found — caller can assign to funds
+  return [...new Set(dates)];
+}
+
+// ── 8-K parser ───────────────────────────────────────────────────────────────
 function extractDetails(text) {
   if (!text) return { type: 'unknown', ratio: '', exDate: '', ticker: '' };
   const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
@@ -41,6 +124,7 @@ function extractDetails(text) {
   const ratioTries = [
     /(\d+)[- ]for[- ](\d+)\s+(forward\s+)?(stock\s+|share\s+)?split/i,
     /split[^.]{0,40}?(\d+)[- ]for[- ](\d+)/i,
+    /(\d+)\s*:\s*(\d+)\s*(?:forward|reverse|stock|share)?\s*split/i,
     /(\d+)[- ]for[- ](\d+)/i,
   ];
   for (const pat of ratioTries) {
@@ -51,8 +135,8 @@ function extractDetails(text) {
     }
   }
 
-  let exDate = '';
   const MONTHS = 'January|February|March|April|May|June|July|August|September|October|November|December|Jan\\.?|Feb\\.?|Mar\\.?|Apr\\.?|Jun\\.?|Jul\\.?|Aug\\.?|Sep\\.?|Oct\\.?|Nov\\.?|Dec\\.?';
+  let exDate = '';
   const exTries = [
     new RegExp(`ex[- ]?(?:distribution\\s+)?date[^:\\n]{0,30}:\\s*((?:${MONTHS})\\s+\\d{1,2},?\\s*\\d{4})`, 'i'),
     new RegExp(`ex[- ]?date[^:\\n]{0,20}:\\s*(\\d{1,2}\\/\\d{1,2}\\/\\d{4})`, 'i'),
@@ -72,7 +156,6 @@ function extractDetails(text) {
     /\((?:nasdaq(?:gm|gs|cm)?|nyse(?:arca|mkt)?|cboe|bats)[:\s]+([A-Z]{1,6})\)/i,
     /ticker\s+symbol[:\s"]+([A-Z]{1,6})\b/i,
     /trading\s+(?:symbol|under\s+the\s+symbol)[:\s"]+([A-Z]{1,6})\b/i,
-    /listed\s+(?:on|under)[^.]{0,40}\(([A-Z]{1,6})\)/i,
     /trades?\s+under\s+(?:the\s+)?(?:ticker|symbol)[:\s"]+([A-Z]{1,6})\b/i,
     /ticker\s+symbol\s+is\s+([A-Z]{2,6})\b/i,
     /\bsymbol[:\s"]+([A-Z]{2,6})\b/i,
@@ -85,41 +168,25 @@ function extractDetails(text) {
   return { type, ratio, exDate, ticker };
 }
 
-const NOISE_LIST = [
-  'principal funds','vanguard fenway','vanguard chester','vanguard malvern','vanguard windsor',
-  'vanguard admiral','columbia funds','columbia etf','invesco exchange-traded fund trust',
-  'invesco actively managed','j.p. morgan exchange','goldman sachs trust','new york life',
-  'american century','bny mellon','mml series','northern lights fund','ea series trust',
-  'rayliant','proshares trust','vaneck etf','spdr dow jones','spdr s&p 500 etf trust',
-  'spdr s&p midcap','select sector spdr','state street institutional','fidelity salem',
-  'parnassus','gabelli','neuberger berman equity','mutual fund & variable','mutual fund series',
-  'first eagle','cash account trust','innovator etfs','listed funds trust','touchstone etf',
-  'capital-force','ubs series','calvert','chesapeake investment','proshares trust ii',
-  'baillie gifford etf','payden','credit suisse opportunity','truth social funds',
-  'first trust exchange','eaton vance','ultimus','world funds','pimco funds','wisdomtree trust',
-  'vegashares','rbb fund','clearway energy','marketwise','moa funds','ridgefield acquisition',
-  'lxp industrial','entrepreneur universe','momentus inc','boxlight corp','22nd century',
-  'wheeler real estate','tilray','phoenix motor','374water','interactive strength',
-  'strive, inc','bonk, inc','protext mobility','awaysis capital','birchtech corp',
-  'bnb plus corp','sharonai','ai era corp','leafbuyer','yijia group','brooqly',
-  'sunshine biopharma','teucrium','lifeward','vtx group',
-];
-
-const ETF_KEYWORDS = ['etf','fund','trust','ishares','vanguard','spdr','invesco',
-  'wisdomtree','proshares','direxion','graniteshares','global x','abrdn','blackrock',
-  'tidal','themes etf','granite','volatility shares','valkyrie'];
-
-function isETF(company = '', formType = '') {
-  if (formType === '497') return true;
-  return ETF_KEYWORDS.some(k => company.toLowerCase().includes(k));
-}
-
-function isNoise(company = '') {
-  const c = company.toLowerCase();
-  return NOISE_LIST.some(n => c.includes(n));
+// Is this actually a split announcement? Require at least ratio OR clear split language
+function isSplitAnnouncement(text, type, ratio, exDate) {
+  if (ratio) return true;
+  if (exDate) return true;
+  if (type !== 'unknown') return true;
+  // Require explicit announcement language
+  return /(?:announces?|authorized?|approv|effectuat|declared?)\s+(?:a\s+)?(?:reverse|forward)?\s*(?:stock\s+)?split/i.test(text);
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+function parseDisplayName(displayNames) {
+  if (!displayNames?.length) return { company: 'Unknown', ticker: '' };
+  const raw = displayNames[0];
+  const tickerMatch = raw.match(/\(([A-Z]{1,6}(?:,\s*[A-Z]{1,6})*)\)\s+\(CIK/);
+  const ticker = tickerMatch ? tickerMatch[1].split(',')[0].trim() : '';
+  const company = raw.split('(')[0].trim() || raw;
+  return { company, ticker };
+}
 
 async function searchPage(query, forms, from) {
   const end = new Date();
@@ -129,8 +196,7 @@ async function searchPage(query, forms, from) {
     q: query, dateRange: 'custom',
     startdt: start.toISOString().slice(0, 10),
     enddt:   end.toISOString().slice(0, 10),
-    forms,
-    from: String(from),
+    forms, from: String(from),
   });
   const url = `https://efts.sec.gov/LATEST/search-index?${params}`;
   const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, 'Accept': 'application/json' } });
@@ -140,33 +206,20 @@ async function searchPage(query, forms, from) {
 
 async function getAllHits(query, forms, existingIds) {
   const allHits = [];
-  let from = 0;
-  let pageNum = 0;
-
-  while (pageNum < 30) {
+  let from = 0, pageNum = 0;
+  while (pageNum < 40) {
     const data = await searchPage(query, forms, from);
     const hits = data?.hits?.hits || [];
     const total = data?.hits?.total?.value ?? 0;
-
     const newHits = hits.filter(h => h._id && !existingIds.has(h._id));
     allHits.push(...newHits);
-
-    console.log(`  page ${pageNum + 1}: ${hits.length} returned, ${newHits.length} new (${total} total)`);
-
+    console.log(`  page ${pageNum+1}: ${hits.length} returned, ${newHits.length} new (${total} total)`);
     from += hits.length;
     pageNum++;
-
     if (hits.length === 0 || from >= total) break;
-
-    // If whole page was already known, we've caught up to existing data — stop
-    if (newHits.length === 0) {
-      console.log(`  all on this page already known — stopping`);
-      break;
-    }
-
-    await sleep(700);
+    if (newHits.length === 0) { console.log(`  all known — stopping`); break; }
+    await sleep(600);
   }
-
   return allHits;
 }
 
@@ -192,12 +245,12 @@ async function fetchFilingDoc(src, hitId) {
     }
     const res = await fetch(docUrl, { headers: { 'User-Agent': USER_AGENT } });
     if (!res.ok) return '';
-    return (await res.text()).slice(0, 15000);
+    return (await res.text()).slice(0, 20000);
   } catch(e) { return ''; }
 }
 
 async function main() {
-  console.log(`\n=== SEC Split Scanner v7 — ${new Date().toISOString()} ===\n`);
+  console.log(`\n=== SEC Split Scanner v8 — ${new Date().toISOString()} ===\n`);
 
   let existing = [];
   if (fs.existsSync(OUT_FILE)) {
@@ -213,7 +266,7 @@ async function main() {
     console.log(`\nQuery: ${q} [${forms}]`);
     try {
       const hits = await getAllHits(q, forms, existingIds);
-      console.log(`  total new hits to process: ${hits.length}`);
+      console.log(`  processing ${hits.length} new hits`);
 
       for (const hit of hits) {
         const id  = hit._id;
@@ -225,24 +278,50 @@ async function main() {
         const formType = src.form || src.root_forms?.[0] || '';
         const cik      = src.ciks?.[0] || '';
 
-        if (isNoise(company)) {
-          console.log(`  - noise: ${company}`);
-          existingIds.add(id);
-          continue;
+        if (isNoise(company)) { existingIds.add(id); continue; }
+
+        await sleep(200);
+        const docText = await fetchFilingDoc(src, id);
+
+        // ── ETF 497 filing: parse table rows → one record per fund ───────────
+        if (formType === '497' || formType?.startsWith('497')) {
+          const tableRows = parseETFTable(docText);
+          if (tableRows.length > 0) {
+            const exDates = extractETFExDates(docText);
+            tableRows.forEach((row, i) => {
+              const recId = `${id}:${row.ticker}`;
+              if (existingIds.has(recId)) return;
+              const record = {
+                id: recId,
+                company: row.fundName || company,
+                ticker: row.ticker,
+                formType, filedAt,
+                ratio:  row.ratio,
+                exDate: exDates[i] || exDates[0] || '',
+                type:   row.type,
+                isETF:  true,
+                edgarUrl: `https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=${cik}&type=497&dateb=&owner=include&count=10`,
+              };
+              newRecords.push(record);
+              existingIds.add(recId);
+              existingIds.add(id); // also mark base id
+              console.log(`  + [ETF] ${row.fundName} (${row.ticker}) | ${row.type} | ${row.ratio} | ex:${record.exDate}`);
+            });
+            continue;
+          }
+          // If no table found, fall through to regular extraction
         }
 
-        await sleep(250);
-        const docText = await fetchFilingDoc(src, id);
+        // ── 8-K filing: standard extraction ─────────────────────────────────
         const ex = extractDetails(docText);
 
-        if (ex.type === 'unknown' && !/split/i.test(docText)) {
-          console.log(`  - skip: ${company}`);
+        // Strict signal check — skip if no real split announcement
+        if (!isSplitAnnouncement(docText, ex.type, ex.ratio, ex.exDate)) {
           existingIds.add(id);
           continue;
         }
 
         const ticker = displayTicker || ex.ticker || '';
-
         const record = {
           id, company, ticker, formType, filedAt,
           ratio:    ex.ratio  || '',
