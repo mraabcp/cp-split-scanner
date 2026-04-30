@@ -63,28 +63,41 @@ function parseETFTable(text) {
   const results = [];
   const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
 
-  // Find table rows with ticker and ratio
-  // Pattern: | Fund Name | TICKER | N:M | or | N:M |
-  const rowReg = /\|\s*([^|]{5,60})\s*\|\s*([A-Z]{1,6})\s*\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
+  // iShares format: | Fund Name |     | TICKER |     | N:M | (blank separator columns)
+  const rowReg = /\|\s*([^|]{5,80}?)\s*\|\s*[^|]{0,10}\|\s*([A-Z]{2,6})\s*\|\s*[^|]{0,10}\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
   let m;
   while ((m = rowReg.exec(clean)) !== null) {
     const [, fundName, ticker, num, den] = m;
-    if (/fund name|ticker|ratio/i.test(fundName)) continue; // skip header rows
+    if (/fund name|ticker|ratio/i.test(fundName)) continue;
     const n = parseInt(num), d = parseInt(den);
     const type = n > d ? 'forward' : 'reverse';
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
-    results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
+    if (!results.find(r => r.ticker === ticker.trim())) {
+      results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
+    }
   }
 
-  // Also try: | Fund Name | Ticker | N-for-M |
-  const rowReg2 = /\|\s*([^|]{5,60})\s*\|\s*([A-Z]{1,6})\s*\|\s*(\d+)[- ]for[- ](\d+)\s*\|/gi;
+  // Simple: | Fund Name | TICKER | N:M |
+  const rowReg2 = /\|\s*([^|]{5,80}?)\s*\|\s*([A-Z]{2,6})\s*\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
   while ((m = rowReg2.exec(clean)) !== null) {
     const [, fundName, ticker, num, den] = m;
     if (/fund name|ticker|ratio/i.test(fundName)) continue;
     const n = parseInt(num), d = parseInt(den);
     const type = n > d ? 'forward' : 'reverse';
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
-    // Don't duplicate
+    if (!results.find(r => r.ticker === ticker.trim())) {
+      results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
+    }
+  }
+
+  // N-for-M: | Fund Name | TICKER | N-for-M |
+  const rowReg3 = /\|\s*([^|]{5,80}?)\s*\|\s*([A-Z]{2,6})\s*\|\s*(\d+)[- ]for[- ](\d+)\s*\|/gi;
+  while ((m = rowReg3.exec(clean)) !== null) {
+    const [, fundName, ticker, num, den] = m;
+    if (/fund name|ticker|ratio/i.test(fundName)) continue;
+    const n = parseInt(num), d = parseInt(den);
+    const type = n > d ? 'forward' : 'reverse';
+    const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
     if (!results.find(r => r.ticker === ticker.trim())) {
       results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
     }
