@@ -46,15 +46,37 @@ function isNoise(company = '') {
 // | iShares Russell 1000 Growth ETF | IWF | 4:1 |
 function parseETFTable(text) {
   const results = [];
-  const clean = text.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
 
-  // iShares format: | Fund Name |     | TICKER |     | N:M | (blank separator columns)
-  const rowReg = /\|\s*([^|]{5,80}?)\s*\|\s*[^|]{0,10}\|\s*([A-Z]{2,6})\s*\|\s*[^|]{0,10}\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
+  // First convert HTML tables to pipe format for unified processing
+  // <tr><td>FundName</td><td>TICK</td><td>4:1</td></tr> → | FundName | TICK | 4:1 |
+  let clean = text;
+  
+  // Extract HTML table rows and convert to pipe-delimited
+  const trReg = /<tr[^>]*>(.*?)<\/tr>/gis;
+  let trMatch;
+  const pipeRows = [];
+  while ((trMatch = trReg.exec(text)) !== null) {
+    const cells = [];
+    const tdReg = /<t[dh][^>]*>(.*?)<\/t[dh]>/gis;
+    let tdMatch;
+    while ((tdMatch = tdReg.exec(trMatch[1])) !== null) {
+      cells.push(tdMatch[1].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim());
+    }
+    if (cells.length >= 2) pipeRows.push('| ' + cells.join(' | ') + ' |');
+  }
+  
+  // Combine HTML-extracted rows with original text (for markdown pipe format)
+  clean = (pipeRows.join(' ') + ' ' + text.replace(/<[^>]+>/g, ' ')).replace(/\s+/g, ' ');
+
   let m;
-  while ((m = rowReg.exec(clean)) !== null) {
+
+  // iShares format with blank separator columns: | Fund |     | TICKER |     | N:M |
+  const rowReg1 = /\|\s*([^|]{5,80}?)\s*\|\s*[^|]{0,10}\|\s*([A-Z]{2,6})\s*\|\s*[^|]{0,10}\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
+  while ((m = rowReg1.exec(clean)) !== null) {
     const [, fundName, ticker, num, den] = m;
-    if (/fund name|ticker|ratio/i.test(fundName)) continue;
+    if (/fund name|ticker|ratio|symbol/i.test(fundName)) continue;
     const n = parseInt(num), d = parseInt(den);
+    if (n === 0 || d === 0 || n > 100 || d > 100) continue;
     const type = n > d ? 'forward' : 'reverse';
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
     if (!results.find(r => r.ticker === ticker.trim())) {
@@ -66,8 +88,9 @@ function parseETFTable(text) {
   const rowReg2 = /\|\s*([^|]{5,80}?)\s*\|\s*([A-Z]{2,6})\s*\|\s*(\d+)\s*:\s*(\d+)\s*\|/g;
   while ((m = rowReg2.exec(clean)) !== null) {
     const [, fundName, ticker, num, den] = m;
-    if (/fund name|ticker|ratio/i.test(fundName)) continue;
+    if (/fund name|ticker|ratio|symbol/i.test(fundName)) continue;
     const n = parseInt(num), d = parseInt(den);
+    if (n === 0 || d === 0 || n > 100 || d > 100) continue;
     const type = n > d ? 'forward' : 'reverse';
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
     if (!results.find(r => r.ticker === ticker.trim())) {
@@ -79,8 +102,9 @@ function parseETFTable(text) {
   const rowReg3 = /\|\s*([^|]{5,80}?)\s*\|\s*([A-Z]{2,6})\s*\|\s*(\d+)[- ]for[- ](\d+)\s*\|/gi;
   while ((m = rowReg3.exec(clean)) !== null) {
     const [, fundName, ticker, num, den] = m;
-    if (/fund name|ticker|ratio/i.test(fundName)) continue;
+    if (/fund name|ticker|ratio|symbol/i.test(fundName)) continue;
     const n = parseInt(num), d = parseInt(den);
+    if (n === 0 || d === 0) continue;
     const type = n > d ? 'forward' : 'reverse';
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
     if (!results.find(r => r.ticker === ticker.trim())) {
@@ -88,18 +112,31 @@ function parseETFTable(text) {
     }
   }
 
-
-  // Vanguard format: | Fund Name (TICKER) | N:M | (ticker embedded in fund name column)
+  // Vanguard format: | Fund Name (TICKER) | N:M |
   const rowReg4 = /\|\s*(.+?ETF\s*\(([A-Z]{2,6})\).*?)\s*\|\s*(\d+)\s*:\s*(\d+)\s*\|/gi;
   while ((m = rowReg4.exec(clean)) !== null) {
     const [, fundName, ticker, num, den] = m;
     if (/fund name|ticker|ratio/i.test(fundName)) continue;
     const n = parseInt(num), d = parseInt(den);
-    if (n === 0 || d === 0) continue;
+    if (n === 0 || d === 0 || n > 20 || d > 20) continue;
     const type = n > d ? 'forward' : 'reverse';
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
     if (!results.find(r => r.ticker === ticker.trim())) {
       results.push({ fundName: fundName.replace(/\(.*\)/, '').trim(), ticker: ticker.trim(), ratio, type });
+    }
+  }
+
+  // GraniteShares: | Fund |     | TICKER |     | 1 for N |
+  const rowReg5 = /\|\s*([^|]{5,80}?)\s*\|\s*[^|]{0,10}\|\s*([A-Z]{2,6})\s*\|\s*[^|]{0,10}\|\s*(\d+)\s+for\s+(\d+)\s*\|/gi;
+  while ((m = rowReg5.exec(clean)) !== null) {
+    const [, fundName, ticker, num, den] = m;
+    if (/fund name|ticker|ratio|symbol/i.test(fundName)) continue;
+    const n = parseInt(num), d = parseInt(den);
+    if (n === 0 || d === 0) continue;
+    const type = n > d ? 'forward' : 'reverse';
+    const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
+    if (!results.find(r => r.ticker === ticker.trim())) {
+      results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
     }
   }
 
@@ -382,3 +419,4 @@ async function main() {
 }
 
 main().catch(e => { console.error('Fatal:', e); process.exit(1); });
+// This is a placeholder - will be replaced
