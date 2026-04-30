@@ -24,7 +24,7 @@ function getDateRange() {
 async function fetchSplits() {
   const { from, to } = getDateRange();
   const allResults = [];
-  let url = `${BASE_URL}?execution_date.gte=${from}&execution_date.lte=${to}&limit=1000&sort=execution_date.desc&apiKey=${API_KEY}`;
+  let url = `${BASE_URL}?execution_date.gte=${from}&execution_date.lte=${to}&limit=1000&order=desc&sort=execution_date&apiKey=${API_KEY}`;
 
   while (url) {
     console.log(`  Fetching: ${url.replace(API_KEY, '***')}`);
