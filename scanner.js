@@ -275,7 +275,7 @@ async function searchPage(query, forms, from, retries = 3) {
   
   for (let attempt = 0; attempt < retries; attempt++) {
     if (attempt > 0) {
-      const wait = 5000 * attempt;
+      const wait = 10000 * attempt;
       console.log(`  Retry ${attempt}/${retries-1} after ${wait}ms...`);
       await sleep(wait);
     }
@@ -289,7 +289,7 @@ async function searchPage(query, forms, from, retries = 3) {
 async function getAllHits(query, forms, existingIds) {
   const allHits = [];
   let from = 0, pageNum = 0;
-  while (pageNum < 40) {
+  while (pageNum < 15) {
     const data = await searchPage(query, forms, from);
     const hits = data?.hits?.hits || [];
     const total = data?.hits?.total?.value ?? 0;
@@ -300,7 +300,7 @@ async function getAllHits(query, forms, existingIds) {
     pageNum++;
     if (hits.length === 0 || from >= total) break;
     if (newHits.length === 0) { console.log(`  all known — stopping`); break; }
-    await sleep(600);
+    await sleep(2000);
   }
   return allHits;
 }
@@ -365,7 +365,7 @@ async function main() {
 
         if (isNoise(company)) { existingIds.add(id); continue; }
 
-        await sleep(200);
+        await sleep(400);
         const docText = await fetchFilingDoc(src, id);
 
         // ── ETF 497 filing: parse table rows → one record per fund ───────────
@@ -423,7 +423,7 @@ async function main() {
     } catch(e) {
       console.error(`  ERROR: ${e.message}`);
     }
-    await sleep(500);
+    await sleep(3000);
   }
 
   const all  = [...existing, ...newRecords];
