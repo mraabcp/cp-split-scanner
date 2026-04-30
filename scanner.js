@@ -7,38 +7,23 @@ const OUT_FILE = 'splits.json';
 const LOOKBACK_DAYS = 180;
 
 const QUERIES = [
-  { q: '"stock split"',   forms: '8-K'     },
-  { q: '"reverse split"', forms: '8-K'     },
-  { q: '"forward split"', forms: '8-K,497' },
-  { q: '"share split"',   forms: '497'     },
-  { q: '"stock split"',   forms: '497'     },
+  { q: '"stock split"',                          forms: '8-K'     },
+  { q: '"reverse split"',                        forms: '8-K'     },
+  { q: '"forward split"',                        forms: '8-K,497' },
+  { q: '"share split"',                          forms: '497'     },
+  { q: '"stock split"',                          forms: '497'     },
+  { q: '"share split" "split-adjusted basis"',   forms: '497'     }, // catches Vanguard supplements
 ];
 
 // ── Noise lists ──────────────────────────────────────────────────────────────
 const NOISE_LIST = [
-  'principal funds','vanguard fenway','vanguard chester','vanguard malvern','vanguard windsor',
-  'vanguard admiral','columbia funds','columbia etf trust i','columbia etf trust ii',
-  'invesco exchange-traded fund trust','invesco actively managed','j.p. morgan exchange',
-  'goldman sachs trust','new york life','american century','bny mellon','mml series',
-  'northern lights fund','ea series trust','rayliant','proshares trust','vaneck etf',
-  'spdr dow jones','spdr s&p 500 etf trust','spdr s&p midcap','select sector spdr',
-  'state street institutional','fidelity salem','fidelity concord','fidelity investment trust',
-  'parnassus','gabelli','neuberger berman equity','mutual fund & variable','mutual fund series trust',
-  'first eagle','cash account trust','innovator etfs','listed funds trust','touchstone etf',
-  'capital-force','ubs series','calvert','chesapeake investment','proshares trust ii',
-  'baillie gifford etf','payden','credit suisse opportunity','truth social funds',
-  'first trust exchange','eaton vance','ultimus','world funds','pimco funds','wisdomtree trust',
-  'vegashares','rbb fund','rbb fund trust','clearway energy','marketwise',
-  'moa funds','ridgefield acquisition','lxp industrial','entrepreneur universe','momentus inc',
-  'boxlight corp','22nd century','wheeler real estate','tilray','phoenix motor','374water',
-  'interactive strength','strive, inc','bonk, inc','leafbuyer','yijia group','brooqly',
-  'sunshine biopharma','teucrium','lifeward','bnb plus corp','sharonai','ai era corp',
-  'protext mobility','awaysis capital','birchtech corp','dbx etf','hsbc funds',
-  'exchange place advisors','neuberger berman etf','columbia funds series',
-  'invesco exchange-traded fund trust ii','advisors series trust','lord abbett trust',
-  'vela funds','pace select advisors','morgan stanley etf','uscf etf','amplify etf',
-  'investment managers series trust','trust for professional managers','direxion shares etf',
-  'vaneck funds','abrdn funds','etf series solutions','marketwise',
+  // Persistent false positives — companies that mention splits in passing but never announce one
+  'wheeler real estate','interactive strength','ridgefield acquisition',
+  'lxp industrial','entrepreneur universe','momentus inc','22nd century',
+  'tilray','phoenix motor','374water','strive, inc','bonk, inc',
+  'leafbuyer','yijia group','brooqly','sunshine biopharma',
+  'teucrium','birchtech corp','bnb plus corp','sharonai','ai era corp',
+  'protext mobility','awaysis capital','marketwise','lifeward',
 ];
 
 const ETF_KEYWORDS = ['etf','fund','trust','ishares','vanguard','spdr','invesco',
@@ -100,6 +85,21 @@ function parseETFTable(text) {
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
     if (!results.find(r => r.ticker === ticker.trim())) {
       results.push({ fundName: fundName.trim(), ticker: ticker.trim(), ratio, type });
+    }
+  }
+
+
+  // Vanguard format: | Fund Name (TICKER) | N:M | (ticker embedded in fund name column)
+  const rowReg4 = /\|\s*(.+?ETF\s*\(([A-Z]{2,6})\).*?)\s*\|\s*(\d+)\s*:\s*(\d+)\s*\|/gi;
+  while ((m = rowReg4.exec(clean)) !== null) {
+    const [, fundName, ticker, num, den] = m;
+    if (/fund name|ticker|ratio/i.test(fundName)) continue;
+    const n = parseInt(num), d = parseInt(den);
+    if (n === 0 || d === 0) continue;
+    const type = n > d ? 'forward' : 'reverse';
+    const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
+    if (!results.find(r => r.ticker === ticker.trim())) {
+      results.push({ fundName: fundName.replace(/\(.*\)/, '').trim(), ticker: ticker.trim(), ratio, type });
     }
   }
 
@@ -166,11 +166,20 @@ function extractDetails(text) {
 
   let ticker = '';
   const tickTries = [
+    // Filename-based hint (e.g. rklz-497.htm → RKLZ)
+    /FILENAME_TICKER:([A-Z]{2,6})\b/,
+    // Vanguard format: "ETF (VUG) will be split"
+    /ETF\s+\(([A-Z]{2,6})\)\s+will\s+be\s+split/i,
+    // ETF 497 pattern: "Fund Name ETF (TICK)" or "ETF (Ticker: TICK)"
+    /ETF\s*\((?:Ticker:\s*)?([A-Z]{2,6})\)/,
+    /Fund\s*\((?:Ticker:\s*)?([A-Z]{2,6})\)/,
+    // Exchange listing patterns
     /\((?:nasdaq(?:gm|gs|cm)?|nyse(?:arca|mkt)?|cboe|bats)[:\s]+([A-Z]{1,6})\)/i,
     /ticker\s+symbol[:\s"]+([A-Z]{1,6})\b/i,
     /trading\s+(?:symbol|under\s+the\s+symbol)[:\s"]+([A-Z]{1,6})\b/i,
     /trades?\s+under\s+(?:the\s+)?(?:ticker|symbol)[:\s"]+([A-Z]{1,6})\b/i,
     /ticker\s+symbol\s+is\s+([A-Z]{2,6})\b/i,
+    /listed\s+on[^.]{0,60}\(([A-Z]{2,6})\)/i,
     /\bsymbol[:\s"]+([A-Z]{2,6})\b/i,
   ];
   for (const pat of tickTries) {
@@ -258,7 +267,10 @@ async function fetchFilingDoc(src, hitId) {
     }
     const res = await fetch(docUrl, { headers: { 'User-Agent': USER_AGENT } });
     if (!res.ok) return '';
-    return (await res.text()).slice(0, 20000);
+    // Prepend filename as hint for ticker extraction (e.g. rklz-497.htm → RKLZ)
+    const filenameTicker = (docUrl.split('/').pop() || '').match(/^([a-z]{2,6})-\d*497/i);
+    const hint = filenameTicker ? `FILENAME_TICKER:${filenameTicker[1].toUpperCase()} ` : '';
+    return hint + (await res.text()).slice(0, 20000);
   } catch(e) { return ''; }
 }
 
