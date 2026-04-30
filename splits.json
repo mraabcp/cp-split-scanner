@@ -1,1 +1,676 @@
-{"lastUpdated":null,"totalRecords":0,"newThisScan":0,"splits":[]}
+{
+  "lastUpdated": "2026-04-30T19:50:45.443Z",
+  "totalRecords": 67,
+  "splits": [
+    {
+      "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
+      "company": "Yimutian Inc.",
+      "ticker": "YMT",
+      "exDate": "2026-05-18",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0e1133cafca651130fb8a2cb3eb8c9e84fcb5edd4c71dc899071bbec3b7e6603",
+      "company": "abrdn Physical Platinum Shares ETF",
+      "ticker": "PPLT",
+      "exDate": "2026-05-18",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4c5fe146380c5e524670f2b9b732ef801d3d2165011c5528e3f5f65601a85529",
+      "company": "abrdn Physical Palladium Shares ETF",
+      "ticker": "PALL",
+      "exDate": "2026-05-18",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebd24da09552252a37a2e9c8de78c1d5e48a060cc92247b592926c99a76deec4b",
+      "company": "Mission Bancorp",
+      "ticker": "MSBC",
+      "exDate": "2026-05-18",
+      "ratio": "1.05-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4f728dd8a378bc11c55cacd74cf803265ddeecfbd93ef3a7be17fff189a4fa9a",
+      "company": "Southern Copper Corporation",
+      "ticker": "SCCO",
+      "exDate": "2026-05-13",
+      "ratio": "1.01-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9c49fc50211d29a6ef81d04191ce4cdd97b8068d016e47d4a7f3907873f025a1",
+      "company": "Xiao-I Corporation",
+      "ticker": "AIXI",
+      "exDate": "2026-05-11",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1772667cbfaeb8c8ee983c8de51e6a53f70b2dbc92ea6b070b5f6576e5ca263a",
+      "company": "Carvana Co.",
+      "ticker": "CVNA",
+      "exDate": "2026-05-08",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E16511f89639544c5fc21bf219a56773505b38108f9b672c748f90deda20dd186",
+      "company": "Banzai International, Inc.",
+      "ticker": "BNZI",
+      "exDate": "2026-05-08",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed2e9c2965e528b9bc663e8266a8461db43cb7009ba0c49ea8397227b8753e7e1",
+      "company": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+      "ticker": "SBS",
+      "exDate": "2026-05-07",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eafee3691c96b16f4c88fa94045451dd576d45fa55fd483c72597c5f9e38e1222",
+      "company": "ERBGF",
+      "ticker": "ERBGF",
+      "exDate": "2026-05-07",
+      "ratio": "13-for-10",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec39f65d48536c60bf1a38b839e39645b4ccbfc1e67f23d1c199d7d1d56992918",
+      "company": "Muncy Columbia Financial Corporation",
+      "ticker": "CCFN",
+      "exDate": "2026-05-07",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6660db23e45dd673c1b8bfda92a5ed44498dbe5dd9d742c81eb2dc2b6b5285da",
+      "company": "iShares 25+ Year Treasury STRIPS Bond ETF",
+      "ticker": "GOVZ",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9d42d8a0f1c4a3581ce5fd3e0ac70b3bc790221c92094fcb6808a2edcd115607",
+      "company": "Leverage Shares 2x Long FIG Dai",
+      "ticker": "FIGG",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3305f1c7238af1f3f6dc480202c2d9e6fe2db5088fc073174023e9c73ffda476",
+      "company": "Leverage Shares 2X Long DUOL Daily ETF",
+      "ticker": "DUOG",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed8fc2d48acd50b6f0b340c9f40ec0d8f81f3c7644a4559d533e6377dfcf97995",
+      "company": "Leverage Shares 2X Long CRWV Da",
+      "ticker": "CRWG",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea388e319329e433d18bc153a676a8bdf0e852632d1363de867fbe7b9c0beb525",
+      "company": "Leverage Shares 2X Long CRCL Da",
+      "ticker": "CRCG",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E54bcf4c0567639468f2a6521b04f6c5eaafbc4189c7d103fad775e38c4ac5255",
+      "company": "Leverage Shares 2X Long BMNR Daily ETF",
+      "ticker": "BMNG",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6b58a2db1b74216fa5c83ee99be21376d3527bba6e9032ce89153001d5c0d703",
+      "company": "Leverage Shares 2X Long BBAI Da",
+      "ticker": "BAIG",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E60824eaa57a3e0e2b8f0aaedc9dc37140705302583217e6aa86ce27038174342",
+      "company": "Inno Holdings Inc.",
+      "ticker": "INHD",
+      "exDate": "2026-05-04",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E93f013db5a17ac99356ff93fb3a0df98c40f8e1c7a62d8f9e276bbec19e252ad",
+      "company": "Ten-League International Holdings Limited",
+      "ticker": "TLIH",
+      "exDate": "2026-05-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9d73fbf9eba71dd3f151c2e96f5f5b84900f0af718f0d8742c72177c6f7dc7c6",
+      "company": "GraniteShares 2x Long SMCI Dail",
+      "ticker": "SMCL",
+      "exDate": "2026-05-01",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5d8597796a268518983bd40182ceb402ba8f6b5dc89000f32fbf2a9d44fb07e2",
+      "company": "GraniteShares ETF Trust - GraniteShares 2x Long MSTR Daily ETF",
+      "ticker": "MSTP",
+      "exDate": "2026-05-01",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E19c61a4af8de4291269f8544255a89dc63b4900aaf42b8c9317b46ebbb5d1b08",
+      "company": "GraniteShares 2x Long MARA Daily ETF",
+      "ticker": "MRAL",
+      "exDate": "2026-05-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5487a0fa6f29bde5342bf6c6768088d895200ae73af50971fe63a2fa78cd5f35",
+      "company": "Green Rain Energy Holdings Inc.",
+      "ticker": "GREH",
+      "exDate": "2026-05-01",
+      "ratio": "1.03-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4b187c7078ef0d94d699eee13f40cd973428d1cc986980c0498cb26e8946fe6d",
+      "company": "GMEX Robotics Corporation",
+      "ticker": "GMEX",
+      "exDate": "2026-05-01",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb523f38d956efe5eef61fcdfd5577635aef8b93de91237af51ccbfc4c869eb3e",
+      "company": "Zeus North America Mining Corp.",
+      "ticker": "ZUUZF",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E642030798f7aad3ce60a4b7eb124092431b48e5971885f5bf9a170cef622edcf",
+      "company": "The Yumy Candy Company Inc.",
+      "ticker": "YUMFF",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Efb54cd2a70ec833169596dd1b3fdeb264d882acbe0f4fd8b1c92cfd4a583a661",
+      "company": "Ucommune International Ltd",
+      "ticker": "UK",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1004a5c404202ee86aea13782cb2253c804add8fbb4e102403e18a8a7392901e",
+      "company": "Hydrocarbon Dynamics Limited",
+      "ticker": "PYMOF",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef856205ffaee82453f46c26ee2fc4bb06f28cf91ffa847b57d9eb9a0b2915c8e",
+      "company": "Portofino Resources Inc.",
+      "ticker": "PFFOF",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebf35c3446a36b5b2e012f5f915721ebeaa5fa6de242fd8f9f3d25c0fefcbaedc",
+      "company": "Jaguar Health, Inc.",
+      "ticker": "JAGX",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-35",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1af0089817d39b1f811adc0719ef6d187c07abe5321386f1e70629eb6535ca9c",
+      "company": "Endeavor Bancorp",
+      "ticker": "EDVR",
+      "exDate": "2026-04-30",
+      "ratio": "1.02-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef42e81b29689efc7e0db8f11354194b26fa825d40d3a87fcd00ee0b24384a7cf",
+      "company": "BIO-key International, Inc.",
+      "ticker": "BKYI",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E70b568db6e2663358cb105e16a3ee85c5214c0996afec61215f12b04a483e3e5",
+      "company": "reAlpha Tech Corp.",
+      "ticker": "AIRE",
+      "exDate": "2026-04-30",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea2aeb4e5b982c401f0feaaef87eab5545750da3bdd2cef3f3a50535361702151",
+      "company": "Qualstar Corporation",
+      "ticker": "QBAK",
+      "exDate": "2026-04-29",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3e87840092014fab32157b176cb7397e904c564794d29b816b0ce6f156096663",
+      "company": "iShares Russell 1000 Growth ETF",
+      "ticker": "IWF",
+      "exDate": "2026-04-29",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E43939b5b86ab95b44926101b2a27f85e7543b13e12547ef40ddae63a7de7134d",
+      "company": "iShares Core High Dividend ETF",
+      "ticker": "HDV",
+      "exDate": "2026-04-29",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eadba0f2c87b73abff617a4b0f49128647c04d0a01aa78f478c7db513bad1a399",
+      "company": "Cheetah Net Supply Chain Service Inc.",
+      "ticker": "CTNT",
+      "exDate": "2026-04-29",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edbe812706289c5c42310b10d17128eaa20ef11381e74816e4babcb6796105077",
+      "company": "Braiin Limited",
+      "ticker": "BRAI",
+      "exDate": "2026-04-29",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb2e85c7d566982fb9e319182957d42b3543a98a2c6f78398144a518738adb85d",
+      "company": "Copper One Resource Corp.",
+      "ticker": "BFGFF",
+      "exDate": "2026-04-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb3a00c9d3fd79b3b730b6a09ddb41dbae626823231859a471273decd46f7b8d6",
+      "company": "ANCMF",
+      "ticker": "ANCMF",
+      "exDate": "2026-04-29",
+      "ratio": "101-for-100",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E793207ee67090b6cbcf3322256106dc3ed1b40854d21fa910e456b7a50578324",
+      "company": "VolitionRx Limited",
+      "ticker": "VNRX",
+      "exDate": "2026-04-28",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea3d97a282ede970ac41708a2b522db00b0854aca05dc6ff06e12ec15db0a9593",
+      "company": "SKIGF",
+      "ticker": "SKIGF",
+      "exDate": "2026-04-28",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E80c103cdae3e100a61ecf4071a912d1d0ff0a9697fc7babbef8fe6ebf3f530e6",
+      "company": "Kura Sushi, Inc.",
+      "ticker": "KUCPF",
+      "exDate": "2026-04-28",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed798667c0b187d339b452374322aa1e3ed6616cab2315c9e4384c7140ec0ffb0",
+      "company": "iSpecimen Inc.",
+      "ticker": "ISPC",
+      "exDate": "2026-04-28",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb167ada0ed546f7fdddf2b68e67fe58b6fd8b05cef9c68e8a05ab59a5cb1193e",
+      "company": "Diginex Limited",
+      "ticker": "DGNX",
+      "exDate": "2026-04-28",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eafe2c949df81e3c6b4ca8af7a389b397b8c680615521bc56e98ccedbdcf8c5e3",
+      "company": "Uranium One Mining Corp.",
+      "ticker": "UUUFF",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-3.5",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea819d1bcce3cda1a2a9ba348fb2ccc87f62300ac53eaa0e36b551e63f742fded",
+      "company": "Wheels Up Experience Inc.",
+      "ticker": "UP",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E5fdfe77e18f5dd376452a3c11197718a05cd6d385efdac556bd110540849fbc5",
+      "company": "Quhuo Limited",
+      "ticker": "QHUOY",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0de222c001bf746c88d7969bfb9ed89147c24eb56c0694677861f4102932b299",
+      "company": "Oriental Culture Holding LTD",
+      "ticker": "OCG",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eea0192a9711359f93e8dd06b2eac7bf8be330fc811649130c1424f90306943ed",
+      "company": "Immunic, Inc.",
+      "ticker": "IMUX",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3ac8b3811da7bc4bbf09e5500b65d9b75088da94265612a1ac200623499cfa25",
+      "company": "Direct Digital Holdings, Inc.",
+      "ticker": "DRCT",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E09a72ec2946fc9e186b01b959ba6495d8294db80897a1e36be3fe5f2f827204f",
+      "company": "C3is Inc.",
+      "ticker": "CISS",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E24977f9b88fd2643ed1485b5334245434087ded2a678c9f49358093fbd9a91d2",
+      "company": "AIOS Tech Inc.",
+      "ticker": "AIOS",
+      "exDate": "2026-04-27",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E434fd108277ffedd26e83d6aa549be7573abdf592dec506998700c7e465bcaec",
+      "company": "Trillion Energy International Inc",
+      "ticker": "TRLEF",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eded6d5eaf98973530103e22774af95139ae12822a318231dc0f511cf6458b733",
+      "company": "Trident Digital Tech Holdings Ltd",
+      "ticker": "TDTH",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea6c8d0f9d630d7691eac39b27c2487a25a2e932ed1ba43f09caf8f0a089f0309",
+      "company": "Sow Good Inc.",
+      "ticker": "SOWG",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea52a614398fe1a1e348b49873d402f26b45daa06c3ed96998aa86b634040d44b",
+      "company": "OIO Group",
+      "ticker": "OIO",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6c2c6b1fcc01896d5a66c1b68309be39b9588b5206b508fc2027644bbe4bb3fc",
+      "company": "Maison Solutions Inc.",
+      "ticker": "MSS",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E86996e924f6d72f748390b2baacec99404963dfc4eafd58424cdd3bb00ce0ed4",
+      "company": "Metro Mining Ltd",
+      "ticker": "MMILF",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4d309c9f5496fd352044f997dcde9130befa126714a9d55e51edfe3c8aa054f7",
+      "company": "La Comer, S.A.B. de C.V.",
+      "ticker": "LCMRF",
+      "exDate": "2026-04-24",
+      "ratio": "115.06462123-for-114.06462123",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E895e09afd4e1b7ab0727d0ce026193191261e2a8e57895692698ceb5b5b24567",
+      "company": "Leverage Shares 2X Long GEMI Daily ETF",
+      "ticker": "GEMG",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee706ac3cae11f4720554e88c6aa444186dd27a41ea10e71bc17ecd4f8f82a46a",
+      "company": "Cue Biopharma, Inc.",
+      "ticker": "CUE",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0309b9cf023c8462eaecd45f7984648dc8c4542cfaa1566384a72c53f08cfd01",
+      "company": "Leverage Shares 2X Long BULL Da",
+      "ticker": "BULG",
+      "exDate": "2026-04-24",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0cbab59da25aee39690449eb6a43c0bffa3cd85c9c68c526945bed84cb2b21d2",
+      "company": "AZUXY",
+      "ticker": "AZUXY",
+      "exDate": "2026-04-24",
+      "ratio": "1.666666-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee692d20cbd34bd8d67e126b490fd759129052f02f7cbe95b38c0511c1c4cf6cf",
+      "company": "AZLUY",
+      "ticker": "AZLUY",
+      "exDate": "2026-04-24",
+      "ratio": "1.666666-for-1",
+      "type": "forward",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E722b7ab29bbdfdb13ab315df6c693cee19b402b6a50b69220d11746793fc4edb",
+      "company": "IP Strategy Holdings, Inc.",
+      "ticker": "IPST",
+      "exDate": "2026-04-23",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    }
+  ]
+}
