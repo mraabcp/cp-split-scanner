@@ -114,6 +114,12 @@ async function main() {
 
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
 
+    // Skip fractional adjustments — real splits have clean integer ratios
+    // e.g. 115.06-for-114.06 is a dividend adjustment, not a split
+    if (!Number.isInteger(n) || !Number.isInteger(d)) return null;
+    if (n === d) return null; // 1-for-1 is meaningless
+    if (n > 1000 || d > 1000) return null; // absurdly large ratios are bad data
+
     const id = s.id || `${s.ticker}-${s.execution_date}`;
     return {
       id,
@@ -128,20 +134,22 @@ async function main() {
     };
   });
 
-  enriched.sort((a, b) => (b.exDate || '').localeCompare(a.exDate || ''));
+  const filtered = enriched.filter(r => r !== null);
+  filtered.sort((a, b) => (b.exDate || '').localeCompare(a.exDate || ''));
+  const enriched2 = filtered;
 
-  const fwd  = enriched.filter(r => r.type === 'forward').length;
-  const rev  = enriched.filter(r => r.type === 'reverse').length;
-  const etfs = enriched.filter(r => r.isETF).length;
+  const fwd  = enriched2.filter(r => r.type === 'forward').length;
+  const rev  = enriched2.filter(r => r.type === 'reverse').length;
+  const etfs = enriched2.filter(r => r.isETF).length;
 
-  const newCount = enriched.filter(r => r.isNew).length;
+  const newCount = enriched2.filter(r => r.isNew).length;
   console.log(`\n✓ ${enriched.length} total | ${fwd} forward | ${rev} reverse | ${etfs} ETFs | ${newCount} new this scan`);
 
   fs.writeFileSync(OUT_FILE, JSON.stringify({
     lastUpdated:   new Date().toISOString(),
-    totalRecords:  enriched.length,
+    totalRecords:  enriched2.length,
     newThisScan:   newCount,
-    splits:        enriched,
+    splits:        enriched2,
   }, null, 2));
 
   console.log(`Written to ${OUT_FILE}`);
