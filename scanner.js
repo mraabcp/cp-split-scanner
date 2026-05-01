@@ -90,6 +90,14 @@ async function main() {
   }
   console.log(`Got names for ${Object.keys(tickerDetails).length}/${uniqueTickers.length} tickers`);
 
+  // Load existing splits to determine what's new this scan
+  let existingIds = new Set();
+  try {
+    const existing = JSON.parse(fs.readFileSync(OUT_FILE, 'utf8'));
+    (existing.splits || []).forEach(s => existingIds.add(s.id));
+    console.log(`Existing records: ${existingIds.size}`);
+  } catch(e) { console.log('No existing splits.json — all records will be marked new'); }
+
   const enriched = splits.map(s => {
     const details = tickerDetails[s.ticker];
     const company = details?.name || s.ticker;
@@ -106,14 +114,16 @@ async function main() {
 
     const ratio = type === 'forward' ? `${n}-for-${d}` : `1-for-${d}`;
 
+    const id = s.id || `${s.ticker}-${s.execution_date}`;
     return {
-      id:      s.id || `${s.ticker}-${s.execution_date}`,
+      id,
       company,
       ticker:  s.ticker,
       exDate:  s.execution_date,
       ratio,
       type,
       isETF,
+      isNew:   !existingIds.has(id),
       source: 'polygon',
     };
   });
@@ -124,12 +134,14 @@ async function main() {
   const rev  = enriched.filter(r => r.type === 'reverse').length;
   const etfs = enriched.filter(r => r.isETF).length;
 
-  console.log(`\n✓ ${enriched.length} total | ${fwd} forward | ${rev} reverse | ${etfs} ETFs`);
+  const newCount = enriched.filter(r => r.isNew).length;
+  console.log(`\n✓ ${enriched.length} total | ${fwd} forward | ${rev} reverse | ${etfs} ETFs | ${newCount} new this scan`);
 
   fs.writeFileSync(OUT_FILE, JSON.stringify({
-    lastUpdated:  new Date().toISOString(),
-    totalRecords: enriched.length,
-    splits:       enriched,
+    lastUpdated:   new Date().toISOString(),
+    totalRecords:  enriched.length,
+    newThisScan:   newCount,
+    splits:        enriched,
   }, null, 2));
 
   console.log(`Written to ${OUT_FILE}`);
