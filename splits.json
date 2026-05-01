@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-01T17:35:53.064Z",
-  "totalRecords": 70,
+  "lastUpdated": "2026-05-01T17:41:21.771Z",
+  "totalRecords": 62,
   "newThisScan": 0,
   "splits": [
     {
@@ -33,28 +33,6 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebd24da09552252a37a2e9c8de78c1d5e48a060cc92247b592926c99a76deec4b",
-      "company": "Mission Bancorp",
-      "ticker": "MSBC",
-      "exDate": "2026-05-18",
-      "ratio": "1.05-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4f728dd8a378bc11c55cacd74cf803265ddeecfbd93ef3a7be17fff189a4fa9a",
-      "company": "Southern Copper Corporation",
-      "ticker": "SCCO",
-      "exDate": "2026-05-13",
-      "ratio": "1.01-for-1",
-      "type": "forward",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -290,17 +268,6 @@
       "source": "polygon"
     },
     {
-      "id": "E5487a0fa6f29bde5342bf6c6768088d895200ae73af50971fe63a2fa78cd5f35",
-      "company": "Green Rain Energy Holdings Inc.",
-      "ticker": "GREH",
-      "exDate": "2026-05-01",
-      "ratio": "1.03-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E4cbedae751229981b0c4a41e8d4bf699a194b2dc48660cc84989cab9d2f29dae",
       "company": "Alset AI Ventures Inc.",
       "ticker": "GPUSF",
@@ -384,17 +351,6 @@
       "exDate": "2026-04-30",
       "ratio": "1-for-35",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1af0089817d39b1f811adc0719ef6d187c07abe5321386f1e70629eb6535ca9c",
-      "company": "Endeavor Bancorp",
-      "ticker": "EDVR",
-      "exDate": "2026-04-30",
-      "ratio": "1.02-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -554,17 +510,6 @@
       "source": "polygon"
     },
     {
-      "id": "Eafe2c949df81e3c6b4ca8af7a389b397b8c680615521bc56e98ccedbdcf8c5e3",
-      "company": "Vanguard Mining Corp",
-      "ticker": "UUUFF",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-3.5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "Ea819d1bcce3cda1a2a9ba348fb2ccc87f62300ac53eaa0e36b551e63f742fded",
       "company": "Wheels Up Experience Inc.",
       "ticker": "UP",
@@ -708,17 +653,6 @@
       "source": "polygon"
     },
     {
-      "id": "E4d309c9f5496fd352044f997dcde9130befa126714a9d55e51edfe3c8aa054f7",
-      "company": "La Comer, S.A.B. de C.V.",
-      "ticker": "LCMRF",
-      "exDate": "2026-04-24",
-      "ratio": "115.06462123-for-114.06462123",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E895e09afd4e1b7ab0727d0ce026193191261e2a8e57895692698ceb5b5b24567",
       "company": "Leverage Shares 2X Long GEMI Daily ETF",
       "ticker": "GEMG",
@@ -748,28 +682,6 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0cbab59da25aee39690449eb6a43c0bffa3cd85c9c68c526945bed84cb2b21d2",
-      "company": "AZUXY",
-      "ticker": "AZUXY",
-      "exDate": "2026-04-24",
-      "ratio": "1.666666-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee692d20cbd34bd8d67e126b490fd759129052f02f7cbe95b38c0511c1c4cf6cf",
-      "company": "AZLUY",
-      "ticker": "AZLUY",
-      "exDate": "2026-04-24",
-      "ratio": "1.666666-for-1",
-      "type": "forward",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
