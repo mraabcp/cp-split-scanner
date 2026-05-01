@@ -1,6 +1,7 @@
 {
-  "lastUpdated": "2026-05-01T13:09:28.919Z",
+  "lastUpdated": "2026-05-01T17:31:03.095Z",
   "totalRecords": 70,
+  "newThisScan": 0,
   "splits": [
     {
       "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
@@ -10,6 +11,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -20,6 +22,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -30,6 +33,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -40,6 +44,7 @@
       "ratio": "1.05-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -50,6 +55,7 @@
       "ratio": "1.01-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -60,6 +66,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -70,6 +77,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -80,6 +88,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -90,6 +99,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -100,6 +110,7 @@
       "ratio": "13-for-10",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,6 +121,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -120,6 +132,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -130,6 +143,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -140,6 +154,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -150,6 +165,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -160,6 +176,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -170,6 +187,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -180,6 +198,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -190,6 +209,7 @@
       "ratio": "1-for-37",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -200,6 +220,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -210,6 +231,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,6 +242,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -230,6 +253,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -240,6 +264,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -250,6 +275,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -260,6 +286,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -270,6 +297,7 @@
       "ratio": "1.03-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -280,6 +308,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -290,6 +319,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -300,6 +330,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -310,6 +341,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -320,6 +352,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,6 +363,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -340,6 +374,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -350,6 +385,7 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -360,6 +396,7 @@
       "ratio": "1.02-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -370,6 +407,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -380,6 +418,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -390,6 +429,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -400,6 +440,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -410,6 +451,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -420,6 +462,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -430,6 +473,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,6 +484,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -450,6 +495,7 @@
       "ratio": "101-for-100",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -460,6 +506,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -470,6 +517,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -480,6 +528,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -490,6 +539,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -500,6 +550,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -510,6 +561,7 @@
       "ratio": "1-for-3.5",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -520,6 +572,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -530,6 +583,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -540,6 +594,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,6 +605,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -560,6 +616,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -570,6 +627,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -580,6 +638,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -590,6 +649,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -600,6 +660,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -610,6 +671,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -620,6 +682,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -630,6 +693,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -640,6 +704,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -650,6 +715,7 @@
       "ratio": "115.06462123-for-114.06462123",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -660,6 +726,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -670,6 +737,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -680,6 +748,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -690,6 +759,7 @@
       "ratio": "1.666666-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -700,6 +770,7 @@
       "ratio": "1.666666-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
       "source": "polygon"
     }
   ]
