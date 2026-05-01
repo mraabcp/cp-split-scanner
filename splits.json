@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-04-30T19:50:45.443Z",
-  "totalRecords": 67,
+  "lastUpdated": "2026-05-01T13:09:28.919Z",
+  "totalRecords": 70,
   "splits": [
     {
       "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
@@ -183,11 +183,41 @@
       "source": "polygon"
     },
     {
+      "id": "E4c8b9a19e41f60fb1a0822e35e5d506a923896fe9706b07ada2ce397efbef70d",
+      "company": "Twin Vee Powercats Co.",
+      "ticker": "VEEE",
+      "exDate": "2026-05-04",
+      "ratio": "1-for-37",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
       "id": "E60824eaa57a3e0e2b8f0aaedc9dc37140705302583217e6aa86ce27038174342",
       "company": "Inno Holdings Inc.",
       "ticker": "INHD",
       "exDate": "2026-05-04",
       "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0b5e0d236462a6e8036152e61b9efa217e6ed4f07b849dd055b90e8ba32c28a6",
+      "company": "Fitness Champs Holdings Limited",
+      "ticker": "FCHL",
+      "exDate": "2026-05-04",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E95ef04e66342076479c267586be85a73456287ac1db718933cafe9585cd429a5",
+      "company": "Ernexa Therapeutics Inc.",
+      "ticker": "ERNA",
+      "exDate": "2026-05-04",
+      "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
       "source": "polygon"
@@ -243,6 +273,16 @@
       "source": "polygon"
     },
     {
+      "id": "E4cbedae751229981b0c4a41e8d4bf699a194b2dc48660cc84989cab9d2f29dae",
+      "company": "Alset AI Ventures Inc.",
+      "ticker": "GPUSF",
+      "exDate": "2026-05-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "source": "polygon"
+    },
+    {
       "id": "E4b187c7078ef0d94d699eee13f40cd973428d1cc986980c0498cb26e8946fe6d",
       "company": "GMEX Robotics Corporation",
       "ticker": "GMEX",
@@ -294,7 +334,7 @@
     },
     {
       "id": "Ef856205ffaee82453f46c26ee2fc4bb06f28cf91ffa847b57d9eb9a0b2915c8e",
-      "company": "Portofino Resources Inc.",
+      "company": "Latam Lithium Corp.",
       "ticker": "PFFOF",
       "exDate": "2026-04-30",
       "ratio": "1-for-10",
@@ -464,7 +504,7 @@
     },
     {
       "id": "Eafe2c949df81e3c6b4ca8af7a389b397b8c680615521bc56e98ccedbdcf8c5e3",
-      "company": "Uranium One Mining Corp.",
+      "company": "Vanguard Mining Corp",
       "ticker": "UUUFF",
       "exDate": "2026-04-27",
       "ratio": "1-for-3.5",
@@ -484,7 +524,7 @@
     },
     {
       "id": "E5fdfe77e18f5dd376452a3c11197718a05cd6d385efdac556bd110540849fbc5",
-      "company": "Quhuo Limited",
+      "company": "Quhuo Ltd",
       "ticker": "QHUOY",
       "exDate": "2026-04-27",
       "ratio": "1-for-30",
@@ -659,16 +699,6 @@
       "exDate": "2026-04-24",
       "ratio": "1.666666-for-1",
       "type": "forward",
-      "isETF": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E722b7ab29bbdfdb13ab315df6c693cee19b402b6a50b69220d11746793fc4edb",
-      "company": "IP Strategy Holdings, Inc.",
-      "ticker": "IPST",
-      "exDate": "2026-04-23",
-      "ratio": "1-for-20",
-      "type": "reverse",
       "isETF": false,
       "source": "polygon"
     }
