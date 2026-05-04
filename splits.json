@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-01T17:46:32.349Z",
-  "totalRecords": 62,
-  "newThisScan": 62,
+  "lastUpdated": "2026-05-04T13:59:34.470Z",
+  "totalRecords": 56,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
@@ -11,7 +11,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,6 +33,17 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3bb31fd62a0a0f5ce94d193046bb46dd876fbc7509cc0a542183442a47d9a37f",
+      "company": "Mitsubishi Heavy Industries Ltd",
+      "ticker": "MHVIY",
+      "exDate": "2026-05-13",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -44,7 +55,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +66,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +77,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +88,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +99,7 @@
       "ratio": "13-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +110,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +121,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +132,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +143,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +154,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +165,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -165,7 +176,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -176,7 +187,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -185,6 +196,17 @@
       "ticker": "VEEE",
       "exDate": "2026-05-04",
       "ratio": "1-for-37",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eaa7e3ec16ea80fba36906f94c06ef1b6b2589c3f74cda7e17947aaafef7bb594",
+      "company": "PCS Edventures!, Inc.",
+      "ticker": "PCSV",
+      "exDate": "2026-05-04",
+      "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -198,7 +220,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -207,6 +229,17 @@
       "ticker": "FCHL",
       "exDate": "2026-05-04",
       "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E94314c87c2856d4b04c8e5768781fbfb4744e68a236c723732a037484a127121",
+      "company": "ESSID",
+      "ticker": "ESSID",
+      "exDate": "2026-05-04",
+      "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -220,7 +253,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +264,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +275,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +286,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +297,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +308,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +319,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +330,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +341,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +352,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,18 +363,18 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "Ef856205ffaee82453f46c26ee2fc4bb06f28cf91ffa847b57d9eb9a0b2915c8e",
-      "company": "Portofino Resources Inc.",
+      "company": "Latam Lithium Corp.",
       "ticker": "PFFOF",
       "exDate": "2026-04-30",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +385,7 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +396,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +407,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +418,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +429,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +440,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +451,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +462,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +473,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -451,7 +484,7 @@
       "ratio": "101-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +495,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +506,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -484,7 +517,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +528,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +539,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +550,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +561,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +572,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +583,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -561,7 +594,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -572,7 +605,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -583,106 +616,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E434fd108277ffedd26e83d6aa549be7573abdf592dec506998700c7e465bcaec",
-      "company": "Trillion Energy International Inc",
-      "ticker": "TRLEF",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Eded6d5eaf98973530103e22774af95139ae12822a318231dc0f511cf6458b733",
-      "company": "Trident Digital Tech Holdings Ltd",
-      "ticker": "TDTH",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea6c8d0f9d630d7691eac39b27c2487a25a2e932ed1ba43f09caf8f0a089f0309",
-      "company": "Sow Good Inc.",
-      "ticker": "SOWG",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea52a614398fe1a1e348b49873d402f26b45daa06c3ed96998aa86b634040d44b",
-      "company": "OIO Group",
-      "ticker": "OIO",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E6c2c6b1fcc01896d5a66c1b68309be39b9588b5206b508fc2027644bbe4bb3fc",
-      "company": "Maison Solutions Inc.",
-      "ticker": "MSS",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E86996e924f6d72f748390b2baacec99404963dfc4eafd58424cdd3bb00ce0ed4",
-      "company": "Metro Mining Ltd",
-      "ticker": "MMILF",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E895e09afd4e1b7ab0727d0ce026193191261e2a8e57895692698ceb5b5b24567",
-      "company": "Leverage Shares 2X Long GEMI Daily ETF",
-      "ticker": "GEMG",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee706ac3cae11f4720554e88c6aa444186dd27a41ea10e71bc17ecd4f8f82a46a",
-      "company": "Cue Biopharma, Inc.",
-      "ticker": "CUE",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E0309b9cf023c8462eaecd45f7984648dc8c4542cfaa1566384a72c53f08cfd01",
-      "company": "Leverage Shares 2X Long BULL Da",
-      "ticker": "BULG",
-      "exDate": "2026-04-24",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     }
   ]
