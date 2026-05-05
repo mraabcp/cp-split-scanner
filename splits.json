@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-05T13:03:02.520Z",
+  "lastUpdated": "2026-05-05T18:56:26.024Z",
   "totalRecords": 53,
-  "newThisScan": 4,
+  "newThisScan": 0,
   "splits": [
     {
       "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
@@ -121,7 +121,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +132,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +154,7 @@
       "ratio": "1-for-120",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -456,7 +456,7 @@
     },
     {
       "id": "Ea2aeb4e5b982c401f0feaaef87eab5545750da3bdd2cef3f3a50535361702151",
-      "company": "Qualstar Corporation",
+      "company": "Qualstar Corp",
       "ticker": "QBAK",
       "exDate": "2026-04-29",
       "ratio": "3-for-1",
@@ -511,7 +511,7 @@
     },
     {
       "id": "Eb2e85c7d566982fb9e319182957d42b3543a98a2c6f78398144a518738adb85d",
-      "company": "Copper One Resource Corp.",
+      "company": "Giant Mining Corp",
       "ticker": "BFGFF",
       "exDate": "2026-04-29",
       "ratio": "1-for-10",
