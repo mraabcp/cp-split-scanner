@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-04T19:07:02.487Z",
-  "totalRecords": 56,
-  "newThisScan": 0,
+  "lastUpdated": "2026-05-05T13:03:02.520Z",
+  "totalRecords": 53,
+  "newThisScan": 4,
   "splits": [
     {
       "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
@@ -111,6 +111,50 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E705641e20348f2ea3e93ddfe99b69b6d53ebfd4676c75c983c47d2053756e602",
+      "company": "Mint Incorporation Limited",
+      "ticker": "MIMI",
+      "exDate": "2026-05-06",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E10d29c4c036efa82412641c627e64e38243a3de41c03e8fdf035a3f8e0b7bc4f",
+      "company": "Atari SA",
+      "ticker": "PONGF",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef39e3340bcf65923809c8964ba9a772ca9fafe0f5947f488d2bf41b90f612f0d",
+      "company": "Emo Capital Corp.",
+      "ticker": "NUVI",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-1000",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee7f4edac3b64e49dec9a7968746b75b222e152d61c9041c59ad105debf20867b",
+      "company": "Credissential Inc.",
+      "ticker": "IPTNF",
+      "exDate": "2026-05-05",
+      "ratio": "1-for-120",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -537,83 +581,6 @@
       "ticker": "DGNX",
       "exDate": "2026-04-28",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea819d1bcce3cda1a2a9ba348fb2ccc87f62300ac53eaa0e36b551e63f742fded",
-      "company": "Wheels Up Experience Inc.",
-      "ticker": "UP",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5fdfe77e18f5dd376452a3c11197718a05cd6d385efdac556bd110540849fbc5",
-      "company": "Quhuo Ltd",
-      "ticker": "QHUOY",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0de222c001bf746c88d7969bfb9ed89147c24eb56c0694677861f4102932b299",
-      "company": "Oriental Culture Holding LTD",
-      "ticker": "OCG",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eea0192a9711359f93e8dd06b2eac7bf8be330fc811649130c1424f90306943ed",
-      "company": "Immunic, Inc.",
-      "ticker": "IMUX",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3ac8b3811da7bc4bbf09e5500b65d9b75088da94265612a1ac200623499cfa25",
-      "company": "Direct Digital Holdings, Inc.",
-      "ticker": "DRCT",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E09a72ec2946fc9e186b01b959ba6495d8294db80897a1e36be3fe5f2f827204f",
-      "company": "C3is Inc.",
-      "ticker": "CISS",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E24977f9b88fd2643ed1485b5334245434087ded2a678c9f49358093fbd9a91d2",
-      "company": "AIOS Tech Inc.",
-      "ticker": "AIOS",
-      "exDate": "2026-04-27",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
