@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-05-05T18:56:26.024Z",
+  "lastUpdated": "2026-05-06T14:36:39.145Z",
   "totalRecords": 53,
-  "newThisScan": 0,
+  "newThisScan": 5,
   "splits": [
+    {
+      "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
+      "company": "VisionSys AI Inc.",
+      "ticker": "VSA",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
       "company": "Yimutian Inc.",
@@ -37,6 +48,17 @@
       "source": "polygon"
     },
     {
+      "id": "E9e028f60a93a2400155a029895c70fddd92f7b42ad13ef4185e88c5827445537",
+      "company": "Brera Holdings PLC",
+      "ticker": "SLMT",
+      "exDate": "2026-05-14",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3bb31fd62a0a0f5ce94d193046bb46dd876fbc7509cc0a542183442a47d9a37f",
       "company": "Mitsubishi Heavy Industries Ltd",
       "ticker": "MHVIY",
@@ -45,6 +67,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E66e76379c908966c4fac1f36af91a7d6724749920024249e7b65785ed1d70906",
+      "company": "EDP Renováveis, S.A.",
+      "ticker": "EDRVF",
+      "exDate": "2026-05-13",
+      "ratio": "113-for-112",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -100,6 +133,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8dcbbaac04eec45499abec7157d69e2bbf02f92d4ba6f43536adc6f02a835a4d",
+      "company": "Chanson International Holding",
+      "ticker": "CHSN",
+      "exDate": "2026-05-07",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -235,6 +279,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ead1455d75aa0a26832bc930bab847fca6cf155af18cef40bcd0dd03aef5cf52b",
+      "company": "Warehouses De Pauw SA",
+      "ticker": "WDPSF",
+      "exDate": "2026-05-04",
+      "ratio": "26-for-25",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4c8b9a19e41f60fb1a0822e35e5d506a923896fe9706b07ada2ce397efbef70d",
       "company": "Twin Vee Powercats Co.",
       "ticker": "VEEE",
@@ -280,7 +335,7 @@
     },
     {
       "id": "E94314c87c2856d4b04c8e5768781fbfb4744e68a236c723732a037484a127121",
-      "company": "ESSID",
+      "company": "Eco Science Solutions, Inc.",
       "ticker": "ESSID",
       "exDate": "2026-05-04",
       "ratio": "1-for-25",
@@ -368,7 +423,7 @@
     },
     {
       "id": "Eb523f38d956efe5eef61fcdfd5577635aef8b93de91237af51ccbfc4c869eb3e",
-      "company": "Zeus North America Mining Corp.",
+      "company": "Zeus North America Mining Corp",
       "ticker": "ZUUZF",
       "exDate": "2026-04-30",
       "ratio": "1-for-2",
@@ -379,7 +434,7 @@
     },
     {
       "id": "E642030798f7aad3ce60a4b7eb124092431b48e5971885f5bf9a170cef622edcf",
-      "company": "The Yumy Candy Company Inc.",
+      "company": "The Yumy Candy Co Inc",
       "ticker": "YUMFF",
       "exDate": "2026-04-30",
       "ratio": "1-for-4",
@@ -401,7 +456,7 @@
     },
     {
       "id": "E1004a5c404202ee86aea13782cb2253c804add8fbb4e102403e18a8a7392901e",
-      "company": "Hydrocarbon Dynamics Limited",
+      "company": "Hydrocarbon Dynamics Ltd",
       "ticker": "PYMOF",
       "exDate": "2026-04-30",
       "ratio": "1-for-10",
@@ -412,7 +467,7 @@
     },
     {
       "id": "Ef856205ffaee82453f46c26ee2fc4bb06f28cf91ffa847b57d9eb9a0b2915c8e",
-      "company": "Latam Lithium Corp.",
+      "company": "Portofino Resources Inc",
       "ticker": "PFFOF",
       "exDate": "2026-04-30",
       "ratio": "1-for-10",
@@ -527,61 +582,6 @@
       "exDate": "2026-04-29",
       "ratio": "101-for-100",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E793207ee67090b6cbcf3322256106dc3ed1b40854d21fa910e456b7a50578324",
-      "company": "VolitionRx Limited",
-      "ticker": "VNRX",
-      "exDate": "2026-04-28",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea3d97a282ede970ac41708a2b522db00b0854aca05dc6ff06e12ec15db0a9593",
-      "company": "SKIGF",
-      "ticker": "SKIGF",
-      "exDate": "2026-04-28",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E80c103cdae3e100a61ecf4071a912d1d0ff0a9697fc7babbef8fe6ebf3f530e6",
-      "company": "Kura Sushi, Inc.",
-      "ticker": "KUCPF",
-      "exDate": "2026-04-28",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed798667c0b187d339b452374322aa1e3ed6616cab2315c9e4384c7140ec0ffb0",
-      "company": "iSpecimen Inc.",
-      "ticker": "ISPC",
-      "exDate": "2026-04-28",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb167ada0ed546f7fdddf2b68e67fe58b6fd8b05cef9c68e8a05ab59a5cb1193e",
-      "company": "Diginex Limited",
-      "ticker": "DGNX",
-      "exDate": "2026-04-28",
-      "ratio": "1-for-8",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
