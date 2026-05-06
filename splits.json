@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-06T14:36:39.145Z",
+  "lastUpdated": "2026-05-06T19:13:19.530Z",
   "totalRecords": 53,
-  "newThisScan": 5,
+  "newThisScan": 0,
   "splits": [
     {
       "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
@@ -11,7 +11,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "113-for-112",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +286,7 @@
       "ratio": "26-for-25",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
