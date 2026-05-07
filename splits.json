@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-05-06T19:13:19.530Z",
-  "totalRecords": 53,
-  "newThisScan": 0,
+  "lastUpdated": "2026-05-07T14:04:43.955Z",
+  "totalRecords": 52,
+  "newThisScan": 6,
   "splits": [
+    {
+      "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
+      "company": "GraniteShares YieldBOOST TSLA E",
+      "ticker": "TSYY",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1a7a27a095138b43abbd31b266d17f133c7718f9e0b2db63fac4c47eb5acc06e",
+      "company": "GraniteShares YieldBoost MSTR ETF",
+      "ticker": "MTYY",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec0a7b1fb603566f8f73ed88860f4afd2bcf05af479cb3606277392e7afcd63de",
+      "company": "GraniteShares YieldBOOST COIN E",
+      "ticker": "COYY",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
       "company": "VisionSys AI Inc.",
@@ -48,6 +81,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ecf29c5790778cc129833171fe99752c46d272885f1c55981a3c3cc8118499dd2",
+      "company": "NFT Limited",
+      "ticker": "MI",
+      "exDate": "2026-05-18",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec39f65d48536c60bf1a38b839e39645b4ccbfc1e67f23d1c199d7d1d56992918",
+      "company": "Muncy Columbia Financial Corporation",
+      "ticker": "CCFN",
+      "exDate": "2026-05-15",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E9e028f60a93a2400155a029895c70fddd92f7b42ad13ef4185e88c5827445537",
       "company": "Brera Holdings PLC",
       "ticker": "SLMT",
@@ -71,7 +126,7 @@
     },
     {
       "id": "E66e76379c908966c4fac1f36af91a7d6724749920024249e7b65785ed1d70906",
-      "company": "EDP Renováveis, S.A.",
+      "company": "EDP Renewables, S.A.",
       "ticker": "EDRVF",
       "exDate": "2026-05-13",
       "ratio": "113-for-112",
@@ -89,6 +144,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6969b1a7a0b0b74d439909923da7cbabd37808b61aaa79c04dc1b78126dd42a4",
+      "company": "Olenox Industries Inc.",
+      "ticker": "OLOX",
+      "exDate": "2026-05-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -125,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eaca185c9f35a5f38500dc20918d678ac2b04d6f7b54d32e86271bde3830d327a",
+      "company": "Nevada King Gold Corp.",
+      "ticker": "NKGFF",
+      "exDate": "2026-05-07",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eafee3691c96b16f4c88fa94045451dd576d45fa55fd483c72597c5f9e38e1222",
       "company": "ERBGF",
       "ticker": "ERBGF",
@@ -142,17 +219,6 @@
       "exDate": "2026-05-07",
       "ratio": "1-for-100",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec39f65d48536c60bf1a38b839e39645b4ccbfc1e67f23d1c199d7d1d56992918",
-      "company": "Muncy Columbia Financial Corporation",
-      "ticker": "CCFN",
-      "exDate": "2026-05-07",
-      "ratio": "3-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -401,7 +467,7 @@
     },
     {
       "id": "E4cbedae751229981b0c4a41e8d4bf699a194b2dc48660cc84989cab9d2f29dae",
-      "company": "Alset AI Ventures Inc.",
+      "company": "Alset AI Ventures Inc",
       "ticker": "GPUSF",
       "exDate": "2026-05-01",
       "ratio": "1-for-10",
@@ -505,83 +571,6 @@
       "exDate": "2026-04-30",
       "ratio": "1-for-25",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea2aeb4e5b982c401f0feaaef87eab5545750da3bdd2cef3f3a50535361702151",
-      "company": "Qualstar Corp",
-      "ticker": "QBAK",
-      "exDate": "2026-04-29",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3e87840092014fab32157b176cb7397e904c564794d29b816b0ce6f156096663",
-      "company": "iShares Russell 1000 Growth ETF",
-      "ticker": "IWF",
-      "exDate": "2026-04-29",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E43939b5b86ab95b44926101b2a27f85e7543b13e12547ef40ddae63a7de7134d",
-      "company": "iShares Core High Dividend ETF",
-      "ticker": "HDV",
-      "exDate": "2026-04-29",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eadba0f2c87b73abff617a4b0f49128647c04d0a01aa78f478c7db513bad1a399",
-      "company": "Cheetah Net Supply Chain Service Inc.",
-      "ticker": "CTNT",
-      "exDate": "2026-04-29",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edbe812706289c5c42310b10d17128eaa20ef11381e74816e4babcb6796105077",
-      "company": "Braiin Limited",
-      "ticker": "BRAI",
-      "exDate": "2026-04-29",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb2e85c7d566982fb9e319182957d42b3543a98a2c6f78398144a518738adb85d",
-      "company": "Giant Mining Corp",
-      "ticker": "BFGFF",
-      "exDate": "2026-04-29",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb3a00c9d3fd79b3b730b6a09ddb41dbae626823231859a471273decd46f7b8d6",
-      "company": "ANCMF",
-      "ticker": "ANCMF",
-      "exDate": "2026-04-29",
-      "ratio": "101-for-100",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
