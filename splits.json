@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-07T19:20:18.336Z",
-  "totalRecords": 53,
-  "newThisScan": 1,
+  "lastUpdated": "2026-05-08T14:24:46.396Z",
+  "totalRecords": 54,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
@@ -55,7 +55,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -147,6 +147,61 @@
       "source": "polygon"
     },
     {
+      "id": "E4011a771447071153a6d2e4abf73941624009bf8da7d5adbf1cca0b8882bb2ff",
+      "company": "SMX (Security Matters) Public Limited Company",
+      "ticker": "SMX",
+      "exDate": "2026-05-11",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3c09f38150f4014c5ef9c1f1a67121736ebea7a260bde9b77fd143181c56f8d3",
+      "company": "KALA BIO, Inc.",
+      "ticker": "KALA",
+      "exDate": "2026-05-11",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E122d886e244d4d86046d4dd136971e97c2813d24f40658ba90c484329d96e656",
+      "company": "FLIVF",
+      "ticker": "FLIVF",
+      "exDate": "2026-05-11",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2c6f361ce740d0f60b4447c1a2dc289e73504641e34c955c354829dca586db18",
+      "company": "Darkiris Inc.",
+      "ticker": "DKI",
+      "exDate": "2026-05-11",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1ed504a3f0e614c83e644ad96b4cc5d91d1348419015371ed021a5707a36a1cd",
+      "company": "Aspire Biopharma Holdings, Inc.",
+      "ticker": "ASBP",
+      "exDate": "2026-05-11",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9c49fc50211d29a6ef81d04191ce4cdd97b8068d016e47d4a7f3907873f025a1",
       "company": "Xiao-I Corporation",
       "ticker": "AIXI",
@@ -155,6 +210,39 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3be1648a2f6272b3ca11517593bf4df3a0de635b031904cef3bce2a32084e912",
+      "company": "Copper Lake Resources Ltd.",
+      "ticker": "WTCZF",
+      "exDate": "2026-05-08",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eed5b382a72ca3e42e979b9faafaa343d547279da2ab4939f8d061ecf99ede9e0",
+      "company": "Troubadour Resources Inc.",
+      "ticker": "TROUF",
+      "exDate": "2026-05-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eee0aba7802513b5f0d94aabd461fc029275e88787af0c6b6db0b7c305038e2c2",
+      "company": "Spod Lithium Corp.",
+      "ticker": "SPODF",
+      "exDate": "2026-05-08",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -188,6 +276,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edb61512ffa0a3058f61212e4bdad915a9cd24b785fc50bf3e8f6dee54c9a8b73",
+      "company": "BeMetals Corp.",
+      "ticker": "BMTLF",
+      "exDate": "2026-05-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -379,7 +478,7 @@
     },
     {
       "id": "Eaa7e3ec16ea80fba36906f94c06ef1b6b2589c3f74cda7e17947aaafef7bb594",
-      "company": "PCS Edventures!, Inc.",
+      "company": "PCS Edventures! Inc",
       "ticker": "PCSV",
       "exDate": "2026-05-04",
       "ratio": "1-for-12",
@@ -493,94 +592,6 @@
       "ticker": "GMEX",
       "exDate": "2026-05-01",
       "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb523f38d956efe5eef61fcdfd5577635aef8b93de91237af51ccbfc4c869eb3e",
-      "company": "Zeus North America Mining Corp",
-      "ticker": "ZUUZF",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E642030798f7aad3ce60a4b7eb124092431b48e5971885f5bf9a170cef622edcf",
-      "company": "The Yumy Candy Co Inc",
-      "ticker": "YUMFF",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efb54cd2a70ec833169596dd1b3fdeb264d882acbe0f4fd8b1c92cfd4a583a661",
-      "company": "Ucommune International Ltd",
-      "ticker": "UK",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1004a5c404202ee86aea13782cb2253c804add8fbb4e102403e18a8a7392901e",
-      "company": "Hydrocarbon Dynamics Ltd",
-      "ticker": "PYMOF",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef856205ffaee82453f46c26ee2fc4bb06f28cf91ffa847b57d9eb9a0b2915c8e",
-      "company": "Portofino Resources Inc",
-      "ticker": "PFFOF",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebf35c3446a36b5b2e012f5f915721ebeaa5fa6de242fd8f9f3d25c0fefcbaedc",
-      "company": "Jaguar Health, Inc.",
-      "ticker": "JAGX",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-35",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef42e81b29689efc7e0db8f11354194b26fa825d40d3a87fcd00ee0b24384a7cf",
-      "company": "BIO-key International, Inc.",
-      "ticker": "BKYI",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E70b568db6e2663358cb105e16a3ee85c5214c0996afec61215f12b04a483e3e5",
-      "company": "reAlpha Tech Corp.",
-      "ticker": "AIRE",
-      "exDate": "2026-04-30",
-      "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
