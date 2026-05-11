@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-05-08T18:22:59.786Z",
-  "totalRecords": 54,
-  "newThisScan": 0,
+  "lastUpdated": "2026-05-11T20:23:38.497Z",
+  "totalRecords": 52,
+  "newThisScan": 4,
   "splits": [
+    {
+      "id": "E2b54f64b078539da51802f234f4579bbc0300be16722a257a11ce26d6645a9cc",
+      "company": "First Farmers Financial Corporation",
+      "ticker": "FFMR",
+      "exDate": "2026-06-08",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5b237d91f11fa4e799ccaee5becf2e9c2d85850b89539d1fc678f56b59c070fe",
+      "company": "Wing Yip Food Holdings Group Limited",
+      "ticker": "WYHG",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
       "company": "GraniteShares YieldBOOST TSLA E",
@@ -37,22 +59,22 @@
       "source": "polygon"
     },
     {
-      "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
-      "company": "VisionSys AI Inc.",
-      "ticker": "VSA",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-10",
+      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
     {
-      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-50",
+      "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
+      "company": "VisionSys AI Inc.",
+      "ticker": "VSA",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -147,6 +169,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ef7e0843ca13e1fa1216aa4571777a9dadfae4882a99b3a3f9d5b7b0e9db6d02d",
+      "company": "NBIAF",
+      "ticker": "NBIAF",
+      "exDate": "2026-05-12",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6a6b0a6b544e4cec78c05bb2ca95fb35642c4ace9962b6daf8ebad1b7d3b2bb2",
+      "company": "Vibe Growth Corporation",
+      "ticker": "VIBEF",
+      "exDate": "2026-05-11",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4011a771447071153a6d2e4abf73941624009bf8da7d5adbf1cca0b8882bb2ff",
       "company": "SMX (Security Matters) Public Limited Company",
       "ticker": "SMX",
@@ -236,7 +280,7 @@
     },
     {
       "id": "Eee0aba7802513b5f0d94aabd461fc029275e88787af0c6b6db0b7c305038e2c2",
-      "company": "Spod Lithium Corp.",
+      "company": "Freedom Gold Corp.",
       "ticker": "SPODF",
       "exDate": "2026-05-08",
       "ratio": "1-for-15",
@@ -357,7 +401,7 @@
     },
     {
       "id": "Ef39e3340bcf65923809c8964ba9a772ca9fafe0f5947f488d2bf41b90f612f0d",
-      "company": "Emo Capital Corp.",
+      "company": "Emo Capital Corp",
       "ticker": "NUVI",
       "exDate": "2026-05-05",
       "ratio": "1-for-1000",
@@ -368,7 +412,7 @@
     },
     {
       "id": "Ee7f4edac3b64e49dec9a7968746b75b222e152d61c9041c59ad105debf20867b",
-      "company": "Credissential Inc.",
+      "company": "Credissential Inc",
       "ticker": "IPTNF",
       "exDate": "2026-05-05",
       "ratio": "1-for-120",
@@ -526,72 +570,6 @@
       "ticker": "ERNA",
       "exDate": "2026-05-04",
       "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E93f013db5a17ac99356ff93fb3a0df98c40f8e1c7a62d8f9e276bbec19e252ad",
-      "company": "Ten-League International Holdings Limited",
-      "ticker": "TLIH",
-      "exDate": "2026-05-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9d73fbf9eba71dd3f151c2e96f5f5b84900f0af718f0d8742c72177c6f7dc7c6",
-      "company": "GraniteShares 2x Long SMCI Dail",
-      "ticker": "SMCL",
-      "exDate": "2026-05-01",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5d8597796a268518983bd40182ceb402ba8f6b5dc89000f32fbf2a9d44fb07e2",
-      "company": "GraniteShares ETF Trust - GraniteShares 2x Long MSTR Daily ETF",
-      "ticker": "MSTP",
-      "exDate": "2026-05-01",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E19c61a4af8de4291269f8544255a89dc63b4900aaf42b8c9317b46ebbb5d1b08",
-      "company": "GraniteShares 2x Long MARA Daily ETF",
-      "ticker": "MRAL",
-      "exDate": "2026-05-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4cbedae751229981b0c4a41e8d4bf699a194b2dc48660cc84989cab9d2f29dae",
-      "company": "Alset AI Ventures Inc",
-      "ticker": "GPUSF",
-      "exDate": "2026-05-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4b187c7078ef0d94d699eee13f40cd973428d1cc986980c0498cb26e8946fe6d",
-      "company": "GMEX Robotics Corporation",
-      "ticker": "GMEX",
-      "exDate": "2026-05-01",
-      "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
