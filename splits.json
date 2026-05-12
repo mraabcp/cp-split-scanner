@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-11T20:23:38.497Z",
-  "totalRecords": 52,
-  "newThisScan": 4,
+  "lastUpdated": "2026-05-12T20:17:46.477Z",
+  "totalRecords": 68,
+  "newThisScan": 23,
   "splits": [
     {
       "id": "E2b54f64b078539da51802f234f4579bbc0300be16722a257a11ce26d6645a9cc",
@@ -11,7 +11,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -59,6 +59,127 @@
       "source": "polygon"
     },
     {
+      "id": "Ece3f702348d4c4c6ba2e466938194e9fb721c2ddbc01c5bd67287a0a91a4fdfb",
+      "company": "ProShares Ultra XRP ETF",
+      "ticker": "UXRP",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6a1b56c28a38ed54946870177b4b46de4b9ee8e7254e3586b3d1418c78387168",
+      "company": "ProShares UltraShort Consumer Staples",
+      "ticker": "SZK",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
+      "company": "ProShares UltraShort Materials",
+      "ticker": "SMN",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7e5ed9f8edeb06a43ef3816d0fc4a40b78bf7443a75f4b7bb5d00a13450c6d5d",
+      "company": "ProShares Ultra Solana ETF",
+      "ticker": "SLON",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E19b2650d1050f731992062cf0be113669958d0f1cf263d4fea43cbd2c38e9f2c",
+      "company": "ProShares UltraShort Industrials",
+      "ticker": "SIJ",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E11ce7ca91ce71ea6aad97d3c6fd033691277d2de8bec14369587ec41db243096",
+      "company": "ProShares UltraShort Utilities",
+      "ticker": "SDP",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6c2535fc6cfaa70495a31fd818fc64a8c94d5e760fe864c9636cde41b1381ee4",
+      "company": "ProShares UltraShort Bloomberg Crude Oil",
+      "ticker": "SCO",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1fd864d6f8529d3523c844cab4d5736493ecee052457b8e9f271cdc9c712f2ff",
+      "company": "ProShares Short SmallCap600",
+      "ticker": "SBB",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5a8213e0ed3a5f005896cdcd7d9a3ebbe0d99ef1a0652c6bc546094e794f34b8",
+      "company": "ProShares UltraShort Health Care",
+      "ticker": "RXD",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E771e6e6d9185ecac18b098891d2e017e95d6b31aa85e92afdc6c5afa2392ae3e",
+      "company": "ProShares UltraShort Technology",
+      "ticker": "REW",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E42aa1b103fa58ce508bf199f756e20af4c558712569d9a819674a75989f99237",
+      "company": "ProShares S&P 500 Dividend Aristocrats ETF",
+      "ticker": "NOBL",
+      "exDate": "2026-05-28",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
       "company": "Jianzhi Education Technology Group Company Limited",
       "ticker": "JZ",
@@ -70,6 +191,72 @@
       "source": "polygon"
     },
     {
+      "id": "E4000ca1f8a750df8b5c1ba5358e70e44beb48b9f5984335726b9abf4b26d0592",
+      "company": "ProShares Decline of the Retail Store ETF",
+      "ticker": "EMTY",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E102c909d67a9785a6748571c9a10863d77b4cefee4dd3ada15012c5ccb9bc642",
+      "company": "ProShares Short MSCI EAFE",
+      "ticker": "EFZ",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5f74dc79ac019a8f686af8a3ceeaeac22f8e12ccecd11602ecfed189d5952d70",
+      "company": "ProShares Ultra COIN",
+      "ticker": "COIA",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9e2a5ebd2b1b67c9d28e624bd3224a053bf5d522b328780037dd9cc9fd9d7c48",
+      "company": "ProShares UltraShort MSCI Brazil Capped",
+      "ticker": "BZQ",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3c4c11640008e2ce27b675b1e0d416e762ba121764cede1742ac3d64e1f4d325",
+      "company": "ProShares Ultra Bloomberg Natural Gas",
+      "ticker": "BOIL",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E001a4e9348dec14de92ac633abc1a06ac5209c7fc5fba999573d8db5b19ea70d",
+      "company": "ProShares UltraShort Nasdaq Biotechnology",
+      "ticker": "BIS",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
       "company": "VisionSys AI Inc.",
       "ticker": "VSA",
@@ -78,6 +265,39 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E96b965a76a65024e37367ace4675c294608e692c0939ad743fe8e27b4a5707ad",
+      "company": "Nobia AB (publ)",
+      "ticker": "NBIAY",
+      "exDate": "2026-05-22",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6111c91ba60e1fdfd570d784cca31e1ec8e46a493a6c0e24611b45730dc8f1f8",
+      "company": "HZNSF",
+      "ticker": "HZNSF",
+      "exDate": "2026-05-21",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5d7fddfe836c0b4599e8b96d33b403b082f925de22f00a1ea188f329c7879aac",
+      "company": "HZMXF",
+      "ticker": "HZMXF",
+      "exDate": "2026-05-21",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -125,6 +345,17 @@
       "source": "polygon"
     },
     {
+      "id": "E20733708100b1174187998142ca3e16febc505c797b206f543c343db564f8eba",
+      "company": "LBTSF",
+      "ticker": "LBTSF",
+      "exDate": "2026-05-15",
+      "ratio": "66-for-65",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec39f65d48536c60bf1a38b839e39645b4ccbfc1e67f23d1c199d7d1d56992918",
       "company": "Muncy Columbia Financial Corporation",
       "ticker": "CCFN",
@@ -147,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea9727fdd5e74cf2e7e4d8b4e84f4ae735a34f49335665663917467d8c2f3b0d8",
+      "company": "Winners, Inc.",
+      "ticker": "WNRS",
+      "exDate": "2026-05-13",
+      "ratio": "1-for-300",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3bb31fd62a0a0f5ce94d193046bb46dd876fbc7509cc0a542183442a47d9a37f",
       "company": "Mitsubishi Heavy Industries Ltd",
       "ticker": "MHVIY",
@@ -155,6 +397,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E06c7f1d0b71008f7b0e68c4ab2a098b5f4a0be87e63453c018408c73cc03c3ae",
+      "company": "IAPTF",
+      "ticker": "IAPTF",
+      "exDate": "2026-05-13",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -176,7 +429,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -187,7 +440,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,83 +748,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ead1455d75aa0a26832bc930bab847fca6cf155af18cef40bcd0dd03aef5cf52b",
-      "company": "Warehouses De Pauw SA",
-      "ticker": "WDPSF",
-      "exDate": "2026-05-04",
-      "ratio": "26-for-25",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4c8b9a19e41f60fb1a0822e35e5d506a923896fe9706b07ada2ce397efbef70d",
-      "company": "Twin Vee Powercats Co.",
-      "ticker": "VEEE",
-      "exDate": "2026-05-04",
-      "ratio": "1-for-37",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eaa7e3ec16ea80fba36906f94c06ef1b6b2589c3f74cda7e17947aaafef7bb594",
-      "company": "PCS Edventures! Inc",
-      "ticker": "PCSV",
-      "exDate": "2026-05-04",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E60824eaa57a3e0e2b8f0aaedc9dc37140705302583217e6aa86ce27038174342",
-      "company": "Inno Holdings Inc.",
-      "ticker": "INHD",
-      "exDate": "2026-05-04",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0b5e0d236462a6e8036152e61b9efa217e6ed4f07b849dd055b90e8ba32c28a6",
-      "company": "Fitness Champs Holdings Limited",
-      "ticker": "FCHL",
-      "exDate": "2026-05-04",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E94314c87c2856d4b04c8e5768781fbfb4744e68a236c723732a037484a127121",
-      "company": "Eco Science Solutions, Inc.",
-      "ticker": "ESSID",
-      "exDate": "2026-05-04",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E95ef04e66342076479c267586be85a73456287ac1db718933cafe9585cd429a5",
-      "company": "Ernexa Therapeutics Inc.",
-      "ticker": "ERNA",
-      "exDate": "2026-05-04",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
