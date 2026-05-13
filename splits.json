@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-05-12T20:17:46.477Z",
-  "totalRecords": 68,
-  "newThisScan": 23,
+  "lastUpdated": "2026-05-13T20:25:07.292Z",
+  "totalRecords": 64,
+  "newThisScan": 6,
   "splits": [
+    {
+      "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
+      "company": "KLA Corporation",
+      "ticker": "KLAC",
+      "exDate": "2026-06-12",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E2b54f64b078539da51802f234f4579bbc0300be16722a257a11ce26d6645a9cc",
       "company": "First Farmers Financial Corporation",
@@ -66,7 +77,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,18 +88,18 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Materials",
+      "company": "ProShares UltraShort Basic Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +110,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +121,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +132,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +143,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +154,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +165,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -165,7 +176,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -176,7 +187,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -198,7 +209,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -209,7 +220,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,7 +231,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +242,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +253,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +264,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +286,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +297,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -295,6 +306,28 @@
       "ticker": "HZMXF",
       "exDate": "2026-05-21",
       "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E5c45bc4dcb5905da9cd9c5fe7b07c8e0f99ca2501011827f68a2ea2a9d8ccf3a",
+      "company": "Financial 15 Split Corp.",
+      "ticker": "FNNCF",
+      "exDate": "2026-05-19",
+      "ratio": "110-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecfa829c341212c1a1bf5abbae839c5ce8b6487e10da337d1bba1fcf1eea63c73",
+      "company": "Canadian Banc Corp.",
+      "ticker": "CNDCF",
+      "exDate": "2026-05-19",
+      "ratio": "110-for-100",
       "type": "forward",
       "isETF": false,
       "isNew": true,
@@ -352,7 +385,7 @@
       "ratio": "66-for-65",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -364,6 +397,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E194a51e357b66838fc53983b45db119cfb1d1f994ff27b1c8053093b4090aec0",
+      "company": "BIM Birlesik Magazalar A.S.",
+      "ticker": "BMBRF",
+      "exDate": "2026-05-15",
+      "ratio": "200-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E12fa7748ff458dc84efaa2c5876ac9ded528e894a2b3e1ccc035267454210dd6",
+      "company": "SNGPF",
+      "ticker": "SNGPF",
+      "exDate": "2026-05-14",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -385,7 +440,7 @@
       "ratio": "1-for-300",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +462,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -419,6 +474,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E649cae70ae25005f72f02415c4979befefc9cfbe5787c62dbd5f5d7d250215d3",
+      "company": "Spenda Limited",
+      "ticker": "CROTF",
+      "exDate": "2026-05-13",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -599,7 +665,7 @@
     },
     {
       "id": "Eaca185c9f35a5f38500dc20918d678ac2b04d6f7b54d32e86271bde3830d327a",
-      "company": "Nevada King Gold Corp.",
+      "company": "Nevada King Gold Corp",
       "ticker": "NKGFF",
       "exDate": "2026-05-07",
       "ratio": "1-for-5",
@@ -638,116 +704,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E10d29c4c036efa82412641c627e64e38243a3de41c03e8fdf035a3f8e0b7bc4f",
-      "company": "Atari SA",
-      "ticker": "PONGF",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef39e3340bcf65923809c8964ba9a772ca9fafe0f5947f488d2bf41b90f612f0d",
-      "company": "Emo Capital Corp",
-      "ticker": "NUVI",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-1000",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee7f4edac3b64e49dec9a7968746b75b222e152d61c9041c59ad105debf20867b",
-      "company": "Credissential Inc",
-      "ticker": "IPTNF",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-120",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6660db23e45dd673c1b8bfda92a5ed44498dbe5dd9d742c81eb2dc2b6b5285da",
-      "company": "iShares 25+ Year Treasury STRIPS Bond ETF",
-      "ticker": "GOVZ",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9d42d8a0f1c4a3581ce5fd3e0ac70b3bc790221c92094fcb6808a2edcd115607",
-      "company": "Leverage Shares 2x Long FIG Dai",
-      "ticker": "FIGG",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3305f1c7238af1f3f6dc480202c2d9e6fe2db5088fc073174023e9c73ffda476",
-      "company": "Leverage Shares 2X Long DUOL Daily ETF",
-      "ticker": "DUOG",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed8fc2d48acd50b6f0b340c9f40ec0d8f81f3c7644a4559d533e6377dfcf97995",
-      "company": "Leverage Shares 2X Long CRWV Da",
-      "ticker": "CRWG",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea388e319329e433d18bc153a676a8bdf0e852632d1363de867fbe7b9c0beb525",
-      "company": "Leverage Shares 2X Long CRCL Da",
-      "ticker": "CRCG",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E54bcf4c0567639468f2a6521b04f6c5eaafbc4189c7d103fad775e38c4ac5255",
-      "company": "Leverage Shares 2X Long BMNR Daily ETF",
-      "ticker": "BMNG",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6b58a2db1b74216fa5c83ee99be21376d3527bba6e9032ce89153001d5c0d703",
-      "company": "Leverage Shares 2X Long BBAI Da",
-      "ticker": "BAIG",
-      "exDate": "2026-05-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
