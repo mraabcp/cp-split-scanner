@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-14T20:17:32.039Z",
-  "totalRecords": 70,
-  "newThisScan": 7,
+  "lastUpdated": "2026-05-15T19:08:43.514Z",
+  "totalRecords": 66,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
@@ -12,6 +12,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8d1d1fb86f293e024165a03f309e6783c913c7a9d42c7f354bd2c7fa39bad43b",
+      "company": "T-REX 2X Long SNDK Daily Target",
+      "ticker": "SNDU",
+      "exDate": "2026-06-08",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -319,28 +330,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E5c45bc4dcb5905da9cd9c5fe7b07c8e0f99ca2501011827f68a2ea2a9d8ccf3a",
-      "company": "Financial 15 Split Corp.",
-      "ticker": "FNNCF",
-      "exDate": "2026-05-19",
-      "ratio": "110-for-100",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecfa829c341212c1a1bf5abbae839c5ce8b6487e10da337d1bba1fcf1eea63c73",
-      "company": "Canadian Banc Corp.",
-      "ticker": "CNDCF",
-      "exDate": "2026-05-19",
-      "ratio": "110-for-100",
-      "type": "forward",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -352,7 +341,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +363,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +385,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +418,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +429,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -449,6 +438,17 @@
       "ticker": "ADTX",
       "exDate": "2026-05-18",
       "ratio": "1-for-27",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2122c6fe202afd2ebf495b98aa7edafceeb59c0cb07e59391569d2d1eb41ff9e",
+      "company": "Leafbuyer Technologies, Inc.",
+      "ticker": "LBUY",
+      "exDate": "2026-05-15",
+      "ratio": "1-for-156",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -577,7 +577,7 @@
     },
     {
       "id": "E6a6b0a6b544e4cec78c05bb2ca95fb35642c4ace9962b6daf8ebad1b7d3b2bb2",
-      "company": "Vibe Growth Corporation",
+      "company": "Vibe Growth Corp",
       "ticker": "VIBEF",
       "exDate": "2026-05-11",
       "ratio": "1-for-10",
@@ -724,50 +724,6 @@
       "ticker": "BMTLF",
       "exDate": "2026-05-08",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed2e9c2965e528b9bc663e8266a8461db43cb7009ba0c49ea8397227b8753e7e1",
-      "company": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
-      "ticker": "SBS",
-      "exDate": "2026-05-07",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eaca185c9f35a5f38500dc20918d678ac2b04d6f7b54d32e86271bde3830d327a",
-      "company": "Nevada King Gold Corp",
-      "ticker": "NKGFF",
-      "exDate": "2026-05-07",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eafee3691c96b16f4c88fa94045451dd576d45fa55fd483c72597c5f9e38e1222",
-      "company": "ERBGF",
-      "ticker": "ERBGF",
-      "exDate": "2026-05-07",
-      "ratio": "13-for-10",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8dcbbaac04eec45499abec7157d69e2bbf02f92d4ba6f43536adc6f02a835a4d",
-      "company": "Chanson International Holding",
-      "ticker": "CHSN",
-      "exDate": "2026-05-07",
-      "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
