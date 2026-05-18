@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-15T19:08:43.514Z",
-  "totalRecords": 66,
-  "newThisScan": 2,
+  "lastUpdated": "2026-05-18T19:18:15.411Z",
+  "totalRecords": 70,
+  "newThisScan": 11,
   "splits": [
     {
       "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
@@ -22,7 +22,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -34,6 +34,83 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2b687d9a542a556249803f66f4cc9db06bd1a8bd89ae5c46d3608928ea763545",
+      "company": "Tradr 2X Long WDC Daily ETF",
+      "ticker": "WDCX",
+      "exDate": "2026-06-03",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E574daa1fdec4ebc8bed3ba5abe1f2c4a8e311fbb3e4564e0c45b41307713a130",
+      "company": "Tradr 2X Long Sndk Daily ETF",
+      "ticker": "SNXX",
+      "exDate": "2026-06-03",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0b6d85b26843fbc7f9b01ee33ec8f8bf1615c36499b6e5913c3674ef919e0fa4",
+      "company": "Tradr 2X Long NBIS Daily ETF",
+      "ticker": "NEBX",
+      "exDate": "2026-06-03",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9590b69467d15a63428882e37749d5d06adc9bd59a493a105a6c28d1526f34c3",
+      "company": "Tradr 2X Short Nbis Daily ETF",
+      "ticker": "NBIZ",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E17d484242b293e1a5ab8799503ff899ce1b748bef324727cdb1c10c2b0acfc6e",
+      "company": "Tradr 2X Long GEV Daily ETF",
+      "ticker": "GEVX",
+      "exDate": "2026-06-03",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efc13d2afb9cc41cfaaac8e0cb0dbe10ebe5459cb1d002609041ba62e021eeb55",
+      "company": "Tradr 2X Short BE Daily ETF",
+      "ticker": "BEZ",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8d7f91f49c38c4b1c5d28da6842c431643564137ee818ce55668f44a289fc014",
+      "company": "Tradr 2X Short Apld Daily ETF",
+      "ticker": "APLZ",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -104,7 +181,7 @@
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Materials",
+      "company": "ProShares UltraShort Basic Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
@@ -224,6 +301,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea80108e3333ff6a1f89ac10a2cf62d1862b4cef5806ddc36d680b9e2934ed4ca",
+      "company": "ELVCF",
+      "ticker": "ELVCF",
+      "exDate": "2026-05-28",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E102c909d67a9785a6748571c9a10863d77b4cefee4dd3ada15012c5ccb9bc642",
       "company": "ProShares Short MSCI EAFE",
       "ticker": "EFZ",
@@ -323,6 +411,17 @@
       "source": "polygon"
     },
     {
+      "id": "E0039e7670c32a561497d2b227d980bea34a2a6894b00a2ff0f8e850948ac7d6b",
+      "company": "Neo-Concept International Group Holdings Limited",
+      "ticker": "NCI",
+      "exDate": "2026-05-19",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eafb096d8dee6703e3202410bf1114dc360b053d403a3d028ee75c58da34f211a",
       "company": "Hexagon Purus ASA",
       "ticker": "HPURF",
@@ -331,6 +430,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6a8abb83b8814c96e76442f85c6e7d60ad1300940e3e78c31f38ced563a4d6db",
+      "company": "EZGO Technologies Ltd.",
+      "ticker": "EZGO",
+      "exDate": "2026-05-19",
+      "ratio": "1-for-150",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -353,6 +463,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Efb7789ff5a72b6a57d9211b064a872821bc3eeaaea57f6f2d1b7f8a3b14da4e6",
+      "company": "Worldwide NFT, Inc.",
+      "ticker": "WNFT",
+      "exDate": "2026-05-18",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -451,7 +572,7 @@
       "ratio": "1-for-156",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -647,83 +768,6 @@
       "ticker": "AIXI",
       "exDate": "2026-05-11",
       "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3be1648a2f6272b3ca11517593bf4df3a0de635b031904cef3bce2a32084e912",
-      "company": "Copper Lake Resources Ltd",
-      "ticker": "WTCZF",
-      "exDate": "2026-05-08",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eed5b382a72ca3e42e979b9faafaa343d547279da2ab4939f8d061ecf99ede9e0",
-      "company": "Troubadour Resources Inc",
-      "ticker": "TROUF",
-      "exDate": "2026-05-08",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eee0aba7802513b5f0d94aabd461fc029275e88787af0c6b6db0b7c305038e2c2",
-      "company": "Spod Lithium Corp",
-      "ticker": "SPODF",
-      "exDate": "2026-05-08",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6969b1a7a0b0b74d439909923da7cbabd37808b61aaa79c04dc1b78126dd42a4",
-      "company": "Olenox Industries Inc.",
-      "ticker": "OLOX",
-      "exDate": "2026-05-08",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1772667cbfaeb8c8ee983c8de51e6a53f70b2dbc92ea6b070b5f6576e5ca263a",
-      "company": "Carvana Co.",
-      "ticker": "CVNA",
-      "exDate": "2026-05-08",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E16511f89639544c5fc21bf219a56773505b38108f9b672c748f90deda20dd186",
-      "company": "Banzai International, Inc.",
-      "ticker": "BNZI",
-      "exDate": "2026-05-08",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edb61512ffa0a3058f61212e4bdad915a9cd24b785fc50bf3e8f6dee54c9a8b73",
-      "company": "BeMetals Corp",
-      "ticker": "BMTLF",
-      "exDate": "2026-05-08",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
