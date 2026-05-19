@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-18T19:18:15.411Z",
-  "totalRecords": 70,
-  "newThisScan": 11,
+  "lastUpdated": "2026-05-19T20:17:55.761Z",
+  "totalRecords": 66,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
@@ -12,6 +12,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E24e04e76438311ab5c4b58a2e896df9b89a0b4dc7352e9049c6ddadb3f66502c",
+      "company": "L'Air Liquide S.A.",
+      "ticker": "AIQUF",
+      "exDate": "2026-06-09",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -37,6 +48,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E2b687d9a542a556249803f66f4cc9db06bd1a8bd89ae5c46d3608928ea763545",
       "company": "Tradr 2X Long WDC Daily ETF",
       "ticker": "WDCX",
@@ -44,7 +66,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +77,7 @@
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +88,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +99,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +110,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +121,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +132,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -181,7 +203,7 @@
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Basic Materials",
+      "company": "ProShares UltraShort Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
@@ -279,17 +301,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E4000ca1f8a750df8b5c1ba5358e70e44beb48b9f5984335726b9abf4b26d0592",
       "company": "ProShares Decline of the Retail Store ETF",
       "ticker": "EMTY",
@@ -308,7 +319,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -324,12 +335,12 @@
     },
     {
       "id": "E5f74dc79ac019a8f686af8a3ceeaeac22f8e12ccecd11602ecfed189d5952d70",
-      "company": "ProShares Ultra COIN",
+      "company": "COIA",
       "ticker": "COIA",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -378,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "E88e4a6d0953c6db583618dc6186e8f010724102eb88309c6c1ef659893792382",
+      "company": "U-BX Technology Ltd.",
+      "ticker": "UBXG",
+      "exDate": "2026-05-22",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E96b965a76a65024e37367ace4675c294608e692c0939ad743fe8e27b4a5707ad",
       "company": "Nobia AB (publ)",
       "ticker": "NBIAY",
@@ -411,6 +433,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed38227d92c56e3cefea73bea04748b3cf52dd2ddf2aa57a8e53abed566b7b222",
+      "company": "United Lithium Corp.",
+      "ticker": "ULTHF",
+      "exDate": "2026-05-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0039e7670c32a561497d2b227d980bea34a2a6894b00a2ff0f8e850948ac7d6b",
       "company": "Neo-Concept International Group Holdings Limited",
       "ticker": "NCI",
@@ -418,7 +451,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +473,7 @@
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +506,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -522,7 +555,7 @@
     },
     {
       "id": "Ecf29c5790778cc129833171fe99752c46d272885f1c55981a3c3cc8118499dd2",
-      "company": "NFT Limited",
+      "company": "MI",
       "ticker": "MI",
       "exDate": "2026-05-18",
       "ratio": "1-for-80",
@@ -632,7 +665,7 @@
     },
     {
       "id": "Ea9727fdd5e74cf2e7e4d8b4e84f4ae735a34f49335665663917467d8c2f3b0d8",
-      "company": "Winners, Inc.",
+      "company": "Winners Inc",
       "ticker": "WNRS",
       "exDate": "2026-05-13",
       "ratio": "1-for-300",
@@ -676,7 +709,7 @@
     },
     {
       "id": "E649cae70ae25005f72f02415c4979befefc9cfbe5787c62dbd5f5d7d250215d3",
-      "company": "Spenda Limited",
+      "company": "Spenda Ltd",
       "ticker": "CROTF",
       "exDate": "2026-05-13",
       "ratio": "1-for-20",
@@ -691,83 +724,6 @@
       "ticker": "NBIAF",
       "exDate": "2026-05-12",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6a6b0a6b544e4cec78c05bb2ca95fb35642c4ace9962b6daf8ebad1b7d3b2bb2",
-      "company": "Vibe Growth Corp",
-      "ticker": "VIBEF",
-      "exDate": "2026-05-11",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4011a771447071153a6d2e4abf73941624009bf8da7d5adbf1cca0b8882bb2ff",
-      "company": "SMX (Security Matters) Public Limited Company",
-      "ticker": "SMX",
-      "exDate": "2026-05-11",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3c09f38150f4014c5ef9c1f1a67121736ebea7a260bde9b77fd143181c56f8d3",
-      "company": "KALA BIO, Inc.",
-      "ticker": "KALA",
-      "exDate": "2026-05-11",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E122d886e244d4d86046d4dd136971e97c2813d24f40658ba90c484329d96e656",
-      "company": "FLIVF",
-      "ticker": "FLIVF",
-      "exDate": "2026-05-11",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2c6f361ce740d0f60b4447c1a2dc289e73504641e34c955c354829dca586db18",
-      "company": "Darkiris Inc.",
-      "ticker": "DKI",
-      "exDate": "2026-05-11",
-      "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1ed504a3f0e614c83e644ad96b4cc5d91d1348419015371ed021a5707a36a1cd",
-      "company": "Aspire Biopharma Holdings, Inc.",
-      "ticker": "ASBP",
-      "exDate": "2026-05-11",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9c49fc50211d29a6ef81d04191ce4cdd97b8068d016e47d4a7f3907873f025a1",
-      "company": "Xiao-I Corporation",
-      "ticker": "AIXI",
-      "exDate": "2026-05-11",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
