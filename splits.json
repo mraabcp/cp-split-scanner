@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-05-19T20:17:55.761Z",
-  "totalRecords": 66,
-  "newThisScan": 3,
+  "lastUpdated": "2026-05-20T21:16:16.322Z",
+  "totalRecords": 77,
+  "newThisScan": 12,
   "splits": [
+    {
+      "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
+      "company": "Worldline SA",
+      "ticker": "WRDLY",
+      "exDate": "2026-06-17",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
       "company": "KLA Corporation",
@@ -22,7 +33,7 @@
       "ratio": "11-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -78,6 +89,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef6232f7c3cc6c6c6a137a2dff5c653f90c629b45098720e1d3b442fb2acd07d6",
+      "company": "Power REIT",
+      "ticker": "PW",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -335,12 +357,12 @@
     },
     {
       "id": "E5f74dc79ac019a8f686af8a3ceeaeac22f8e12ccecd11602ecfed189d5952d70",
-      "company": "COIA",
+      "company": "ProShares Ultra COIN",
       "ticker": "COIA",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -396,7 +418,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -408,6 +430,50 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E64701c670a5b19fa0d51a87fd9bdaf5f5f6d36ffca65a9947c9105f65a8a265a",
+      "company": "Nakamoto Inc.",
+      "ticker": "NAKA",
+      "exDate": "2026-05-22",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E63c5bf664370d09af9e1c66ba1d9472a1fd2441f5d7be577b8a3e06deb37ab27",
+      "company": "Lunai Bioworks Inc.",
+      "ticker": "LNAI",
+      "exDate": "2026-05-22",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec4df2a7a5c3462097a06dd226b4a951e1bdf695e11839c10b4af753bd1c29c66",
+      "company": "iPower Inc.",
+      "ticker": "IPW",
+      "exDate": "2026-05-22",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E40df7af79aaf8587b2b4b30e544f7b45c0fbee02b3847f9292dfc03b74a9a3aa",
+      "company": "Onconetix, Inc.",
+      "ticker": "ONCO",
+      "exDate": "2026-05-21",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -433,6 +499,72 @@
       "source": "polygon"
     },
     {
+      "id": "Ea451037649a087291b7ceb53d62d536a2cb30359969e7c3d4b1cfe0aa8e26e2f",
+      "company": "Haoxi Health Technology Limited",
+      "ticker": "HAO",
+      "exDate": "2026-05-21",
+      "ratio": "1-for-128",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7584f7fa8ec416857ee02a552f2abebeaeffe4fcf701eb4578483c8750a2d99c",
+      "company": "Clearmind Medicine Inc.",
+      "ticker": "CMND",
+      "exDate": "2026-05-21",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3a228b17ecfd1b9c23bff0fa9d645a8bed211ea5fc200a5595e30f863fe370af",
+      "company": "Tekumo, Inc.",
+      "ticker": "TKMO",
+      "exDate": "2026-05-20",
+      "ratio": "1-for-1000",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef27f96577680becb3cb87097977b0c82626da5f7a77c388bdbfb06ba9c1b7101",
+      "company": "Optimi Health Corp.",
+      "ticker": "OPTHF",
+      "exDate": "2026-05-20",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E56d6ea981f8b289fa351b90eff145c02489b3db05b24d5a41dec5541dd577520",
+      "company": "Optimi Health Corp. Common Shares",
+      "ticker": "OPTH",
+      "exDate": "2026-05-20",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8e4ccc43809b3878db94cbecde230e35ddc5388d904c6889a7172d53ffc2d9c8",
+      "company": "Bounty Oil & Gas NL",
+      "ticker": "BYOGF",
+      "exDate": "2026-05-20",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed38227d92c56e3cefea73bea04748b3cf52dd2ddf2aa57a8e53abed566b7b222",
       "company": "United Lithium Corp.",
       "ticker": "ULTHF",
@@ -440,7 +572,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -555,7 +687,7 @@
     },
     {
       "id": "Ecf29c5790778cc129833171fe99752c46d272885f1c55981a3c3cc8118499dd2",
-      "company": "MI",
+      "company": "NFT Limited",
       "ticker": "MI",
       "exDate": "2026-05-18",
       "ratio": "1-for-80",
@@ -665,7 +797,7 @@
     },
     {
       "id": "Ea9727fdd5e74cf2e7e4d8b4e84f4ae735a34f49335665663917467d8c2f3b0d8",
-      "company": "Winners Inc",
+      "company": "Winners, Inc.",
       "ticker": "WNRS",
       "exDate": "2026-05-13",
       "ratio": "1-for-300",
@@ -713,17 +845,6 @@
       "ticker": "CROTF",
       "exDate": "2026-05-13",
       "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef7e0843ca13e1fa1216aa4571777a9dadfae4882a99b3a3f9d5b7b0e9db6d02d",
-      "company": "NBIAF",
-      "ticker": "NBIAF",
-      "exDate": "2026-05-12",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
