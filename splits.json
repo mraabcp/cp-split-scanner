@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-20T21:16:16.322Z",
-  "totalRecords": 77,
-  "newThisScan": 12,
+  "lastUpdated": "2026-05-21T14:38:15.466Z",
+  "totalRecords": 74,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
@@ -11,7 +11,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -400,6 +400,17 @@
       "source": "polygon"
     },
     {
+      "id": "E7b2d3d184c618830b46c0be24039e04a6231912d82d0936423ea95ad306056a8",
+      "company": "Wellgistics Health, Inc.",
+      "ticker": "WGRX",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
       "company": "VisionSys AI Inc.",
       "ticker": "VSA",
@@ -440,6 +451,17 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eadefe12849e99a716a7e14a73ea1eb8f34545a1fa51366e1272229dd1889246e",
+      "company": "LZ Technology Holdings Limited",
+      "ticker": "LZMH",
+      "exDate": "2026-05-22",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -451,7 +473,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +484,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +495,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +528,7 @@
       "ratio": "1-for-128",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +539,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +550,7 @@
       "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,18 +561,18 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E56d6ea981f8b289fa351b90eff145c02489b3db05b24d5a41dec5541dd577520",
-      "company": "Optimi Health Corp. Common Shares",
+      "company": "Optimi Health Corp.",
       "ticker": "OPTH",
       "exDate": "2026-05-20",
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -561,7 +583,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -731,7 +753,7 @@
     },
     {
       "id": "E2122c6fe202afd2ebf495b98aa7edafceeb59c0cb07e59391569d2d1eb41ff9e",
-      "company": "Leafbuyer Technologies, Inc.",
+      "company": "Leafbuyer Technologies Inc",
       "ticker": "LBUY",
       "exDate": "2026-05-15",
       "ratio": "1-for-156",
@@ -790,61 +812,6 @@
       "ticker": "SLMT",
       "exDate": "2026-05-14",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea9727fdd5e74cf2e7e4d8b4e84f4ae735a34f49335665663917467d8c2f3b0d8",
-      "company": "Winners, Inc.",
-      "ticker": "WNRS",
-      "exDate": "2026-05-13",
-      "ratio": "1-for-300",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3bb31fd62a0a0f5ce94d193046bb46dd876fbc7509cc0a542183442a47d9a37f",
-      "company": "Mitsubishi Heavy Industries Ltd",
-      "ticker": "MHVIY",
-      "exDate": "2026-05-13",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E06c7f1d0b71008f7b0e68c4ab2a098b5f4a0be87e63453c018408c73cc03c3ae",
-      "company": "IAPTF",
-      "ticker": "IAPTF",
-      "exDate": "2026-05-13",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E66e76379c908966c4fac1f36af91a7d6724749920024249e7b65785ed1d70906",
-      "company": "EDP Renewables, S.A.",
-      "ticker": "EDRVF",
-      "exDate": "2026-05-13",
-      "ratio": "113-for-112",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E649cae70ae25005f72f02415c4979befefc9cfbe5787c62dbd5f5d7d250215d3",
-      "company": "Spenda Ltd",
-      "ticker": "CROTF",
-      "exDate": "2026-05-13",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
