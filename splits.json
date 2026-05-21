@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-21T14:38:15.466Z",
+  "lastUpdated": "2026-05-21T20:26:14.214Z",
   "totalRecords": 74,
-  "newThisScan": 2,
+  "newThisScan": 0,
   "splits": [
     {
       "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
@@ -225,7 +225,7 @@
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Materials",
+      "company": "ProShares UltraShort Basic Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
@@ -241,7 +241,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -407,7 +407,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +462,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -566,7 +566,7 @@
     },
     {
       "id": "E56d6ea981f8b289fa351b90eff145c02489b3db05b24d5a41dec5541dd577520",
-      "company": "Optimi Health Corp.",
+      "company": "Optimi Health Corp. Common Shares",
       "ticker": "OPTH",
       "exDate": "2026-05-20",
       "ratio": "1-for-30",
