@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-21T20:26:14.214Z",
-  "totalRecords": 74,
-  "newThisScan": 0,
+  "lastUpdated": "2026-05-22T14:25:07.969Z",
+  "totalRecords": 78,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
@@ -202,6 +202,50 @@
       "source": "polygon"
     },
     {
+      "id": "Ed2b0935fcb33b2550bddddd78847ffe59756e0abb1fb376aaa39af410abf9279",
+      "company": "Liberty Latin America Ltd.",
+      "ticker": "LILAK",
+      "exDate": "2026-06-01",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eeaad71100776082ee768f2b30387fc9a4b624de88f92527386f2e9fb45655246",
+      "company": "Liberty Latin America Ltd.",
+      "ticker": "LILAB",
+      "exDate": "2026-06-01",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2be8f5057afc5a292e89519a4565cefbf505e361dd098e57b9a41d3530affc91",
+      "company": "Liberty Latin America Ltd.",
+      "ticker": "LILA",
+      "exDate": "2026-06-01",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee6661ce629c49d89af12f75858e2c4424c7b67ffec0e4c013842d69d74caa70d",
+      "company": "Hills Bancorporation",
+      "ticker": "HBIA",
+      "exDate": "2026-06-01",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ece3f702348d4c4c6ba2e466938194e9fb721c2ddbc01c5bd67287a0a91a4fdfb",
       "company": "ProShares Ultra XRP ETF",
       "ticker": "UXRP",
@@ -225,7 +269,7 @@
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Basic Materials",
+      "company": "ProShares UltraShort Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
@@ -241,7 +285,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -419,6 +463,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef4335013f8c2e8dae8a728bc632f32d689eb757c7e872b1fe4b2da02137a71e4",
+      "company": "TJGC Group Limited",
+      "ticker": "TJGC",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb6c8e2cedd48986cce734fdf20fd19b7ced06008fb0f6499e2a3716b441db041",
+      "company": "CarParts.com, Inc.",
+      "ticker": "PRTS",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -791,28 +857,6 @@
       "exDate": "2026-05-15",
       "ratio": "200-for-100",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E12fa7748ff458dc84efaa2c5876ac9ded528e894a2b3e1ccc035267454210dd6",
-      "company": "SNGPF",
-      "ticker": "SNGPF",
-      "exDate": "2026-05-14",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9e028f60a93a2400155a029895c70fddd92f7b42ad13ef4185e88c5827445537",
-      "company": "Brera Holdings PLC",
-      "ticker": "SLMT",
-      "exDate": "2026-05-14",
-      "ratio": "1-for-10",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
