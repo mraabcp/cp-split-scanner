@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-22T14:25:07.969Z",
+  "lastUpdated": "2026-05-22T19:18:02.483Z",
   "totalRecords": 78,
-  "newThisScan": 6,
+  "newThisScan": 0,
   "splits": [
     {
       "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
@@ -21,6 +21,17 @@
       "exDate": "2026-06-12",
       "ratio": "10-for-1",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-06-11",
+      "ratio": "1-for-50",
+      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -54,17 +65,6 @@
       "exDate": "2026-06-08",
       "ratio": "2-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-50",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -209,7 +209,7 @@
       "ratio": "11-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,7 +220,7 @@
       "ratio": "11-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +231,7 @@
       "ratio": "11-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +242,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +473,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -484,7 +484,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -720,7 +720,7 @@
     },
     {
       "id": "Efb7789ff5a72b6a57d9211b064a872821bc3eeaaea57f6f2d1b7f8a3b14da4e6",
-      "company": "Worldwide NFT, Inc.",
+      "company": "Worldwide NFT Inc",
       "ticker": "WNFT",
       "exDate": "2026-05-18",
       "ratio": "1-for-10",
