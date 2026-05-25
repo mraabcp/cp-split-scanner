@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-05-22T19:18:02.483Z",
-  "totalRecords": 78,
-  "newThisScan": 0,
+  "lastUpdated": "2026-05-25T19:08:03.913Z",
+  "totalRecords": 85,
+  "newThisScan": 11,
   "splits": [
+    {
+      "id": "E2accd37738cf2cf72d854e635a66b93ab61622139478ef1c6d4d3c33d60857e6",
+      "company": "Siemens Energy AG",
+      "ticker": "SMERY",
+      "exDate": "2026-06-23",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E314b644da542efd35e207c73a17956151f2d21d9bfbbcec3350a58f56acb351d",
+      "company": "Mobile-health Network Solutions",
+      "ticker": "MNDR",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
       "company": "Worldline SA",
@@ -56,6 +78,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
+      "company": "Lion Group Holding Ltd.",
+      "ticker": "LGHL",
+      "exDate": "2026-06-08",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -169,6 +202,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed146d92516c124dda92479fa95e6547b6e6a4928f7661411a4598b0e5f0aa389",
+      "company": "Wetour Robotics Limited",
+      "ticker": "WETO",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
       "company": "GraniteShares YieldBOOST TSLA E",
       "ticker": "TSYY",
@@ -199,6 +243,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E331ab22663a5de7fd69dc79481bc15b2618bbcadf79cfe0d68dca169b631ac9f",
+      "company": "SCYNEXIS, Inc.",
+      "ticker": "SCYX",
+      "exDate": "2026-06-01",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -269,7 +324,7 @@
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Materials",
+      "company": "ProShares UltraShort Basic Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
@@ -444,6 +499,28 @@
       "source": "polygon"
     },
     {
+      "id": "E73581ae7d2229274299d37077f3ec031e5da6fbb1bfedc019b8fcc12653700b3",
+      "company": "Sadot Group Inc.",
+      "ticker": "SDOT",
+      "exDate": "2026-05-27",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef6e99378d148c142aa146e5a7001cc5a1686ca16c738d0b8076df2a862aafda9",
+      "company": "Cuprina Holdings (Cayman) Limited",
+      "ticker": "CUPR",
+      "exDate": "2026-05-27",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E7b2d3d184c618830b46c0be24039e04a6231912d82d0936423ea95ad306056a8",
       "company": "Wellgistics Health, Inc.",
       "ticker": "WGRX",
@@ -485,6 +562,50 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E45df5c5e310b0b99e0949b3dc17e57522876ca9d169aeacd0cbc5f29bdd14357",
+      "company": "HBTPF",
+      "ticker": "HBTPF",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8c835acd9077729e0de1e89098d2c854c78b0481522bc3ff3fc2ec2ce8833982",
+      "company": "HBNNF",
+      "ticker": "HBNNF",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef6db134a493de0373b045c9e3498dccfd39c59938a0e89f23befe091b0ada30d",
+      "company": "SoftMedx Healthcare Limited",
+      "ticker": "CCWYF",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3b87bc0060c73c5dc7f4e8d214f7d36dde33a6a65813863920868eedd55164f7",
+      "company": "Argyle Resources Corp.",
+      "ticker": "ARLYF",
+      "exDate": "2026-05-26",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -632,7 +753,7 @@
     },
     {
       "id": "E56d6ea981f8b289fa351b90eff145c02489b3db05b24d5a41dec5541dd577520",
-      "company": "Optimi Health Corp. Common Shares",
+      "company": "Optimi Health Corp.",
       "ticker": "OPTH",
       "exDate": "2026-05-20",
       "ratio": "1-for-30",
@@ -813,50 +934,6 @@
       "exDate": "2026-05-18",
       "ratio": "1-for-27",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2122c6fe202afd2ebf495b98aa7edafceeb59c0cb07e59391569d2d1eb41ff9e",
-      "company": "Leafbuyer Technologies Inc",
-      "ticker": "LBUY",
-      "exDate": "2026-05-15",
-      "ratio": "1-for-156",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E20733708100b1174187998142ca3e16febc505c797b206f543c343db564f8eba",
-      "company": "LBTSF",
-      "ticker": "LBTSF",
-      "exDate": "2026-05-15",
-      "ratio": "66-for-65",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec39f65d48536c60bf1a38b839e39645b4ccbfc1e67f23d1c199d7d1d56992918",
-      "company": "Muncy Columbia Financial Corporation",
-      "ticker": "CCFN",
-      "exDate": "2026-05-15",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E194a51e357b66838fc53983b45db119cfb1d1f994ff27b1c8053093b4090aec0",
-      "company": "BIM Birlesik Magazalar A.S.",
-      "ticker": "BMBRF",
-      "exDate": "2026-05-15",
-      "ratio": "200-for-100",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
