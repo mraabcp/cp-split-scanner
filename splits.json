@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-25T19:08:03.913Z",
-  "totalRecords": 85,
-  "newThisScan": 11,
+  "lastUpdated": "2026-05-26T21:01:42.993Z",
+  "totalRecords": 75,
+  "newThisScan": 1,
   "splits": [
     {
       "id": "E2accd37738cf2cf72d854e635a66b93ab61622139478ef1c6d4d3c33d60857e6",
@@ -11,7 +11,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -209,7 +209,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +253,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -307,7 +307,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -324,7 +324,7 @@
     },
     {
       "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Basic Materials",
+      "company": "ProShares UltraShort Materials",
       "ticker": "SMN",
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
@@ -506,7 +506,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +517,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -572,7 +572,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -582,6 +582,17 @@
       "exDate": "2026-05-26",
       "ratio": "1-for-5",
       "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E39a81766db4b1cf89ac2dd90d2613873f4167562bb914956f5bea5e6be35c6cd",
+      "company": "DEEP SEA MINERALS CORP",
+      "ticker": "DSEAF",
+      "exDate": "2026-05-26",
+      "ratio": "2-for-1",
+      "type": "forward",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -594,7 +605,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -605,7 +616,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -731,7 +742,7 @@
     },
     {
       "id": "E3a228b17ecfd1b9c23bff0fa9d645a8bed211ea5fc200a5595e30f863fe370af",
-      "company": "Tekumo, Inc.",
+      "company": "Tekumo Inc",
       "ticker": "TKMO",
       "exDate": "2026-05-20",
       "ratio": "1-for-1000",
@@ -742,7 +753,7 @@
     },
     {
       "id": "Ef27f96577680becb3cb87097977b0c82626da5f7a77c388bdbfb06ba9c1b7101",
-      "company": "Optimi Health Corp.",
+      "company": "Optimi Health Corp",
       "ticker": "OPTHF",
       "exDate": "2026-05-20",
       "ratio": "1-for-30",
@@ -812,127 +823,6 @@
       "ticker": "EZGO",
       "exDate": "2026-05-19",
       "ratio": "1-for-150",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecdbeae302e2b2168757d602e74300cd05353b6634d4b6116ed1a1a1ea7dc40f1",
-      "company": "AiRWA Inc.",
-      "ticker": "YYAI",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed92e5dc381031d28d0a926e2384c2ba3a5fe2f42800a56fca13f07e29321bbc9",
-      "company": "Yimutian Inc.",
-      "ticker": "YMT",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efb7789ff5a72b6a57d9211b064a872821bc3eeaaea57f6f2d1b7f8a3b14da4e6",
-      "company": "Worldwide NFT Inc",
-      "ticker": "WNFT",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0df609a66837a48220c8fe69a2451a002913e011be2e427a79bc46b21a9c9155",
-      "company": "ReTo Eco-Solutions, Inc.",
-      "ticker": "RETO",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0e1133cafca651130fb8a2cb3eb8c9e84fcb5edd4c71dc899071bbec3b7e6603",
-      "company": "abrdn Physical Platinum Shares ETF",
-      "ticker": "PPLT",
-      "exDate": "2026-05-18",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0503f34a403dd11a8c46296098b46af0f6d6e83ea66465ed892f3216a2dd4376",
-      "company": "Propanc Biopharma, Inc.",
-      "ticker": "PPCB",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4c5fe146380c5e524670f2b9b732ef801d3d2165011c5528e3f5f65601a85529",
-      "company": "abrdn Physical Palladium Shares ETF",
-      "ticker": "PALL",
-      "exDate": "2026-05-18",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecf29c5790778cc129833171fe99752c46d272885f1c55981a3c3cc8118499dd2",
-      "company": "NFT Limited",
-      "ticker": "MI",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-80",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E461af2e53924a471da490175f8818d1c0c24a72c15b99ddfec62e220607b4b8b",
-      "company": "Freight Technologies, Inc.",
-      "ticker": "FRGT",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6633bdf104289868ebcebef19081e30458f9be2b6e54cf005ac43bcb21809f60",
-      "company": "Reliance Global Group, Inc.",
-      "ticker": "EZRA",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5dfc6db4e1c3bf250b88b4c63b035c7e35ee37851da3f7c8cfdc3f2e0d140988",
-      "company": "Aditxt, Inc.",
-      "ticker": "ADTX",
-      "exDate": "2026-05-18",
-      "ratio": "1-for-27",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
