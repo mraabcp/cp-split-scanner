@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-05-26T21:01:42.993Z",
-  "totalRecords": 75,
-  "newThisScan": 1,
+  "lastUpdated": "2026-05-27T21:15:42.750Z",
+  "totalRecords": 78,
+  "newThisScan": 7,
   "splits": [
+    {
+      "id": "E77d5bdc264d0cc136a0432413797c13b3cc223fb72bf94619376058e60029984",
+      "company": "Global Bio-chem Technology Group Company Limited",
+      "ticker": "GBCMY",
+      "exDate": "2026-06-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed9acf5d1a7b6734f813245e2b49c85e4237898981d23a38897f4849f37bbdc39",
+      "company": "DuPont de Nemours, Inc.",
+      "ticker": "DD",
+      "exDate": "2026-06-24",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E2accd37738cf2cf72d854e635a66b93ab61622139478ef1c6d4d3c33d60857e6",
       "company": "Siemens Energy AG",
@@ -100,6 +122,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebc65fd5adf70a552aeb1c80feb331d29b4799994bc7237e7ee2a53d2b6b1f398",
+      "company": "Smith Micro Software, Inc.",
+      "ticker": "SMSI",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -202,17 +235,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ed146d92516c124dda92479fa95e6547b6e6a4928f7661411a4598b0e5f0aa389",
-      "company": "Wetour Robotics Limited",
-      "ticker": "WETO",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
       "company": "GraniteShares YieldBOOST TSLA E",
       "ticker": "TSYY",
@@ -301,6 +323,28 @@
       "source": "polygon"
     },
     {
+      "id": "E3f84766930aaa10574da69f84a84c776f27b00ebf61361cf255dbe43fca6dc7d",
+      "company": "Silexion Therapeutics Corp",
+      "ticker": "SLXN",
+      "exDate": "2026-05-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea8cfc3c7b4b0c976e7fcbd90122e5f38cb4fe048c8e147ee225bf031a039e2c4",
+      "company": "Hitek Global Inc.",
+      "ticker": "HKIT",
+      "exDate": "2026-05-29",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ece3f702348d4c4c6ba2e466938194e9fb721c2ddbc01c5bd67287a0a91a4fdfb",
       "company": "ProShares Ultra XRP ETF",
       "ticker": "UXRP",
@@ -320,6 +364,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8af43bc870c9e3928124d23ca54f96dfab035a32158264d2177b28e91165205c",
+      "company": "Swissquote Group Holding SA",
+      "ticker": "SWQGF",
+      "exDate": "2026-05-28",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -397,6 +452,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E27184d3e3cc69cd23b8bac35b08d4027a6975c1c5a6bbe1ec54d36194019c2ed",
+      "company": "Republic Power Group Limited",
+      "ticker": "RPGL",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -510,6 +576,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eafb096d8dee6703e3202410bf1114dc360b053d403a3d028ee75c58da34f211a",
+      "company": "Hexagon Purus ASA",
+      "ticker": "HPURF",
+      "exDate": "2026-05-27",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ef6e99378d148c142aa146e5a7001cc5a1686ca16c738d0b8076df2a862aafda9",
       "company": "Cuprina Holdings (Cayman) Limited",
       "ticker": "CUPR",
@@ -594,7 +671,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -753,7 +830,7 @@
     },
     {
       "id": "Ef27f96577680becb3cb87097977b0c82626da5f7a77c388bdbfb06ba9c1b7101",
-      "company": "Optimi Health Corp",
+      "company": "OPTHF",
       "ticker": "OPTHF",
       "exDate": "2026-05-20",
       "ratio": "1-for-30",
@@ -779,50 +856,6 @@
       "ticker": "BYOGF",
       "exDate": "2026-05-20",
       "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed38227d92c56e3cefea73bea04748b3cf52dd2ddf2aa57a8e53abed566b7b222",
-      "company": "United Lithium Corp.",
-      "ticker": "ULTHF",
-      "exDate": "2026-05-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0039e7670c32a561497d2b227d980bea34a2a6894b00a2ff0f8e850948ac7d6b",
-      "company": "Neo-Concept International Group Holdings Limited",
-      "ticker": "NCI",
-      "exDate": "2026-05-19",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eafb096d8dee6703e3202410bf1114dc360b053d403a3d028ee75c58da34f211a",
-      "company": "Hexagon Purus ASA",
-      "ticker": "HPURF",
-      "exDate": "2026-05-19",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6a8abb83b8814c96e76442f85c6e7d60ad1300940e3e78c31f38ced563a4d6db",
-      "company": "EZGO Technologies Ltd.",
-      "ticker": "EZGO",
-      "exDate": "2026-05-19",
-      "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
