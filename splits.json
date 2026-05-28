@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-27T21:15:42.750Z",
-  "totalRecords": 78,
-  "newThisScan": 7,
+  "lastUpdated": "2026-05-28T21:32:49.457Z",
+  "totalRecords": 75,
+  "newThisScan": 1,
   "splits": [
     {
       "id": "E77d5bdc264d0cc136a0432413797c13b3cc223fb72bf94619376058e60029984",
@@ -11,7 +11,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -59,23 +59,23 @@
       "source": "polygon"
     },
     {
+      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-06-17",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
       "company": "KLA Corporation",
       "ticker": "KLAC",
       "exDate": "2026-06-12",
       "ratio": "10-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-06-11",
-      "ratio": "1-for-50",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -132,7 +132,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -339,6 +339,17 @@
       "ticker": "HKIT",
       "exDate": "2026-05-29",
       "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eedf4efcd766b23d0250c1e3ddc995bbec4a0e9d1cd8f5c493527bd6d2a5a1425",
+      "company": "Winning Brands Corporation",
+      "ticker": "WNBD",
+      "exDate": "2026-05-28",
+      "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -374,7 +385,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +473,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -709,7 +720,7 @@
     },
     {
       "id": "E96b965a76a65024e37367ace4675c294608e692c0939ad743fe8e27b4a5707ad",
-      "company": "Nobia AB (publ)",
+      "company": "Nobia AB",
       "ticker": "NBIAY",
       "exDate": "2026-05-22",
       "ratio": "1-for-10",
@@ -812,50 +823,6 @@
       "ticker": "CMND",
       "exDate": "2026-05-21",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3a228b17ecfd1b9c23bff0fa9d645a8bed211ea5fc200a5595e30f863fe370af",
-      "company": "Tekumo Inc",
-      "ticker": "TKMO",
-      "exDate": "2026-05-20",
-      "ratio": "1-for-1000",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef27f96577680becb3cb87097977b0c82626da5f7a77c388bdbfb06ba9c1b7101",
-      "company": "OPTHF",
-      "ticker": "OPTHF",
-      "exDate": "2026-05-20",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E56d6ea981f8b289fa351b90eff145c02489b3db05b24d5a41dec5541dd577520",
-      "company": "Optimi Health Corp.",
-      "ticker": "OPTH",
-      "exDate": "2026-05-20",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8e4ccc43809b3878db94cbecde230e35ddc5388d904c6889a7172d53ffc2d9c8",
-      "company": "Bounty Oil & Gas NL",
-      "ticker": "BYOGF",
-      "exDate": "2026-05-20",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
