@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-29T21:18:58.060Z",
-  "totalRecords": 79,
-  "newThisScan": 9,
+  "lastUpdated": "2026-06-01T22:38:45.364Z",
+  "totalRecords": 80,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "E77d5bdc264d0cc136a0432413797c13b3cc223fb72bf94619376058e60029984",
@@ -44,7 +44,7 @@
       "ratio": "1-for-18",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -70,6 +70,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ed2b0935fcb33b2550bddddd78847ffe59756e0abb1fb376aaa39af410abf9279",
+      "company": "Liberty Latin America Ltd.",
+      "ticker": "LILAK",
+      "exDate": "2026-06-17",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2be8f5057afc5a292e89519a4565cefbf505e361dd098e57b9a41d3530affc91",
+      "company": "Liberty Latin America Ltd.",
+      "ticker": "LILA",
+      "exDate": "2026-06-17",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
       "company": "Jianzhi Education Technology Group Company Limited",
       "ticker": "JZ",
@@ -78,6 +100,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0af87108896a7e2fb04946bf5bdc995338da2aeb43821ce79ad98f0badd39990",
+      "company": "Astronics Corporation",
+      "ticker": "ATROB",
+      "exDate": "2026-06-15",
+      "ratio": "6-for-5",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4e3e27eb092ef8dbb1d3976b6222ec53da181a4dcff26a88f56938d41f2fffff",
+      "company": "Astronics Corporation",
+      "ticker": "ATRO",
+      "exDate": "2026-06-15",
+      "ratio": "6-for-5",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -147,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "E5be2b38372d73cc3e1b5daf5002794e410b1ac0391d6c0683809a92f58563f68",
+      "company": "EUROCOMMERCIAL",
+      "ticker": "ECMPF",
+      "exDate": "2026-06-05",
+      "ratio": "29-for-28",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E7c0a7b921513086ea3c337c4de476e0878923045895b6c54a1eb2d73e7402d2f",
       "company": "Lundin Gold Inc.",
       "ticker": "LUGDF",
@@ -154,7 +209,7 @@
       "ratio": "6-for-5",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +330,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -290,6 +345,28 @@
       "source": "polygon"
     },
     {
+      "id": "E0c544e7a50a27f5173a05e084d78618391c9e053daf1e7489e1ef0dbc632514a",
+      "company": "KYSRF",
+      "ticker": "KYSRF",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eff643fb206029d43e9777a6c0afe5df293cbfe7f2f20760d0b1ecb81ce664438",
+      "company": "Kun Peng International Ltd.",
+      "ticker": "KPEA",
+      "exDate": "2026-06-02",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec0a7b1fb603566f8f73ed88860f4afd2bcf05af479cb3606277392e7afcd63de",
       "company": "GraniteShares YieldBOOST COIN E",
       "ticker": "COYY",
@@ -301,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "E70346de8a42ccc665cb4d99fd4b63dff4c6181553b6ccf69ba718319e0ec459d",
+      "company": "ZOOZ Strategy Ltd.",
+      "ticker": "ZOOZ",
+      "exDate": "2026-06-01",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef2990779d17016b65483ebc6424002b3320761580b446d07be395f20dcc7f3aa",
       "company": "Brag House Holdings, Inc.",
       "ticker": "TBH",
@@ -308,7 +396,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,17 +418,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed2b0935fcb33b2550bddddd78847ffe59756e0abb1fb376aaa39af410abf9279",
-      "company": "Liberty Latin America Ltd.",
-      "ticker": "LILAK",
-      "exDate": "2026-06-01",
-      "ratio": "11-for-10",
-      "type": "forward",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -356,17 +433,6 @@
       "source": "polygon"
     },
     {
-      "id": "E2be8f5057afc5a292e89519a4565cefbf505e361dd098e57b9a41d3530affc91",
-      "company": "Liberty Latin America Ltd.",
-      "ticker": "LILA",
-      "exDate": "2026-06-01",
-      "ratio": "11-for-10",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E3cfb7fb7a50ad3d2e935ad8cf4260bcb8e6db42a822211747415e93103460787",
       "company": "JIADE Limited",
       "ticker": "JDZG",
@@ -374,7 +440,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -389,6 +455,17 @@
       "source": "polygon"
     },
     {
+      "id": "E403ff8f1b00e271ce1a6287e2e7d5ed9b489b73ac8619e898fc66301a6ed1c5e",
+      "company": "Eloxx Pharmaceuticals, Inc.",
+      "ticker": "ELOX",
+      "exDate": "2026-06-01",
+      "ratio": "1-for-11",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef13066e918c085e328e67f59090019cea31a5d45f5816ac7eb0b9af360059c38",
       "company": "CID HoldCo, Inc.",
       "ticker": "DAIC",
@@ -396,7 +473,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +484,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +495,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -637,7 +714,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -797,76 +874,10 @@
     },
     {
       "id": "E3b87bc0060c73c5dc7f4e8d214f7d36dde33a6a65813863920868eedd55164f7",
-      "company": "Argyle Resources Corp.",
+      "company": "Argyle Resources Corp",
       "ticker": "ARLYF",
       "exDate": "2026-05-26",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E88e4a6d0953c6db583618dc6186e8f010724102eb88309c6c1ef659893792382",
-      "company": "U-BX Technology Ltd.",
-      "ticker": "UBXG",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E96b965a76a65024e37367ace4675c294608e692c0939ad743fe8e27b4a5707ad",
-      "company": "Nobia AB",
-      "ticker": "NBIAY",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E64701c670a5b19fa0d51a87fd9bdaf5f5f6d36ffca65a9947c9105f65a8a265a",
-      "company": "Nakamoto Inc.",
-      "ticker": "NAKA",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eadefe12849e99a716a7e14a73ea1eb8f34545a1fa51366e1272229dd1889246e",
-      "company": "LZ Technology Holdings Limited",
-      "ticker": "LZMH",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E63c5bf664370d09af9e1c66ba1d9472a1fd2441f5d7be577b8a3e06deb37ab27",
-      "company": "Lunai Bioworks Inc.",
-      "ticker": "LNAI",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec4df2a7a5c3462097a06dd226b4a951e1bdf695e11839c10b4af753bd1c29c66",
-      "company": "iPower Inc.",
-      "ticker": "IPW",
-      "exDate": "2026-05-22",
-      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
