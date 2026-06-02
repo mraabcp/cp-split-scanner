@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-01T22:38:45.364Z",
-  "totalRecords": 80,
-  "newThisScan": 7,
+  "lastUpdated": "2026-06-02T18:02:09.559Z",
+  "totalRecords": 85,
+  "newThisScan": 6,
   "splits": [
+    {
+      "id": "E4369bd48d3e12cfe44c02213806e873ae33d874d575e3365098fd4fc07907a04",
+      "company": "Mueller Industries, Inc.",
+      "ticker": "MLI",
+      "exDate": "2026-07-01",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E77d5bdc264d0cc136a0432413797c13b3cc223fb72bf94619376058e60029984",
       "company": "Global Bio-chem Technology Group Company Limited",
@@ -81,6 +92,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eeaad71100776082ee768f2b30387fc9a4b624de88f92527386f2e9fb45655246",
+      "company": "Liberty Latin America Ltd.",
+      "ticker": "LILAB",
+      "exDate": "2026-06-17",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E2be8f5057afc5a292e89519a4565cefbf505e361dd098e57b9a41d3530affc91",
       "company": "Liberty Latin America Ltd.",
       "ticker": "LILA",
@@ -110,7 +132,7 @@
       "ratio": "6-for-5",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +143,7 @@
       "ratio": "6-for-5",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -130,6 +152,17 @@
       "ticker": "KLAC",
       "exDate": "2026-06-12",
       "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee6661ce629c49d89af12f75858e2c4424c7b67ffec0e4c013842d69d74caa70d",
+      "company": "Hills Bancorporation",
+      "ticker": "HBIA",
+      "exDate": "2026-06-09",
+      "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
       "isNew": false,
@@ -198,18 +231,29 @@
       "ratio": "29-for-28",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4df28ce063112dffa8eb99805a4e12af116e8e1deebaad9b32def49f8914b6cb",
+      "company": "WF International Limited",
+      "ticker": "WXM",
+      "exDate": "2026-06-04",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
     {
-      "id": "E7c0a7b921513086ea3c337c4de476e0878923045895b6c54a1eb2d73e7402d2f",
-      "company": "Lundin Gold Inc.",
-      "ticker": "LUGDF",
+      "id": "E922a4c28c4ee03039dbb36b4832bfb05e283504fb7a53d277640fe61c6e2c60f",
+      "company": "Viscofan, S.A.",
+      "ticker": "VSCFF",
       "exDate": "2026-06-04",
-      "ratio": "6-for-5",
+      "ratio": "33-for-32",
       "type": "forward",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -232,6 +276,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eec5dfb1b7e6aa8bd4a8e560bf9d55263884ac7d8bb5b495a95e8bc7cbd85682a",
+      "company": "Silo Pharma, Inc.",
+      "ticker": "SILO",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -323,6 +378,28 @@
       "source": "polygon"
     },
     {
+      "id": "Efe85c27e1b8d3779c1c9b1e3271b04a90432c32e430e48d9de009d8198588b0f",
+      "company": "TRXOD",
+      "ticker": "TRXOD",
+      "exDate": "2026-06-02",
+      "ratio": "100-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6542e19c84eaec60815ade08feea769c6268bdffa0415e4f3831f0cfae71fa17",
+      "company": "PYBXD",
+      "ticker": "PYBXD",
+      "exDate": "2026-06-02",
+      "ratio": "200-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E347ad8560b60ab8eaa5f4382c2cbfe935c6efbd230105249de00c9933aea6d04",
       "company": "Presurance Holdings, Inc.",
       "ticker": "PRHI",
@@ -352,7 +429,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +440,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +462,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -422,34 +499,12 @@
       "source": "polygon"
     },
     {
-      "id": "Eeaad71100776082ee768f2b30387fc9a4b624de88f92527386f2e9fb45655246",
-      "company": "Liberty Latin America Ltd.",
-      "ticker": "LILAB",
-      "exDate": "2026-06-01",
-      "ratio": "11-for-10",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E3cfb7fb7a50ad3d2e935ad8cf4260bcb8e6db42a822211747415e93103460787",
       "company": "JIADE Limited",
       "ticker": "JDZG",
       "exDate": "2026-06-01",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee6661ce629c49d89af12f75858e2c4424c7b67ffec0e4c013842d69d74caa70d",
-      "company": "Hills Bancorporation",
-      "ticker": "HBIA",
-      "exDate": "2026-06-01",
-      "ratio": "2-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -462,7 +517,7 @@
       "ratio": "1-for-11",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -489,7 +544,7 @@
     },
     {
       "id": "E2c1aa07e6d36f2b3246494d509333e4136af841deff0f9522dda9eabf82506a8",
-      "company": "Copper Intelligence, Inc",
+      "company": "Copper Intelligence Inc.",
       "ticker": "AFDG",
       "exDate": "2026-06-01",
       "ratio": "1-for-100",
@@ -538,7 +593,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
