@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-02T18:02:09.559Z",
-  "totalRecords": 85,
-  "newThisScan": 6,
+  "lastUpdated": "2026-06-03T18:19:40.172Z",
+  "totalRecords": 81,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "E4369bd48d3e12cfe44c02213806e873ae33d874d575e3365098fd4fc07907a04",
@@ -11,7 +11,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -45,6 +45,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0a22d99bbb425f38ce7e492493c0ad8ae0b06f7eeed598b27e9ced9fc00bb61b",
+      "company": "Jinxin Technology Holding Company",
+      "ticker": "NAMI",
+      "exDate": "2026-06-23",
+      "ratio": "1-for-625",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -235,6 +246,17 @@
       "source": "polygon"
     },
     {
+      "id": "E996b82dcb5cce73218d66da0ac348bc4fb364de33850f120b7c564293010d939",
+      "company": "Cemtrex, Inc.",
+      "ticker": "CETX",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4df28ce063112dffa8eb99805a4e12af116e8e1deebaad9b32def49f8914b6cb",
       "company": "WF International Limited",
       "ticker": "WXM",
@@ -242,7 +264,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -252,6 +274,17 @@
       "exDate": "2026-06-04",
       "ratio": "33-for-32",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E315191ef0091ebce84806373ff288d2f66ba19d9e06306c635bbdf0d9b347c57",
+      "company": "IceCure Medical Ltd",
+      "ticker": "ICCM",
+      "exDate": "2026-06-04",
+      "ratio": "1-for-30",
+      "type": "reverse",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -286,7 +319,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -298,6 +331,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ead19ee6fd1ac9702ce08c182874ad6036f097dd610c19904f77945e38b0857b6",
+      "company": "Alterity Therapeutics Limited",
+      "ticker": "PRNAF",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E34fab442bffe8cf6a4f11c1c13dcaef72ac1650dfa6d225b3d8413527734ca5d",
+      "company": "Epic Gold Corp.",
+      "ticker": "NFLDF",
+      "exDate": "2026-06-03",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -368,7 +423,7 @@
     },
     {
       "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
-      "company": "GraniteShares YieldBOOST TSLA E",
+      "company": "GraniteShares YieldBOOST TSLA ETF",
       "ticker": "TSYY",
       "exDate": "2026-06-02",
       "ratio": "1-for-8",
@@ -385,7 +440,7 @@
       "ratio": "100-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +451,7 @@
       "ratio": "200-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -577,7 +632,7 @@
     },
     {
       "id": "Eedf4efcd766b23d0250c1e3ddc995bbec4a0e9d1cd8f5c493527bd6d2a5a1425",
-      "company": "Winning Brands Corporation",
+      "company": "Winning Brands Corp",
       "ticker": "WNBD",
       "exDate": "2026-05-28",
       "ratio": "1-for-1000",
@@ -593,7 +648,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -834,105 +889,6 @@
       "ticker": "CUPR",
       "exDate": "2026-05-27",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7b2d3d184c618830b46c0be24039e04a6231912d82d0936423ea95ad306056a8",
-      "company": "Wellgistics Health, Inc.",
-      "ticker": "WGRX",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E429c1025cc343aad2022b64e7a3b1da2a7ecbdc9514565f29ab2d7e7f0612d62",
-      "company": "VisionSys AI Inc.",
-      "ticker": "VSA",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef4335013f8c2e8dae8a728bc632f32d689eb757c7e872b1fe4b2da02137a71e4",
-      "company": "TJGC Group Limited",
-      "ticker": "TJGC",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb6c8e2cedd48986cce734fdf20fd19b7ced06008fb0f6499e2a3716b441db041",
-      "company": "CarParts.com, Inc.",
-      "ticker": "PRTS",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E45df5c5e310b0b99e0949b3dc17e57522876ca9d169aeacd0cbc5f29bdd14357",
-      "company": "HBTPF",
-      "ticker": "HBTPF",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8c835acd9077729e0de1e89098d2c854c78b0481522bc3ff3fc2ec2ce8833982",
-      "company": "HBNNF",
-      "ticker": "HBNNF",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E39a81766db4b1cf89ac2dd90d2613873f4167562bb914956f5bea5e6be35c6cd",
-      "company": "DEEP SEA MINERALS CORP",
-      "ticker": "DSEAF",
-      "exDate": "2026-05-26",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef6db134a493de0373b045c9e3498dccfd39c59938a0e89f23befe091b0ada30d",
-      "company": "SoftMedx Healthcare Limited",
-      "ticker": "CCWYF",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3b87bc0060c73c5dc7f4e8d214f7d36dde33a6a65813863920868eedd55164f7",
-      "company": "Argyle Resources Corp",
-      "ticker": "ARLYF",
-      "exDate": "2026-05-26",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
