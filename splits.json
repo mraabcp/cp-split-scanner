@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-03T18:19:40.172Z",
-  "totalRecords": 81,
-  "newThisScan": 5,
+  "lastUpdated": "2026-06-04T16:48:10.283Z",
+  "totalRecords": 79,
+  "newThisScan": 2,
   "splits": [
+    {
+      "id": "E0f7a58bf74a4cc0965f939a47eb0a18c56803efbaaec2bcf16db5a8f5aad7dbd",
+      "company": "CrowdStrike Holdings, Inc.",
+      "ticker": "CRWD",
+      "exDate": "2026-07-02",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E4369bd48d3e12cfe44c02213806e873ae33d874d575e3365098fd4fc07907a04",
       "company": "Mueller Industries, Inc.",
@@ -55,7 +66,7 @@
       "ratio": "1-for-625",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -202,14 +213,14 @@
       "source": "polygon"
     },
     {
-      "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
-      "company": "Lion Group Holding Ltd.",
-      "ticker": "LGHL",
+      "id": "E4a15e1698b03d6bafb3c7340a8d1bf887cf8cb2dcdd48167401b43dd6eea375a",
+      "company": "HUB Cyber Security Ltd.",
+      "ticker": "HUBC",
       "exDate": "2026-06-08",
-      "ratio": "1-for-6",
+      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -253,7 +264,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +297,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +352,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +363,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -423,7 +434,7 @@
     },
     {
       "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
-      "company": "GraniteShares YieldBOOST TSLA ETF",
+      "company": "GraniteShares YieldBOOST TSLA E",
       "ticker": "TSYY",
       "exDate": "2026-06-02",
       "ratio": "1-for-8",
@@ -434,7 +445,7 @@
     },
     {
       "id": "Efe85c27e1b8d3779c1c9b1e3271b04a90432c32e430e48d9de009d8198588b0f",
-      "company": "TRXOD",
+      "company": "Ridgeback Resources Inc",
       "ticker": "TRXOD",
       "exDate": "2026-06-02",
       "ratio": "100-for-1",
@@ -648,7 +659,7 @@
       "exDate": "2026-05-28",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -858,39 +869,6 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E73581ae7d2229274299d37077f3ec031e5da6fbb1bfedc019b8fcc12653700b3",
-      "company": "Sadot Group Inc.",
-      "ticker": "SDOT",
-      "exDate": "2026-05-27",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eafb096d8dee6703e3202410bf1114dc360b053d403a3d028ee75c58da34f211a",
-      "company": "Hexagon Purus ASA",
-      "ticker": "HPURF",
-      "exDate": "2026-05-27",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef6e99378d148c142aa146e5a7001cc5a1686ca16c738d0b8076df2a862aafda9",
-      "company": "Cuprina Holdings (Cayman) Limited",
-      "ticker": "CUPR",
-      "exDate": "2026-05-27",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
