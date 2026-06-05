@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-04T16:48:10.283Z",
-  "totalRecords": 79,
-  "newThisScan": 2,
+  "lastUpdated": "2026-06-05T16:27:11.147Z",
+  "totalRecords": 68,
+  "newThisScan": 10,
   "splits": [
     {
       "id": "E0f7a58bf74a4cc0965f939a47eb0a18c56803efbaaec2bcf16db5a8f5aad7dbd",
@@ -11,7 +11,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -103,6 +103,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eeb4e9b11410546d227d39ce54735b2b8491a03a6e4005f8c855e939af4337682",
+      "company": "Upland Software, Inc.",
+      "ticker": "UPLD",
+      "exDate": "2026-06-17",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed2b0935fcb33b2550bddddd78847ffe59756e0abb1fb376aaa39af410abf9279",
       "company": "Liberty Latin America Ltd.",
       "ticker": "LILAK",
@@ -180,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee73350161745297842316ed0f19946ae099dea2820b888355050e607bff52a6d",
+      "company": "Offerpad Solutions Inc.",
+      "ticker": "OPAD",
+      "exDate": "2026-06-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee6661ce629c49d89af12f75858e2c4424c7b67ffec0e4c013842d69d74caa70d",
       "company": "Hills Bancorporation",
       "ticker": "HBIA",
@@ -202,6 +224,17 @@
       "source": "polygon"
     },
     {
+      "id": "E81590f0a0f1b94872bc88206600f67295fa5a27bf501b2dbcf71b474724991a4",
+      "company": "Zhongchao Inc.",
+      "ticker": "ZCMD",
+      "exDate": "2026-06-08",
+      "ratio": "1-for-31",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8d1d1fb86f293e024165a03f309e6783c913c7a9d42c7f354bd2c7fa39bad43b",
       "company": "T-REX 2X Long SNDK Daily Target",
       "ticker": "SNDU",
@@ -213,6 +246,17 @@
       "source": "polygon"
     },
     {
+      "id": "E0c6cc8b509e3dee36c02f0dea6d71492ef30a41cba09ed07f3c65780c0c84fce",
+      "company": "KIDZ AI Inc.",
+      "ticker": "KIDZ",
+      "exDate": "2026-06-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4a15e1698b03d6bafb3c7340a8d1bf887cf8cb2dcdd48167401b43dd6eea375a",
       "company": "HUB Cyber Security Ltd.",
       "ticker": "HUBC",
@@ -220,7 +264,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -235,6 +279,39 @@
       "source": "polygon"
     },
     {
+      "id": "E8ff0438997981ae66f904a6c32356e09e1a1035fe554b15004a6ae5598a6f541",
+      "company": "Femasys Inc.",
+      "ticker": "FEMY",
+      "exDate": "2026-06-08",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9e20f34f704c6966fbfcad78aa8b77a0541acb1abd753af5a2bcde704d6201eb",
+      "company": "Cardlytics, Inc.",
+      "ticker": "CDLX",
+      "exDate": "2026-06-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7cbde122d01909b7a9fb61589eb991b228afe0434d084690dacf7ad9cdd846c0",
+      "company": "Vireo Growth Inc.",
+      "ticker": "VREOF",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebc65fd5adf70a552aeb1c80feb331d29b4799994bc7237e7ee2a53d2b6b1f398",
       "company": "Smith Micro Software, Inc.",
       "ticker": "SMSI",
@@ -243,6 +320,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea695949fdc43b5ef354195580101e5b07e6d85fd2a81c35475101eaf60854e3f",
+      "company": "INEO Tech Corp.",
+      "ticker": "INEOF",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -257,6 +345,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb35745b8eae924c2c04bb0b99053da48de54c22bf73f98747ce980ddc574c03e",
+      "company": "Curaleaf Holdings, Inc.",
+      "ticker": "CURLF",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E996b82dcb5cce73218d66da0ac348bc4fb364de33850f120b7c564293010d939",
       "company": "Cemtrex, Inc.",
       "ticker": "CETX",
@@ -265,6 +364,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E80769a73ab1732df1ba1bf521130c2794dea630d0e85242e76dcfa4e98f68372",
+      "company": "Allied Energy, Inc.",
+      "ticker": "AGGI",
+      "exDate": "2026-06-05",
+      "ratio": "1-for-500",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -577,7 +687,7 @@
     },
     {
       "id": "E403ff8f1b00e271ce1a6287e2e7d5ed9b489b73ac8619e898fc66301a6ed1c5e",
-      "company": "Eloxx Pharmaceuticals, Inc.",
+      "company": "Eloxx Pharmaceuticals Inc",
       "ticker": "ELOX",
       "exDate": "2026-06-01",
       "ratio": "1-for-11",
@@ -610,7 +720,7 @@
     },
     {
       "id": "E2c1aa07e6d36f2b3246494d509333e4136af841deff0f9522dda9eabf82506a8",
-      "company": "Copper Intelligence Inc.",
+      "company": "African Discovery Group Inc",
       "ticker": "AFDG",
       "exDate": "2026-06-01",
       "ratio": "1-for-100",
@@ -638,237 +748,6 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eedf4efcd766b23d0250c1e3ddc995bbec4a0e9d1cd8f5c493527bd6d2a5a1425",
-      "company": "Winning Brands Corp",
-      "ticker": "WNBD",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-1000",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ece3f702348d4c4c6ba2e466938194e9fb721c2ddbc01c5bd67287a0a91a4fdfb",
-      "company": "ProShares Ultra XRP ETF",
-      "ticker": "UXRP",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6a1b56c28a38ed54946870177b4b46de4b9ee8e7254e3586b3d1418c78387168",
-      "company": "ProShares UltraShort Consumer Staples",
-      "ticker": "SZK",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8af43bc870c9e3928124d23ca54f96dfab035a32158264d2177b28e91165205c",
-      "company": "Swissquote Group Holding SA",
-      "ticker": "SWQGF",
-      "exDate": "2026-05-28",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef83be5d32f45bceffe7639275c69067aaf0c0053e8e1e8af4641b1acca1577cc",
-      "company": "ProShares UltraShort Materials",
-      "ticker": "SMN",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7e5ed9f8edeb06a43ef3816d0fc4a40b78bf7443a75f4b7bb5d00a13450c6d5d",
-      "company": "ProShares Ultra Solana ETF",
-      "ticker": "SLON",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E19b2650d1050f731992062cf0be113669958d0f1cf263d4fea43cbd2c38e9f2c",
-      "company": "ProShares UltraShort Industrials",
-      "ticker": "SIJ",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E11ce7ca91ce71ea6aad97d3c6fd033691277d2de8bec14369587ec41db243096",
-      "company": "ProShares UltraShort Utilities",
-      "ticker": "SDP",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6c2535fc6cfaa70495a31fd818fc64a8c94d5e760fe864c9636cde41b1381ee4",
-      "company": "ProShares UltraShort Bloomberg Crude Oil",
-      "ticker": "SCO",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1fd864d6f8529d3523c844cab4d5736493ecee052457b8e9f271cdc9c712f2ff",
-      "company": "ProShares Short SmallCap600",
-      "ticker": "SBB",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5a8213e0ed3a5f005896cdcd7d9a3ebbe0d99ef1a0652c6bc546094e794f34b8",
-      "company": "ProShares UltraShort Health Care",
-      "ticker": "RXD",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E27184d3e3cc69cd23b8bac35b08d4027a6975c1c5a6bbe1ec54d36194019c2ed",
-      "company": "Republic Power Group Limited",
-      "ticker": "RPGL",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E771e6e6d9185ecac18b098891d2e017e95d6b31aa85e92afdc6c5afa2392ae3e",
-      "company": "ProShares UltraShort Technology",
-      "ticker": "REW",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E42aa1b103fa58ce508bf199f756e20af4c558712569d9a819674a75989f99237",
-      "company": "ProShares S&P 500 Dividend Aristocrats ETF",
-      "ticker": "NOBL",
-      "exDate": "2026-05-28",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4000ca1f8a750df8b5c1ba5358e70e44beb48b9f5984335726b9abf4b26d0592",
-      "company": "ProShares Decline of the Retail Store ETF",
-      "ticker": "EMTY",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea80108e3333ff6a1f89ac10a2cf62d1862b4cef5806ddc36d680b9e2934ed4ca",
-      "company": "ELVCF",
-      "ticker": "ELVCF",
-      "exDate": "2026-05-28",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E102c909d67a9785a6748571c9a10863d77b4cefee4dd3ada15012c5ccb9bc642",
-      "company": "ProShares Short MSCI EAFE",
-      "ticker": "EFZ",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5f74dc79ac019a8f686af8a3ceeaeac22f8e12ccecd11602ecfed189d5952d70",
-      "company": "ProShares Ultra COIN",
-      "ticker": "COIA",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9e2a5ebd2b1b67c9d28e624bd3224a053bf5d522b328780037dd9cc9fd9d7c48",
-      "company": "ProShares UltraShort MSCI Brazil Capped",
-      "ticker": "BZQ",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3c4c11640008e2ce27b675b1e0d416e762ba121764cede1742ac3d64e1f4d325",
-      "company": "ProShares Ultra Bloomberg Natural Gas",
-      "ticker": "BOIL",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E001a4e9348dec14de92ac633abc1a06ac5209c7fc5fba999573d8db5b19ea70d",
-      "company": "ProShares UltraShort Nasdaq Biotechnology",
-      "ticker": "BIS",
-      "exDate": "2026-05-28",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
