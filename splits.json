@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-05T16:27:11.147Z",
-  "totalRecords": 68,
-  "newThisScan": 10,
+  "lastUpdated": "2026-06-08T17:18:26.273Z",
+  "totalRecords": 71,
+  "newThisScan": 5,
   "splits": [
+    {
+      "id": "Ec6c8012ab4d8891202964cd0df9e6796fb2b1e7375892d0e7d74a1c36f648376",
+      "company": "Marubeni Corporation",
+      "ticker": "MARUY",
+      "exDate": "2026-07-08",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E0f7a58bf74a4cc0965f939a47eb0a18c56803efbaaec2bcf16db5a8f5aad7dbd",
       "company": "CrowdStrike Holdings, Inc.",
@@ -15,6 +26,17 @@
       "source": "polygon"
     },
     {
+      "id": "E51167cea6d1566d9e7b5bcc37bce5d07bc1eb02cd39b1c5fa82607fae1e88d43",
+      "company": "Sumitomo Electric Industries, Ltd.",
+      "ticker": "SMTOY",
+      "exDate": "2026-07-01",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4369bd48d3e12cfe44c02213806e873ae33d874d575e3365098fd4fc07907a04",
       "company": "Mueller Industries, Inc.",
       "ticker": "MLI",
@@ -23,6 +45,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E798758f889f8fa3f1b011b6c5d290e8d1cebc178d5ec501616deae1888559f9b",
+      "company": "Honeywell International Inc.",
+      "ticker": "HON",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -110,7 +143,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -158,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee92b0dbb702f867af6905a06fac8e97ec6420accd10466939a0a42c109803738",
+      "company": "Dreamland Limited",
+      "ticker": "TDIC",
+      "exDate": "2026-06-15",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0af87108896a7e2fb04946bf5bdc995338da2aeb43821ce79ad98f0badd39990",
       "company": "Astronics Corporation",
       "ticker": "ATROB",
@@ -191,6 +235,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6ca87faf41923233b4591b4f510e70c1db445c19dd22b75f76d26d1c49d8868b",
+      "company": "All In FutureTech Alliance Inc.",
+      "ticker": "AIFA",
+      "exDate": "2026-06-12",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee73350161745297842316ed0f19946ae099dea2820b888355050e607bff52a6d",
       "company": "Offerpad Solutions Inc.",
       "ticker": "OPAD",
@@ -198,7 +253,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +286,7 @@
       "ratio": "1-for-31",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +308,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +341,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +352,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +363,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +385,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +407,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -368,13 +423,13 @@
     },
     {
       "id": "E80769a73ab1732df1ba1bf521130c2794dea630d0e85242e76dcfa4e98f68372",
-      "company": "Allied Energy, Inc.",
+      "company": "BILI Social International, Inc.",
       "ticker": "AGGI",
       "exDate": "2026-06-05",
       "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -610,7 +665,7 @@
     },
     {
       "id": "Eff643fb206029d43e9777a6c0afe5df293cbfe7f2f20760d0b1ecb81ce664438",
-      "company": "Kun Peng International Ltd.",
+      "company": "Kun Peng International Ltd",
       "ticker": "KPEA",
       "exDate": "2026-06-02",
       "ratio": "1-for-10",
@@ -724,28 +779,6 @@
       "ticker": "AFDG",
       "exDate": "2026-06-01",
       "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3f84766930aaa10574da69f84a84c776f27b00ebf61361cf255dbe43fca6dc7d",
-      "company": "Silexion Therapeutics Corp",
-      "ticker": "SLXN",
-      "exDate": "2026-05-29",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea8cfc3c7b4b0c976e7fcbd90122e5f38cb4fe048c8e147ee225bf031a039e2c4",
-      "company": "Hitek Global Inc.",
-      "ticker": "HKIT",
-      "exDate": "2026-05-29",
-      "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
