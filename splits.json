@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-08T17:18:26.273Z",
-  "totalRecords": 71,
-  "newThisScan": 5,
+  "lastUpdated": "2026-06-09T16:27:57.056Z",
+  "totalRecords": 73,
+  "newThisScan": 11,
   "splits": [
+    {
+      "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
+      "company": "Lion Group Holding Ltd.",
+      "ticker": "LGHL",
+      "exDate": "2026-07-09",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ec6c8012ab4d8891202964cd0df9e6796fb2b1e7375892d0e7d74a1c36f648376",
       "company": "Marubeni Corporation",
@@ -11,7 +22,18 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E51167cea6d1566d9e7b5bcc37bce5d07bc1eb02cd39b1c5fa82607fae1e88d43",
+      "company": "Sumitomo Electric Industries, Ltd.",
+      "ticker": "SMTOY",
+      "exDate": "2026-07-02",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -26,12 +48,12 @@
       "source": "polygon"
     },
     {
-      "id": "E51167cea6d1566d9e7b5bcc37bce5d07bc1eb02cd39b1c5fa82607fae1e88d43",
-      "company": "Sumitomo Electric Industries, Ltd.",
-      "ticker": "SMTOY",
+      "id": "E1831ba06f815fef50c79cd5d525bf424fc960976fc36fb3b022034afeffa408f",
+      "company": "YXT.COM Group Holding Limited",
+      "ticker": "YXT",
       "exDate": "2026-07-01",
-      "ratio": "8-for-1",
-      "type": "forward",
+      "ratio": "1-for-16",
+      "type": "reverse",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -48,6 +70,17 @@
       "source": "polygon"
     },
     {
+      "id": "Efeb2118025ce82ff97fff837316db0dabf04a32db34171781395be2b3e7d3b0e",
+      "company": "Sumitomo Electric Industries, Ltd.",
+      "ticker": "SMTOF",
+      "exDate": "2026-06-29",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E798758f889f8fa3f1b011b6c5d290e8d1cebc178d5ec501616deae1888559f9b",
       "company": "Honeywell International Inc.",
       "ticker": "HON",
@@ -55,7 +88,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -67,6 +100,83 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E64417279a430d4105866d256dc9fcab814f08bf50d8c03737ee507283a415abc",
+      "company": "GraniteShares 2x Long VRT Daily ETF",
+      "ticker": "VRTL",
+      "exDate": "2026-06-25",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4fa0da34fa994d1ec5707221189509bcf0973f5f62d0f2d30928f096fe163582",
+      "company": "GraniteShares 2x Long SMCI Dail",
+      "ticker": "SMCL",
+      "exDate": "2026-06-25",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E22fd733eddce34127862b4adfbca3b5ffa001f60e38d2fbe1370bbad10d050bf",
+      "company": "GraniteShares 2x Long NVDA Daily ETF",
+      "ticker": "NVDL",
+      "exDate": "2026-06-25",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec5a03719f261073edcb36968f0bd9961506e023042cd5d094d4bc3dc09baa47b",
+      "company": "GraniteShares 2x Long MRVL Daily ETF",
+      "ticker": "MVLL",
+      "exDate": "2026-06-25",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E16aee861705f0734ac6da6fed48b90091775013077b6e89fcd684f91433e0981",
+      "company": "GraniteShares 2x Long MU Daily ",
+      "ticker": "MULL",
+      "exDate": "2026-06-25",
+      "ratio": "25-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efefd55b289e190e70424a814fc4b9316dae1baa22c5ff8b663dc3ce031669a36",
+      "company": "GraniteShares 2x Long INTC Daily ETF",
+      "ticker": "INTW",
+      "exDate": "2026-06-25",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3a5409a2dc16768d47dc75e657acd3e3fdc9c558d13c46ce0af0ce8779ee5a70",
+      "company": "GraniteShares 2x Long DELL Daily ETF",
+      "ticker": "DLLL",
+      "exDate": "2026-06-25",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -191,6 +301,17 @@
       "source": "polygon"
     },
     {
+      "id": "E73ab9e98f51ce1b5a3fa24bac3e0f26b9b752bd01711d50073d5e338c9475a9d",
+      "company": "Smart Powerr Corp.",
+      "ticker": "CREG",
+      "exDate": "2026-06-16",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee92b0dbb702f867af6905a06fac8e97ec6420accd10466939a0a42c109803738",
       "company": "Dreamland Limited",
       "ticker": "TDIC",
@@ -198,7 +319,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +363,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -682,105 +803,6 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E70346de8a42ccc665cb4d99fd4b63dff4c6181553b6ccf69ba718319e0ec459d",
-      "company": "ZOOZ Strategy Ltd.",
-      "ticker": "ZOOZ",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef2990779d17016b65483ebc6424002b3320761580b446d07be395f20dcc7f3aa",
-      "company": "Brag House Holdings, Inc.",
-      "ticker": "TBH",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E331ab22663a5de7fd69dc79481bc15b2618bbcadf79cfe0d68dca169b631ac9f",
-      "company": "SCYNEXIS, Inc.",
-      "ticker": "SCYX",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea0a9acf77381344ce6b06d99651790a0270bbba6d4e92a979d01e0bbbd1ed521",
-      "company": "Sunshine Biopharma, Inc.",
-      "ticker": "SBFM",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3cfb7fb7a50ad3d2e935ad8cf4260bcb8e6db42a822211747415e93103460787",
-      "company": "JIADE Limited",
-      "ticker": "JDZG",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E403ff8f1b00e271ce1a6287e2e7d5ed9b489b73ac8619e898fc66301a6ed1c5e",
-      "company": "Eloxx Pharmaceuticals Inc",
-      "ticker": "ELOX",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-11",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef13066e918c085e328e67f59090019cea31a5d45f5816ac7eb0b9af360059c38",
-      "company": "CID HoldCo, Inc.",
-      "ticker": "DAIC",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E794b0a1f0ae95921fda93e0b725f3cfb3352fade8175d02343d2cf819d49330f",
-      "company": "CDT Environmental Technology Investment Holdings Limited",
-      "ticker": "CDTG",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2c1aa07e6d36f2b3246494d509333e4136af841deff0f9522dda9eabf82506a8",
-      "company": "African Discovery Group Inc",
-      "ticker": "AFDG",
-      "exDate": "2026-06-01",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
