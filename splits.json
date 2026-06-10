@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-09T16:27:57.056Z",
-  "totalRecords": 73,
-  "newThisScan": 11,
+  "lastUpdated": "2026-06-10T16:55:08.354Z",
+  "totalRecords": 71,
+  "newThisScan": 7,
   "splits": [
+    {
+      "id": "E8a56c0595dcb64f2f975d7402b2b28a23f47e42e9d67db4daaa31d631743f78c",
+      "company": "Barys Resources Limited",
+      "ticker": "EELFF",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
       "company": "Lion Group Holding Ltd.",
@@ -11,7 +22,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +66,7 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -70,6 +81,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb4079d86dfc84ac75523b63c9c90d8e8a2208e6f5236c046002b02e59cd26773",
+      "company": "Kao Corporation",
+      "ticker": "KAOCF",
+      "exDate": "2026-06-30",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Efeb2118025ce82ff97fff837316db0dabf04a32db34171781395be2b3e7d3b0e",
       "company": "Sumitomo Electric Industries, Ltd.",
       "ticker": "SMTOF",
@@ -77,7 +99,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +132,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +143,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +154,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +165,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +176,7 @@
       "ratio": "25-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -165,7 +187,7 @@
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -176,7 +198,7 @@
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -345,6 +367,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ecc2b95858e1d542dbd8f1fac0cace5f81db56aa96fe19815adf9cef1a968e5ad",
+      "company": "Alpha Modus Holdings, Inc.",
+      "ticker": "AMOD",
+      "exDate": "2026-06-15",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
       "company": "KLA Corporation",
       "ticker": "KLAC",
@@ -364,6 +397,50 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E261ff59745cb222a5ed2548f6f2b49a82e1af1ff09665fe96830bd50e8ebc06b",
+      "company": "Verano Holdings Corp.",
+      "ticker": "VRNO",
+      "exDate": "2026-06-11",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4863166e02cbdf69c29693e9638e091ef97af60f0bf1348155e4ba719a144fb3",
+      "company": "Shuttle Pharmaceuticals Holdings, Inc.",
+      "ticker": "SHPH",
+      "exDate": "2026-06-11",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed7e4ac34aab2f970a9d5c2a95b661f008052236c84891a7b046f2dee8f044fbe",
+      "company": "Global Mofy AI Limited",
+      "ticker": "GMM",
+      "exDate": "2026-06-11",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Edca6455dacb5da7171a4bd581548df194db3c7a3f64b1e58896e4bd7afb0461f",
+      "company": "Abound Energy Inc.",
+      "ticker": "ZAIRF",
+      "exDate": "2026-06-10",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -702,105 +779,6 @@
       "ticker": "APLZ",
       "exDate": "2026-06-03",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5b237d91f11fa4e799ccaee5becf2e9c2d85850b89539d1fc678f56b59c070fe",
-      "company": "Wing Yip Food Holdings Group Limited",
-      "ticker": "WYHG",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E21fbf9698bd22f4a02bbe085a3463fe8b1aca45afdbaaa80a55d3d613742aa83",
-      "company": "GraniteShares YieldBOOST TSLA E",
-      "ticker": "TSYY",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efe85c27e1b8d3779c1c9b1e3271b04a90432c32e430e48d9de009d8198588b0f",
-      "company": "Ridgeback Resources Inc",
-      "ticker": "TRXOD",
-      "exDate": "2026-06-02",
-      "ratio": "100-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6542e19c84eaec60815ade08feea769c6268bdffa0415e4f3831f0cfae71fa17",
-      "company": "PYBXD",
-      "ticker": "PYBXD",
-      "exDate": "2026-06-02",
-      "ratio": "200-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E347ad8560b60ab8eaa5f4382c2cbfe935c6efbd230105249de00c9933aea6d04",
-      "company": "Presurance Holdings, Inc.",
-      "ticker": "PRHI",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1a7a27a095138b43abbd31b266d17f133c7718f9e0b2db63fac4c47eb5acc06e",
-      "company": "GraniteShares YieldBoost MSTR ETF",
-      "ticker": "MTYY",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0c544e7a50a27f5173a05e084d78618391c9e053daf1e7489e1ef0dbc632514a",
-      "company": "KYSRF",
-      "ticker": "KYSRF",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eff643fb206029d43e9777a6c0afe5df293cbfe7f2f20760d0b1ecb81ce664438",
-      "company": "Kun Peng International Ltd",
-      "ticker": "KPEA",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec0a7b1fb603566f8f73ed88860f4afd2bcf05af479cb3606277392e7afcd63de",
-      "company": "GraniteShares YieldBOOST COIN E",
-      "ticker": "COYY",
-      "exDate": "2026-06-02",
-      "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
       "isNew": false,
