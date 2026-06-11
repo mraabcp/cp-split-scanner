@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-10T16:55:08.354Z",
-  "totalRecords": 71,
-  "newThisScan": 7,
+  "lastUpdated": "2026-06-11T17:33:31.936Z",
+  "totalRecords": 66,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "E8a56c0595dcb64f2f975d7402b2b28a23f47e42e9d67db4daaa31d631743f78c",
@@ -11,7 +11,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -32,6 +32,17 @@
       "exDate": "2026-07-08",
       "ratio": "10-for-1",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-20",
+      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -81,11 +92,11 @@
       "source": "polygon"
     },
     {
-      "id": "Eb4079d86dfc84ac75523b63c9c90d8e8a2208e6f5236c046002b02e59cd26773",
-      "company": "Kao Corporation",
-      "ticker": "KAOCF",
+      "id": "Ef3afc955040c4bd14ad2a33c98b84c115c5b4a5dda231e01341de402c728c27b",
+      "company": "Furukawa Electric Co., Ltd.",
+      "ticker": "FUWAY",
       "exDate": "2026-06-30",
-      "ratio": "2-for-1",
+      "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
       "isNew": true,
@@ -97,6 +108,17 @@
       "ticker": "SMTOF",
       "exDate": "2026-06-29",
       "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb4079d86dfc84ac75523b63c9c90d8e8a2208e6f5236c046002b02e59cd26773",
+      "company": "Kao Corporation",
+      "ticker": "KAOCF",
+      "exDate": "2026-06-29",
+      "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
       "isNew": false,
@@ -246,6 +268,17 @@
       "source": "polygon"
     },
     {
+      "id": "E8f5c1e4359703a02d74284a65425bdc421f7ceff02f31dfb30ce49e934cf312a",
+      "company": "Oriental Rise Holdings Limited",
+      "ticker": "ORIS",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E314b644da542efd35e207c73a17956151f2d21d9bfbbcec3350a58f56acb351d",
       "company": "Mobile-health Network Solutions",
       "ticker": "MNDR",
@@ -254,6 +287,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3ad91d5f458ee1fbac851c8d044949e106f512a972e6dbdb33543db64091248d",
+      "company": "Basel Medical Group Ltd",
+      "ticker": "BMGL",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -312,17 +356,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-06-17",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E73ab9e98f51ce1b5a3fa24bac3e0f26b9b752bd01711d50073d5e338c9475a9d",
       "company": "Smart Powerr Corp.",
       "ticker": "CREG",
@@ -342,6 +375,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0e2130b67b6b2339f52daab8c13cbeed3e5ce313e35e312b881ddb9c53dba27c",
+      "company": "Avax One Technology Ltd.",
+      "ticker": "AVX",
+      "exDate": "2026-06-15",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -374,6 +418,17 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4ac9a8577854c2ae323575a4f1f59b3d2d5a24c895514aae0a960c53bc712405",
+      "company": "22nd Century Group, Inc.",
+      "ticker": "XXII",
+      "exDate": "2026-06-12",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -400,6 +455,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed92c27fb5f93b5c9d21dbac8decc479704e86c76891813c55f4488c4615c3f4f",
+      "company": "Aeries Technology, Inc",
+      "ticker": "AERT",
+      "exDate": "2026-06-12",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E261ff59745cb222a5ed2548f6f2b49a82e1af1ff09665fe96830bd50e8ebc06b",
       "company": "Verano Holdings Corp.",
       "ticker": "VRNO",
@@ -407,7 +473,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +484,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +495,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +506,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -660,127 +726,6 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2b687d9a542a556249803f66f4cc9db06bd1a8bd89ae5c46d3608928ea763545",
-      "company": "Tradr 2X Long WDC Daily ETF",
-      "ticker": "WDCX",
-      "exDate": "2026-06-03",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E574daa1fdec4ebc8bed3ba5abe1f2c4a8e311fbb3e4564e0c45b41307713a130",
-      "company": "Tradr 2X Long Sndk Daily ETF",
-      "ticker": "SNXX",
-      "exDate": "2026-06-03",
-      "ratio": "8-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eec5dfb1b7e6aa8bd4a8e560bf9d55263884ac7d8bb5b495a95e8bc7cbd85682a",
-      "company": "Silo Pharma, Inc.",
-      "ticker": "SILO",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef6232f7c3cc6c6c6a137a2dff5c653f90c629b45098720e1d3b442fb2acd07d6",
-      "company": "Power REIT",
-      "ticker": "PW",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ead19ee6fd1ac9702ce08c182874ad6036f097dd610c19904f77945e38b0857b6",
-      "company": "Alterity Therapeutics Limited",
-      "ticker": "PRNAF",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E34fab442bffe8cf6a4f11c1c13dcaef72ac1650dfa6d225b3d8413527734ca5d",
-      "company": "Epic Gold Corp.",
-      "ticker": "NFLDF",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0b6d85b26843fbc7f9b01ee33ec8f8bf1615c36499b6e5913c3674ef919e0fa4",
-      "company": "Tradr 2X Long NBIS Daily ETF",
-      "ticker": "NEBX",
-      "exDate": "2026-06-03",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9590b69467d15a63428882e37749d5d06adc9bd59a493a105a6c28d1526f34c3",
-      "company": "Tradr 2X Short Nbis Daily ETF",
-      "ticker": "NBIZ",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E17d484242b293e1a5ab8799503ff899ce1b748bef324727cdb1c10c2b0acfc6e",
-      "company": "Tradr 2X Long GEV Daily ETF",
-      "ticker": "GEVX",
-      "exDate": "2026-06-03",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efc13d2afb9cc41cfaaac8e0cb0dbe10ebe5459cb1d002609041ba62e021eeb55",
-      "company": "Tradr 2X Short BE Daily ETF",
-      "ticker": "BEZ",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8d7f91f49c38c4b1c5d28da6842c431643564137ee818ce55668f44a289fc014",
-      "company": "Tradr 2X Short Apld Daily ETF",
-      "ticker": "APLZ",
-      "exDate": "2026-06-03",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
