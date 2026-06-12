@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-11T17:33:31.936Z",
-  "totalRecords": 66,
-  "newThisScan": 6,
+  "lastUpdated": "2026-06-12T16:40:03.244Z",
+  "totalRecords": 68,
+  "newThisScan": 5,
   "splits": [
+    {
+      "id": "Ef3afc955040c4bd14ad2a33c98b84c115c5b4a5dda231e01341de402c728c27b",
+      "company": "Furukawa Electric Co., Ltd.",
+      "ticker": "FUWAY",
+      "exDate": "2026-07-10",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
     {
       "id": "E8a56c0595dcb64f2f975d7402b2b28a23f47e42e9d67db4daaa31d631743f78c",
       "company": "Barys Resources Limited",
@@ -23,6 +34,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E86b24232e54e3402dad3ce5c25ef8b26ad0d3b4b714263db63864a82be87487a",
+      "company": "Compagnie de Saint-Gobain S.A.",
+      "ticker": "CODYY",
+      "exDate": "2026-07-09",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -92,17 +114,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ef3afc955040c4bd14ad2a33c98b84c115c5b4a5dda231e01341de402c728c27b",
-      "company": "Furukawa Electric Co., Ltd.",
-      "ticker": "FUWAY",
-      "exDate": "2026-06-30",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
       "id": "Efeb2118025ce82ff97fff837316db0dabf04a32db34171781395be2b3e7d3b0e",
       "company": "Sumitomo Electric Industries, Ltd.",
       "ticker": "SMTOF",
@@ -133,6 +144,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed6e4e72112296ebbe3d0abca4c7341d3ee42be34623b1dc7f735b3ccae1d899d",
+      "company": "Furukawa Electric Co., Ltd.",
+      "ticker": "FUWAF",
+      "exDate": "2026-06-29",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -275,7 +297,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -296,6 +318,17 @@
       "exDate": "2026-06-22",
       "ratio": "1-for-12",
       "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1f06da3ea3516814fbf33df48f8800132ee3f21186e2c58214b306fbe05f781b",
+      "company": "CMDLF",
+      "ticker": "CMDLF",
+      "exDate": "2026-06-18",
+      "ratio": "9-for-8",
+      "type": "forward",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -356,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "E2b54f64b078539da51802f234f4579bbc0300be16722a257a11ce26d6645a9cc",
+      "company": "First Farmers Financial Corporation",
+      "ticker": "FFMR",
+      "exDate": "2026-06-16",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E73ab9e98f51ce1b5a3fa24bac3e0f26b9b752bd01711d50073d5e338c9475a9d",
       "company": "Smart Powerr Corp.",
       "ticker": "CREG",
@@ -385,7 +429,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +473,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -441,6 +485,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb33c71689c352d2d34f8c7d7b04aa2d85c603c191fb18d05d3cdbc63c2fd464d",
+      "company": "California First Leasing Corporation",
+      "ticker": "CFNB",
+      "exDate": "2026-06-12",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E938c56b3636c7cd7501bac152e30786cb7e6b8d2f5a030fe5ca196ce22691fe4",
+      "company": "APPlife Digital Solutions Inc.",
+      "ticker": "ALDS",
+      "exDate": "2026-06-12",
+      "ratio": "1-for-250",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -462,7 +528,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -587,17 +653,6 @@
       "source": "polygon"
     },
     {
-      "id": "E2b54f64b078539da51802f234f4579bbc0300be16722a257a11ce26d6645a9cc",
-      "company": "First Farmers Financial Corporation",
-      "ticker": "FFMR",
-      "exDate": "2026-06-08",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E8ff0438997981ae66f904a6c32356e09e1a1035fe554b15004a6ae5598a6f541",
       "company": "Femasys Inc.",
       "ticker": "FEMY",
@@ -691,39 +746,6 @@
       "ticker": "AGGI",
       "exDate": "2026-06-05",
       "ratio": "1-for-500",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4df28ce063112dffa8eb99805a4e12af116e8e1deebaad9b32def49f8914b6cb",
-      "company": "WF International Limited",
-      "ticker": "WXM",
-      "exDate": "2026-06-04",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E922a4c28c4ee03039dbb36b4832bfb05e283504fb7a53d277640fe61c6e2c60f",
-      "company": "Viscofan, S.A.",
-      "ticker": "VSCFF",
-      "exDate": "2026-06-04",
-      "ratio": "33-for-32",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E315191ef0091ebce84806373ff288d2f66ba19d9e06306c635bbdf0d9b347c57",
-      "company": "IceCure Medical Ltd",
-      "ticker": "ICCM",
-      "exDate": "2026-06-04",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
