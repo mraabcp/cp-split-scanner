@@ -1,8 +1,107 @@
 {
-  "lastUpdated": "2026-06-12T16:40:03.244Z",
-  "totalRecords": 68,
-  "newThisScan": 5,
+  "lastUpdated": "2026-06-15T18:21:48.207Z",
+  "totalRecords": 73,
+  "newThisScan": 12,
   "splits": [
+    {
+      "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
+      "company": "Direxion Daily Small Cap Bear 3X Shares",
+      "ticker": "TZA",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea40a204874dac76d0bae5d0156b0d2de75bd93fb287cc87b002223b838b02a47",
+      "company": "Direxion Daily Technology Bear 3X Shares",
+      "ticker": "TECS",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E18da9a97bab03a5a2be344a0cf83ed8852b4ab7c1554aaffb85b402e028122fd",
+      "company": "Direxion Daily Semiconductor Bear 3X Shares",
+      "ticker": "SOXS",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efd1bc06aa2b8b7b0aff5ce156d259d175aa1c5062191d689c43f3a62503725b3",
+      "company": "Direxion Daily MU Bull 2X ETF",
+      "ticker": "MUU",
+      "exDate": "2026-07-15",
+      "ratio": "20-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebd946ef68049f3f8e1e6b189a2a8e8ac3cd518b3075c4065eaa28a63ad60fd1c",
+      "company": "Direxion Daily South Korea Bull 3X Shares",
+      "ticker": "KORU",
+      "exDate": "2026-07-15",
+      "ratio": "20-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2f9122dba820178280fbd5ed8a6f87ca49f73e703ef5f8a874cbe4084552b808",
+      "company": "Direxion Daily GOOGL Bear 1X Shares",
+      "ticker": "GGLS",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2e281867ddb1e039f71e14f472b633c4fdb94749f279947179c9278d5ad1dce5",
+      "company": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
+      "ticker": "DRIP",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eacf245a7b7e7aa34ae96e9c899e37f433629144d342d99889893a38f36770658",
+      "company": "Direxion Daily AMD Bear 1X Shares",
+      "ticker": "AMDD",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eabd5806aeb34f1a6f78126e8bc449dd0e847946a75920f70ae3da62151ee3f40",
+      "company": "Direxion Daily AI And Big Data Bear 2X Shares",
+      "ticker": "AIBD",
+      "exDate": "2026-07-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ef3afc955040c4bd14ad2a33c98b84c115c5b4a5dda231e01341de402c728c27b",
       "company": "Furukawa Electric Co., Ltd.",
@@ -44,7 +143,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +253,73 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E64417279a430d4105866d256dc9fcab814f08bf50d8c03737ee507283a415abc",
+      "company": "GraniteShares 2x Long VRT Daily ETF",
+      "ticker": "VRTL",
+      "exDate": "2026-06-26",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4fa0da34fa994d1ec5707221189509bcf0973f5f62d0f2d30928f096fe163582",
+      "company": "GraniteShares 2x Long SMCI Dail",
+      "ticker": "SMCL",
+      "exDate": "2026-06-26",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E22fd733eddce34127862b4adfbca3b5ffa001f60e38d2fbe1370bbad10d050bf",
+      "company": "GraniteShares 2x Long NVDA Daily ETF",
+      "ticker": "NVDL",
+      "exDate": "2026-06-26",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec5a03719f261073edcb36968f0bd9961506e023042cd5d094d4bc3dc09baa47b",
+      "company": "GraniteShares 2x Long MRVL Daily ETF",
+      "ticker": "MVLL",
+      "exDate": "2026-06-26",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E16aee861705f0734ac6da6fed48b90091775013077b6e89fcd684f91433e0981",
+      "company": "GraniteShares 2x Long MU Daily ",
+      "ticker": "MULL",
+      "exDate": "2026-06-26",
+      "ratio": "25-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Efefd55b289e190e70424a814fc4b9316dae1baa22c5ff8b663dc3ce031669a36",
+      "company": "GraniteShares 2x Long INTC Daily ETF",
+      "ticker": "INTW",
+      "exDate": "2026-06-26",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -169,76 +334,10 @@
       "source": "polygon"
     },
     {
-      "id": "E64417279a430d4105866d256dc9fcab814f08bf50d8c03737ee507283a415abc",
-      "company": "GraniteShares 2x Long VRT Daily ETF",
-      "ticker": "VRTL",
-      "exDate": "2026-06-25",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4fa0da34fa994d1ec5707221189509bcf0973f5f62d0f2d30928f096fe163582",
-      "company": "GraniteShares 2x Long SMCI Dail",
-      "ticker": "SMCL",
-      "exDate": "2026-06-25",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E22fd733eddce34127862b4adfbca3b5ffa001f60e38d2fbe1370bbad10d050bf",
-      "company": "GraniteShares 2x Long NVDA Daily ETF",
-      "ticker": "NVDL",
-      "exDate": "2026-06-25",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec5a03719f261073edcb36968f0bd9961506e023042cd5d094d4bc3dc09baa47b",
-      "company": "GraniteShares 2x Long MRVL Daily ETF",
-      "ticker": "MVLL",
-      "exDate": "2026-06-25",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E16aee861705f0734ac6da6fed48b90091775013077b6e89fcd684f91433e0981",
-      "company": "GraniteShares 2x Long MU Daily ",
-      "ticker": "MULL",
-      "exDate": "2026-06-25",
-      "ratio": "25-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efefd55b289e190e70424a814fc4b9316dae1baa22c5ff8b663dc3ce031669a36",
-      "company": "GraniteShares 2x Long INTC Daily ETF",
-      "ticker": "INTW",
-      "exDate": "2026-06-25",
-      "ratio": "8-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E3a5409a2dc16768d47dc75e657acd3e3fdc9c558d13c46ce0af0ce8779ee5a70",
       "company": "GraniteShares 2x Long DELL Daily ETF",
       "ticker": "DLLL",
-      "exDate": "2026-06-25",
+      "exDate": "2026-06-26",
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": true,
@@ -330,7 +429,7 @@
       "ratio": "9-for-8",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -411,6 +510,28 @@
       "source": "polygon"
     },
     {
+      "id": "E22a76bb82e078dbc50a869ce676755c4e889431a3bd890933297cf737eb3f95d",
+      "company": "Worldline SA",
+      "ticker": "WWLNF",
+      "exDate": "2026-06-15",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5d3beb9708b0802e28dd26d842ea6af9213564f9c6f8b92edecb77d4a594530a",
+      "company": "Telecom Italia S.p.A.",
+      "ticker": "TIAOF",
+      "exDate": "2026-06-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee92b0dbb702f867af6905a06fac8e97ec6420accd10466939a0a42c109803738",
       "company": "Dreamland Limited",
       "ticker": "TDIC",
@@ -419,6 +540,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E20045ab74482d776d06a04fd2f046b9d8a89b828b800e08bf506dfd3e5e17067",
+      "company": "Jayden Resources Inc.",
+      "ticker": "JDNRF",
+      "exDate": "2026-06-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -495,7 +627,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +638,7 @@
       "ratio": "1-for-250",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -669,83 +801,6 @@
       "ticker": "CDLX",
       "exDate": "2026-06-08",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7cbde122d01909b7a9fb61589eb991b228afe0434d084690dacf7ad9cdd846c0",
-      "company": "Vireo Growth Inc.",
-      "ticker": "VREOF",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebc65fd5adf70a552aeb1c80feb331d29b4799994bc7237e7ee2a53d2b6b1f398",
-      "company": "Smith Micro Software, Inc.",
-      "ticker": "SMSI",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea695949fdc43b5ef354195580101e5b07e6d85fd2a81c35475101eaf60854e3f",
-      "company": "INEO Tech Corp.",
-      "ticker": "INEOF",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5be2b38372d73cc3e1b5daf5002794e410b1ac0391d6c0683809a92f58563f68",
-      "company": "EUROCOMMERCIAL",
-      "ticker": "ECMPF",
-      "exDate": "2026-06-05",
-      "ratio": "29-for-28",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb35745b8eae924c2c04bb0b99053da48de54c22bf73f98747ce980ddc574c03e",
-      "company": "Curaleaf Holdings, Inc.",
-      "ticker": "CURLF",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E996b82dcb5cce73218d66da0ac348bc4fb364de33850f120b7c564293010d939",
-      "company": "Cemtrex, Inc.",
-      "ticker": "CETX",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E80769a73ab1732df1ba1bf521130c2794dea630d0e85242e76dcfa4e98f68372",
-      "company": "BILI Social International, Inc.",
-      "ticker": "AGGI",
-      "exDate": "2026-06-05",
-      "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
