@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-15T18:21:48.207Z",
+  "lastUpdated": "2026-06-16T18:25:18.078Z",
   "totalRecords": 73,
-  "newThisScan": 12,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
@@ -11,7 +11,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "20-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "20-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -155,6 +155,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6dee924b2852923731c2163972f31c31e8fcfb930be0f9368e4736e877af9298",
+      "company": "SOLAI Limited",
+      "ticker": "SLAI",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E10418df4f0af3ccebeb295372a57b2803dd706cc251ea8d594d22b6b6eeebcfc",
+      "company": "NIP Group Inc.",
+      "ticker": "NIPG",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -345,6 +367,17 @@
       "source": "polygon"
     },
     {
+      "id": "E0a22d99bbb425f38ce7e492493c0ad8ae0b06f7eeed598b27e9ced9fc00bb61b",
+      "company": "Jinxin Technology Holding Company",
+      "ticker": "NAMI",
+      "exDate": "2026-06-25",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ed9acf5d1a7b6734f813245e2b49c85e4237898981d23a38897f4849f37bbdc39",
       "company": "DuPont de Nemours, Inc.",
       "ticker": "DD",
@@ -362,17 +395,6 @@
       "exDate": "2026-06-23",
       "ratio": "5-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0a22d99bbb425f38ce7e492493c0ad8ae0b06f7eeed598b27e9ced9fc00bb61b",
-      "company": "Jinxin Technology Holding Company",
-      "ticker": "NAMI",
-      "exDate": "2026-06-23",
-      "ratio": "1-for-625",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -422,6 +444,28 @@
       "source": "polygon"
     },
     {
+      "id": "E8d3920ce4b03bacd7fcd2627976d95af6feeadfa5bffff8b13f218cefc11aaae",
+      "company": "BEO Bancorp",
+      "ticker": "BEOB",
+      "exDate": "2026-06-22",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E807f3747d31c1ec22d2af36166bce633335f0695dd1c0f92cbb5fe2e8aa2e175",
+      "company": "Wheeler Real Estate Investment Trust, Inc.",
+      "ticker": "WHLR",
+      "exDate": "2026-06-18",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1f06da3ea3516814fbf33df48f8800132ee3f21186e2c58214b306fbe05f781b",
       "company": "CMDLF",
       "ticker": "CMDLF",
@@ -441,6 +485,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E83152cd250d7020b4f117b86185a30272eb1a504bb1ac5e19e6d9c3e6050228b",
+      "company": "Vision Marine Technologies Inc.",
+      "ticker": "VMAR",
+      "exDate": "2026-06-17",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -510,6 +565,17 @@
       "source": "polygon"
     },
     {
+      "id": "E9fb4272c57e0bd2ab13e132b2baf660df89113fc8513341683e0ef2ebd262b8f",
+      "company": "AIFU Inc.",
+      "ticker": "AIFU",
+      "exDate": "2026-06-16",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E22a76bb82e078dbc50a869ce676755c4e889431a3bd890933297cf737eb3f95d",
       "company": "Worldline SA",
       "ticker": "WWLNF",
@@ -517,7 +583,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +594,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +616,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -736,72 +802,6 @@
       "exDate": "2026-06-09",
       "ratio": "11-for-10",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E81590f0a0f1b94872bc88206600f67295fa5a27bf501b2dbcf71b474724991a4",
-      "company": "Zhongchao Inc.",
-      "ticker": "ZCMD",
-      "exDate": "2026-06-08",
-      "ratio": "1-for-31",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8d1d1fb86f293e024165a03f309e6783c913c7a9d42c7f354bd2c7fa39bad43b",
-      "company": "T-REX 2X Long SNDK Daily Target",
-      "ticker": "SNDU",
-      "exDate": "2026-06-08",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0c6cc8b509e3dee36c02f0dea6d71492ef30a41cba09ed07f3c65780c0c84fce",
-      "company": "KIDZ AI Inc.",
-      "ticker": "KIDZ",
-      "exDate": "2026-06-08",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4a15e1698b03d6bafb3c7340a8d1bf887cf8cb2dcdd48167401b43dd6eea375a",
-      "company": "HUB Cyber Security Ltd.",
-      "ticker": "HUBC",
-      "exDate": "2026-06-08",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8ff0438997981ae66f904a6c32356e09e1a1035fe554b15004a6ae5598a6f541",
-      "company": "Femasys Inc.",
-      "ticker": "FEMY",
-      "exDate": "2026-06-08",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9e20f34f704c6966fbfcad78aa8b77a0541acb1abd753af5a2bcde704d6201eb",
-      "company": "Cardlytics, Inc.",
-      "ticker": "CDLX",
-      "exDate": "2026-06-08",
-      "ratio": "1-for-10",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
