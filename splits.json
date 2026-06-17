@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-16T18:25:18.078Z",
-  "totalRecords": 73,
-  "newThisScan": 6,
+  "lastUpdated": "2026-06-17T16:52:43.498Z",
+  "totalRecords": 72,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
@@ -165,7 +165,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -176,7 +176,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -184,7 +184,7 @@
       "company": "Jianzhi Education Technology Group Company Limited",
       "ticker": "JZ",
       "exDate": "2026-07-06",
-      "ratio": "1-for-20",
+      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -378,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ebbe5414c6f3ba5207cc1a48817259937290372b13712623ece54275563e0d7fd",
+      "company": "JBDI Holdings Limited",
+      "ticker": "JBDI",
+      "exDate": "2026-06-25",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed9acf5d1a7b6734f813245e2b49c85e4237898981d23a38897f4849f37bbdc39",
       "company": "DuPont de Nemours, Inc.",
       "ticker": "DD",
@@ -451,6 +462,17 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecae4bec63bf88ce9d015cbd4a7c873f2b062b05eb2158810351e8f53e41711a4",
+      "company": "WORK Medical Technology Group LTD",
+      "ticker": "WOK",
+      "exDate": "2026-06-18",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -462,7 +484,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +517,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -572,7 +594,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -731,7 +753,7 @@
     },
     {
       "id": "E261ff59745cb222a5ed2548f6f2b49a82e1af1ff09665fe96830bd50e8ebc06b",
-      "company": "Verano Holdings Corp.",
+      "company": "Verano Holdings Corp",
       "ticker": "VRNO",
       "exDate": "2026-06-11",
       "ratio": "1-for-5",
@@ -769,39 +791,6 @@
       "exDate": "2026-06-10",
       "ratio": "1-for-3",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee73350161745297842316ed0f19946ae099dea2820b888355050e607bff52a6d",
-      "company": "Offerpad Solutions Inc.",
-      "ticker": "OPAD",
-      "exDate": "2026-06-09",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee6661ce629c49d89af12f75858e2c4424c7b67ffec0e4c013842d69d74caa70d",
-      "company": "Hills Bancorporation",
-      "ticker": "HBIA",
-      "exDate": "2026-06-09",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E24e04e76438311ab5c4b58a2e896df9b89a0b4dc7352e9049c6ddadb3f66502c",
-      "company": "L'Air Liquide S.A.",
-      "ticker": "AIQUF",
-      "exDate": "2026-06-09",
-      "ratio": "11-for-10",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
