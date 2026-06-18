@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-17T16:52:43.498Z",
-  "totalRecords": 72,
-  "newThisScan": 2,
+  "lastUpdated": "2026-06-18T16:52:43.724Z",
+  "totalRecords": 80,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
@@ -100,6 +100,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E60276781f61d537f21a5871805fb43a4336cbd058c7703b8b933b4e3c8a435d0",
+      "company": "Sumitomo Corporation",
+      "ticker": "SSUMY",
+      "exDate": "2026-07-10",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -385,7 +396,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -408,6 +419,39 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eac6c18fac2138a9dd630b81596af3d3d7182f28e5e372fb0fd8db4b27bd44be3",
+      "company": "UTime Limited",
+      "ticker": "WTO",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E47be50447203d749c7e63c43b263f70857517bf43e3783575fce57ad09bfef88",
+      "company": "Wearable Devices Ltd.",
+      "ticker": "WLDSW",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8625dc76f697b57e58e7df33f13e305ab46cfbe86d60eb6ea9d2345148a5facd",
+      "company": "Wearable Devices Ltd.",
+      "ticker": "WLDS",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -444,6 +488,39 @@
       "source": "polygon"
     },
     {
+      "id": "E8d7949e5d9208d83b1db51b93eb0c98c9612116ee8e3bc29b27478a71714a7ac",
+      "company": "Lianhe Sowell International Group Ltd",
+      "ticker": "LHSW",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb2dfad932dbd45e00e2c5619ff394a8c70be80119833808079bbdddb385ca7e3",
+      "company": "Lakewood-Amedex Biotherapeutics, Inc.",
+      "ticker": "LABT",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8768a95bf2a222f71b6bf35f6b73e2d565f04cbd0aa38d1c636191e27b28d80d",
+      "company": "Boxlight Corporation",
+      "ticker": "BOXL",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3ad91d5f458ee1fbac851c8d044949e106f512a972e6dbdb33543db64091248d",
       "company": "Basel Medical Group Ltd",
       "ticker": "BMGL",
@@ -473,7 +550,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -488,6 +565,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed1feb587bef36564fd48562d1591c727183e7ab9982dd1a32fe0b49488714e3b",
+      "company": "Molecular Pharmacology (USA), Ltd.",
+      "ticker": "MLPH",
+      "exDate": "2026-06-18",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1f06da3ea3516814fbf33df48f8800132ee3f21186e2c58214b306fbe05f781b",
       "company": "CMDLF",
       "ticker": "CMDLF",
@@ -496,6 +584,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E019fb8f598e20d15626f40473da0f983c7fd80ee9eb3aa77bf4b6de57c84d8bc",
+      "company": "Allurion Technologies Inc.",
+      "ticker": "ALUR",
+      "exDate": "2026-06-18",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -779,17 +878,6 @@
       "ticker": "GMM",
       "exDate": "2026-06-11",
       "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edca6455dacb5da7171a4bd581548df194db3c7a3f64b1e58896e4bd7afb0461f",
-      "company": "Abound Energy Inc.",
-      "ticker": "ZAIRF",
-      "exDate": "2026-06-10",
-      "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
