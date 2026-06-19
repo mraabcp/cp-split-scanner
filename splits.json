@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-18T16:52:43.724Z",
-  "totalRecords": 80,
-  "newThisScan": 9,
+  "lastUpdated": "2026-06-19T16:29:21.182Z",
+  "totalRecords": 90,
+  "newThisScan": 13,
   "splits": [
     {
       "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
@@ -103,6 +103,39 @@
       "source": "polygon"
     },
     {
+      "id": "E1831ba06f815fef50c79cd5d525bf424fc960976fc36fb3b022034afeffa408f",
+      "company": "YXT.COM Group Holding Limited",
+      "ticker": "YXT",
+      "exDate": "2026-07-14",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edcf955b8de55f939a283a08768039ac2a2b5e039692d3877827f0368a03e7d56",
+      "company": "T-REX 2X Long DJT Daily Target ",
+      "ticker": "DJTU",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E059389d0946851e1991bbf16c94dacd88669773322cbd3754144a3c35b35cc59",
+      "company": "T-REX 2X Long BMNR Daily Target ETF",
+      "ticker": "BMNU",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E60276781f61d537f21a5871805fb43a4336cbd058c7703b8b933b4e3c8a435d0",
       "company": "Sumitomo Corporation",
       "ticker": "SSUMY",
@@ -110,7 +143,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -224,14 +257,14 @@
       "source": "polygon"
     },
     {
-      "id": "E1831ba06f815fef50c79cd5d525bf424fc960976fc36fb3b022034afeffa408f",
-      "company": "YXT.COM Group Holding Limited",
-      "ticker": "YXT",
+      "id": "Ebf7af31f93060a734b4e0568d9de67f9a40017a985d9cfc212815899b93167e6",
+      "company": "2x Long VIX Futures ETF",
+      "ticker": "UVIX",
       "exDate": "2026-07-01",
-      "ratio": "1-for-16",
+      "ratio": "1-for-20",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -246,12 +279,45 @@
       "source": "polygon"
     },
     {
+      "id": "Ecb3785dc9c13ca218f595593cd76d4e08025e587b92ac3ac29cdbcaf12487b16",
+      "company": "Barron's 400 ETF",
+      "ticker": "BFOR",
+      "exDate": "2026-07-01",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0e104e2ef62f368ec47b3d69eeb204797925884aec04ef88a3edb7c8949becf0",
+      "company": "Alight, Inc.",
+      "ticker": "ALIT",
+      "exDate": "2026-07-01",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Efeb2118025ce82ff97fff837316db0dabf04a32db34171781395be2b3e7d3b0e",
       "company": "Sumitomo Electric Industries, Ltd.",
       "ticker": "SMTOF",
       "exDate": "2026-06-29",
       "ratio": "4-for-1",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E314b644da542efd35e207c73a17956151f2d21d9bfbbcec3350a58f56acb351d",
+      "company": "Mobile-health Network Solutions",
+      "ticker": "MNDR",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-6",
+      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -400,6 +466,17 @@
       "source": "polygon"
     },
     {
+      "id": "E29ab9d3acd8e4373d41b842581896656314897f3e90648aa80c28dd8cabe5f2b",
+      "company": "PBIMF",
+      "ticker": "PBIMF",
+      "exDate": "2026-06-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed9acf5d1a7b6734f813245e2b49c85e4237898981d23a38897f4849f37bbdc39",
       "company": "DuPont de Nemours, Inc.",
       "ticker": "DD",
@@ -408,6 +485,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E194fdec69eb98e731a1d45f26a61428e18f0bae8e388955a318479ca7ed900bb",
+      "company": "Autonomix Medical, Inc.",
+      "ticker": "AMIX",
+      "exDate": "2026-06-24",
+      "ratio": "1-for-21",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E30636071fb88d983d129065be1e1dc36b849b5b68705180e1c56d3969ba64e5f",
+      "company": "YY Group Holding Limited",
+      "ticker": "YYGH",
+      "exDate": "2026-06-23",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -422,6 +521,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ebd8f54d7e80f6ea7bfc6622f334e9f410d183a46f9557dbf22e86848b23604d4",
+      "company": "Triller Group Inc.",
+      "ticker": "ILLR",
+      "exDate": "2026-06-23",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E297c6e0e27b7f90e2f44f6931b345cbf0512786538446daefee0b6ceaf24b577",
+      "company": "Focus Universal Inc.",
+      "ticker": "FCUV",
+      "exDate": "2026-06-23",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eac6c18fac2138a9dd630b81596af3d3d7182f28e5e372fb0fd8db4b27bd44be3",
       "company": "UTime Limited",
       "ticker": "WTO",
@@ -429,7 +550,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +561,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -451,7 +572,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -466,22 +587,22 @@
       "source": "polygon"
     },
     {
+      "id": "E0d3519081498210dc1d1fdbae86d7297506cceea198e7c815634fca8643798e5",
+      "company": "Parkit Enterprise Inc.",
+      "ticker": "PKTEF",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8f5c1e4359703a02d74284a65425bdc421f7ceff02f31dfb30ce49e934cf312a",
       "company": "Oriental Rise Holdings Limited",
       "ticker": "ORIS",
       "exDate": "2026-06-22",
       "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E314b644da542efd35e207c73a17956151f2d21d9bfbbcec3350a58f56acb351d",
-      "company": "Mobile-health Network Solutions",
-      "ticker": "MNDR",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -495,13 +616,35 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "Eb2dfad932dbd45e00e2c5619ff394a8c70be80119833808079bbdddb385ca7e3",
       "company": "Lakewood-Amedex Biotherapeutics, Inc.",
       "ticker": "LABT",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1eebb04f17868e2783dc11fe468f9e9a0f83c6ecba82780ea5cfb5ef2d85c886",
+      "company": "CBVTF",
+      "ticker": "CBVTF",
+      "exDate": "2026-06-22",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0b894edd0acd4bf584dc8f84fac2c6e235cf2890b52719cef28527689f812dcc",
+      "company": "CAT Strategic Metals Corporation",
+      "ticker": "CATTF",
       "exDate": "2026-06-22",
       "ratio": "1-for-10",
       "type": "reverse",
@@ -517,7 +660,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -572,7 +715,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -594,7 +737,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -709,7 +852,7 @@
     },
     {
       "id": "E5d3beb9708b0802e28dd26d842ea6af9213564f9c6f8b92edecb77d4a594530a",
-      "company": "Telecom Italia S.p.A.",
+      "company": "TIM S.p.A.",
       "ticker": "TIAOF",
       "exDate": "2026-06-15",
       "ratio": "1-for-10",
@@ -845,39 +988,6 @@
       "ticker": "AERT",
       "exDate": "2026-06-12",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E261ff59745cb222a5ed2548f6f2b49a82e1af1ff09665fe96830bd50e8ebc06b",
-      "company": "Verano Holdings Corp",
-      "ticker": "VRNO",
-      "exDate": "2026-06-11",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4863166e02cbdf69c29693e9638e091ef97af60f0bf1348155e4ba719a144fb3",
-      "company": "Shuttle Pharmaceuticals Holdings, Inc.",
-      "ticker": "SHPH",
-      "exDate": "2026-06-11",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed7e4ac34aab2f970a9d5c2a95b661f008052236c84891a7b046f2dee8f044fbe",
-      "company": "Global Mofy AI Limited",
-      "ticker": "GMM",
-      "exDate": "2026-06-11",
-      "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
