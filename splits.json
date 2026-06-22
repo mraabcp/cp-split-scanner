@@ -1,8 +1,74 @@
 {
-  "lastUpdated": "2026-06-19T16:29:21.182Z",
-  "totalRecords": 90,
-  "newThisScan": 13,
+  "lastUpdated": "2026-06-22T18:09:54.795Z",
+  "totalRecords": 91,
+  "newThisScan": 7,
   "splits": [
+    {
+      "id": "E75335b6adb2ae7d3c9969a26ed1fa7ac1520d9300c1be60d10136cd720f751f1",
+      "company": "StoneX Group Inc.",
+      "ticker": "SNEX",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-2",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efec3148a3a89f2f4e8d9ee3d0e582e1b4a795fad5cdbabbb04c99263a665795d",
+      "company": "BNY Mellon US Small Cap Core Equity ETF",
+      "ticker": "BKSE",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea0721d5639ffb40709326efaf73d1d4f7697bfe9976875417c1b5dd5630ad61f",
+      "company": "BNY Mellon US Mid Cap Core Equity ETF",
+      "ticker": "BKMC",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eaf15f4ef8bad33e8dcbe3eea236d9d68925c2ced6418ad5f601f21d9c03e5062",
+      "company": "BNY Mellon US Large Cap Core Equity ETF",
+      "ticker": "BKLC",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1fc418a3157b5db1c043a4d20b9fc8d07ce94b490b45ef4c3efbc6309a17d52e",
+      "company": "BNY Mellon International Equity ETF",
+      "ticker": "BKIE",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed3d0bca1626ce609f16dfb29f3a5b676c2e457747714f5e28c742ecfe8000dcb",
+      "company": "BNY Mellon Emerging Markets Equity ETF",
+      "ticker": "BKEM",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
       "company": "Direxion Daily Small Cap Bear 3X Shares",
@@ -121,7 +187,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +198,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +330,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +352,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +363,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -455,6 +521,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eff0171b4f37a8ffe8a45e660df19482bb44a90fe818a630d7b789c6b1822e89f",
+      "company": "Life & Banc Split Corp.",
+      "ticker": "LFBCF",
+      "exDate": "2026-06-25",
+      "ratio": "112-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebbe5414c6f3ba5207cc1a48817259937290372b13712623ece54275563e0d7fd",
       "company": "JBDI Holdings Limited",
       "ticker": "JBDI",
@@ -473,7 +550,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +572,7 @@
       "ratio": "1-for-21",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +583,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +605,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +616,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -594,7 +671,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -632,13 +709,13 @@
     },
     {
       "id": "E1eebb04f17868e2783dc11fe468f9e9a0f83c6ecba82780ea5cfb5ef2d85c886",
-      "company": "CBVTF",
+      "company": "Cobra Venture Corporation",
       "ticker": "CBVTF",
       "exDate": "2026-06-22",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -649,7 +726,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -922,72 +999,6 @@
       "ticker": "AMOD",
       "exDate": "2026-06-15",
       "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4ac9a8577854c2ae323575a4f1f59b3d2d5a24c895514aae0a960c53bc712405",
-      "company": "22nd Century Group, Inc.",
-      "ticker": "XXII",
-      "exDate": "2026-06-12",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edd9dd124187dfa7354bf38a483c440ae435f12dcb2afe0f7def3997ed37e47ac",
-      "company": "KLA Corporation",
-      "ticker": "KLAC",
-      "exDate": "2026-06-12",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb33c71689c352d2d34f8c7d7b04aa2d85c603c191fb18d05d3cdbc63c2fd464d",
-      "company": "California First Leasing Corporation",
-      "ticker": "CFNB",
-      "exDate": "2026-06-12",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E938c56b3636c7cd7501bac152e30786cb7e6b8d2f5a030fe5ca196ce22691fe4",
-      "company": "APPlife Digital Solutions Inc.",
-      "ticker": "ALDS",
-      "exDate": "2026-06-12",
-      "ratio": "1-for-250",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6ca87faf41923233b4591b4f510e70c1db445c19dd22b75f76d26d1c49d8868b",
-      "company": "All In FutureTech Alliance Inc.",
-      "ticker": "AIFA",
-      "exDate": "2026-06-12",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed92c27fb5f93b5c9d21dbac8decc479704e86c76891813c55f4488c4615c3f4f",
-      "company": "Aeries Technology, Inc",
-      "ticker": "AERT",
-      "exDate": "2026-06-12",
-      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
