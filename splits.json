@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-06-23T16:23:11.833Z",
+  "lastUpdated": "2026-06-24T16:11:10.612Z",
   "totalRecords": 94,
-  "newThisScan": 11,
+  "newThisScan": 4,
   "splits": [
+    {
+      "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
+      "company": "Willis Lease Finance Corporation",
+      "ticker": "WLFC",
+      "exDate": "2026-07-20",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E75335b6adb2ae7d3c9969a26ed1fa7ac1520d9300c1be60d10136cd720f751f1",
       "company": "StoneX Group Inc.",
@@ -367,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee59ee593916ce039f9d8f4fb904d1b5bf5ccfb5fec32a4a4149a4e670afa51d2",
+      "company": "KMD Brands Limited",
+      "ticker": "KTHUF",
+      "exDate": "2026-06-30",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E603ad7c752fce67feefa356f05788e958b0c8581a63f828cb12c5c7f967c1a61",
       "company": "Sumitomo Corporation",
       "ticker": "SSUMF",
@@ -374,7 +396,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -389,6 +411,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eeaa1105d04c486c48362e5ff5f88b7d3ba89cebf4b5539f3cc53d237bd83077f",
+      "company": "SKKLF",
+      "ticker": "SKKLF",
+      "exDate": "2026-06-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E950556507cbf6dd4b2512f8814ed8e5ad579d651fc35bb3a15d81111642fee11",
       "company": "Food & Life Companies Ltd.",
       "ticker": "SGLOF",
@@ -396,7 +429,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +440,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +451,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +473,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -451,7 +484,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +506,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +539,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +550,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +561,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +572,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -562,6 +595,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E937389ffac4aa59998bc72cd75d21c8357a998be8c5ef175dd97f693dba87dad",
+      "company": "Rubico Inc.",
+      "ticker": "RUBI",
+      "exDate": "2026-06-26",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -637,17 +681,6 @@
       "exDate": "2026-06-25",
       "ratio": "1-for-25",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eff0171b4f37a8ffe8a45e660df19482bb44a90fe818a630d7b789c6b1822e89f",
-      "company": "Life & Banc Split Corp.",
-      "ticker": "LFBCF",
-      "exDate": "2026-06-25",
-      "ratio": "112-for-100",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -907,7 +940,7 @@
     },
     {
       "id": "Ed1feb587bef36564fd48562d1591c727183e7ab9982dd1a32fe0b49488714e3b",
-      "company": "Molecular Pharmacology (USA), Ltd.",
+      "company": "Molecular Pharmacology USA Ltd",
       "ticker": "MLPH",
       "exDate": "2026-06-18",
       "ratio": "1-for-50",
@@ -1000,39 +1033,6 @@
       "exDate": "2026-06-17",
       "ratio": "11-for-10",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2b54f64b078539da51802f234f4579bbc0300be16722a257a11ce26d6645a9cc",
-      "company": "First Farmers Financial Corporation",
-      "ticker": "FFMR",
-      "exDate": "2026-06-16",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E73ab9e98f51ce1b5a3fa24bac3e0f26b9b752bd01711d50073d5e338c9475a9d",
-      "company": "Smart Powerr Corp.",
-      "ticker": "CREG",
-      "exDate": "2026-06-16",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9fb4272c57e0bd2ab13e132b2baf660df89113fc8513341683e0ef2ebd262b8f",
-      "company": "AIFU Inc.",
-      "ticker": "AIFU",
-      "exDate": "2026-06-16",
-      "ratio": "1-for-20",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
