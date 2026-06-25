@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-24T16:11:10.612Z",
-  "totalRecords": 94,
-  "newThisScan": 4,
+  "lastUpdated": "2026-06-25T16:18:10.625Z",
+  "totalRecords": 97,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -11,7 +11,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,6 +279,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eef1cc620ddf1346714d8ff57943b6c268a8972feccd0e1cbbd26db002c3cdeb6",
+      "company": "SRX Global Inc.",
+      "ticker": "SRXH",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-60",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E6dee924b2852923731c2163972f31c31e8fcfb930be0f9368e4736e877af9298",
       "company": "SOLAI Limited",
       "ticker": "SLAI",
@@ -385,6 +396,39 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebbe5414c6f3ba5207cc1a48817259937290372b13712623ece54275563e0d7fd",
+      "company": "JBDI Holdings Limited",
+      "ticker": "JBDI",
+      "exDate": "2026-06-30",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edfd15718d8a69beea75311fdf7259a2d4426c07faf071e626d99ff22f50884b1",
+      "company": "ACS, Actividades de Construcción y Servicios, S.A.",
+      "ticker": "ACSAF",
+      "exDate": "2026-06-30",
+      "ratio": "70-for-69",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb4a97315c5b5732b3d4ca0d2144a934e75ec9b0a1247b6e00a0f305af0fd6ab7",
+      "company": "Teucrium 2x Long Daily XRP ETF",
+      "ticker": "XXRP",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
       "isNew": true,
       "source": "polygon"
     },
@@ -418,7 +462,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -521,6 +565,17 @@
       "source": "polygon"
     },
     {
+      "id": "E5485285d8b17532787c01db5ccc5363f3aeb26d78d9d7ce73ad2e4deab15f9c9",
+      "company": "GIBO Holdings Limited",
+      "ticker": "GIBO",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed6e4e72112296ebbe3d0abca4c7341d3ee42be34623b1dc7f735b3ccae1d899d",
       "company": "Furukawa Electric Co., Ltd.",
       "ticker": "FUWAF",
@@ -587,6 +642,17 @@
       "source": "polygon"
     },
     {
+      "id": "E3fd23469577d0da9d0eb633e82db195a8fa4233303f69ecacc7b78e60bbff507",
+      "company": "Virax Biolabs Group Limited",
+      "ticker": "VRAX",
+      "exDate": "2026-06-26",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4fa0da34fa994d1ec5707221189509bcf0973f5f62d0f2d30928f096fe163582",
       "company": "GraniteShares 2x Long SMCI Dail",
       "ticker": "SMCL",
@@ -605,7 +671,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -617,6 +683,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E219d77a22b5c49e0234912917695965b98fc36b04ad3aee7fce8dd8d8cdeca2a",
+      "company": "Nuwellis, Inc.",
+      "ticker": "NUWE",
+      "exDate": "2026-06-26",
+      "ratio": "1-for-35",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -675,6 +752,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed68608d1358b3883b0983d9d5459022544a29078f72062192c247a8687a0f0cb",
+      "company": "Visionary Metals Corp.",
+      "ticker": "VIZNF",
+      "exDate": "2026-06-25",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0a22d99bbb425f38ce7e492493c0ad8ae0b06f7eeed598b27e9ced9fc00bb61b",
       "company": "Jinxin Technology Holding Company",
       "ticker": "NAMI",
@@ -686,14 +774,25 @@
       "source": "polygon"
     },
     {
-      "id": "Ebbe5414c6f3ba5207cc1a48817259937290372b13712623ece54275563e0d7fd",
-      "company": "JBDI Holdings Limited",
-      "ticker": "JBDI",
+      "id": "E42efb95f41d163d2970e7c8c1634c6ca1a8957f43346c576c6c06bb51165fce2",
+      "company": "Alaska Pacific Energy Corp.",
+      "ticker": "ASKE",
       "exDate": "2026-06-25",
-      "ratio": "1-for-2",
+      "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6bf4c4ddf5b3b6f7bb8bbb0ee9e24d99d9619dd1f042b4006b83f66f839a46df",
+      "company": "AEP Plantations Plc",
+      "ticker": "AEPLF",
+      "exDate": "2026-06-25",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -962,77 +1061,11 @@
     },
     {
       "id": "E019fb8f598e20d15626f40473da0f983c7fd80ee9eb3aa77bf4b6de57c84d8bc",
-      "company": "Allurion Technologies Inc.",
+      "company": "Allurion Technologies Inc",
       "ticker": "ALUR",
       "exDate": "2026-06-18",
       "ratio": "1-for-15",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1e4ef5d936c2e7389811e245f0f595e4d550b39a3ef1fabb9856698ac8bf7a04",
-      "company": "Worldline SA",
-      "ticker": "WRDLY",
-      "exDate": "2026-06-17",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E83152cd250d7020b4f117b86185a30272eb1a504bb1ac5e19e6d9c3e6050228b",
-      "company": "Vision Marine Technologies Inc.",
-      "ticker": "VMAR",
-      "exDate": "2026-06-17",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeb4e9b11410546d227d39ce54735b2b8491a03a6e4005f8c855e939af4337682",
-      "company": "Upland Software, Inc.",
-      "ticker": "UPLD",
-      "exDate": "2026-06-17",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed2b0935fcb33b2550bddddd78847ffe59756e0abb1fb376aaa39af410abf9279",
-      "company": "Liberty Latin America Ltd.",
-      "ticker": "LILAK",
-      "exDate": "2026-06-17",
-      "ratio": "11-for-10",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeaad71100776082ee768f2b30387fc9a4b624de88f92527386f2e9fb45655246",
-      "company": "Liberty Latin America Ltd.",
-      "ticker": "LILAB",
-      "exDate": "2026-06-17",
-      "ratio": "11-for-10",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2be8f5057afc5a292e89519a4565cefbf505e361dd098e57b9a41d3530affc91",
-      "company": "Liberty Latin America Ltd.",
-      "ticker": "LILA",
-      "exDate": "2026-06-17",
-      "ratio": "11-for-10",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
