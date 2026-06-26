@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-06-25T16:18:10.625Z",
-  "totalRecords": 97,
-  "newThisScan": 9,
+  "lastUpdated": "2026-06-26T16:09:31.956Z",
+  "totalRecords": 100,
+  "newThisScan": 8,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
       "company": "Willis Lease Finance Corporation",
       "ticker": "WLFC",
-      "exDate": "2026-07-20",
+      "exDate": "2026-07-21",
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
@@ -279,6 +279,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ebe0777602be4ae1eaa063a8fa73afd6d40913ccce46fc7c6738d3bb8acdd48a0",
+      "company": "Service Properties Trust",
+      "ticker": "SVC",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eef1cc620ddf1346714d8ff57943b6c268a8972feccd0e1cbbd26db002c3cdeb6",
       "company": "SRX Global Inc.",
       "ticker": "SRXH",
@@ -286,7 +297,7 @@
       "ratio": "1-for-60",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -323,6 +334,17 @@
       "source": "polygon"
     },
     {
+      "id": "E49f3ca9396cd6e83f0a943680aad8621840d605aa7d0c5088b51314c9d2c884d",
+      "company": "Vallant Financial Inc.",
+      "ticker": "VLNT",
+      "exDate": "2026-07-02",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E51167cea6d1566d9e7b5bcc37bce5d07bc1eb02cd39b1c5fa82607fae1e88d43",
       "company": "Sumitomo Electric Industries, Ltd.",
       "ticker": "SMTOY",
@@ -331,6 +353,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7d05b158a08aaa5b7259789c71340b3e4d7c7c805f25479c680a103210b44d67",
+      "company": "North American Financial 15 Split Corp.",
+      "ticker": "FNCSF",
+      "exDate": "2026-07-02",
+      "ratio": "110-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -418,6 +451,17 @@
       "ratio": "70-for-69",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E459449a4032b59a6ba606394119072eae74fb31ee273f400a7ff9fe7921c8766",
+      "company": "Zhongchao Inc.",
+      "ticker": "ZCMD",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -429,7 +473,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -485,6 +529,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee4e481e168a192ac27f145ddf364bf95546e94723abe5351925920ddc6f48ce7",
+      "company": "Paranovus Entertainment Technology Ltd.",
+      "ticker": "PAVS",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -572,6 +627,17 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E11900703062018aa2e22a643315e3a88e0eb7b798c0ced367660fee525a52fac",
+      "company": "GD Culture Group Limited",
+      "ticker": "GDC",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-250",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -649,7 +715,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -693,7 +759,7 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -741,6 +807,17 @@
       "source": "polygon"
     },
     {
+      "id": "E803d515d2ade8fc0d770202771a6ccf53048fc881185f814b6f14c650e6d1485",
+      "company": "Global Bio-chem Technology Group Company Limited",
+      "ticker": "GBCMF",
+      "exDate": "2026-06-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3a5409a2dc16768d47dc75e657acd3e3fdc9c558d13c46ce0af0ce8779ee5a70",
       "company": "GraniteShares 2x Long DELL Daily ETF",
       "ticker": "DLLL",
@@ -759,7 +836,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -774,14 +851,25 @@
       "source": "polygon"
     },
     {
+      "id": "E47f47fb888295905d4a486cb1faab6c0063e2372bf5b0a5d206ae5499a3fd17a",
+      "company": "Life & Banc Split Corp.",
+      "ticker": "LFBCF",
+      "exDate": "2026-06-25",
+      "ratio": "112-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E42efb95f41d163d2970e7c8c1634c6ca1a8957f43346c576c6c06bb51165fce2",
-      "company": "Alaska Pacific Energy Corp.",
+      "company": "AI Music Distribution, Inc.",
       "ticker": "ASKE",
       "exDate": "2026-06-25",
       "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -792,7 +880,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -918,7 +1006,7 @@
     },
     {
       "id": "E0d3519081498210dc1d1fdbae86d7297506cceea198e7c815634fca8643798e5",
-      "company": "Parkit Enterprise Inc.",
+      "company": "Parkit Enterprise Inc",
       "ticker": "PKTEF",
       "exDate": "2026-06-22",
       "ratio": "1-for-15",
@@ -962,7 +1050,7 @@
     },
     {
       "id": "E1eebb04f17868e2783dc11fe468f9e9a0f83c6ecba82780ea5cfb5ef2d85c886",
-      "company": "Robinson Energy Limited",
+      "company": "Cobra Venture Corp",
       "ticker": "CBVTF",
       "exDate": "2026-06-22",
       "ratio": "1-for-10",
@@ -1011,61 +1099,6 @@
       "exDate": "2026-06-22",
       "ratio": "2-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecae4bec63bf88ce9d015cbd4a7c873f2b062b05eb2158810351e8f53e41711a4",
-      "company": "WORK Medical Technology Group LTD",
-      "ticker": "WOK",
-      "exDate": "2026-06-18",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E807f3747d31c1ec22d2af36166bce633335f0695dd1c0f92cbb5fe2e8aa2e175",
-      "company": "Wheeler Real Estate Investment Trust, Inc.",
-      "ticker": "WHLR",
-      "exDate": "2026-06-18",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed1feb587bef36564fd48562d1591c727183e7ab9982dd1a32fe0b49488714e3b",
-      "company": "Molecular Pharmacology USA Ltd",
-      "ticker": "MLPH",
-      "exDate": "2026-06-18",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1f06da3ea3516814fbf33df48f8800132ee3f21186e2c58214b306fbe05f781b",
-      "company": "CMDLF",
-      "ticker": "CMDLF",
-      "exDate": "2026-06-18",
-      "ratio": "9-for-8",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E019fb8f598e20d15626f40473da0f983c7fd80ee9eb3aa77bf4b6de57c84d8bc",
-      "company": "Allurion Technologies Inc",
-      "ticker": "ALUR",
-      "exDate": "2026-06-18",
-      "ratio": "1-for-15",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
