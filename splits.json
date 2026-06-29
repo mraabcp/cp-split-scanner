@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-26T16:09:31.956Z",
-  "totalRecords": 100,
-  "newThisScan": 8,
+  "lastUpdated": "2026-06-29T16:50:22.342Z",
+  "totalRecords": 110,
+  "newThisScan": 10,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -191,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eea57208669bd0db1898bfd4ee5a9c41cb43e3f261caf0807334119aea4756590",
+      "company": "Light S.A.",
+      "ticker": "LGSXY",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Edcf955b8de55f939a283a08768039ac2a2b5e039692d3877827f0368a03e7d56",
       "company": "T-REX 2X Long DJT Daily Target ",
       "ticker": "DJTU",
@@ -210,6 +221,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edb89e5767f9406804a9e018632f4c4f8fdda1b3abac2c5b8e61763cb43a8ace5",
+      "company": "STMicroelectronics NV ADRhedged",
+      "ticker": "STHH",
+      "exDate": "2026-07-10",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -246,6 +268,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
+      "company": "ASML Holding NV ADRhedged",
+      "ticker": "ASMH",
+      "exDate": "2026-07-10",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6b5e5c1b6508bebb2bb55efea45f43c8bcb0b0426aa12ee34632c9b0c9a9359b",
+      "company": "Arm Holdings PLC ADRhedged",
+      "ticker": "ARMH",
+      "exDate": "2026-07-10",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
       "company": "Lion Group Holding Ltd.",
       "ticker": "LGHL",
@@ -279,6 +323,17 @@
       "source": "polygon"
     },
     {
+      "id": "E152840e25f7988ec1b1f26a6555bc22709769783b4373e111aa6dbf917cb812b",
+      "company": "21Shares 2x Long Sui ETF",
+      "ticker": "TXXS",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebe0777602be4ae1eaa063a8fa73afd6d40913ccce46fc7c6738d3bb8acdd48a0",
       "company": "Service Properties Trust",
       "ticker": "SVC",
@@ -286,7 +341,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -334,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "E58e03df6bcbc1896ddafae01119d7dea74a60d05794e38be85ab228e269964c9",
+      "company": "ACS, Actividades de Construcción y Servicios, S.A.",
+      "ticker": "ACSAY",
+      "exDate": "2026-07-06",
+      "ratio": "70-for-69",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E49f3ca9396cd6e83f0a943680aad8621840d605aa7d0c5088b51314c9d2c884d",
       "company": "Vallant Financial Inc.",
       "ticker": "VLNT",
@@ -341,7 +407,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +429,7 @@
       "ratio": "110-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -422,6 +488,28 @@
       "source": "polygon"
     },
     {
+      "id": "E5f9c3daf6c19205f33314fc79bb05447f81c79f72e3d500b691eb84432fadc21",
+      "company": "Interactive Strength Inc.",
+      "ticker": "TRNR",
+      "exDate": "2026-06-30",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E408dc72772a51525bf307adf83ed6a1ae31f4dab713345cc036cb4a267bb15e7",
+      "company": "Quince Therapeutics, Inc.",
+      "ticker": "QNCX",
+      "exDate": "2026-06-30",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee59ee593916ce039f9d8f4fb904d1b5bf5ccfb5fec32a4a4149a4e670afa51d2",
       "company": "KMD Brands Limited",
       "ticker": "KTHUF",
@@ -444,6 +532,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb99b98a7a03d2fe6b419252ef5936f408315c9db42194e5e61340aa5757c7fe6",
+      "company": "HCW Biologics Inc.",
+      "ticker": "HCWB",
+      "exDate": "2026-06-30",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Edfd15718d8a69beea75311fdf7259a2d4426c07faf071e626d99ff22f50884b1",
       "company": "ACS, Actividades de Construcción y Servicios, S.A.",
       "ticker": "ACSAF",
@@ -462,7 +561,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +638,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -638,7 +737,7 @@
       "ratio": "1-for-250",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -665,7 +764,7 @@
     },
     {
       "id": "E1f9e2da296070807370866b9d6cea5ae1372a9b177b033ebd2a33b6df3613948",
-      "company": "BRDLF",
+      "company": "Broadleaf Co., Ltd.",
       "ticker": "BRDLF",
       "exDate": "2026-06-29",
       "ratio": "2-for-1",
@@ -694,6 +793,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2a3440760f5054910bedf462f755ba5545a4548f6ad3236ce16acbc7ec82e17b",
+      "company": "ADRMF",
+      "ticker": "ADRMF",
+      "exDate": "2026-06-29",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -814,7 +924,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -858,7 +968,7 @@
       "ratio": "112-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1050,7 +1160,7 @@
     },
     {
       "id": "E1eebb04f17868e2783dc11fe468f9e9a0f83c6ecba82780ea5cfb5ef2d85c886",
-      "company": "Cobra Venture Corp",
+      "company": "CBVTF",
       "ticker": "CBVTF",
       "exDate": "2026-06-22",
       "ratio": "1-for-10",
