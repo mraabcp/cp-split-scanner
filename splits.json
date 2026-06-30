@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-29T16:50:22.342Z",
-  "totalRecords": 110,
-  "newThisScan": 10,
+  "lastUpdated": "2026-06-30T16:17:55.602Z",
+  "totalRecords": 102,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -198,7 +198,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +231,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +275,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +286,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +396,7 @@
       "ratio": "70-for-69",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -422,6 +422,28 @@
       "source": "polygon"
     },
     {
+      "id": "E70c2c314afc369d4cfbef343a1019eae35d674dc5f70d3ce4aaeb5ce9a8829b0",
+      "company": "Getty Copper Inc.",
+      "ticker": "GTCDF",
+      "exDate": "2026-07-02",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1b967fb019fa13f6920262f01993c0a924e59070ea210a6d46eeee0181acbf99",
+      "company": "GMEX Robotics Corporation",
+      "ticker": "GMEX",
+      "exDate": "2026-07-02",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E7d05b158a08aaa5b7259789c71340b3e4d7c7c805f25479c680a103210b44d67",
       "company": "North American Financial 15 Split Corp.",
       "ticker": "FNCSF",
@@ -430,6 +452,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6e900756c7e0c2c6394e442ed0fe4d63cddb502e22911b35968a3e6b580c05c7",
+      "company": "FBIP",
+      "ticker": "FBIP",
+      "exDate": "2026-07-02",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -452,6 +485,28 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E84cf5d374c6d405b70ed26bb79e1d0b4c93f28fa6955b8fea30a56463eedc1c7",
+      "company": "Rockwell Medical, Inc.",
+      "ticker": "RMTI",
+      "exDate": "2026-07-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed472852f9de05b2810e96a5201b2a546225647421dd3eb9d01c9c58abc58109d",
+      "company": "Marqeta, Inc.",
+      "ticker": "MQ",
+      "exDate": "2026-07-01",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -495,7 +550,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +561,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +594,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -797,13 +852,13 @@
     },
     {
       "id": "E2a3440760f5054910bedf462f755ba5545a4548f6ad3236ce16acbc7ec82e17b",
-      "company": "ADRMF",
+      "company": "Adherium Limited",
       "ticker": "ADRMF",
       "exDate": "2026-06-29",
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1066,149 +1121,6 @@
       "exDate": "2026-06-23",
       "ratio": "1-for-4",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eac6c18fac2138a9dd630b81596af3d3d7182f28e5e372fb0fd8db4b27bd44be3",
-      "company": "UTime Limited",
-      "ticker": "WTO",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E47be50447203d749c7e63c43b263f70857517bf43e3783575fce57ad09bfef88",
-      "company": "Wearable Devices Ltd.",
-      "ticker": "WLDSW",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8625dc76f697b57e58e7df33f13e305ab46cfbe86d60eb6ea9d2345148a5facd",
-      "company": "Wearable Devices Ltd.",
-      "ticker": "WLDS",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E443bef3f557fb7f68dce494322bd67d39ddbd7289c3f7f5775353782490fbc83",
-      "company": "Pomdoctor Limited",
-      "ticker": "POM",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-18",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0d3519081498210dc1d1fdbae86d7297506cceea198e7c815634fca8643798e5",
-      "company": "Parkit Enterprise Inc",
-      "ticker": "PKTEF",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8f5c1e4359703a02d74284a65425bdc421f7ceff02f31dfb30ce49e934cf312a",
-      "company": "Oriental Rise Holdings Limited",
-      "ticker": "ORIS",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8d7949e5d9208d83b1db51b93eb0c98c9612116ee8e3bc29b27478a71714a7ac",
-      "company": "Lianhe Sowell International Group Ltd",
-      "ticker": "LHSW",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb2dfad932dbd45e00e2c5619ff394a8c70be80119833808079bbdddb385ca7e3",
-      "company": "Lakewood-Amedex Biotherapeutics, Inc.",
-      "ticker": "LABT",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1eebb04f17868e2783dc11fe468f9e9a0f83c6ecba82780ea5cfb5ef2d85c886",
-      "company": "CBVTF",
-      "ticker": "CBVTF",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0b894edd0acd4bf584dc8f84fac2c6e235cf2890b52719cef28527689f812dcc",
-      "company": "CAT Strategic Metals Corporation",
-      "ticker": "CATTF",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8768a95bf2a222f71b6bf35f6b73e2d565f04cbd0aa38d1c636191e27b28d80d",
-      "company": "Boxlight Corporation",
-      "ticker": "BOXL",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3ad91d5f458ee1fbac851c8d044949e106f512a972e6dbdb33543db64091248d",
-      "company": "Basel Medical Group Ltd",
-      "ticker": "BMGL",
-      "exDate": "2026-06-22",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8d3920ce4b03bacd7fcd2627976d95af6feeadfa5bffff8b13f218cefc11aaae",
-      "company": "BEO Bancorp",
-      "ticker": "BEOB",
-      "exDate": "2026-06-22",
-      "ratio": "2-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
