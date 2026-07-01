@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-06-30T16:17:55.602Z",
-  "totalRecords": 102,
-  "newThisScan": 5,
+  "lastUpdated": "2026-07-01T16:19:51.246Z",
+  "totalRecords": 101,
+  "newThisScan": 4,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -367,6 +367,17 @@
       "source": "polygon"
     },
     {
+      "id": "E5a45df82057a6667bfc29c4bc89e2691583c3c5d6041a5e9b7cc9cc3d7b20980",
+      "company": "Nuvve Holding Corp.",
+      "ticker": "NVVE",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-18",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E10418df4f0af3ccebeb295372a57b2803dd706cc251ea8d594d22b6b6eeebcfc",
       "company": "NIP Group Inc.",
       "ticker": "NIPG",
@@ -386,6 +397,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1929433a2ad95caf5d875eb845dee1306ff78c9818ded5ae1af2f15ff779aad9",
+      "company": "INLIF Limited",
+      "ticker": "INLF",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -429,7 +451,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +462,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -456,13 +478,13 @@
     },
     {
       "id": "E6e900756c7e0c2c6394e442ed0fe4d63cddb502e22911b35968a3e6b580c05c7",
-      "company": "FBIP",
+      "company": "FNB Bancorp, Inc.",
       "ticker": "FBIP",
       "exDate": "2026-07-02",
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +517,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +528,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -518,6 +540,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed929f7147a66b603161bf4f03a4c8587dedfed1d76b052d9707bc1be14b5ffaa",
+      "company": "Golden Grail Technology Corp.",
+      "ticker": "GOGY",
+      "exDate": "2026-07-01",
+      "ratio": "1-for-500",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5894234fd35e6d99f880df0a67fd56cdaf3347e9043a2e5f15f22320f7990e71",
+      "company": "BKSTF",
+      "ticker": "BKSTF",
+      "exDate": "2026-07-01",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -758,17 +802,6 @@
       "exDate": "2026-06-29",
       "ratio": "2-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E798758f889f8fa3f1b011b6c5d290e8d1cebc178d5ec501616deae1888559f9b",
-      "company": "Honeywell International Inc.",
-      "ticker": "HON",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-2",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -1076,50 +1109,6 @@
       "ticker": "AMIX",
       "exDate": "2026-06-24",
       "ratio": "1-for-21",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E30636071fb88d983d129065be1e1dc36b849b5b68705180e1c56d3969ba64e5f",
-      "company": "YY Group Holding Limited",
-      "ticker": "YYGH",
-      "exDate": "2026-06-23",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2accd37738cf2cf72d854e635a66b93ab61622139478ef1c6d4d3c33d60857e6",
-      "company": "Siemens Energy AG",
-      "ticker": "SMERY",
-      "exDate": "2026-06-23",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebd8f54d7e80f6ea7bfc6622f334e9f410d183a46f9557dbf22e86848b23604d4",
-      "company": "Triller Group Inc.",
-      "ticker": "ILLR",
-      "exDate": "2026-06-23",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E297c6e0e27b7f90e2f44f6931b345cbf0512786538446daefee0b6ceaf24b577",
-      "company": "Focus Universal Inc.",
-      "ticker": "FCUV",
-      "exDate": "2026-06-23",
-      "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
