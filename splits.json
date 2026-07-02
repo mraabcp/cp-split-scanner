@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-01T16:19:51.246Z",
-  "totalRecords": 101,
-  "newThisScan": 4,
+  "lastUpdated": "2026-07-02T16:01:04.551Z",
+  "totalRecords": 111,
+  "newThisScan": 13,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -12,6 +12,72 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1a573096539b1657fe52fa6498d5df0d73658ec295e37545e69ce05e5ae39a62",
+      "company": "Tradr 2X Short SNDK Daily ETF",
+      "ticker": "SNDQ",
+      "exDate": "2026-07-21",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0b92bf3f97f696a6593697e877b67328f2beda2218cdd0bbfef86a3d433e2816",
+      "company": "Tradr 2X Long PONY Daily ETF",
+      "ticker": "PONX",
+      "exDate": "2026-07-21",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb691e04f16d6491c2d490eac3ca4c029d8007a9a37d185f5ee4196f268b25b8c",
+      "company": "Tradr 2X Short Nbis Daily ETF",
+      "ticker": "NBIZ",
+      "exDate": "2026-07-21",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3c3300d2d0f8273b46d334aaa0ca7f15a3205bb9b3548e07237291cae89fb785",
+      "company": "Tradr 2X Long ALAB Daily ETF",
+      "ticker": "LABX",
+      "exDate": "2026-07-21",
+      "ratio": "6-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E33e10d2e1997e50bf5bd604e30c6d2ecb5b10de8b5bd8bce05fc2db13eef6c43",
+      "company": "Tradr 2X Short Iren Daily ETF",
+      "ticker": "IREZ",
+      "exDate": "2026-07-21",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebdb94f05169311408dd9f1cfb69d87bd3b9fa6f6fcba94c689b750d494a5bd58",
+      "company": "Tradr 2X Long CRDO Daily ETF",
+      "ticker": "CRDU",
+      "exDate": "2026-07-21",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -191,6 +257,39 @@
       "source": "polygon"
     },
     {
+      "id": "Edb89e5767f9406804a9e018632f4c4f8fdda1b3abac2c5b8e61763cb43a8ace5",
+      "company": "STMicroelectronics NV ADRhedged",
+      "ticker": "STHH",
+      "exDate": "2026-07-14",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
+      "company": "ASML Holding NV ADRhedged",
+      "ticker": "ASMH",
+      "exDate": "2026-07-14",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6b5e5c1b6508bebb2bb55efea45f43c8bcb0b0426aa12ee34632c9b0c9a9359b",
+      "company": "Arm Holdings PLC ADRhedged",
+      "ticker": "ARMH",
+      "exDate": "2026-07-14",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Eea57208669bd0db1898bfd4ee5a9c41cb43e3f261caf0807334119aea4756590",
       "company": "Light S.A.",
       "ticker": "LGSXY",
@@ -219,17 +318,6 @@
       "exDate": "2026-07-13",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edb89e5767f9406804a9e018632f4c4f8fdda1b3abac2c5b8e61763cb43a8ace5",
-      "company": "STMicroelectronics NV ADRhedged",
-      "ticker": "STHH",
-      "exDate": "2026-07-10",
-      "ratio": "10-for-1",
-      "type": "forward",
       "isETF": true,
       "isNew": false,
       "source": "polygon"
@@ -268,28 +356,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
-      "company": "ASML Holding NV ADRhedged",
-      "ticker": "ASMH",
-      "exDate": "2026-07-10",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6b5e5c1b6508bebb2bb55efea45f43c8bcb0b0426aa12ee34632c9b0c9a9359b",
-      "company": "Arm Holdings PLC ADRhedged",
-      "ticker": "ARMH",
-      "exDate": "2026-07-10",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
       "company": "Lion Group Holding Ltd.",
       "ticker": "LGHL",
@@ -323,17 +389,6 @@
       "source": "polygon"
     },
     {
-      "id": "E152840e25f7988ec1b1f26a6555bc22709769783b4373e111aa6dbf917cb812b",
-      "company": "21Shares 2x Long Sui ETF",
-      "ticker": "TXXS",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "Ebe0777602be4ae1eaa063a8fa73afd6d40913ccce46fc7c6738d3bb8acdd48a0",
       "company": "Service Properties Trust",
       "ticker": "SVC",
@@ -341,6 +396,17 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E152840e25f7988ec1b1f26a6555bc22709769783b4373e111aa6dbf917cb812b",
+      "company": "21Shares 2x Long Sui ETF",
+      "ticker": "TXXS",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -353,6 +419,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea9f07defcf4ecb10d5f03b58ee4a9385443fa8175e98889492b816c5887c2ea5",
+      "company": "Snail, Inc.",
+      "ticker": "SNAL",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -372,6 +449,28 @@
       "ticker": "NVVE",
       "exDate": "2026-07-06",
       "ratio": "1-for-18",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee3f4f6a951c6ce9618e5cc686520fbd346f271588937510beaf1d0263ad6c09f",
+      "company": "NetClass Technology Inc",
+      "ticker": "NTCL",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E40f7baa96c294219a1e1f4d32109c663808a57dd0d70b0f2eb49d0e0d3051346",
+      "company": "NewGenIvf Group Limited",
+      "ticker": "NIVF",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -407,6 +506,28 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebb6e311fdf97842fdc197915b384fc9c439a4f3d17b4b4c3a5276927831dc2eb",
+      "company": "Hitek Global Inc.",
+      "ticker": "HKIT",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef4e05b4e6dda71231e8e8428e27289f8c737af7f2e9782eca42af795124d0f96",
+      "company": "Curis, Inc.",
+      "ticker": "CRIS",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -422,6 +543,17 @@
       "source": "polygon"
     },
     {
+      "id": "Edc3593271793d3c57564878805434bc3d895b78cedda11c54d4ff8f61f6cd522",
+      "company": "American Bitcoin Corp",
+      "ticker": "ABTC",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E49f3ca9396cd6e83f0a943680aad8621840d605aa7d0c5088b51314c9d2c884d",
       "company": "Vallant Financial Inc.",
       "ticker": "VLNT",
@@ -430,6 +562,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E27fb2236db37f13437293fe17a151d433a1a60e33f1b77b8c32dd73538d2a8cd",
+      "company": "UBuyHoldings, Inc.",
+      "ticker": "UBYH",
+      "exDate": "2026-07-02",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -550,7 +693,7 @@
       "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -561,7 +704,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -973,7 +1116,7 @@
     },
     {
       "id": "E16aee861705f0734ac6da6fed48b90091775013077b6e89fcd684f91433e0981",
-      "company": "GraniteShares 2x Long MU Daily ",
+      "company": "GraniteShares 2x Long MU Daily ETF",
       "ticker": "MULL",
       "exDate": "2026-06-26",
       "ratio": "25-for-1",
@@ -1077,39 +1220,6 @@
       "exDate": "2026-06-25",
       "ratio": "10-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E29ab9d3acd8e4373d41b842581896656314897f3e90648aa80c28dd8cabe5f2b",
-      "company": "PBIMF",
-      "ticker": "PBIMF",
-      "exDate": "2026-06-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed9acf5d1a7b6734f813245e2b49c85e4237898981d23a38897f4849f37bbdc39",
-      "company": "DuPont de Nemours, Inc.",
-      "ticker": "DD",
-      "exDate": "2026-06-24",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E194fdec69eb98e731a1d45f26a61428e18f0bae8e388955a318479ca7ed900bb",
-      "company": "Autonomix Medical, Inc.",
-      "ticker": "AMIX",
-      "exDate": "2026-06-24",
-      "ratio": "1-for-21",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
