@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-02T16:01:04.551Z",
-  "totalRecords": 111,
-  "newThisScan": 13,
+  "lastUpdated": "2026-07-03T15:49:49.516Z",
+  "totalRecords": 110,
+  "newThisScan": 4,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -22,7 +22,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "6-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -268,6 +268,17 @@
       "source": "polygon"
     },
     {
+      "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
+      "company": "Lion Group Holding Ltd.",
+      "ticker": "LGHL",
+      "exDate": "2026-07-14",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
       "company": "ASML Holding NV ADRhedged",
       "ticker": "ASMH",
@@ -356,17 +367,6 @@
       "source": "polygon"
     },
     {
-      "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
-      "company": "Lion Group Holding Ltd.",
-      "ticker": "LGHL",
-      "exDate": "2026-07-09",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E86b24232e54e3402dad3ce5c25ef8b26ad0d3b4b714263db63864a82be87487a",
       "company": "Compagnie de Saint-Gobain S.A.",
       "ticker": "CODYY",
@@ -400,6 +400,50 @@
       "source": "polygon"
     },
     {
+      "id": "E2c77f8c02cbaca95da9998308e06156acf908e7f1c958eb1344122a8e9993e04",
+      "company": "Profusa, Inc.",
+      "ticker": "PFSA",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Edbb276e016d3796a5d30997a9499e95cc11b81a353c836994a58f5ec9fe447aa",
+      "company": "Nocera, Inc.",
+      "ticker": "NCRA",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7d361644a47a138c9ef2857c34e5ae9d59d1f9ea5e2329bc1b126c50820f4ceb",
+      "company": "Iberdrola, S.A.",
+      "ticker": "IBDSF",
+      "exDate": "2026-07-07",
+      "ratio": "51-for-50",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec15362dab3e250b98c17eba5e3a31ef84a99966d678ac39d5fd7c1dce2c1906f",
+      "company": "Creative Global Technology Holdings Limited",
+      "ticker": "CGTL",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E152840e25f7988ec1b1f26a6555bc22709769783b4373e111aa6dbf917cb812b",
       "company": "21Shares 2x Long Sui ETF",
       "ticker": "TXXS",
@@ -429,7 +473,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +506,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +517,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +561,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +572,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +594,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -566,13 +610,13 @@
     },
     {
       "id": "E27fb2236db37f13437293fe17a151d433a1a60e33f1b77b8c32dd73538d2a8cd",
-      "company": "UBuyHoldings, Inc.",
+      "company": "Longevity Diversified Holdings, Inc.",
       "ticker": "UBYH",
       "exDate": "2026-07-02",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1061,7 +1105,7 @@
     },
     {
       "id": "E4fa0da34fa994d1ec5707221189509bcf0973f5f62d0f2d30928f096fe163582",
-      "company": "GraniteShares 2x Long SMCI Dail",
+      "company": "GraniteShares 2x Long SMCI Daily ETF",
       "ticker": "SMCL",
       "exDate": "2026-06-26",
       "ratio": "3-for-1",
@@ -1116,7 +1160,7 @@
     },
     {
       "id": "E16aee861705f0734ac6da6fed48b90091775013077b6e89fcd684f91433e0981",
-      "company": "GraniteShares 2x Long MU Daily ETF",
+      "company": "GraniteShares 2x Long MU Daily ",
       "ticker": "MULL",
       "exDate": "2026-06-26",
       "ratio": "25-for-1",
@@ -1166,61 +1210,6 @@
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed68608d1358b3883b0983d9d5459022544a29078f72062192c247a8687a0f0cb",
-      "company": "Visionary Metals Corp.",
-      "ticker": "VIZNF",
-      "exDate": "2026-06-25",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0a22d99bbb425f38ce7e492493c0ad8ae0b06f7eeed598b27e9ced9fc00bb61b",
-      "company": "Jinxin Technology Holding Company",
-      "ticker": "NAMI",
-      "exDate": "2026-06-25",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E47f47fb888295905d4a486cb1faab6c0063e2372bf5b0a5d206ae5499a3fd17a",
-      "company": "Life & Banc Split Corp.",
-      "ticker": "LFBCF",
-      "exDate": "2026-06-25",
-      "ratio": "112-for-100",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E42efb95f41d163d2970e7c8c1634c6ca1a8957f43346c576c6c06bb51165fce2",
-      "company": "AI Music Distribution, Inc.",
-      "ticker": "ASKE",
-      "exDate": "2026-06-25",
-      "ratio": "1-for-1000",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6bf4c4ddf5b3b6f7bb8bbb0ee9e24d99d9619dd1f042b4006b83f66f839a46df",
-      "company": "AEP Plantations Plc",
-      "ticker": "AEPLF",
-      "exDate": "2026-06-25",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
