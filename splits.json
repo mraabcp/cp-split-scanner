@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-03T15:49:49.516Z",
-  "totalRecords": 110,
-  "newThisScan": 4,
+  "lastUpdated": "2026-07-06T16:48:54.860Z",
+  "totalRecords": 98,
+  "newThisScan": 0,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -407,7 +407,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +418,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +429,7 @@
       "ratio": "51-for-50",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +440,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1078,138 +1078,6 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E64417279a430d4105866d256dc9fcab814f08bf50d8c03737ee507283a415abc",
-      "company": "GraniteShares 2x Long VRT Daily ETF",
-      "ticker": "VRTL",
-      "exDate": "2026-06-26",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3fd23469577d0da9d0eb633e82db195a8fa4233303f69ecacc7b78e60bbff507",
-      "company": "Virax Biolabs Group Limited",
-      "ticker": "VRAX",
-      "exDate": "2026-06-26",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4fa0da34fa994d1ec5707221189509bcf0973f5f62d0f2d30928f096fe163582",
-      "company": "GraniteShares 2x Long SMCI Daily ETF",
-      "ticker": "SMCL",
-      "exDate": "2026-06-26",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E937389ffac4aa59998bc72cd75d21c8357a998be8c5ef175dd97f693dba87dad",
-      "company": "Rubico Inc.",
-      "ticker": "RUBI",
-      "exDate": "2026-06-26",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E22fd733eddce34127862b4adfbca3b5ffa001f60e38d2fbe1370bbad10d050bf",
-      "company": "GraniteShares 2x Long NVDA Daily ETF",
-      "ticker": "NVDL",
-      "exDate": "2026-06-26",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E219d77a22b5c49e0234912917695965b98fc36b04ad3aee7fce8dd8d8cdeca2a",
-      "company": "Nuwellis, Inc.",
-      "ticker": "NUWE",
-      "exDate": "2026-06-26",
-      "ratio": "1-for-35",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec5a03719f261073edcb36968f0bd9961506e023042cd5d094d4bc3dc09baa47b",
-      "company": "GraniteShares 2x Long MRVL Daily ETF",
-      "ticker": "MVLL",
-      "exDate": "2026-06-26",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E16aee861705f0734ac6da6fed48b90091775013077b6e89fcd684f91433e0981",
-      "company": "GraniteShares 2x Long MU Daily ",
-      "ticker": "MULL",
-      "exDate": "2026-06-26",
-      "ratio": "25-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efefd55b289e190e70424a814fc4b9316dae1baa22c5ff8b663dc3ce031669a36",
-      "company": "GraniteShares 2x Long INTC Daily ETF",
-      "ticker": "INTW",
-      "exDate": "2026-06-26",
-      "ratio": "8-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E77d5bdc264d0cc136a0432413797c13b3cc223fb72bf94619376058e60029984",
-      "company": "Global Bio-chem Technology Group Company Limited",
-      "ticker": "GBCMY",
-      "exDate": "2026-06-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E803d515d2ade8fc0d770202771a6ccf53048fc881185f814b6f14c650e6d1485",
-      "company": "Global Bio-chem Technology Group Company Limited",
-      "ticker": "GBCMF",
-      "exDate": "2026-06-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3a5409a2dc16768d47dc75e657acd3e3fdc9c558d13c46ce0af0ce8779ee5a70",
-      "company": "GraniteShares 2x Long DELL Daily ETF",
-      "ticker": "DLLL",
-      "exDate": "2026-06-26",
-      "ratio": "8-for-1",
-      "type": "forward",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
