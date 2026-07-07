@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-06T16:48:54.860Z",
-  "totalRecords": 98,
-  "newThisScan": 0,
+  "lastUpdated": "2026-07-07T16:21:34.295Z",
+  "totalRecords": 79,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
@@ -389,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "Efcc364493ef6fa0822dad8de4565ffc33eb0f16d9fa8963d92a6e0530d729aaa",
+      "company": "TraWell Co S.p.A.",
+      "ticker": "TRWAF",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebe0777602be4ae1eaa063a8fa73afd6d40913ccce46fc7c6738d3bb8acdd48a0",
       "company": "Service Properties Trust",
       "ticker": "SVC",
@@ -430,6 +441,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E98fa79067ff406c6974d565998e9ff46989e9a1a563e07cf6377d31f6037718f",
+      "company": "COSCIENS Biopharma Inc.",
+      "ticker": "CSCIF",
+      "exDate": "2026-07-07",
+      "ratio": "1-for-150",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3eccf902308f2f284fe96120350ca8f572da8f0f7d2a5cc2aa39d20c8f849acc",
+      "company": "CSCID",
+      "ticker": "CSCID",
+      "exDate": "2026-07-07",
+      "ratio": "50-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -835,248 +868,6 @@
       "exDate": "2026-06-30",
       "ratio": "70-for-69",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E459449a4032b59a6ba606394119072eae74fb31ee273f400a7ff9fe7921c8766",
-      "company": "Zhongchao Inc.",
-      "ticker": "ZCMD",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb4a97315c5b5732b3d4ca0d2144a934e75ec9b0a1247b6e00a0f305af0fd6ab7",
-      "company": "Teucrium 2x Long Daily XRP ETF",
-      "ticker": "XXRP",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E603ad7c752fce67feefa356f05788e958b0c8581a63f828cb12c5c7f967c1a61",
-      "company": "Sumitomo Corporation",
-      "ticker": "SSUMF",
-      "exDate": "2026-06-29",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efeb2118025ce82ff97fff837316db0dabf04a32db34171781395be2b3e7d3b0e",
-      "company": "Sumitomo Electric Industries, Ltd.",
-      "ticker": "SMTOF",
-      "exDate": "2026-06-29",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeaa1105d04c486c48362e5ff5f88b7d3ba89cebf4b5539f3cc53d237bd83077f",
-      "company": "SKKLF",
-      "ticker": "SKKLF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E950556507cbf6dd4b2512f8814ed8e5ad579d651fc35bb3a15d81111642fee11",
-      "company": "Food & Life Companies Ltd.",
-      "ticker": "SGLOF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef2064f868174c471d9cb853f6b3f6eee3b9117855c53aa9c337913eeb356fbcb",
-      "company": "Pilot Corporation",
-      "ticker": "POGHF",
-      "exDate": "2026-06-29",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee4e481e168a192ac27f145ddf364bf95546e94723abe5351925920ddc6f48ce7",
-      "company": "Paranovus Entertainment Technology Ltd.",
-      "ticker": "PAVS",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E007e4408b5d1e844d9f99b4f71935dc8dcd9d286c9bbb210a449847c2a466536",
-      "company": "Nitto Boseki Co., Ltd.",
-      "ticker": "NBCLF",
-      "exDate": "2026-06-29",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E314b644da542efd35e207c73a17956151f2d21d9bfbbcec3350a58f56acb351d",
-      "company": "Mobile-health Network Solutions",
-      "ticker": "MNDR",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5932404c352fff94238fbe5df7541e812ac4f1b92c52846db5ab593b8429d3ad",
-      "company": "MGGNF",
-      "ticker": "MGGNF",
-      "exDate": "2026-06-29",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edf1b50b3492480e1913627d8b4784e58bd6c45d77bf0b91c784621592ac9f4d9",
-      "company": "KEIHF",
-      "ticker": "KEIHF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb4079d86dfc84ac75523b63c9c90d8e8a2208e6f5236c046002b02e59cd26773",
-      "company": "Kao Corporation",
-      "ticker": "KAOCF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb1fcca199ea5922672d58cfb44994ab8488bd5da48c379b1afd77f9195beff73",
-      "company": "HTSJF",
-      "ticker": "HTSJF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5485285d8b17532787c01db5ccc5363f3aeb26d78d9d7ce73ad2e4deab15f9c9",
-      "company": "GIBO Holdings Limited",
-      "ticker": "GIBO",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E11900703062018aa2e22a643315e3a88e0eb7b798c0ced367660fee525a52fac",
-      "company": "GD Culture Group Limited",
-      "ticker": "GDC",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-250",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed6e4e72112296ebbe3d0abca4c7341d3ee42be34623b1dc7f735b3ccae1d899d",
-      "company": "Furukawa Electric Co., Ltd.",
-      "ticker": "FUWAF",
-      "exDate": "2026-06-29",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E433868ed97f786b83647c467c0416a962b70352a36ece55b20e75bbb9874f1b5",
-      "company": "FUKUF",
-      "ticker": "FUKUF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1f9e2da296070807370866b9d6cea5ae1372a9b177b033ebd2a33b6df3613948",
-      "company": "Broadleaf Co., Ltd.",
-      "ticker": "BRDLF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb62163843a2b52453f59a88d7d3e21bc3721f406f5c1772651fcb62b1a75392b",
-      "company": "ALCKF",
-      "ticker": "ALCKF",
-      "exDate": "2026-06-29",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6e13505b77313c448b9d9f0a0290528cd9ec6576d0d3dab393555c306af3560e",
-      "company": "AEDGF",
-      "ticker": "AEDGF",
-      "exDate": "2026-06-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2a3440760f5054910bedf462f755ba5545a4548f6ad3236ce16acbc7ec82e17b",
-      "company": "Adherium Limited",
-      "ticker": "ADRMF",
-      "exDate": "2026-06-29",
-      "ratio": "1-for-100",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
