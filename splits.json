@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T16:21:34.295Z",
-  "totalRecords": 79,
+  "lastUpdated": "2026-07-08T15:58:18.390Z",
+  "totalRecords": 76,
   "newThisScan": 3,
   "splits": [
     {
@@ -312,6 +312,17 @@
       "source": "polygon"
     },
     {
+      "id": "E24a99998e4d395b4e8284ae440bbf8a3daac3989da89205e0aae098dc80a9e6f",
+      "company": "Galera Therapeutics, Inc.",
+      "ticker": "GRTX",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Edcf955b8de55f939a283a08768039ac2a2b5e039692d3877827f0368a03e7d56",
       "company": "T-REX 2X Long DJT Daily Target ",
       "ticker": "DJTU",
@@ -367,6 +378,28 @@
       "source": "polygon"
     },
     {
+      "id": "E84082931f1ef62dfc98b0218cf7ac0f15f32bcb1a06247e31a1fd8e3542be752",
+      "company": "Robin Energy Ltd.",
+      "ticker": "RBNE",
+      "exDate": "2026-07-09",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec1a05558e2fda33e4f879dc3d9f48cae37fb91572b873ae7d729f68cf19241fc",
+      "company": "Enlivex Ltd.",
+      "ticker": "ENLV",
+      "exDate": "2026-07-09",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E86b24232e54e3402dad3ce5c25ef8b26ad0d3b4b714263db63864a82be87487a",
       "company": "Compagnie de Saint-Gobain S.A.",
       "ticker": "CODYY",
@@ -386,17 +419,6 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efcc364493ef6fa0822dad8de4565ffc33eb0f16d9fa8963d92a6e0530d729aaa",
-      "company": "TraWell Co S.p.A.",
-      "ticker": "TRWAF",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
       "source": "polygon"
     },
     {
@@ -445,24 +467,24 @@
     },
     {
       "id": "E98fa79067ff406c6974d565998e9ff46989e9a1a563e07cf6377d31f6037718f",
-      "company": "COSCIENS Biopharma Inc.",
+      "company": "COSCIENS Biopharma Inc",
       "ticker": "CSCIF",
       "exDate": "2026-07-07",
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E3eccf902308f2f284fe96120350ca8f572da8f0f7d2a5cc2aa39d20c8f849acc",
-      "company": "CSCID",
+      "company": "COSCIENS Biopharma Inc.",
       "ticker": "CSCID",
       "exDate": "2026-07-07",
       "ratio": "50-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -484,6 +506,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Efcc364493ef6fa0822dad8de4565ffc33eb0f16d9fa8963d92a6e0530d729aaa",
+      "company": "TraWell Co S.p.A.",
+      "ticker": "TRWAF",
+      "exDate": "2026-07-06",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -802,72 +835,6 @@
       "exDate": "2026-07-01",
       "ratio": "1-for-20",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5f9c3daf6c19205f33314fc79bb05447f81c79f72e3d500b691eb84432fadc21",
-      "company": "Interactive Strength Inc.",
-      "ticker": "TRNR",
-      "exDate": "2026-06-30",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E408dc72772a51525bf307adf83ed6a1ae31f4dab713345cc036cb4a267bb15e7",
-      "company": "Quince Therapeutics, Inc.",
-      "ticker": "QNCX",
-      "exDate": "2026-06-30",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee59ee593916ce039f9d8f4fb904d1b5bf5ccfb5fec32a4a4149a4e670afa51d2",
-      "company": "KMD Brands Limited",
-      "ticker": "KTHUF",
-      "exDate": "2026-06-30",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebbe5414c6f3ba5207cc1a48817259937290372b13712623ece54275563e0d7fd",
-      "company": "JBDI Holdings Limited",
-      "ticker": "JBDI",
-      "exDate": "2026-06-30",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb99b98a7a03d2fe6b419252ef5936f408315c9db42194e5e61340aa5757c7fe6",
-      "company": "HCW Biologics Inc.",
-      "ticker": "HCWB",
-      "exDate": "2026-06-30",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edfd15718d8a69beea75311fdf7259a2d4426c07faf071e626d99ff22f50884b1",
-      "company": "ACS, Actividades de Construcción y Servicios, S.A.",
-      "ticker": "ACSAF",
-      "exDate": "2026-06-30",
-      "ratio": "70-for-69",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
