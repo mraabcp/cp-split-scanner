@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-08T15:58:18.390Z",
-  "totalRecords": 76,
-  "newThisScan": 3,
+  "lastUpdated": "2026-07-09T16:23:24.928Z",
+  "totalRecords": 77,
+  "newThisScan": 9,
   "splits": [
+    {
+      "id": "E298616d70586989b4354cd6fe345323e754a9e2a85a048a73370353c180ee0cb",
+      "company": "Trinity Biotech plc",
+      "ticker": "TRIB",
+      "exDate": "2026-07-24",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
       "company": "Willis Lease Finance Corporation",
@@ -319,6 +330,17 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9bcb1008fd4af36086805bb300e2cfc7636743e3460f36020782a52f9b77bee3",
+      "company": "Future FinTech Group Inc.",
+      "ticker": "FTFT",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -334,6 +356,17 @@
       "source": "polygon"
     },
     {
+      "id": "E11e5b1c5b90b872b32c6a5290fcfc1b711f4463a89fb2acc7d711325e02a1b22",
+      "company": "Pop Culture Group Co., Ltd",
+      "ticker": "CPOP",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E059389d0946851e1991bbf16c94dacd88669773322cbd3754144a3c35b35cc59",
       "company": "T-REX 2X Long BMNR Daily Target ETF",
       "ticker": "BMNU",
@@ -345,6 +378,28 @@
       "source": "polygon"
     },
     {
+      "id": "E0378f826d1bc30a87056d85107dfffee6fbd21ad0a816b1fb23db3a819927c1f",
+      "company": "Baiya International Group Inc.",
+      "ticker": "BIYA",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E673039c6f1cc4b1b638fa0185308ea28f55e1befb0a9c6e8ded4fde521ec02f1",
+      "company": "J-Star Holding Co., Ltd.",
+      "ticker": "YMAT",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E60276781f61d537f21a5871805fb43a4336cbd058c7703b8b933b4e3c8a435d0",
       "company": "Sumitomo Corporation",
       "ticker": "SSUMY",
@@ -353,6 +408,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E837a3797b3a3ac26fbc6a0190897ccf5722f8d7cd5f05a591ed747f9b0cd0678",
+      "company": "Generation Income Properties, Inc.",
+      "ticker": "GIPR",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -385,6 +451,28 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6dcf3cd487deec7860bcee1bc1b3fc0ed4fef6246325486d528759e0e786dd86",
+      "company": "GCMLF",
+      "ticker": "GCMLF",
+      "exDate": "2026-07-09",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed8406cb58eee8489b787d8968b881054862fa4eb1a0fcc9a9942f99e056cbd60",
+      "company": "Frequency Holdings, Inc.",
+      "ticker": "FRQN",
+      "exDate": "2026-07-09",
+      "ratio": "1-for-500",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -396,7 +484,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -408,6 +496,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef980f15a35366b813024e3dc59ff10caa900ed59b1005a76a4193ad42ae2cebf",
+      "company": "Else Nutrition Holdings Inc.",
+      "ticker": "BABYF",
+      "exDate": "2026-07-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -467,7 +566,7 @@
     },
     {
       "id": "E98fa79067ff406c6974d565998e9ff46989e9a1a563e07cf6377d31f6037718f",
-      "company": "COSCIENS Biopharma Inc",
+      "company": "COSCIENS Biopharma Inc.",
       "ticker": "CSCIF",
       "exDate": "2026-07-07",
       "ratio": "1-for-150",
@@ -676,7 +775,7 @@
     },
     {
       "id": "E27fb2236db37f13437293fe17a151d433a1a60e33f1b77b8c32dd73538d2a8cd",
-      "company": "Longevity Diversified Holdings, Inc.",
+      "company": "UbuyHoldings Inc",
       "ticker": "UBYH",
       "exDate": "2026-07-02",
       "ratio": "1-for-10",
@@ -747,94 +846,6 @@
       "exDate": "2026-07-02",
       "ratio": "4-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebf7af31f93060a734b4e0568d9de67f9a40017a985d9cfc212815899b93167e6",
-      "company": "2x Long VIX Futures ETF",
-      "ticker": "UVIX",
-      "exDate": "2026-07-01",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E84cf5d374c6d405b70ed26bb79e1d0b4c93f28fa6955b8fea30a56463eedc1c7",
-      "company": "Rockwell Medical, Inc.",
-      "ticker": "RMTI",
-      "exDate": "2026-07-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed472852f9de05b2810e96a5201b2a546225647421dd3eb9d01c9c58abc58109d",
-      "company": "Marqeta, Inc.",
-      "ticker": "MQ",
-      "exDate": "2026-07-01",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4369bd48d3e12cfe44c02213806e873ae33d874d575e3365098fd4fc07907a04",
-      "company": "Mueller Industries, Inc.",
-      "ticker": "MLI",
-      "exDate": "2026-07-01",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed929f7147a66b603161bf4f03a4c8587dedfed1d76b052d9707bc1be14b5ffaa",
-      "company": "Golden Grail Technology Corp.",
-      "ticker": "GOGY",
-      "exDate": "2026-07-01",
-      "ratio": "1-for-500",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5894234fd35e6d99f880df0a67fd56cdaf3347e9043a2e5f15f22320f7990e71",
-      "company": "BKSTF",
-      "ticker": "BKSTF",
-      "exDate": "2026-07-01",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecb3785dc9c13ca218f595593cd76d4e08025e587b92ac3ac29cdbcaf12487b16",
-      "company": "Barron's 400 ETF",
-      "ticker": "BFOR",
-      "exDate": "2026-07-01",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0e104e2ef62f368ec47b3d69eeb204797925884aec04ef88a3edb7c8949becf0",
-      "company": "Alight, Inc.",
-      "ticker": "ALIT",
-      "exDate": "2026-07-01",
-      "ratio": "1-for-20",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
