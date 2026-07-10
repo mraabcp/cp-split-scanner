@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-09T16:23:24.928Z",
-  "totalRecords": 77,
-  "newThisScan": 9,
+  "lastUpdated": "2026-07-10T16:17:16.919Z",
+  "totalRecords": 79,
+  "newThisScan": 10,
   "splits": [
     {
       "id": "E298616d70586989b4354cd6fe345323e754a9e2a85a048a73370353c180ee0cb",
@@ -11,7 +11,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -290,6 +290,17 @@
       "source": "polygon"
     },
     {
+      "id": "E2d32bcb845d5d5db4ee7b8ea55c4abbe19805f6d2a882721b070b912a2667ef6",
+      "company": "707 Cayman Holdings Limited",
+      "ticker": "JEM",
+      "exDate": "2026-07-14",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
       "company": "ASML Holding NV ADRhedged",
       "ticker": "ASMH",
@@ -309,6 +320,50 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E489026e3774d9e545266c8c08c4602b4083f979c3cc205206e74248cb4be8f45",
+      "company": "LQR House Inc.",
+      "ticker": "YHC",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E952a20b820b889436be8c36163c8c6ccd4513d2fbfa16155dcc76cf245558541",
+      "company": "Beyond Air, Inc.",
+      "ticker": "XAIR",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3e898c2aeb66bdb6c6f2608c6e16e2ac7576c32eee26f415aa225d40500775af",
+      "company": "PSQ Holdings, Inc.",
+      "ticker": "PSQH",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8c54ef2d8b7575d4e2b2912a0fbb6ee3ff5b0d5899d11c70286bf5b74f863d62",
+      "company": "LM Funding America, Inc.",
+      "ticker": "LMFA",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -341,6 +396,17 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1f6a5eb7642c1c9cda8c7f799e46938a5fe10f6161f067390ef3e80ff6a9c043",
+      "company": "Edible Garden AG Incorporated",
+      "ticker": "EDBL",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-45",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -359,6 +425,17 @@
       "id": "E11e5b1c5b90b872b32c6a5290fcfc1b711f4463a89fb2acc7d711325e02a1b22",
       "company": "Pop Culture Group Co., Ltd",
       "ticker": "CPOP",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec2bbf09a457b7de69c871fcbb5c6a9a1f1facd08d649441204176b38b96790c4",
+      "company": "CCH Holdings Ltd",
+      "ticker": "CCHH",
       "exDate": "2026-07-13",
       "ratio": "1-for-10",
       "type": "reverse",
@@ -385,7 +462,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +473,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -411,11 +488,33 @@
       "source": "polygon"
     },
     {
+      "id": "Ec691c837a39b8aa75e0fca20ecab8e2153b2d5a7337af457142a13112847ebaf",
+      "company": "H-D International Holdings Group",
+      "ticker": "HDIH",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E837a3797b3a3ac26fbc6a0190897ccf5722f8d7cd5f05a591ed747f9b0cd0678",
       "company": "Generation Income Properties, Inc.",
       "ticker": "GIPR",
       "exDate": "2026-07-10",
       "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E12f66f703f62d939dc36a0afed6cbd95e01bcf64369bb34ec14da33870fe9172",
+      "company": "Goldgroup Mining Inc.",
+      "ticker": "GGAZF",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -430,6 +529,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E99b1775429ab5476fd2d56fcd034c826134b22464c86fb31a49ed2f7085c30ea",
+      "company": "FDCTech, Inc.",
+      "ticker": "FDCT",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -462,7 +572,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +583,7 @@
       "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +616,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -566,7 +676,7 @@
     },
     {
       "id": "E98fa79067ff406c6974d565998e9ff46989e9a1a563e07cf6377d31f6037718f",
-      "company": "COSCIENS Biopharma Inc.",
+      "company": "COSCIENS Biopharma Inc",
       "ticker": "CSCIF",
       "exDate": "2026-07-07",
       "ratio": "1-for-150",
@@ -758,94 +868,6 @@
       "exDate": "2026-07-06",
       "ratio": "1-for-15",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E49f3ca9396cd6e83f0a943680aad8621840d605aa7d0c5088b51314c9d2c884d",
-      "company": "Vallant Financial Inc.",
-      "ticker": "VLNT",
-      "exDate": "2026-07-02",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E27fb2236db37f13437293fe17a151d433a1a60e33f1b77b8c32dd73538d2a8cd",
-      "company": "UbuyHoldings Inc",
-      "ticker": "UBYH",
-      "exDate": "2026-07-02",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E51167cea6d1566d9e7b5bcc37bce5d07bc1eb02cd39b1c5fa82607fae1e88d43",
-      "company": "Sumitomo Electric Industries, Ltd.",
-      "ticker": "SMTOY",
-      "exDate": "2026-07-02",
-      "ratio": "8-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E70c2c314afc369d4cfbef343a1019eae35d674dc5f70d3ce4aaeb5ce9a8829b0",
-      "company": "Getty Copper Inc.",
-      "ticker": "GTCDF",
-      "exDate": "2026-07-02",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1b967fb019fa13f6920262f01993c0a924e59070ea210a6d46eeee0181acbf99",
-      "company": "GMEX Robotics Corporation",
-      "ticker": "GMEX",
-      "exDate": "2026-07-02",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7d05b158a08aaa5b7259789c71340b3e4d7c7c805f25479c680a103210b44d67",
-      "company": "North American Financial 15 Split Corp.",
-      "ticker": "FNCSF",
-      "exDate": "2026-07-02",
-      "ratio": "110-for-100",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6e900756c7e0c2c6394e442ed0fe4d63cddb502e22911b35968a3e6b580c05c7",
-      "company": "FNB Bancorp, Inc.",
-      "ticker": "FBIP",
-      "exDate": "2026-07-02",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0f7a58bf74a4cc0965f939a47eb0a18c56803efbaaec2bcf16db5a8f5aad7dbd",
-      "company": "CrowdStrike Holdings, Inc.",
-      "ticker": "CRWD",
-      "exDate": "2026-07-02",
-      "ratio": "4-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
