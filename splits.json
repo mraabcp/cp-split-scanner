@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-07-10T16:17:16.919Z",
-  "totalRecords": 79,
-  "newThisScan": 10,
+  "lastUpdated": "2026-07-13T16:22:59.594Z",
+  "totalRecords": 88,
+  "newThisScan": 9,
   "splits": [
+    {
+      "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
+      "company": "Taiyo Yuden Co., Ltd.",
+      "ticker": "TYOYY",
+      "exDate": "2026-08-12",
+      "ratio": "16-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3bbed498c62db9fd36efa308cdd927111a399001673bccd4824d930794e8ba88",
+      "company": "Monster Beverage Corporation",
+      "ticker": "MNST",
+      "exDate": "2026-08-11",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E66a6b8a9276349aefb16431d18ff582f91512f18ea4f4915a86b06ac623ab039",
+      "company": "Steakholder Foods Ltd.",
+      "ticker": "STKH",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E298616d70586989b4354cd6fe345323e754a9e2a85a048a73370353c180ee0cb",
       "company": "Trinity Biotech plc",
@@ -12,6 +45,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eaf74beccf0e662117e1624e49e41f75af192fb01b12bd0461105ddab580f2b4e",
+      "company": "Westpac Banking Corp. Ltd.",
+      "ticker": "WBKCY",
+      "exDate": "2026-07-23",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -92,6 +136,17 @@
       "source": "polygon"
     },
     {
+      "id": "E4c6fe6a2109e1742552dfe8a0771f45f93ff0bf94e3d66b5c170c1b0f4475fd4",
+      "company": "Cango Inc.",
+      "ticker": "CANG",
+      "exDate": "2026-07-21",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E75335b6adb2ae7d3c9969a26ed1fa7ac1520d9300c1be60d10136cd720f751f1",
       "company": "StoneX Group Inc.",
       "ticker": "SNEX",
@@ -100,6 +155,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecf89fefaf7dc73ec4637b0a53f2332e848ffa0d54f3547974cc80827f95481f4",
+      "company": "Cheche Group Inc.",
+      "ticker": "CCG",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-35",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -188,6 +254,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed62d29fedd49e29906965952b9ebe8c16740277c9d9654212f473114d205fd9c",
+      "company": "Southern Financial Corporation",
+      "ticker": "SFCO",
+      "exDate": "2026-07-15",
+      "ratio": "21-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -297,7 +374,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +407,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +418,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +429,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +440,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +484,7 @@
       "ratio": "1-for-45",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +517,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -466,6 +543,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6b6e346b7e12648f8b464104e8c9ad2b216de1ef46ba1aa8c9c6a9dd608ef1e4",
+      "company": "Avalon Advanced Materials Inc.",
+      "ticker": "AVLNF",
+      "exDate": "2026-07-13",
+      "ratio": "1-for-180",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E673039c6f1cc4b1b638fa0185308ea28f55e1befb0a9c6e8ded4fde521ec02f1",
       "company": "J-Star Holding Co., Ltd.",
       "ticker": "YMAT",
@@ -488,6 +576,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eef54fb70cc620f5f2fd2c8be5d893fadb2c241bad20136b840f4d44e9a0d684c",
+      "company": "HSIGF",
+      "ticker": "HSIGF",
+      "exDate": "2026-07-10",
+      "ratio": "8-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec691c837a39b8aa75e0fca20ecab8e2153b2d5a7337af457142a13112847ebaf",
       "company": "H-D International Holdings Group",
       "ticker": "HDIH",
@@ -495,7 +594,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +616,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +638,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
