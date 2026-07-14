@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-13T16:22:59.594Z",
-  "totalRecords": 88,
-  "newThisScan": 9,
+  "lastUpdated": "2026-07-14T15:18:34.975Z",
+  "totalRecords": 76,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
@@ -11,7 +11,7 @@
       "ratio": "16-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -165,7 +165,7 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +264,7 @@
       "ratio": "21-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -276,6 +276,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8017c83d8c899138d57f3a5d82cba6824281e1824e88a4d9da007acd4e589269",
+      "company": "LataMed AI Corp.",
+      "ticker": "LMED",
+      "exDate": "2026-07-15",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -378,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea6b1f09f904949b8d778be77e42444db681bda504a76b5d6f3453465d5f23e80",
+      "company": "Gungnir Resources Inc.",
+      "ticker": "ASWRF",
+      "exDate": "2026-07-14",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
       "company": "ASML Holding NV ADRhedged",
       "ticker": "ASMH",
@@ -397,6 +419,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee384b57e23cfd64fde2be9001c7313a683fb7a5fc7918a196f200cb226db902f",
+      "company": "Coloured Ties Capital Inc.",
+      "ticker": "APEOF",
+      "exDate": "2026-07-14",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -550,7 +583,7 @@
       "ratio": "1-for-180",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -583,7 +616,7 @@
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -775,7 +808,7 @@
     },
     {
       "id": "E98fa79067ff406c6974d565998e9ff46989e9a1a563e07cf6377d31f6037718f",
-      "company": "COSCIENS Biopharma Inc",
+      "company": "Cosciens Biopharma Inc",
       "ticker": "CSCIF",
       "exDate": "2026-07-07",
       "ratio": "1-for-150",
@@ -800,171 +833,6 @@
       "company": "Creative Global Technology Holdings Limited",
       "ticker": "CGTL",
       "exDate": "2026-07-07",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E152840e25f7988ec1b1f26a6555bc22709769783b4373e111aa6dbf917cb812b",
-      "company": "21Shares 2x Long Sui ETF",
-      "ticker": "TXXS",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efcc364493ef6fa0822dad8de4565ffc33eb0f16d9fa8963d92a6e0530d729aaa",
-      "company": "TraWell Co S.p.A.",
-      "ticker": "TRWAF",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eef1cc620ddf1346714d8ff57943b6c268a8972feccd0e1cbbd26db002c3cdeb6",
-      "company": "SRX Global Inc.",
-      "ticker": "SRXH",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-60",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea9f07defcf4ecb10d5f03b58ee4a9385443fa8175e98889492b816c5887c2ea5",
-      "company": "Snail, Inc.",
-      "ticker": "SNAL",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6dee924b2852923731c2163972f31c31e8fcfb930be0f9368e4736e877af9298",
-      "company": "SOLAI Limited",
-      "ticker": "SLAI",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5a45df82057a6667bfc29c4bc89e2691583c3c5d6041a5e9b7cc9cc3d7b20980",
-      "company": "Nuvve Holding Corp.",
-      "ticker": "NVVE",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-18",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee3f4f6a951c6ce9618e5cc686520fbd346f271588937510beaf1d0263ad6c09f",
-      "company": "NetClass Technology Inc",
-      "ticker": "NTCL",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E40f7baa96c294219a1e1f4d32109c663808a57dd0d70b0f2eb49d0e0d3051346",
-      "company": "NewGenIvf Group Limited",
-      "ticker": "NIVF",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E10418df4f0af3ccebeb295372a57b2803dd706cc251ea8d594d22b6b6eeebcfc",
-      "company": "NIP Group Inc.",
-      "ticker": "NIPG",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea02bffbe03bcaf892dd002d4b952041eaa834459193c304d1a203409015d8776",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1929433a2ad95caf5d875eb845dee1306ff78c9818ded5ae1af2f15ff779aad9",
-      "company": "INLIF Limited",
-      "ticker": "INLF",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebb6e311fdf97842fdc197915b384fc9c439a4f3d17b4b4c3a5276927831dc2eb",
-      "company": "Hitek Global Inc.",
-      "ticker": "HKIT",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef4e05b4e6dda71231e8e8428e27289f8c737af7f2e9782eca42af795124d0f96",
-      "company": "Curis, Inc.",
-      "ticker": "CRIS",
-      "exDate": "2026-07-06",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E58e03df6bcbc1896ddafae01119d7dea74a60d05794e38be85ab228e269964c9",
-      "company": "ACS, Actividades de Construcción y Servicios, S.A.",
-      "ticker": "ACSAY",
-      "exDate": "2026-07-06",
-      "ratio": "70-for-69",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edc3593271793d3c57564878805434bc3d895b78cedda11c54d4ff8f61f6cd522",
-      "company": "American Bitcoin Corp",
-      "ticker": "ABTC",
-      "exDate": "2026-07-06",
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
