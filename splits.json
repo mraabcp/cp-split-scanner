@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-14T15:18:34.975Z",
-  "totalRecords": 76,
-  "newThisScan": 3,
+  "lastUpdated": "2026-07-15T15:20:30.894Z",
+  "totalRecords": 75,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
@@ -34,6 +34,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4f53478f5e0a6895639f0a87b3c79341c6d66374c6760efeb09e35026b2f7510",
+      "company": "Splash Beverage Group, Inc.",
+      "ticker": "SBEV",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1817cd14986bcbad0f509f177f48350227217e094aa8ef78ea55fd0f36ec8f8a",
+      "company": "Amaze Holdings, Inc.",
+      "ticker": "AMZE",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -158,6 +180,17 @@
       "source": "polygon"
     },
     {
+      "id": "E3b3eec2d6817a090305b802b907a6add438bcdb5af9eaecb8721fc17e2564f4e",
+      "company": "T3 Defense Inc.",
+      "ticker": "DFNS",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ecf89fefaf7dc73ec4637b0a53f2332e848ffa0d54f3547974cc80827f95481f4",
       "company": "Cheche Group Inc.",
       "ticker": "CCG",
@@ -224,6 +257,28 @@
       "source": "polygon"
     },
     {
+      "id": "E33fb1186bff2a0f07aadf958ebda98d21f3d48214f65d0fbcc778829330c3f7c",
+      "company": "Vivakor, Inc.",
+      "ticker": "VIVK",
+      "exDate": "2026-07-17",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E64b7294c37b3bce599d4382dfdad8c8fba1532e1e02de3453f9806dbbf374152",
+      "company": "Genprex, Inc.",
+      "ticker": "GNPX",
+      "exDate": "2026-07-16",
+      "ratio": "1-for-22",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
       "company": "Direxion Daily Small Cap Bear 3X Shares",
       "ticker": "TZA",
@@ -286,7 +341,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -390,13 +445,13 @@
     },
     {
       "id": "Ea6b1f09f904949b8d778be77e42444db681bda504a76b5d6f3453465d5f23e80",
-      "company": "Gungnir Resources Inc.",
+      "company": "Three Crowns Critical Metals Inc.",
       "ticker": "ASWRF",
       "exDate": "2026-07-14",
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +484,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -609,6 +664,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eefe64aab097b7b1ee9a070f7f6762011adc513c641a8880714757776749ffea5",
+      "company": "Stone Ridge Trust V - Alternative Lending Risk Prem Fund",
+      "ticker": "LENDX",
+      "exDate": "2026-07-10",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eef54fb70cc620f5f2fd2c8be5d893fadb2c241bad20136b840f4d44e9a0d684c",
       "company": "HSIGF",
       "ticker": "HSIGF",
@@ -758,83 +824,6 @@
       "exDate": "2026-07-08",
       "ratio": "10-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebe0777602be4ae1eaa063a8fa73afd6d40913ccce46fc7c6738d3bb8acdd48a0",
-      "company": "Service Properties Trust",
-      "ticker": "SVC",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2c77f8c02cbaca95da9998308e06156acf908e7f1c958eb1344122a8e9993e04",
-      "company": "Profusa, Inc.",
-      "ticker": "PFSA",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edbb276e016d3796a5d30997a9499e95cc11b81a353c836994a58f5ec9fe447aa",
-      "company": "Nocera, Inc.",
-      "ticker": "NCRA",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7d361644a47a138c9ef2857c34e5ae9d59d1f9ea5e2329bc1b126c50820f4ceb",
-      "company": "Iberdrola, S.A.",
-      "ticker": "IBDSF",
-      "exDate": "2026-07-07",
-      "ratio": "51-for-50",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E98fa79067ff406c6974d565998e9ff46989e9a1a563e07cf6377d31f6037718f",
-      "company": "Cosciens Biopharma Inc",
-      "ticker": "CSCIF",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-150",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3eccf902308f2f284fe96120350ca8f572da8f0f7d2a5cc2aa39d20c8f849acc",
-      "company": "COSCIENS Biopharma Inc.",
-      "ticker": "CSCID",
-      "exDate": "2026-07-07",
-      "ratio": "50-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec15362dab3e250b98c17eba5e3a31ef84a99966d678ac39d5fd7c1dce2c1906f",
-      "company": "Creative Global Technology Holdings Limited",
-      "ticker": "CGTL",
-      "exDate": "2026-07-07",
-      "ratio": "1-for-15",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
