@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-15T15:20:30.894Z",
-  "totalRecords": 75,
-  "newThisScan": 6,
+  "lastUpdated": "2026-07-16T15:28:06.631Z",
+  "totalRecords": 79,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
@@ -26,6 +26,17 @@
       "source": "polygon"
     },
     {
+      "id": "E766caa1b25b78c5f9f52d9fedf69ca86bf9f4ba8825fc0871dba87d207d5fc03",
+      "company": "Sumitomo Mitsui Trust Group, Inc.",
+      "ticker": "CMTDF",
+      "exDate": "2026-07-30",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E66a6b8a9276349aefb16431d18ff582f91512f18ea4f4915a86b06ac623ab039",
       "company": "Steakholder Foods Ltd.",
       "ticker": "STKH",
@@ -44,7 +55,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +66,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -67,6 +78,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0308c4fb18597c49b9b58f543101f7712f253c857d39ab8e3bf85b3e5d6ea5b3",
+      "company": "Apimeds Pharmaceuticals US, Inc.",
+      "ticker": "APUS",
+      "exDate": "2026-07-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -187,7 +209,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,6 +286,39 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eff999b03c5a5aab187e502c7264809e862a2c701e3f897896932a2c34f234186",
+      "company": "Trident Digital Tech Holdings Ltd",
+      "ticker": "TDTH",
+      "exDate": "2026-07-16",
+      "ratio": "1-for-240",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea1d9897b6646dfe423d2d003f48723e6413961bc2feaeaf842e6c52e01912199",
+      "company": "Stellar Resources Limited",
+      "ticker": "SLROF",
+      "exDate": "2026-07-16",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecc7a6989c695ed33b9dad921cbf2bd02e11b327279ac63e924326059d2fbc1a8",
+      "company": "Ecominas Corp.",
+      "ticker": "ILXP",
+      "exDate": "2026-07-16",
+      "ratio": "1-for-500",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -275,7 +330,7 @@
       "ratio": "1-for-22",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -671,7 +726,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -775,7 +830,7 @@
     },
     {
       "id": "Ed8406cb58eee8489b787d8968b881054862fa4eb1a0fcc9a9942f99e056cbd60",
-      "company": "Frequency Holdings, Inc.",
+      "company": "Frequency Holdings Inc",
       "ticker": "FRQN",
       "exDate": "2026-07-09",
       "ratio": "1-for-500",
@@ -808,22 +863,11 @@
     },
     {
       "id": "Ef980f15a35366b813024e3dc59ff10caa900ed59b1005a76a4193ad42ae2cebf",
-      "company": "Else Nutrition Holdings Inc.",
+      "company": "Else Nutrition Holdings Inc",
       "ticker": "BABYF",
       "exDate": "2026-07-09",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec6c8012ab4d8891202964cd0df9e6796fb2b1e7375892d0e7d74a1c36f648376",
-      "company": "Marubeni Corporation",
-      "ticker": "MARUY",
-      "exDate": "2026-07-08",
-      "ratio": "10-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
