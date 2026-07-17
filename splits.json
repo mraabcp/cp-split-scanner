@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-16T15:28:06.631Z",
-  "totalRecords": 79,
-  "newThisScan": 5,
+  "lastUpdated": "2026-07-17T15:07:38.609Z",
+  "totalRecords": 82,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
@@ -33,7 +33,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -191,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "E660f1023e8ad67134ca0ce4bfadbd966611d44f6b65f67ef36a7bfd9f770e745",
+      "company": "TOMI Environmental Solutions, Inc.",
+      "ticker": "TOMZ",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E75335b6adb2ae7d3c9969a26ed1fa7ac1520d9300c1be60d10136cd720f751f1",
       "company": "StoneX Group Inc.",
       "ticker": "SNEX",
@@ -202,14 +213,58 @@
       "source": "polygon"
     },
     {
+      "id": "E9ac0f3fef85d8ac802bf809753b1a6a39b2ca64ba8497d0c13e31a188b99b424",
+      "company": "Purple Innovation, Inc.",
+      "ticker": "PRPL",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E14f6ddc07d0ba922e59df10bbff1769451beae4245c6bca38ff0e2ebbc27968e",
+      "company": "Delek Group Ltd.",
+      "ticker": "DLKGF",
+      "exDate": "2026-07-20",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3b3eec2d6817a090305b802b907a6add438bcdb5af9eaecb8721fc17e2564f4e",
       "company": "T3 Defense Inc.",
       "ticker": "DFNS",
       "exDate": "2026-07-20",
-      "ratio": "1-for-50",
+      "ratio": "1-for-125",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eef4e5b92682eafa31ff248315beeb558477eaf47204002aec22409a2bea451d8",
+      "company": "Tianci International, Inc.",
+      "ticker": "CIIT",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea8ce5bb54804ab1ca1e9cecdc293a263faf6c7e3f1a3593ba9fd8305770c9e84",
+      "company": "CDT Equity Inc.",
+      "ticker": "CDT",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -279,6 +334,39 @@
       "source": "polygon"
     },
     {
+      "id": "E94d6fd2c3ad1e71e37c01b3e401e9f50215e4af7ab170443139d0f4ee582582b",
+      "company": "CBL International Limited",
+      "ticker": "BANL",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-13",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3f5581bcf39dbdaebe307f611eb509bd21d2d612bff4db003dea567f81cbfc1b",
+      "company": "Aptorum Group Limited",
+      "ticker": "APM",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee998bf2bd27eac07311e23b07974a094ecc014b6b55a927ce6e49ddaa52dd9ca",
+      "company": "World Copper Ltd.",
+      "ticker": "WCUFF",
+      "exDate": "2026-07-17",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E33fb1186bff2a0f07aadf958ebda98d21f3d48214f65d0fbcc778829330c3f7c",
       "company": "Vivakor, Inc.",
       "ticker": "VIVK",
@@ -290,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb2bea77158da13c77b937c0a6f41bbeacde1e28f099edd0008b87c8645933f9b",
+      "company": "FBR Limited",
+      "ticker": "FBRKF",
+      "exDate": "2026-07-17",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eff999b03c5a5aab187e502c7264809e862a2c701e3f897896932a2c34f234186",
       "company": "Trident Digital Tech Holdings Ltd",
       "ticker": "TDTH",
@@ -297,7 +396,7 @@
       "ratio": "1-for-240",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +407,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +418,7 @@
       "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -588,7 +687,7 @@
     },
     {
       "id": "Eea57208669bd0db1898bfd4ee5a9c41cb43e3f261caf0807334119aea4756590",
-      "company": "Light S.A.",
+      "company": "Light SA",
       "ticker": "LGSXY",
       "exDate": "2026-07-13",
       "ratio": "1-for-2",
@@ -599,7 +698,7 @@
     },
     {
       "id": "E24a99998e4d395b4e8284ae440bbf8a3daac3989da89205e0aae098dc80a9e6f",
-      "company": "Galera Therapeutics, Inc.",
+      "company": "Galera Therapeutics Inc",
       "ticker": "GRTX",
       "exDate": "2026-07-13",
       "ratio": "1-for-200",
@@ -786,7 +885,7 @@
     },
     {
       "id": "E99b1775429ab5476fd2d56fcd034c826134b22464c86fb31a49ed2f7085c30ea",
-      "company": "FDCTech, Inc.",
+      "company": "FDCTech Inc",
       "ticker": "FDCT",
       "exDate": "2026-07-10",
       "ratio": "1-for-100",
@@ -797,76 +896,10 @@
     },
     {
       "id": "E8a56c0595dcb64f2f975d7402b2b28a23f47e42e9d67db4daaa31d631743f78c",
-      "company": "Barys Resources Limited",
+      "company": "Barys Resources Ltd",
       "ticker": "EELFF",
       "exDate": "2026-07-10",
       "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E84082931f1ef62dfc98b0218cf7ac0f15f32bcb1a06247e31a1fd8e3542be752",
-      "company": "Robin Energy Ltd.",
-      "ticker": "RBNE",
-      "exDate": "2026-07-09",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6dcf3cd487deec7860bcee1bc1b3fc0ed4fef6246325486d528759e0e786dd86",
-      "company": "GCMLF",
-      "ticker": "GCMLF",
-      "exDate": "2026-07-09",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed8406cb58eee8489b787d8968b881054862fa4eb1a0fcc9a9942f99e056cbd60",
-      "company": "Frequency Holdings Inc",
-      "ticker": "FRQN",
-      "exDate": "2026-07-09",
-      "ratio": "1-for-500",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec1a05558e2fda33e4f879dc3d9f48cae37fb91572b873ae7d729f68cf19241fc",
-      "company": "Enlivex Ltd.",
-      "ticker": "ENLV",
-      "exDate": "2026-07-09",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E86b24232e54e3402dad3ce5c25ef8b26ad0d3b4b714263db63864a82be87487a",
-      "company": "Compagnie de Saint-Gobain S.A.",
-      "ticker": "CODYY",
-      "exDate": "2026-07-09",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef980f15a35366b813024e3dc59ff10caa900ed59b1005a76a4193ad42ae2cebf",
-      "company": "Else Nutrition Holdings Inc",
-      "ticker": "BABYF",
-      "exDate": "2026-07-09",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
