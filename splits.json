@@ -1,8 +1,140 @@
 {
-  "lastUpdated": "2026-07-17T15:07:38.609Z",
-  "totalRecords": 82,
-  "newThisScan": 9,
+  "lastUpdated": "2026-07-20T15:46:01.240Z",
+  "totalRecords": 87,
+  "newThisScan": 16,
   "splits": [
+    {
+      "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
+      "company": "Defiance Daily Target 2X Short ",
+      "ticker": "STSM",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee07f1bdb6939a34734e3147b949b54613ff4a97bb526f1a5c7cf4ede5aabd5ae",
+      "company": "Defiance Daily Target 2X Short SMCI ETF",
+      "ticker": "SMCZ",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb65f5d04f0fd6cceb7aa60f4456c09884b40be5da2c36a5456a9a06118f3f218",
+      "company": "Defiance Daily Target 2x Short ",
+      "ticker": "RGTZ",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb11cd19b577f307775bdea7dc01d2fe2d7bdc23fba4182d27bc0416738770f05",
+      "company": "Defiance Daily Target 2x Short ",
+      "ticker": "QBTZ",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4e119589a331593ed7923d5e718b0578b57109efed20f358bf751de6c372fc08",
+      "company": "Defiance Daily Target 2X Long OKLO ETF",
+      "ticker": "OKLL",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
+      "company": "Defiance Daily Target 2X Short ",
+      "ticker": "DAMD",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E06e920abc5bf616c7f4abf343ee2cc16d7160a93a7f2df6616163da62e49a462",
+      "company": "Defiance Daily Target 2X Short ASTS ETF",
+      "ticker": "ASTN",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E22cebd7b179bc161c2bd674658f1e09c466634535833055087420518322ec53e",
+      "company": "Defiance Daily Target 2X Short RKLB ETF",
+      "ticker": "RKLZ",
+      "exDate": "2026-08-18",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7f2368c2014aec49618caf1ecca406203166ef2bee3ce620b6079f0b5d7c69d6",
+      "company": "Defiance Daily Target 2X Long RCAT ETF",
+      "ticker": "RCAX",
+      "exDate": "2026-08-18",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E74b207f4d15b0096a811dbc12b64b5ac7571b85ca1563428760882d2b38a5a46",
+      "company": "Defiance Daily Target 2X Short IONQ ETF",
+      "ticker": "IONZ",
+      "exDate": "2026-08-18",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1fddafa6ce96e822a89f6c958309c9aab48807e849031e30cd35c587c2f8c309",
+      "company": "Defiance Daily Target 2X Long AVAV ETF",
+      "ticker": "AVXX",
+      "exDate": "2026-08-18",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb60a22054ad8b03201b2c2b7f81c831fdb6cd268834f9bd6cc69eddebc57d790",
+      "company": "XCHG Limited",
+      "ticker": "XCH",
+      "exDate": "2026-08-14",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
       "company": "Taiyo Yuden Co., Ltd.",
@@ -81,6 +213,17 @@
       "source": "polygon"
     },
     {
+      "id": "E5ade20dafbd0eda401ebbcaff9c7b5c24c51380909647aef3ba9d358e257b1d8",
+      "company": "Digital Brands Group, Inc.",
+      "ticker": "DBGI",
+      "exDate": "2026-07-24",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0308c4fb18597c49b9b58f543101f7712f253c857d39ab8e3bf85b3e5d6ea5b3",
       "company": "Apimeds Pharmaceuticals US, Inc.",
       "ticker": "APUS",
@@ -100,6 +243,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9555f1cab001c2065f51c7045e454b13526fc2899fb70e1c629523f40a6b5586",
+      "company": "Expion360 Inc.",
+      "ticker": "XPON",
+      "exDate": "2026-07-21",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -198,7 +352,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,6 +374,17 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E666b933f92f9676bd87dd75db2cb858ccfefeb20ab09f1e2cdf3f746ab13249e",
+      "company": "HLICF",
+      "ticker": "HLICF",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-105",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -231,7 +396,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +418,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +429,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,6 +506,17 @@
       "ratio": "1-for-13",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed3d8b0441d9b370e2d6dc87a93e233c805cb06a343254e4578d8b1bbf7fd86f6",
+      "company": "Amper, S.A.",
+      "ticker": "APMRF",
+      "exDate": "2026-07-20",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -352,7 +528,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +539,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -383,17 +559,6 @@
       "ticker": "FBRKF",
       "exDate": "2026-07-17",
       "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Eff999b03c5a5aab187e502c7264809e862a2c701e3f897896932a2c34f234186",
-      "company": "Trident Digital Tech Holdings Ltd",
-      "ticker": "TDTH",
-      "exDate": "2026-07-16",
-      "ratio": "1-for-240",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -632,7 +797,7 @@
     },
     {
       "id": "Ee384b57e23cfd64fde2be9001c7313a683fb7a5fc7918a196f200cb226db902f",
-      "company": "Coloured Ties Capital Inc.",
+      "company": "Coloured Ties Capital Inc",
       "ticker": "APEOF",
       "exDate": "2026-07-14",
       "ratio": "1-for-3",
@@ -790,116 +955,6 @@
       "ticker": "AVLNF",
       "exDate": "2026-07-13",
       "ratio": "1-for-180",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E673039c6f1cc4b1b638fa0185308ea28f55e1befb0a9c6e8ded4fde521ec02f1",
-      "company": "J-Star Holding Co., Ltd.",
-      "ticker": "YMAT",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E60276781f61d537f21a5871805fb43a4336cbd058c7703b8b933b4e3c8a435d0",
-      "company": "Sumitomo Corporation",
-      "ticker": "SSUMY",
-      "exDate": "2026-07-10",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eefe64aab097b7b1ee9a070f7f6762011adc513c641a8880714757776749ffea5",
-      "company": "Stone Ridge Trust V - Alternative Lending Risk Prem Fund",
-      "ticker": "LENDX",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eef54fb70cc620f5f2fd2c8be5d893fadb2c241bad20136b840f4d44e9a0d684c",
-      "company": "HSIGF",
-      "ticker": "HSIGF",
-      "exDate": "2026-07-10",
-      "ratio": "8-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec691c837a39b8aa75e0fca20ecab8e2153b2d5a7337af457142a13112847ebaf",
-      "company": "H-D International Holdings Group",
-      "ticker": "HDIH",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E837a3797b3a3ac26fbc6a0190897ccf5722f8d7cd5f05a591ed747f9b0cd0678",
-      "company": "Generation Income Properties, Inc.",
-      "ticker": "GIPR",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E12f66f703f62d939dc36a0afed6cbd95e01bcf64369bb34ec14da33870fe9172",
-      "company": "Goldgroup Mining Inc.",
-      "ticker": "GGAZF",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef3afc955040c4bd14ad2a33c98b84c115c5b4a5dda231e01341de402c728c27b",
-      "company": "Furukawa Electric Co., Ltd.",
-      "ticker": "FUWAY",
-      "exDate": "2026-07-10",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E99b1775429ab5476fd2d56fcd034c826134b22464c86fb31a49ed2f7085c30ea",
-      "company": "FDCTech Inc",
-      "ticker": "FDCT",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8a56c0595dcb64f2f975d7402b2b28a23f47e42e9d67db4daaa31d631743f78c",
-      "company": "Barys Resources Ltd",
-      "ticker": "EELFF",
-      "exDate": "2026-07-10",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
