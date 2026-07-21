@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-20T15:46:01.240Z",
-  "totalRecords": 87,
-  "newThisScan": 16,
+  "lastUpdated": "2026-07-21T15:29:16.738Z",
+  "totalRecords": 75,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
@@ -11,7 +11,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +110,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +121,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +132,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -166,6 +166,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E887c3bcf5295aa791a4819338084ce33b3cf097103e44bb74a8766bf975a7b54",
+      "company": "ASMTF",
+      "ticker": "ASMTF",
+      "exDate": "2026-07-30",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -220,7 +231,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -246,6 +257,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb4a897220ffb127c7c9ad74cd10292e51c9a8bbc0e2d3e4d01d5b0ad514c44dd",
+      "company": "Maison Solutions Inc.",
+      "ticker": "MSS",
+      "exDate": "2026-07-22",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9555f1cab001c2065f51c7045e454b13526fc2899fb70e1c629523f40a6b5586",
       "company": "Expion360 Inc.",
       "ticker": "XPON",
@@ -253,7 +275,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +407,7 @@
       "ratio": "1-for-105",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,12 +539,12 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E3f5581bcf39dbdaebe307f611eb509bd21d2d612bff4db003dea567f81cbfc1b",
-      "company": "Aptorum Group Limited",
+      "company": "Niki BioSolutions, Inc.",
       "ticker": "APM",
       "exDate": "2026-07-20",
       "ratio": "1-for-10",
@@ -654,7 +676,7 @@
     },
     {
       "id": "E8017c83d8c899138d57f3a5d82cba6824281e1824e88a4d9da007acd4e589269",
-      "company": "LataMed AI Corp.",
+      "company": "LataMed AI Corp",
       "ticker": "LMED",
       "exDate": "2026-07-15",
       "ratio": "5-for-1",
@@ -801,160 +823,6 @@
       "ticker": "APEOF",
       "exDate": "2026-07-14",
       "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E489026e3774d9e545266c8c08c4602b4083f979c3cc205206e74248cb4be8f45",
-      "company": "LQR House Inc.",
-      "ticker": "YHC",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E952a20b820b889436be8c36163c8c6ccd4513d2fbfa16155dcc76cf245558541",
-      "company": "Beyond Air, Inc.",
-      "ticker": "XAIR",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3e898c2aeb66bdb6c6f2608c6e16e2ac7576c32eee26f415aa225d40500775af",
-      "company": "PSQ Holdings, Inc.",
-      "ticker": "PSQH",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8c54ef2d8b7575d4e2b2912a0fbb6ee3ff5b0d5899d11c70286bf5b74f863d62",
-      "company": "LM Funding America, Inc.",
-      "ticker": "LMFA",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eea57208669bd0db1898bfd4ee5a9c41cb43e3f261caf0807334119aea4756590",
-      "company": "Light SA",
-      "ticker": "LGSXY",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E24a99998e4d395b4e8284ae440bbf8a3daac3989da89205e0aae098dc80a9e6f",
-      "company": "Galera Therapeutics Inc",
-      "ticker": "GRTX",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9bcb1008fd4af36086805bb300e2cfc7636743e3460f36020782a52f9b77bee3",
-      "company": "Future FinTech Group Inc.",
-      "ticker": "FTFT",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1f6a5eb7642c1c9cda8c7f799e46938a5fe10f6161f067390ef3e80ff6a9c043",
-      "company": "Edible Garden AG Incorporated",
-      "ticker": "EDBL",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-45",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edcf955b8de55f939a283a08768039ac2a2b5e039692d3877827f0368a03e7d56",
-      "company": "T-REX 2X Long DJT Daily Target ",
-      "ticker": "DJTU",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E11e5b1c5b90b872b32c6a5290fcfc1b711f4463a89fb2acc7d711325e02a1b22",
-      "company": "Pop Culture Group Co., Ltd",
-      "ticker": "CPOP",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec2bbf09a457b7de69c871fcbb5c6a9a1f1facd08d649441204176b38b96790c4",
-      "company": "CCH Holdings Ltd",
-      "ticker": "CCHH",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E059389d0946851e1991bbf16c94dacd88669773322cbd3754144a3c35b35cc59",
-      "company": "T-REX 2X Long BMNR Daily Target ETF",
-      "ticker": "BMNU",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0378f826d1bc30a87056d85107dfffee6fbd21ad0a816b1fb23db3a819927c1f",
-      "company": "Baiya International Group Inc.",
-      "ticker": "BIYA",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6b6e346b7e12648f8b464104e8c9ad2b216de1ef46ba1aa8c9c6a9dd608ef1e4",
-      "company": "Avalon Advanced Materials Inc.",
-      "ticker": "AVLNF",
-      "exDate": "2026-07-13",
-      "ratio": "1-for-180",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
