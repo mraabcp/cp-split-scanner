@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-07-21T15:29:16.738Z",
-  "totalRecords": 75,
-  "newThisScan": 2,
+  "lastUpdated": "2026-07-22T15:26:21.935Z",
+  "totalRecords": 74,
+  "newThisScan": 8,
   "splits": [
+    {
+      "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
+      "company": "ServisFirst Bancshares, Inc.",
+      "ticker": "SFBS",
+      "exDate": "2026-08-21",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
       "company": "Defiance Daily Target 2X Short ",
@@ -158,6 +169,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ef9d72ce2d132bd48d199fe00ce51374e44b773028b2307d7ad5ec0fdb03e659f",
+      "company": "Picard Medical, Inc.",
+      "ticker": "PMI",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1805eb1500f0de3b7fbd3c3e32efcdb7b22dd0395fbc145963779adabb767023",
+      "company": "Calidi Biotherapeutics, Inc.",
+      "ticker": "CLDI",
+      "exDate": "2026-07-31",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E766caa1b25b78c5f9f52d9fedf69ca86bf9f4ba8825fc0871dba87d207d5fc03",
       "company": "Sumitomo Mitsui Trust Group, Inc.",
       "ticker": "CMTDF",
@@ -175,6 +208,17 @@
       "exDate": "2026-07-30",
       "ratio": "11-for-10",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4499b0b683e1af43be8f4689edaff1aaa49e65506efcad728aed140f000af480",
+      "company": "VYNE Therapeutics Inc.",
+      "ticker": "VYNE",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-50",
+      "type": "reverse",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -202,6 +246,17 @@
       "source": "polygon"
     },
     {
+      "id": "E2725904755a1af58c9688fede10cf7b80dc37cd2ebe019c99835efe33e393fa7",
+      "company": "IRLCF",
+      "ticker": "IRLCF",
+      "exDate": "2026-07-27",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1817cd14986bcbad0f509f177f48350227217e094aa8ef78ea55fd0f36ec8f8a",
       "company": "Amaze Holdings, Inc.",
       "ticker": "AMZE",
@@ -221,6 +276,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2f8a61d1bc0b1c2b915608834d096ecfac8abde7907dcbcbf2870d0b143771a7",
+      "company": "Faraday Future Intelligent Electric Inc.",
+      "ticker": "FFAI",
+      "exDate": "2026-07-24",
+      "ratio": "1-for-150",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -260,6 +326,17 @@
       "id": "Eb4a897220ffb127c7c9ad74cd10292e51c9a8bbc0e2d3e4d01d5b0ad514c44dd",
       "company": "Maison Solutions Inc.",
       "ticker": "MSS",
+      "exDate": "2026-07-22",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4f9c095a6dd8eedf44de0be88c2f0751ad6c1a5d3fd839afc295b7917ad32d59",
+      "company": "Helio Corporation",
+      "ticker": "HLEO",
       "exDate": "2026-07-22",
       "ratio": "1-for-5",
       "type": "reverse",
@@ -323,14 +400,14 @@
       "source": "polygon"
     },
     {
-      "id": "E3c3300d2d0f8273b46d334aaa0ca7f15a3205bb9b3548e07237291cae89fb785",
+      "id": "E696bcac2c7bccb2fbdc88fc1b30dbcc091f02169655b3e34845edf304d1e43bb",
       "company": "Tradr 2X Long ALAB Daily ETF",
       "ticker": "LABX",
       "exDate": "2026-07-21",
       "ratio": "6-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -588,7 +665,7 @@
     },
     {
       "id": "Ea1d9897b6646dfe423d2d003f48723e6413961bc2feaeaf842e6c52e01912199",
-      "company": "Stellar Resources Limited",
+      "company": "Stellar Resources Ltd",
       "ticker": "SLROF",
       "exDate": "2026-07-16",
       "ratio": "1-for-10",
@@ -599,7 +676,7 @@
     },
     {
       "id": "Ecc7a6989c695ed33b9dad921cbf2bd02e11b327279ac63e924326059d2fbc1a8",
-      "company": "Ecominas Corp.",
+      "company": "International Luxury Products Inc",
       "ticker": "ILXP",
       "exDate": "2026-07-16",
       "ratio": "1-for-500",
@@ -737,94 +814,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1831ba06f815fef50c79cd5d525bf424fc960976fc36fb3b022034afeffa408f",
-      "company": "YXT.COM Group Holding Limited",
-      "ticker": "YXT",
-      "exDate": "2026-07-14",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edb89e5767f9406804a9e018632f4c4f8fdda1b3abac2c5b8e61763cb43a8ace5",
-      "company": "STMicroelectronics NV ADRhedged",
-      "ticker": "STHH",
-      "exDate": "2026-07-14",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E48df08d63eaf26cbf2920f5241b5675b230a6a32b195944503708dde7372ec2e",
-      "company": "Lion Group Holding Ltd.",
-      "ticker": "LGHL",
-      "exDate": "2026-07-14",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2d32bcb845d5d5db4ee7b8ea55c4abbe19805f6d2a882721b070b912a2667ef6",
-      "company": "707 Cayman Holdings Limited",
-      "ticker": "JEM",
-      "exDate": "2026-07-14",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea6b1f09f904949b8d778be77e42444db681bda504a76b5d6f3453465d5f23e80",
-      "company": "Three Crowns Critical Metals Inc.",
-      "ticker": "ASWRF",
-      "exDate": "2026-07-14",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee0db534a8aa1ae9e9e970eb4435c6c65bb27a80c994617e6cfdb611cda7858cb",
-      "company": "ASML Holding NV ADRhedged",
-      "ticker": "ASMH",
-      "exDate": "2026-07-14",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6b5e5c1b6508bebb2bb55efea45f43c8bcb0b0426aa12ee34632c9b0c9a9359b",
-      "company": "Arm Holdings PLC ADRhedged",
-      "ticker": "ARMH",
-      "exDate": "2026-07-14",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee384b57e23cfd64fde2be9001c7313a683fb7a5fc7918a196f200cb226db902f",
-      "company": "Coloured Ties Capital Inc",
-      "ticker": "APEOF",
-      "exDate": "2026-07-14",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
