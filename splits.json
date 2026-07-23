@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-22T15:26:21.935Z",
-  "totalRecords": 74,
-  "newThisScan": 8,
+  "lastUpdated": "2026-07-23T15:49:24.983Z",
+  "totalRecords": 65,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
@@ -11,7 +11,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -176,6 +176,17 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4be59d71cef46d56cc0636526276fef22ade227e3956ac23764584845a3f0a28",
+      "company": "White River Bancshares Co",
+      "ticker": "WRIV",
+      "exDate": "2026-07-31",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -187,7 +198,7 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,7 +231,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +264,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +297,7 @@
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -323,6 +334,17 @@
       "source": "polygon"
     },
     {
+      "id": "E36a2dec2d5fb642a0c67dd93a6cb5befe30657c83f1a64781996b8c50d893f1b",
+      "company": "Patterson Metals Corp.",
+      "ticker": "NVTQF",
+      "exDate": "2026-07-23",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eb4a897220ffb127c7c9ad74cd10292e51c9a8bbc0e2d3e4d01d5b0ad514c44dd",
       "company": "Maison Solutions Inc.",
       "ticker": "MSS",
@@ -341,7 +363,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +429,7 @@
       "ratio": "6-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -654,7 +676,7 @@
     },
     {
       "id": "Eb2bea77158da13c77b937c0a6f41bbeacde1e28f099edd0008b87c8645933f9b",
-      "company": "FBR Limited",
+      "company": "FBR Ltd",
       "ticker": "FBRKF",
       "exDate": "2026-07-17",
       "ratio": "1-for-50",
@@ -693,127 +715,6 @@
       "ratio": "1-for-22",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed7761ef391f62c4c164eb7ce6f097aaafc715f3e699d75081c1dba41d45ea8ce",
-      "company": "Direxion Daily Small Cap Bear 3X Shares",
-      "ticker": "TZA",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea40a204874dac76d0bae5d0156b0d2de75bd93fb287cc87b002223b838b02a47",
-      "company": "Direxion Daily Technology Bear 3X Shares",
-      "ticker": "TECS",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E18da9a97bab03a5a2be344a0cf83ed8852b4ab7c1554aaffb85b402e028122fd",
-      "company": "Direxion Daily Semiconductor Bear 3X Shares",
-      "ticker": "SOXS",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed62d29fedd49e29906965952b9ebe8c16740277c9d9654212f473114d205fd9c",
-      "company": "Southern Financial Corporation",
-      "ticker": "SFCO",
-      "exDate": "2026-07-15",
-      "ratio": "21-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efd1bc06aa2b8b7b0aff5ce156d259d175aa1c5062191d689c43f3a62503725b3",
-      "company": "Direxion Daily MU Bull 2X ETF",
-      "ticker": "MUU",
-      "exDate": "2026-07-15",
-      "ratio": "20-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8017c83d8c899138d57f3a5d82cba6824281e1824e88a4d9da007acd4e589269",
-      "company": "LataMed AI Corp",
-      "ticker": "LMED",
-      "exDate": "2026-07-15",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebd946ef68049f3f8e1e6b189a2a8e8ac3cd518b3075c4065eaa28a63ad60fd1c",
-      "company": "Direxion Daily South Korea Bull 3X Shares",
-      "ticker": "KORU",
-      "exDate": "2026-07-15",
-      "ratio": "20-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2f9122dba820178280fbd5ed8a6f87ca49f73e703ef5f8a874cbe4084552b808",
-      "company": "Direxion Daily GOOGL Bear 1X Shares",
-      "ticker": "GGLS",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2e281867ddb1e039f71e14f472b633c4fdb94749f279947179c9278d5ad1dce5",
-      "company": "Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares",
-      "ticker": "DRIP",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eacf245a7b7e7aa34ae96e9c899e37f433629144d342d99889893a38f36770658",
-      "company": "Direxion Daily AMD Bear 1X Shares",
-      "ticker": "AMDD",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eabd5806aeb34f1a6f78126e8bc449dd0e847946a75920f70ae3da62151ee3f40",
-      "company": "Direxion Daily AI And Big Data Bear 2X Shares",
-      "ticker": "AIBD",
-      "exDate": "2026-07-15",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
