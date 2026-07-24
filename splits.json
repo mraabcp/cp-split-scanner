@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-23T15:49:24.983Z",
-  "totalRecords": 65,
-  "newThisScan": 2,
+  "lastUpdated": "2026-07-24T15:21:28.691Z",
+  "totalRecords": 68,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
@@ -180,6 +180,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ef473d8cd8dc0e3e72122b027816f38c7311b4a1563320de849786558ed6cccdd",
+      "company": "MicroVision, Inc.",
+      "ticker": "MVIS",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4be59d71cef46d56cc0636526276fef22ade227e3956ac23764584845a3f0a28",
       "company": "White River Bancshares Co",
       "ticker": "WRIV",
@@ -187,7 +198,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -199,6 +210,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E26768e33494dc53e0bf41bc512cd8e796d3e40e543fab42cf178a4570bb14936",
+      "company": "Eternal Hospitality Group Co.,Ltd.",
+      "ticker": "TORIF",
+      "exDate": "2026-07-30",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -224,6 +246,28 @@
       "source": "polygon"
     },
     {
+      "id": "E75046f092f7fa87d4ce6699c6017a67147112ef87addd17f242b6ffe68b3a062",
+      "company": "Wheeler Real Estate Investment Trust, Inc.",
+      "ticker": "WHLR",
+      "exDate": "2026-07-28",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efc5faff2cbea0147b148a78bb12ce896148c2cfca091c11702de87ca452f402a",
+      "company": "Zeta Network Group",
+      "ticker": "ZNB",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4499b0b683e1af43be8f4689edaff1aaa49e65506efcad728aed140f000af480",
       "company": "VYNE Therapeutics Inc.",
       "ticker": "VYNE",
@@ -243,6 +287,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E44dadb078a99a17038843460564881c19732a74931a70f1960d80f24ae3c6227",
+      "company": "Singularity Future Technology Ltd.",
+      "ticker": "SGLY",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-14",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -312,6 +367,17 @@
       "source": "polygon"
     },
     {
+      "id": "E847c2b965cca4a246aaf374be055c4d63922061b1bd1fd9f9ab7163cb4b75b87",
+      "company": "Carlyle Commodities Corp.",
+      "ticker": "CCCFF",
+      "exDate": "2026-07-24",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0308c4fb18597c49b9b58f543101f7712f253c857d39ab8e3bf85b3e5d6ea5b3",
       "company": "Apimeds Pharmaceuticals US, Inc.",
       "ticker": "APUS",
@@ -341,7 +407,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -500,7 +566,7 @@
     },
     {
       "id": "E666b933f92f9676bd87dd75db2cb858ccfefeb20ab09f1e2cdf3f746ab13249e",
-      "company": "HLICF",
+      "company": "Helical PLC",
       "ticker": "HLICF",
       "exDate": "2026-07-20",
       "ratio": "1-for-105",
@@ -632,7 +698,7 @@
     },
     {
       "id": "Ed3d8b0441d9b370e2d6dc87a93e233c805cb06a343254e4578d8b1bbf7fd86f6",
-      "company": "Amper, S.A.",
+      "company": "Amper SA",
       "ticker": "APMRF",
       "exDate": "2026-07-20",
       "ratio": "1-for-25",
@@ -643,7 +709,7 @@
     },
     {
       "id": "E3f5581bcf39dbdaebe307f611eb509bd21d2d612bff4db003dea567f81cbfc1b",
-      "company": "Niki BioSolutions, Inc.",
+      "company": "Aptorum Group Ltd",
       "ticker": "APM",
       "exDate": "2026-07-20",
       "ratio": "1-for-10",
@@ -680,39 +746,6 @@
       "ticker": "FBRKF",
       "exDate": "2026-07-17",
       "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea1d9897b6646dfe423d2d003f48723e6413961bc2feaeaf842e6c52e01912199",
-      "company": "Stellar Resources Ltd",
-      "ticker": "SLROF",
-      "exDate": "2026-07-16",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecc7a6989c695ed33b9dad921cbf2bd02e11b327279ac63e924326059d2fbc1a8",
-      "company": "International Luxury Products Inc",
-      "ticker": "ILXP",
-      "exDate": "2026-07-16",
-      "ratio": "1-for-500",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E64b7294c37b3bce599d4382dfdad8c8fba1532e1e02de3453f9806dbbf374152",
-      "company": "Genprex, Inc.",
-      "ticker": "GNPX",
-      "exDate": "2026-07-16",
-      "ratio": "1-for-22",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
