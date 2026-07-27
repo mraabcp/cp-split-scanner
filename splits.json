@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-24T15:21:28.691Z",
-  "totalRecords": 68,
-  "newThisScan": 6,
+  "lastUpdated": "2026-07-27T16:09:52.549Z",
+  "totalRecords": 72,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
@@ -56,6 +56,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
+      "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
+      "ticker": "OSCX",
+      "exDate": "2026-08-19",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -114,6 +125,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
+      "company": "Defiance Daily Target 2x Long NOK ETF",
+      "ticker": "LNOK",
+      "exDate": "2026-08-18",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
+      "company": "Defiance Daily Target 2x Long K",
+      "ticker": "KEEX",
+      "exDate": "2026-08-18",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E74b207f4d15b0096a811dbc12b64b5ac7571b85ca1563428760882d2b38a5a46",
       "company": "Defiance Daily Target 2X Short IONQ ETF",
       "ticker": "IONZ",
@@ -169,6 +202,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee47a2654932b4496f8c2a26c0063c6de6e3a96746f3ab4d5d3ec123961156144",
+      "company": "BMJJF",
+      "ticker": "BMJJF",
+      "exDate": "2026-08-10",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef9d72ce2d132bd48d199fe00ce51374e44b773028b2307d7ad5ec0fdb03e659f",
       "company": "Picard Medical, Inc.",
       "ticker": "PMI",
@@ -187,7 +231,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -199,6 +243,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef8d531fcf11530c17ea4cee8e468309b7549848adfbbc0fbcc56e4a1b8b5b98b",
+      "company": "Nexera Technologies Ltd",
+      "ticker": "NEXR",
+      "exDate": "2026-07-31",
+      "ratio": "1-for-11",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -220,7 +275,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +308,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +319,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +352,7 @@
       "ratio": "1-for-14",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -312,8 +367,19 @@
       "source": "polygon"
     },
     {
+      "id": "E9282c6500312ff57df0124dc60f61d2cd89392403036af334cbab7a4284df62e",
+      "company": "RMX Industries, Inc.",
+      "ticker": "RMXI",
+      "exDate": "2026-07-27",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E2725904755a1af58c9688fede10cf7b80dc37cd2ebe019c99835efe33e393fa7",
-      "company": "IRLCF",
+      "company": "Israel Corporation Ltd",
       "ticker": "IRLCF",
       "exDate": "2026-07-27",
       "ratio": "10-for-1",
@@ -342,6 +408,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebc3cf1414c1af0de783946bf73a3c51612a6284befc8ecbcfb3297b9717ba998",
+      "company": "PYXIF",
+      "ticker": "PYXIF",
+      "exDate": "2026-07-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -374,7 +451,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -709,43 +786,10 @@
     },
     {
       "id": "E3f5581bcf39dbdaebe307f611eb509bd21d2d612bff4db003dea567f81cbfc1b",
-      "company": "Aptorum Group Ltd",
+      "company": "APM",
       "ticker": "APM",
       "exDate": "2026-07-20",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee998bf2bd27eac07311e23b07974a094ecc014b6b55a927ce6e49ddaa52dd9ca",
-      "company": "World Copper Ltd.",
-      "ticker": "WCUFF",
-      "exDate": "2026-07-17",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E33fb1186bff2a0f07aadf958ebda98d21f3d48214f65d0fbcc778829330c3f7c",
-      "company": "Vivakor, Inc.",
-      "ticker": "VIVK",
-      "exDate": "2026-07-17",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb2bea77158da13c77b937c0a6f41bbeacde1e28f099edd0008b87c8645933f9b",
-      "company": "FBR Ltd",
-      "ticker": "FBRKF",
-      "exDate": "2026-07-17",
-      "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
