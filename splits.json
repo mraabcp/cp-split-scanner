@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-27T16:09:52.549Z",
-  "totalRecords": 72,
-  "newThisScan": 7,
+  "lastUpdated": "2026-07-28T15:59:36.213Z",
+  "totalRecords": 60,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
@@ -66,7 +66,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +132,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -209,6 +209,17 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eedc2371cb17670c7f9fc8ee504b23cd35a51454b788c9ac4771fc1dd4dda5707",
+      "company": "DataMEDS AI, Inc.",
+      "ticker": "MEDS",
+      "exDate": "2026-08-07",
+      "ratio": "36-for-35",
+      "type": "forward",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -246,6 +257,17 @@
       "source": "polygon"
     },
     {
+      "id": "Efb31e28bf1d85239f0a8442bc94fe1458d671bb58902b459419211daf7138a56",
+      "company": "OFA Group",
+      "ticker": "OFAL",
+      "exDate": "2026-07-31",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef8d531fcf11530c17ea4cee8e468309b7549848adfbbc0fbcc56e4a1b8b5b98b",
       "company": "Nexera Technologies Ltd",
       "ticker": "NEXR",
@@ -253,7 +275,7 @@
       "ratio": "1-for-11",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -265,6 +287,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6b7165b93bc665a2e6a515afdcb14b5b335815a6819db2913679259760c9ad31",
+      "company": "Youxin Technology Ltd",
+      "ticker": "YAAS",
+      "exDate": "2026-07-30",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -301,6 +334,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea40f60a24a90b2b63d159d51d2fa07be4560bdf037dc21d9adad3aa37e609f2d",
+      "company": "ZYLM",
+      "ticker": "ZYLM",
+      "exDate": "2026-07-28",
+      "ratio": "1-for-500",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E75046f092f7fa87d4ce6699c6017a67147112ef87addd17f242b6ffe68b3a062",
       "company": "Wheeler Real Estate Investment Trust, Inc.",
       "ticker": "WHLR",
@@ -309,6 +353,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec3c17d9d3fc617cbb27a400da0944aeed4ed80e1f59322b7fffa2fdce96bfb71",
+      "company": "Auxly Cannabis Group Inc.",
+      "ticker": "CBWTF",
+      "exDate": "2026-07-28",
+      "ratio": "1-for-14",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -374,7 +429,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +473,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -500,7 +555,7 @@
     },
     {
       "id": "E4f9c095a6dd8eedf44de0be88c2f0751ad6c1a5d3fd839afc295b7917ad32d59",
-      "company": "Helio Corporation",
+      "company": "Helio Corp",
       "ticker": "HLEO",
       "exDate": "2026-07-22",
       "ratio": "1-for-5",
@@ -602,193 +657,6 @@
       "company": "Cango Inc.",
       "ticker": "CANG",
       "exDate": "2026-07-21",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E660f1023e8ad67134ca0ce4bfadbd966611d44f6b65f67ef36a7bfd9f770e745",
-      "company": "TOMI Environmental Solutions, Inc.",
-      "ticker": "TOMZ",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E75335b6adb2ae7d3c9969a26ed1fa7ac1520d9300c1be60d10136cd720f751f1",
-      "company": "StoneX Group Inc.",
-      "ticker": "SNEX",
-      "exDate": "2026-07-20",
-      "ratio": "3-for-2",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9ac0f3fef85d8ac802bf809753b1a6a39b2ca64ba8497d0c13e31a188b99b424",
-      "company": "Purple Innovation, Inc.",
-      "ticker": "PRPL",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E666b933f92f9676bd87dd75db2cb858ccfefeb20ab09f1e2cdf3f746ab13249e",
-      "company": "Helical PLC",
-      "ticker": "HLICF",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-105",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E14f6ddc07d0ba922e59df10bbff1769451beae4245c6bca38ff0e2ebbc27968e",
-      "company": "Delek Group Ltd.",
-      "ticker": "DLKGF",
-      "exDate": "2026-07-20",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3b3eec2d6817a090305b802b907a6add438bcdb5af9eaecb8721fc17e2564f4e",
-      "company": "T3 Defense Inc.",
-      "ticker": "DFNS",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-125",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eef4e5b92682eafa31ff248315beeb558477eaf47204002aec22409a2bea451d8",
-      "company": "Tianci International, Inc.",
-      "ticker": "CIIT",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea8ce5bb54804ab1ca1e9cecdc293a263faf6c7e3f1a3593ba9fd8305770c9e84",
-      "company": "CDT Equity Inc.",
-      "ticker": "CDT",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecf89fefaf7dc73ec4637b0a53f2332e848ffa0d54f3547974cc80827f95481f4",
-      "company": "Cheche Group Inc.",
-      "ticker": "CCG",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-35",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efec3148a3a89f2f4e8d9ee3d0e582e1b4a795fad5cdbabbb04c99263a665795d",
-      "company": "BNY Mellon US Small Cap Core Equity ETF",
-      "ticker": "BKSE",
-      "exDate": "2026-07-20",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea0721d5639ffb40709326efaf73d1d4f7697bfe9976875417c1b5dd5630ad61f",
-      "company": "BNY Mellon US Mid Cap Core Equity ETF",
-      "ticker": "BKMC",
-      "exDate": "2026-07-20",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eaf15f4ef8bad33e8dcbe3eea236d9d68925c2ced6418ad5f601f21d9c03e5062",
-      "company": "BNY Mellon US Large Cap Core Equity ETF",
-      "ticker": "BKLC",
-      "exDate": "2026-07-20",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1fc418a3157b5db1c043a4d20b9fc8d07ce94b490b45ef4c3efbc6309a17d52e",
-      "company": "BNY Mellon International Equity ETF",
-      "ticker": "BKIE",
-      "exDate": "2026-07-20",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed3d0bca1626ce609f16dfb29f3a5b676c2e457747714f5e28c742ecfe8000dcb",
-      "company": "BNY Mellon Emerging Markets Equity ETF",
-      "ticker": "BKEM",
-      "exDate": "2026-07-20",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E94d6fd2c3ad1e71e37c01b3e401e9f50215e4af7ab170443139d0f4ee582582b",
-      "company": "CBL International Limited",
-      "ticker": "BANL",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-13",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed3d8b0441d9b370e2d6dc87a93e233c805cb06a343254e4578d8b1bbf7fd86f6",
-      "company": "Amper SA",
-      "ticker": "APMRF",
-      "exDate": "2026-07-20",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3f5581bcf39dbdaebe307f611eb509bd21d2d612bff4db003dea567f81cbfc1b",
-      "company": "APM",
-      "ticker": "APM",
-      "exDate": "2026-07-20",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
