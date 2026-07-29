@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-28T15:59:36.213Z",
-  "totalRecords": 60,
-  "newThisScan": 5,
+  "lastUpdated": "2026-07-29T15:45:39.882Z",
+  "totalRecords": 53,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
@@ -213,17 +213,6 @@
       "source": "polygon"
     },
     {
-      "id": "Eedc2371cb17670c7f9fc8ee504b23cd35a51454b788c9ac4771fc1dd4dda5707",
-      "company": "DataMEDS AI, Inc.",
-      "ticker": "MEDS",
-      "exDate": "2026-08-07",
-      "ratio": "36-for-35",
-      "type": "forward",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
       "id": "Ef9d72ce2d132bd48d199fe00ce51374e44b773028b2307d7ad5ec0fdb03e659f",
       "company": "Picard Medical, Inc.",
       "ticker": "PMI",
@@ -264,7 +253,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -276,6 +265,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea01a08d2d8fe9d250d361f3bef6b297d4b0429c19a4b988dba5f22a199d8bf34",
+      "company": "Cloudastructure Inc.",
+      "ticker": "CSAI",
+      "exDate": "2026-07-31",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -297,7 +297,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -334,6 +334,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ea6a0bc4ae18da9a485108431a8a8a899056af5fb34c49e0630d50ec4fa7ffd4e",
+      "company": "Gold X2 Mining Inc.",
+      "ticker": "GSHRF",
+      "exDate": "2026-07-29",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E764dfa4e7cc9b239a5e4b812ede7654ebb87a0793f4d70f695f58cf0053ba645",
+      "company": "Challenger Gold Limited",
+      "ticker": "CLLEF",
+      "exDate": "2026-07-29",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea40f60a24a90b2b63d159d51d2fa07be4560bdf037dc21d9adad3aa37e609f2d",
       "company": "ZYLM",
       "ticker": "ZYLM",
@@ -341,7 +363,7 @@
       "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +385,7 @@
       "ratio": "1-for-14",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -559,105 +581,6 @@
       "ticker": "HLEO",
       "exDate": "2026-07-22",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9555f1cab001c2065f51c7045e454b13526fc2899fb70e1c629523f40a6b5586",
-      "company": "Expion360 Inc.",
-      "ticker": "XPON",
-      "exDate": "2026-07-21",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec4817c694edc728922f5e7a3e8175993a91f41e7f2de90db5980acc7c25edfb1",
-      "company": "Willis Lease Finance Corporation",
-      "ticker": "WLFC",
-      "exDate": "2026-07-21",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1a573096539b1657fe52fa6498d5df0d73658ec295e37545e69ce05e5ae39a62",
-      "company": "Tradr 2X Short SNDK Daily ETF",
-      "ticker": "SNDQ",
-      "exDate": "2026-07-21",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0b92bf3f97f696a6593697e877b67328f2beda2218cdd0bbfef86a3d433e2816",
-      "company": "Tradr 2X Long PONY Daily ETF",
-      "ticker": "PONX",
-      "exDate": "2026-07-21",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb691e04f16d6491c2d490eac3ca4c029d8007a9a37d185f5ee4196f268b25b8c",
-      "company": "Tradr 2X Short Nbis Daily ETF",
-      "ticker": "NBIZ",
-      "exDate": "2026-07-21",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E696bcac2c7bccb2fbdc88fc1b30dbcc091f02169655b3e34845edf304d1e43bb",
-      "company": "Tradr 2X Long ALAB Daily ETF",
-      "ticker": "LABX",
-      "exDate": "2026-07-21",
-      "ratio": "6-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E33e10d2e1997e50bf5bd604e30c6d2ecb5b10de8b5bd8bce05fc2db13eef6c43",
-      "company": "Tradr 2X Short Iren Daily ETF",
-      "ticker": "IREZ",
-      "exDate": "2026-07-21",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebdb94f05169311408dd9f1cfb69d87bd3b9fa6f6fcba94c689b750d494a5bd58",
-      "company": "Tradr 2X Long CRDO Daily ETF",
-      "ticker": "CRDU",
-      "exDate": "2026-07-21",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4c6fe6a2109e1742552dfe8a0771f45f93ff0bf94e3d66b5c170c1b0f4475fd4",
-      "company": "Cango Inc.",
-      "ticker": "CANG",
-      "exDate": "2026-07-21",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
