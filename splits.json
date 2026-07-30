@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-29T15:45:39.882Z",
-  "totalRecords": 53,
-  "newThisScan": 3,
+  "lastUpdated": "2026-07-30T15:46:16.135Z",
+  "totalRecords": 56,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
@@ -100,6 +100,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec4aa8610d148d5df155240db21c9c68c103a27f11144404b590f2f05329607e9",
+      "company": "ANCMF",
+      "ticker": "ANCMF",
+      "exDate": "2026-08-19",
+      "ratio": "201-for-200",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -213,6 +224,17 @@
       "source": "polygon"
     },
     {
+      "id": "E9f1b447ab79c3713099df426f43148b366a2f5a4a3fb94d192b896d0a686b4a1",
+      "company": "Wetour Robotics Limited",
+      "ticker": "WETO",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef9d72ce2d132bd48d199fe00ce51374e44b773028b2307d7ad5ec0fdb03e659f",
       "company": "Picard Medical, Inc.",
       "ticker": "PMI",
@@ -232,6 +254,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eeab99947f307a33e3b0b984c1175765a519d3184839a831e057be9d2677da178",
+      "company": "Li Bang International Corporation Inc.",
+      "ticker": "LBGJ",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -275,7 +308,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -312,6 +345,28 @@
       "source": "polygon"
     },
     {
+      "id": "E70463eec325f4b50a100c4bf69512fb5c7ccd72b4121c03484cb15b8d16cec63",
+      "company": "Non-Invasive Monitoring Systems, Inc.",
+      "ticker": "NIMU",
+      "exDate": "2026-07-30",
+      "ratio": "1-for-150",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8f1ef8246c5231136166befa21fcf6faf80fdbacd4f7f9c6f1c2dc3a5acb17fd",
+      "company": "Greene Concepts, Inc.",
+      "ticker": "INKW",
+      "exDate": "2026-07-30",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E766caa1b25b78c5f9f52d9fedf69ca86bf9f4ba8825fc0871dba87d207d5fc03",
       "company": "Sumitomo Mitsui Trust Group, Inc.",
       "ticker": "CMTDF",
@@ -341,7 +396,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +407,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -522,7 +577,7 @@
     },
     {
       "id": "E847c2b965cca4a246aaf374be055c4d63922061b1bd1fd9f9ab7163cb4b75b87",
-      "company": "Carlyle Commodities Corp.",
+      "company": "Carlyle Commodities Corp",
       "ticker": "CCCFF",
       "exDate": "2026-07-24",
       "ratio": "1-for-20",
@@ -559,28 +614,6 @@
       "ticker": "NVTQF",
       "exDate": "2026-07-23",
       "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb4a897220ffb127c7c9ad74cd10292e51c9a8bbc0e2d3e4d01d5b0ad514c44dd",
-      "company": "Maison Solutions Inc.",
-      "ticker": "MSS",
-      "exDate": "2026-07-22",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4f9c095a6dd8eedf44de0be88c2f0751ad6c1a5d3fd839afc295b7917ad32d59",
-      "company": "Helio Corp",
-      "ticker": "HLEO",
-      "exDate": "2026-07-22",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
