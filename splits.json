@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-30T15:46:16.135Z",
-  "totalRecords": 56,
+  "lastUpdated": "2026-07-31T15:56:50.938Z",
+  "totalRecords": 59,
   "newThisScan": 5,
   "splits": [
     {
@@ -81,6 +81,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
+      "company": "Defiance Daily Target 2x Long NOK ETF",
+      "ticker": "LNOK",
+      "exDate": "2026-08-19",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
+      "company": "Defiance Daily Target 2x Long K",
+      "ticker": "KEEX",
+      "exDate": "2026-08-19",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
       "company": "Defiance Daily Target 2X Short ",
       "ticker": "DAMD",
@@ -110,7 +132,7 @@
       "ratio": "201-for-200",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -131,28 +153,6 @@
       "exDate": "2026-08-18",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
-      "company": "Defiance Daily Target 2x Long NOK ETF",
-      "ticker": "LNOK",
-      "exDate": "2026-08-18",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
-      "company": "Defiance Daily Target 2x Long K",
-      "ticker": "KEEX",
-      "exDate": "2026-08-18",
-      "ratio": "4-for-1",
-      "type": "forward",
       "isETF": true,
       "isNew": false,
       "source": "polygon"
@@ -231,6 +231,28 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecd33b5b469f16d57b6fc6b901d07b08f3c5adfbb4073570403a198a6f8fec37e",
+      "company": "TOP Financial Group Limited",
+      "ticker": "TOP",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efc0794a2097832e58a7776f285d61759f4df5adfe38a85c6e9120bb8b4cf6e5c",
+      "company": "Sports Entertainment Gaming Global Corporation",
+      "ticker": "SEGG",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -257,11 +279,33 @@
       "source": "polygon"
     },
     {
+      "id": "E2a3d71c6c29625bd1ec91a5b6f45d0f0e82645d9e8dcf19eebef13207ea1ff4c",
+      "company": "Lexaria Bioscience Corp.",
+      "ticker": "LEXX",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eeab99947f307a33e3b0b984c1175765a519d3184839a831e057be9d2677da178",
       "company": "Li Bang International Corporation Inc.",
       "ticker": "LBGJ",
       "exDate": "2026-08-03",
       "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2ac0d0e50e91c0d9c9a95bd270bdad830d55b51477869952b659b84ab0a15f8d",
+      "company": "K Wave Media Ltd.",
+      "ticker": "KWM",
+      "exDate": "2026-08-03",
+      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -298,6 +342,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E95ba7b6c93e3dc2af0e0c349beadb18f50abd9af99e25cad8e9e3bd232f119f9",
+      "company": "Modern Plant Based Foods Inc.",
+      "ticker": "MDRNF",
+      "exDate": "2026-07-31",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -352,7 +407,7 @@
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +418,7 @@
       "ratio": "1-for-80",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -500,7 +555,7 @@
     },
     {
       "id": "E9282c6500312ff57df0124dc60f61d2cd89392403036af334cbab7a4284df62e",
-      "company": "RMX Industries, Inc.",
+      "company": "RMX Industries Inc",
       "ticker": "RMXI",
       "exDate": "2026-07-27",
       "ratio": "1-for-3",
@@ -592,28 +647,6 @@
       "ticker": "APUS",
       "exDate": "2026-07-24",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eaf74beccf0e662117e1624e49e41f75af192fb01b12bd0461105ddab580f2b4e",
-      "company": "Westpac Banking Corp. Ltd.",
-      "ticker": "WBKCY",
-      "exDate": "2026-07-23",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E36a2dec2d5fb642a0c67dd93a6cb5befe30657c83f1a64781996b8c50d893f1b",
-      "company": "Patterson Metals Corp.",
-      "ticker": "NVTQF",
-      "exDate": "2026-07-23",
-      "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
