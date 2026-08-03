@@ -1,8 +1,129 @@
 {
-  "lastUpdated": "2026-07-31T15:56:50.938Z",
-  "totalRecords": 59,
-  "newThisScan": 5,
+  "lastUpdated": "2026-08-03T16:15:41.824Z",
+  "totalRecords": 67,
+  "newThisScan": 14,
   "splits": [
+    {
+      "id": "E21f7207934c87553ab5b4231a99c1f3f03db19c51805727e3e0ef2b4f9595eb0",
+      "company": "Rush Enterprises, Inc.",
+      "ticker": "RUSHB",
+      "exDate": "2026-09-01",
+      "ratio": "3-for-2",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecf25d2c0d8ef5372f0f1e9af0fb21c72bd0ef6cccf55b2f6859d2a11fd024a3f",
+      "company": "Rush Enterprises, Inc.",
+      "ticker": "RUSHA",
+      "exDate": "2026-09-01",
+      "ratio": "3-for-2",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee5ac13b6ada15127294b0885d1fabd711389aaa9796779520d52a2b048e920db",
+      "company": "Truxton Corporation",
+      "ticker": "TRUX",
+      "exDate": "2026-08-31",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
+      "company": "T-REX 2X Long TTD Daily Target ",
+      "ticker": "TTDU",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea1c29ffbd6b88bbb4ebb45beb29f9f13c68e2fb2cbb06dc58a79165e3d045b7b",
+      "company": "T-REX 2X Long TE Daily Target E",
+      "ticker": "TEUP",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4b079d03155675a4853bb747e316161061c8e4eea1b929d23ab8331ca3874917",
+      "company": "T-REX 2X Long SBET Daily Target",
+      "ticker": "SBTU",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb82a501e7a363c9c9ce738eed805d0d35964f23e3aec8e3716649c92261d99ec",
+      "company": "T-Rex 2X Long MSTR Daily Target",
+      "ticker": "MSTU",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E59bd72797926b6dbad1d380171e3e8f660c8dab24755eaef8b1a3e8e83c7d2b3",
+      "company": "T-REX 2X Long CRWV Daily Target",
+      "ticker": "CRWU",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Edeae31560975be08c18222eb57b08bba47d0e243f8a6262fcafad1e36f68065c",
+      "company": "T-REX 2X Long CRCL Daily Target",
+      "ticker": "CCUP",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E969374fbd4657a83f971a42a509f338abfd4e6c5234fcf3ba968ffc1b34620cf",
+      "company": "T-REX 2X Long AXTI Daily Target",
+      "ticker": "AXTU",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb60a22054ad8b03201b2c2b7f81c831fdb6cd268834f9bd6cc69eddebc57d790",
+      "company": "XCHG Limited",
+      "ticker": "XCH",
+      "exDate": "2026-08-21",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
     {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
       "company": "ServisFirst Bancshares, Inc.",
@@ -16,12 +137,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-08-19",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -180,14 +301,25 @@
       "source": "polygon"
     },
     {
-      "id": "Eb60a22054ad8b03201b2c2b7f81c831fdb6cd268834f9bd6cc69eddebc57d790",
-      "company": "XCHG Limited",
-      "ticker": "XCH",
-      "exDate": "2026-08-14",
-      "ratio": "1-for-20",
+      "id": "E5354689de89e60073fc32802a150ca4c2b3a2d3308e5e63cf790c3d732c7913a",
+      "company": "Johnson Matthey Plc",
+      "ticker": "JMPLY",
+      "exDate": "2026-08-17",
+      "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4a5b01e40a8838bb70c20eef4732dd490e4250bddc57320f05bfdb48d3ebcf92",
+      "company": "IES Holdings, Inc.",
+      "ticker": "IESC",
+      "exDate": "2026-08-14",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -224,6 +356,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ecdc16d81e010c36e46597c452a7b81a31a0b2f8567cc28cef7db323b39304f34",
+      "company": "SCWorx Corp.",
+      "ticker": "WORX",
+      "exDate": "2026-08-04",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1b53931942b826e13e7988d37a6b66d1ae6c8ee1e03412dcc81b585e1dfd4132",
+      "company": "Aethlon Medical, Inc.",
+      "ticker": "AEMD",
+      "exDate": "2026-08-04",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9f1b447ab79c3713099df426f43148b366a2f5a4a3fb94d192b896d0a686b4a1",
       "company": "Wetour Robotics Limited",
       "ticker": "WETO",
@@ -242,7 +396,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +407,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +440,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +462,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +506,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -467,7 +621,7 @@
     },
     {
       "id": "Ea40f60a24a90b2b63d159d51d2fa07be4560bdf037dc21d9adad3aa37e609f2d",
-      "company": "ZYLM",
+      "company": "Central Asia Lumeichun Biotechnology Inc",
       "ticker": "ZYLM",
       "exDate": "2026-07-28",
       "ratio": "1-for-500",
@@ -489,7 +643,7 @@
     },
     {
       "id": "Ec3c17d9d3fc617cbb27a400da0944aeed4ed80e1f59322b7fffa2fdce96bfb71",
-      "company": "Auxly Cannabis Group Inc.",
+      "company": "Auxly Cannabis Group Inc",
       "ticker": "CBWTF",
       "exDate": "2026-07-28",
       "ratio": "1-for-14",
@@ -511,7 +665,7 @@
     },
     {
       "id": "E4499b0b683e1af43be8f4689edaff1aaa49e65506efcad728aed140f000af480",
-      "company": "VYNE Therapeutics Inc.",
+      "company": "VYNE Therapeutics Inc",
       "ticker": "VYNE",
       "exDate": "2026-07-27",
       "ratio": "1-for-50",
@@ -581,72 +735,6 @@
       "ticker": "AMZE",
       "exDate": "2026-07-27",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E298616d70586989b4354cd6fe345323e754a9e2a85a048a73370353c180ee0cb",
-      "company": "Trinity Biotech plc",
-      "ticker": "TRIB",
-      "exDate": "2026-07-24",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebc3cf1414c1af0de783946bf73a3c51612a6284befc8ecbcfb3297b9717ba998",
-      "company": "PYXIF",
-      "ticker": "PYXIF",
-      "exDate": "2026-07-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2f8a61d1bc0b1c2b915608834d096ecfac8abde7907dcbcbf2870d0b143771a7",
-      "company": "Faraday Future Intelligent Electric Inc.",
-      "ticker": "FFAI",
-      "exDate": "2026-07-24",
-      "ratio": "1-for-150",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5ade20dafbd0eda401ebbcaff9c7b5c24c51380909647aef3ba9d358e257b1d8",
-      "company": "Digital Brands Group, Inc.",
-      "ticker": "DBGI",
-      "exDate": "2026-07-24",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E847c2b965cca4a246aaf374be055c4d63922061b1bd1fd9f9ab7163cb4b75b87",
-      "company": "Carlyle Commodities Corp",
-      "ticker": "CCCFF",
-      "exDate": "2026-07-24",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0308c4fb18597c49b9b58f543101f7712f253c857d39ab8e3bf85b3e5d6ea5b3",
-      "company": "Apimeds Pharmaceuticals US, Inc.",
-      "ticker": "APUS",
-      "exDate": "2026-07-24",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
