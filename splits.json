@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-03T16:15:41.824Z",
-  "totalRecords": 67,
-  "newThisScan": 14,
+  "lastUpdated": "2026-08-04T16:08:07.203Z",
+  "totalRecords": 62,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "E21f7207934c87553ab5b4231a99c1f3f03db19c51805727e3e0ef2b4f9595eb0",
@@ -11,7 +11,7 @@
       "ratio": "3-for-2",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "3-for-2",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,18 +33,18 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ",
+      "company": "T-REX 2X Long TTD Daily Target ETF",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +110,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -137,12 +137,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short TSM ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "STSM",
       "exDate": "2026-08-19",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -308,7 +308,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +319,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -356,11 +356,44 @@
       "source": "polygon"
     },
     {
+      "id": "E29d664fcbb1aa46a4fe7a3a97964bf5bb625c8b2d083354a74e1fec706d6191c",
+      "company": "SU Group Holdings Limited",
+      "ticker": "SUGP",
+      "exDate": "2026-08-06",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ecdc16d81e010c36e46597c452a7b81a31a0b2f8567cc28cef7db323b39304f34",
       "company": "SCWorx Corp.",
       "ticker": "WORX",
       "exDate": "2026-08-04",
       "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E879e7787605b1ec60df3b008e2ebb0596366c643194194b5362d5bfb053d7f3d",
+      "company": "Sable Resources Ltd.",
+      "ticker": "SBLRF",
+      "exDate": "2026-08-04",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3c8a753100ad2381a65490e2732c1c1f994214fca2dfb7df89673e947bb5cbc2",
+      "company": "Cross River Ventures Corp.",
+      "ticker": "CSRVF",
+      "exDate": "2026-08-04",
+      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -374,7 +407,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -647,94 +680,6 @@
       "ticker": "CBWTF",
       "exDate": "2026-07-28",
       "ratio": "1-for-14",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efc5faff2cbea0147b148a78bb12ce896148c2cfca091c11702de87ca452f402a",
-      "company": "Zeta Network Group",
-      "ticker": "ZNB",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4499b0b683e1af43be8f4689edaff1aaa49e65506efcad728aed140f000af480",
-      "company": "VYNE Therapeutics Inc",
-      "ticker": "VYNE",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E66a6b8a9276349aefb16431d18ff582f91512f18ea4f4915a86b06ac623ab039",
-      "company": "Steakholder Foods Ltd.",
-      "ticker": "STKH",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E44dadb078a99a17038843460564881c19732a74931a70f1960d80f24ae3c6227",
-      "company": "Singularity Future Technology Ltd.",
-      "ticker": "SGLY",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-14",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4f53478f5e0a6895639f0a87b3c79341c6d66374c6760efeb09e35026b2f7510",
-      "company": "Splash Beverage Group, Inc.",
-      "ticker": "SBEV",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9282c6500312ff57df0124dc60f61d2cd89392403036af334cbab7a4284df62e",
-      "company": "RMX Industries Inc",
-      "ticker": "RMXI",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2725904755a1af58c9688fede10cf7b80dc37cd2ebe019c99835efe33e393fa7",
-      "company": "Israel Corporation Ltd",
-      "ticker": "IRLCF",
-      "exDate": "2026-07-27",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1817cd14986bcbad0f509f177f48350227217e094aa8ef78ea55fd0f36ec8f8a",
-      "company": "Amaze Holdings, Inc.",
-      "ticker": "AMZE",
-      "exDate": "2026-07-27",
-      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
