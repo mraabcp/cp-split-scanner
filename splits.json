@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-05T15:55:51.597Z",
-  "totalRecords": 65,
-  "newThisScan": 6,
+  "lastUpdated": "2026-08-07T14:46:24.376Z",
+  "totalRecords": 54,
+  "newThisScan": 11,
   "splits": [
     {
       "id": "E21f7207934c87553ab5b4231a99c1f3f03db19c51805727e3e0ef2b4f9595eb0",
@@ -154,116 +154,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
-      "ticker": "STSM",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee07f1bdb6939a34734e3147b949b54613ff4a97bb526f1a5c7cf4ede5aabd5ae",
-      "company": "Defiance Daily Target 2X Short SMCI ETF",
-      "ticker": "SMCZ",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb65f5d04f0fd6cceb7aa60f4456c09884b40be5da2c36a5456a9a06118f3f218",
-      "company": "Defiance Daily Target 2x Short ",
-      "ticker": "RGTZ",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb11cd19b577f307775bdea7dc01d2fe2d7bdc23fba4182d27bc0416738770f05",
-      "company": "Defiance Daily Target 2x Short ",
-      "ticker": "QBTZ",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
-      "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
-      "ticker": "OSCX",
-      "exDate": "2026-08-19",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4e119589a331593ed7923d5e718b0578b57109efed20f358bf751de6c372fc08",
-      "company": "Defiance Daily Target 2X Long OKLO ETF",
-      "ticker": "OKLL",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
-      "company": "Defiance Daily Target 2x Long NOK ETF",
-      "ticker": "LNOK",
-      "exDate": "2026-08-19",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
-      "company": "Defiance Daily Target 2x Long K",
-      "ticker": "KEEX",
-      "exDate": "2026-08-19",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short ",
-      "ticker": "DAMD",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E06e920abc5bf616c7f4abf343ee2cc16d7160a93a7f2df6616163da62e49a462",
-      "company": "Defiance Daily Target 2X Short ASTS ETF",
-      "ticker": "ASTN",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -279,50 +169,6 @@
       "source": "polygon"
     },
     {
-      "id": "E22cebd7b179bc161c2bd674658f1e09c466634535833055087420518322ec53e",
-      "company": "Defiance Daily Target 2X Short RKLB ETF",
-      "ticker": "RKLZ",
-      "exDate": "2026-08-18",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7f2368c2014aec49618caf1ecca406203166ef2bee3ce620b6079f0b5d7c69d6",
-      "company": "Defiance Daily Target 2X Long RCAT ETF",
-      "ticker": "RCAX",
-      "exDate": "2026-08-18",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E74b207f4d15b0096a811dbc12b64b5ac7571b85ca1563428760882d2b38a5a46",
-      "company": "Defiance Daily Target 2X Short IONQ ETF",
-      "ticker": "IONZ",
-      "exDate": "2026-08-18",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1fddafa6ce96e822a89f6c958309c9aab48807e849031e30cd35c587c2f8c309",
-      "company": "Defiance Daily Target 2X Long AVAV ETF",
-      "ticker": "AVXX",
-      "exDate": "2026-08-18",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E5354689de89e60073fc32802a150ca4c2b3a2d3308e5e63cf790c3d732c7913a",
       "company": "Johnson Matthey Plc",
       "ticker": "JMPLY",
@@ -331,6 +177,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee98349b9b881855479540b1f8c4acf47e0d341178fb127ac0299631705d76a51",
+      "company": "Amphenol Corporation",
+      "ticker": "APH",
+      "exDate": "2026-08-17",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -345,6 +202,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea631859ebc67ed81be8c7bb7e042bac2a660d28b267fb6c0fe611a5e9c6bec5e",
+      "company": "Masonglory Limited",
+      "ticker": "MSGY",
+      "exDate": "2026-08-11",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3bbed498c62db9fd36efa308cdd927111a399001673bccd4824d930794e8ba88",
       "company": "Monster Beverage Corporation",
       "ticker": "MNST",
@@ -356,6 +224,72 @@
       "source": "polygon"
     },
     {
+      "id": "E8a51e6791be4e9f28d6c8953f50b18921a44ecc63da9a350ff2902e13529fa3e",
+      "company": "Tenon Medical, Inc.",
+      "ticker": "TNON",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-35",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E87bf5028cec79a814f7e8edf881bc630ba5723264a027e9175c4583dbcca5bb7",
+      "company": "TryHard Holdings Limited Ordinary Shares",
+      "ticker": "THH",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E42cd6b05c64370582bac54ccf470a220092133ac8096a02cac471ba6dd666899",
+      "company": "China SXT Pharmaceuticals, Inc.",
+      "ticker": "SXTC",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E70c2a5715da24d1ea438ba5e88ef36d7f1cfd3a7280200948beb812848506501",
+      "company": "Onfolio Holdings, Inc.",
+      "ticker": "ONFO",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec05b26f637e2227886051bc897aa6c04145e3e0290fb320373b13726b20e5cfa",
+      "company": "Next Technology Holding Inc.",
+      "ticker": "NXTT",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eba261b1bcfa8741286c7c3e71e52eb0ae9e41166aff340705b8c60155fe65813",
+      "company": "Elong Power Holding Limited",
+      "ticker": "ELPW",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-45",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee47a2654932b4496f8c2a26c0063c6de6e3a96746f3ab4d5d3ec123961156144",
       "company": "BMJJF",
       "ticker": "BMJJF",
@@ -364,6 +298,39 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E12886dc043d78d1519fb78eeb11b64155addd24e16e1f27f9b6fd2c5355c40c9",
+      "company": "Antelope Enterprise Holdings Limited",
+      "ticker": "AEHL",
+      "exDate": "2026-08-10",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7120a3d86c504d4f4f6c9df3a86c5427d9ac064cc8d8e4f138839189525fab9b",
+      "company": "Jupiter Neurosciences, Inc.",
+      "ticker": "JUNS",
+      "exDate": "2026-08-07",
+      "ratio": "1-for-75",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef1e930778d358e08b106669de00ddbcfc867b4d94c9b38f5f94c2ffa246fe220",
+      "company": "iPower Inc.",
+      "ticker": "IPW",
+      "exDate": "2026-08-07",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -385,7 +352,7 @@
       "ratio": "1-for-60",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +363,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,18 +374,18 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E049f8c98c89724b5916c58294baf0acc7215c76696f81156facfb47a6fbc0a6a",
-      "company": "Dixie Gold Inc.",
+      "company": "Spartacus Metals Inc.",
       "ticker": "YWRLF",
       "exDate": "2026-08-05",
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +396,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -625,94 +592,6 @@
       "ticker": "CLDI",
       "exDate": "2026-07-31",
       "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6b7165b93bc665a2e6a515afdcb14b5b335815a6819db2913679259760c9ad31",
-      "company": "Youxin Technology Ltd",
-      "ticker": "YAAS",
-      "exDate": "2026-07-30",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E26768e33494dc53e0bf41bc512cd8e796d3e40e543fab42cf178a4570bb14936",
-      "company": "Eternal Hospitality Group Co.,Ltd.",
-      "ticker": "TORIF",
-      "exDate": "2026-07-30",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E70463eec325f4b50a100c4bf69512fb5c7ccd72b4121c03484cb15b8d16cec63",
-      "company": "Non-Invasive Monitoring Systems Inc",
-      "ticker": "NIMU",
-      "exDate": "2026-07-30",
-      "ratio": "1-for-150",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8f1ef8246c5231136166befa21fcf6faf80fdbacd4f7f9c6f1c2dc3a5acb17fd",
-      "company": "Greene Concepts Inc",
-      "ticker": "INKW",
-      "exDate": "2026-07-30",
-      "ratio": "1-for-80",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E766caa1b25b78c5f9f52d9fedf69ca86bf9f4ba8825fc0871dba87d207d5fc03",
-      "company": "Sumitomo Mitsui Trust Group, Inc.",
-      "ticker": "CMTDF",
-      "exDate": "2026-07-30",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E887c3bcf5295aa791a4819338084ce33b3cf097103e44bb74a8766bf975a7b54",
-      "company": "ASMTF",
-      "ticker": "ASMTF",
-      "exDate": "2026-07-30",
-      "ratio": "11-for-10",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea6a0bc4ae18da9a485108431a8a8a899056af5fb34c49e0630d50ec4fa7ffd4e",
-      "company": "Gold X2 Mining Inc",
-      "ticker": "GSHRF",
-      "exDate": "2026-07-29",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E764dfa4e7cc9b239a5e4b812ede7654ebb87a0793f4d70f695f58cf0053ba645",
-      "company": "Challenger Gold Ltd",
-      "ticker": "CLLEF",
-      "exDate": "2026-07-29",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
