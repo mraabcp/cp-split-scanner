@@ -1,13 +1,35 @@
 {
-  "lastUpdated": "2026-08-10T14:51:12.533Z",
-  "totalRecords": 59,
-  "newThisScan": 11,
+  "lastUpdated": "2026-08-11T14:51:13.726Z",
+  "totalRecords": 60,
+  "newThisScan": 10,
   "splits": [
     {
-      "id": "E22cebd7b179bc161c2bd674658f1e09c466634535833055087420518322ec53e",
-      "company": "Defiance Daily Target 2X Short RKLB ETF",
-      "ticker": "RKLZ",
-      "exDate": "2026-09-09",
+      "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
+      "ticker": "STSM",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee07f1bdb6939a34734e3147b949b54613ff4a97bb526f1a5c7cf4ede5aabd5ae",
+      "company": "Defiance Daily Target 2X Short SMCI ETF",
+      "ticker": "SMCZ",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb65f5d04f0fd6cceb7aa60f4456c09884b40be5da2c36a5456a9a06118f3f218",
+      "company": "Defiance Daily Target 2x Short ",
+      "ticker": "RGTZ",
+      "exDate": "2026-09-10",
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
@@ -15,10 +37,10 @@
       "source": "polygon"
     },
     {
-      "id": "E7f2368c2014aec49618caf1ecca406203166ef2bee3ce620b6079f0b5d7c69d6",
-      "company": "Defiance Daily Target 2X Long RCAT ETF",
-      "ticker": "RCAX",
-      "exDate": "2026-09-09",
+      "id": "Eb11cd19b577f307775bdea7dc01d2fe2d7bdc23fba4182d27bc0416738770f05",
+      "company": "Defiance Daily Target 2x Short ",
+      "ticker": "QBTZ",
+      "exDate": "2026-09-10",
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
@@ -29,11 +51,66 @@
       "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
       "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
       "ticker": "OSCX",
-      "exDate": "2026-09-09",
+      "exDate": "2026-09-10",
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4e119589a331593ed7923d5e718b0578b57109efed20f358bf751de6c372fc08",
+      "company": "Defiance Daily Target 2X Long OKLO ETF",
+      "ticker": "OKLL",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
       "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
+      "company": "Defiance Daily Target 2X Short AMD ETF",
+      "ticker": "DAMD",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E06e920abc5bf616c7f4abf343ee2cc16d7160a93a7f2df6616163da62e49a462",
+      "company": "Defiance Daily Target 2X Short ASTS ETF",
+      "ticker": "ASTN",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E22cebd7b179bc161c2bd674658f1e09c466634535833055087420518322ec53e",
+      "company": "Defiance Daily Target 2X Short RKLB ETF",
+      "ticker": "RKLZ",
+      "exDate": "2026-09-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7f2368c2014aec49618caf1ecca406203166ef2bee3ce620b6079f0b5d7c69d6",
+      "company": "Defiance Daily Target 2X Long RCAT ETF",
+      "ticker": "RCAX",
+      "exDate": "2026-09-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +121,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +132,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +143,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +154,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -114,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "E00d67c3d628ca353a5e201aa29d9e5b3c2d5440088cd77bf9ee6a618588e0429",
+      "company": "Opportunistic Trader ETF",
+      "ticker": "WZRD",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee5ac13b6ada15127294b0885d1fabd711389aaa9796779520d52a2b048e920db",
       "company": "Truxton Corporation",
       "ticker": "TRUX",
@@ -126,7 +214,7 @@
     },
     {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ETF",
+      "company": "T-REX 2X Long TTD Daily Target ",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -202,6 +290,17 @@
       "source": "polygon"
     },
     {
+      "id": "E19d3d8845f4c5c3aa1d608930557557b3f2593b8c2c6d53a58e54cc20209039c",
+      "company": "BRC Inc.",
+      "ticker": "BRCC",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E969374fbd4657a83f971a42a509f338abfd4e6c5234fcf3ba968ffc1b34620cf",
       "company": "T-REX 2X Long AXTI Daily Target",
       "ticker": "AXTU",
@@ -268,6 +367,17 @@
       "source": "polygon"
     },
     {
+      "id": "E176dfe65e05db025b14562e289d315bd51ed6e3dc4f346f1c4a9554a63d6bd70",
+      "company": "My Size, Inc.",
+      "ticker": "MYSZ",
+      "exDate": "2026-08-13",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed5f51623a7b6aaebc4780688a67478a4dde244aa6aa64e543d9bdc0a6baccbf8",
       "company": "Brenmiller Energy Ltd",
       "ticker": "BNRG",
@@ -275,7 +385,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +407,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -335,7 +445,7 @@
     },
     {
       "id": "E87bf5028cec79a814f7e8edf881bc630ba5723264a027e9175c4583dbcca5bb7",
-      "company": "TryHard Holdings Limited",
+      "company": "TryHard Holdings Limited Ordinary Shares",
       "ticker": "THH",
       "exDate": "2026-08-10",
       "ratio": "1-for-10",
@@ -363,7 +473,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -489,7 +599,7 @@
     },
     {
       "id": "E049f8c98c89724b5916c58294baf0acc7215c76696f81156facfb47a6fbc0a6a",
-      "company": "Dixie Gold Inc.",
+      "company": "Dixie Gold Inc",
       "ticker": "YWRLF",
       "exDate": "2026-08-05",
       "ratio": "1-for-4",
@@ -500,7 +610,7 @@
     },
     {
       "id": "E5f37fa0a84a41524331ac8a3fce8b5d9dde2efa84ee068e0d703534ff9e351b5",
-      "company": "Suncorp Technologies Limited",
+      "company": "SunCorp Technologies Ltd",
       "ticker": "SUNTF",
       "exDate": "2026-08-05",
       "ratio": "1-for-5",
@@ -511,7 +621,7 @@
     },
     {
       "id": "Ecdc16d81e010c36e46597c452a7b81a31a0b2f8567cc28cef7db323b39304f34",
-      "company": "SCWorx Corp.",
+      "company": "SCWorx Corp",
       "ticker": "WORX",
       "exDate": "2026-08-04",
       "ratio": "1-for-12",
@@ -533,7 +643,7 @@
     },
     {
       "id": "E3c8a753100ad2381a65490e2732c1c1f994214fca2dfb7df89673e947bb5cbc2",
-      "company": "Cross River Ventures Corp.",
+      "company": "Cross River Ventures Corp",
       "ticker": "CSRVF",
       "exDate": "2026-08-04",
       "ratio": "1-for-30",
@@ -548,105 +658,6 @@
       "ticker": "AEMD",
       "exDate": "2026-08-04",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9f1b447ab79c3713099df426f43148b366a2f5a4a3fb94d192b896d0a686b4a1",
-      "company": "Wetour Robotics Limited",
-      "ticker": "WETO",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecd33b5b469f16d57b6fc6b901d07b08f3c5adfbb4073570403a198a6f8fec37e",
-      "company": "TOP Financial Group Limited",
-      "ticker": "TOP",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E15e4214f7682a7b7cd0679ca91b1091f062450986abcfb31ff1103b13447cd86",
-      "company": "Tetragon Financial Group Limited",
-      "ticker": "TGONF",
-      "exDate": "2026-08-03",
-      "ratio": "114-for-113",
-      "type": "forward",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Efc0794a2097832e58a7776f285d61759f4df5adfe38a85c6e9120bb8b4cf6e5c",
-      "company": "Sports Entertainment Gaming Global Corporation",
-      "ticker": "SEGG",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef9d72ce2d132bd48d199fe00ce51374e44b773028b2307d7ad5ec0fdb03e659f",
-      "company": "Picard Medical, Inc.",
-      "ticker": "PMI",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef473d8cd8dc0e3e72122b027816f38c7311b4a1563320de849786558ed6cccdd",
-      "company": "MicroVision, Inc.",
-      "ticker": "MVIS",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2a3d71c6c29625bd1ec91a5b6f45d0f0e82645d9e8dcf19eebef13207ea1ff4c",
-      "company": "Lexaria Bioscience Corp.",
-      "ticker": "LEXX",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeab99947f307a33e3b0b984c1175765a519d3184839a831e057be9d2677da178",
-      "company": "Li Bang International Corporation Inc.",
-      "ticker": "LBGJ",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2ac0d0e50e91c0d9c9a95bd270bdad830d55b51477869952b659b84ab0a15f8d",
-      "company": "K Wave Media Ltd.",
-      "ticker": "KWM",
-      "exDate": "2026-08-03",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
