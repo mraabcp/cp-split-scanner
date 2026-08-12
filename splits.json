@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-11T14:51:13.726Z",
-  "totalRecords": 60,
-  "newThisScan": 10,
+  "lastUpdated": "2026-08-12T14:50:49.566Z",
+  "totalRecords": 61,
+  "newThisScan": 5,
   "splits": [
+    {
+      "id": "Ee3f7b4860961651c767c65c59fb03ee022d33371e7773eb91b51c4cf6d5defe3",
+      "company": "DLHGF",
+      "ticker": "DLHGF",
+      "exDate": "2026-09-11",
+      "ratio": "51-for-50",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
       "company": "Defiance Daily Target 2X Short TSM ETF",
@@ -11,7 +22,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +33,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +44,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +55,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,18 +77,18 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short AMD ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "DAMD",
       "exDate": "2026-09-10",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
-      "isNew": true,
+      "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +99,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -198,7 +209,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -214,7 +225,7 @@
     },
     {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ",
+      "company": "T-REX 2X Long TTD Daily Target ETF",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -297,7 +308,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -367,11 +378,55 @@
       "source": "polygon"
     },
     {
+      "id": "Ed5f97485a937ceac6ed4fa8d71debc8f40b7926e9fc448e727e900f5bd6e819e",
+      "company": "Beyond Meat, Inc.",
+      "ticker": "BYND",
+      "exDate": "2026-08-14",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7b1840ba936ba91f925d92f51322ce42149c26b14252618d7c1d563ca40af884",
+      "company": "SolarMax Technology, Inc.",
+      "ticker": "SMXT",
+      "exDate": "2026-08-13",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E176dfe65e05db025b14562e289d315bd51ed6e3dc4f346f1c4a9554a63d6bd70",
       "company": "My Size, Inc.",
       "ticker": "MYSZ",
       "exDate": "2026-08-13",
       "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3f03d995564ec54de4b07c98138dc50d346879cbf2d5897964667d85332ca92f",
+      "company": "Check-Cap Ltd.",
+      "ticker": "MBAI",
+      "exDate": "2026-08-13",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E85a1f4bac10164d2d217fae8ee2d3d55cc032ad609e5271c55b1f58b0577f189",
+      "company": "KIDZ AI Inc.",
+      "ticker": "KIDZ",
+      "exDate": "2026-08-13",
+      "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -400,14 +455,14 @@
       "source": "polygon"
     },
     {
-      "id": "E3f03d995564ec54de4b07c98138dc50d346879cbf2d5897964667d85332ca92f",
-      "company": "Check-Cap Ltd.",
-      "ticker": "MBAI",
+      "id": "Edaf7eb4962a9c6e30f90c4a138a88665c61b0e3c764db739f36c1d21b2a9d1a3",
+      "company": "GLOBAL URANIUM CORP.",
+      "ticker": "GURFF",
       "exDate": "2026-08-12",
-      "ratio": "1-for-7",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -445,7 +500,7 @@
     },
     {
       "id": "E87bf5028cec79a814f7e8edf881bc630ba5723264a027e9175c4583dbcca5bb7",
-      "company": "TryHard Holdings Limited Ordinary Shares",
+      "company": "TryHard Holdings Limited",
       "ticker": "THH",
       "exDate": "2026-08-10",
       "ratio": "1-for-10",
@@ -613,50 +668,6 @@
       "company": "SunCorp Technologies Ltd",
       "ticker": "SUNTF",
       "exDate": "2026-08-05",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecdc16d81e010c36e46597c452a7b81a31a0b2f8567cc28cef7db323b39304f34",
-      "company": "SCWorx Corp",
-      "ticker": "WORX",
-      "exDate": "2026-08-04",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E879e7787605b1ec60df3b008e2ebb0596366c643194194b5362d5bfb053d7f3d",
-      "company": "Sable Resources Ltd.",
-      "ticker": "SBLRF",
-      "exDate": "2026-08-04",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3c8a753100ad2381a65490e2732c1c1f994214fca2dfb7df89673e947bb5cbc2",
-      "company": "Cross River Ventures Corp",
-      "ticker": "CSRVF",
-      "exDate": "2026-08-04",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1b53931942b826e13e7988d37a6b66d1ae6c8ee1e03412dcc81b585e1dfd4132",
-      "company": "Aethlon Medical, Inc.",
-      "ticker": "AEMD",
-      "exDate": "2026-08-04",
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
