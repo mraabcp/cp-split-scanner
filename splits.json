@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-12T14:50:49.566Z",
-  "totalRecords": 61,
-  "newThisScan": 5,
+  "lastUpdated": "2026-08-13T14:50:48.594Z",
+  "totalRecords": 65,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "Ee3f7b4860961651c767c65c59fb03ee022d33371e7773eb91b51c4cf6d5defe3",
@@ -11,7 +11,7 @@
       "ratio": "51-for-50",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -169,6 +169,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eab7215413419ae86408c010e2e8e38926d73f5f70e8d4092564526567df4c3d8",
+      "company": "21Shares 2x Long Dogecoin ETF",
+      "ticker": "TXXD",
+      "exDate": "2026-09-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee98349b9b881855479540b1f8c4acf47e0d341178fb127ac0299631705d76a51",
       "company": "Amphenol Corporation",
       "ticker": "APH",
@@ -224,8 +235,30 @@
       "source": "polygon"
     },
     {
+      "id": "E5c743677c516d826adcbc6f9c67a1696b9f00234cd5310c0ab07b503f6d95175",
+      "company": "Yimutian Inc.",
+      "ticker": "YMT",
+      "exDate": "2026-08-27",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E26d4ba8af8a2e97a6f8e51c07c7c5dfc6492006bccb28e5596718f2c420e9622",
+      "company": "Grupo México, S.A.B. de C.V.",
+      "ticker": "GMBXF",
+      "exDate": "2026-08-27",
+      "ratio": "195-for-194",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ETF",
+      "company": "T-REX 2X Long TTD Daily Target ",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -356,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
+      "company": "Megan Holdings Limited",
+      "ticker": "MGN",
+      "exDate": "2026-08-21",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec4aa8610d148d5df155240db21c9c68c103a27f11144404b590f2f05329607e9",
       "company": "ANCMF",
       "ticker": "ANCMF",
@@ -378,6 +422,28 @@
       "source": "polygon"
     },
     {
+      "id": "E49f5e4aa6e27d0b7f8f52e7230d8c759c71050a98f2747a5be359f2372343d6e",
+      "company": "IDTIF",
+      "ticker": "IDTIF",
+      "exDate": "2026-08-14",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4122e857ae09f1aeb5067eea013a12a7d54eb52d6456cc0417e55f67fe5a5302",
+      "company": "Haoxi Health Technology Limited",
+      "ticker": "HAO",
+      "exDate": "2026-08-14",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed5f97485a937ceac6ed4fa8d71debc8f40b7926e9fc448e727e900f5bd6e819e",
       "company": "Beyond Meat, Inc.",
       "ticker": "BYND",
@@ -385,7 +451,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +462,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +495,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +528,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -500,7 +566,7 @@
     },
     {
       "id": "E87bf5028cec79a814f7e8edf881bc630ba5723264a027e9175c4583dbcca5bb7",
-      "company": "TryHard Holdings Limited",
+      "company": "TryHard Holdings Limited Ordinary Shares",
       "ticker": "THH",
       "exDate": "2026-08-10",
       "ratio": "1-for-10",
@@ -647,28 +713,6 @@
       "ticker": "BYAH",
       "exDate": "2026-08-06",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E049f8c98c89724b5916c58294baf0acc7215c76696f81156facfb47a6fbc0a6a",
-      "company": "Dixie Gold Inc",
-      "ticker": "YWRLF",
-      "exDate": "2026-08-05",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5f37fa0a84a41524331ac8a3fce8b5d9dde2efa84ee068e0d703534ff9e351b5",
-      "company": "SunCorp Technologies Ltd",
-      "ticker": "SUNTF",
-      "exDate": "2026-08-05",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
