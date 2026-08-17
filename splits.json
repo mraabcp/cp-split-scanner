@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-14T14:44:48.680Z",
-  "totalRecords": 67,
-  "newThisScan": 6,
+  "lastUpdated": "2026-08-17T14:19:45.448Z",
+  "totalRecords": 73,
+  "newThisScan": 8,
   "splits": [
+    {
+      "id": "Ec7ce6f33c3a23b955fc9be025e655e609f8bae7b26df99a58bf28e9750f6ff4a",
+      "company": "CLSIF",
+      "ticker": "CLSIF",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ee3f7b4860961651c767c65c59fb03ee022d33371e7773eb91b51c4cf6d5defe3",
       "company": "DLHGF",
@@ -16,12 +27,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -77,7 +88,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -126,7 +137,7 @@
     },
     {
       "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
-      "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
+      "company": "Defiance Daily Target 2x Long OSCR ETF",
       "ticker": "OSCX",
       "exDate": "2026-09-09",
       "ratio": "3-for-1",
@@ -180,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "E4be59d71cef46d56cc0636526276fef22ade227e3956ac23764584845a3f0a28",
+      "company": "White River Bancshares Co",
+      "ticker": "WRIV",
+      "exDate": "2026-09-08",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eab7215413419ae86408c010e2e8e38926d73f5f70e8d4092564526567df4c3d8",
       "company": "21Shares 2x Long Dogecoin ETF",
       "ticker": "TXXD",
@@ -199,6 +221,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2da29031f9950d5e3bf8be8417d3283a0dce03f548a023339ba88b4fc2b87041",
+      "company": "MITNF",
+      "ticker": "MITNF",
+      "exDate": "2026-09-02",
+      "ratio": "203-for-200",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -264,6 +297,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8c2fa38bcab3fdea6db9fc1526b7290056da051fabb636c13e6bb66942e88c86",
+      "company": "Grupo Mexico S.A.B. de C.V.",
+      "ticker": "GPMXY",
+      "exDate": "2026-08-27",
+      "ratio": "195-for-194",
+      "type": "forward",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -286,7 +330,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +352,7 @@
       "ratio": "1-for-500",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -455,6 +499,28 @@
       "source": "polygon"
     },
     {
+      "id": "E188efb92b62d07f8571f7ef223d2096cac26a676aedcd88a5ed8054b853f99da",
+      "company": "Recon Technology, Ltd.",
+      "ticker": "RCON",
+      "exDate": "2026-08-18",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8beb901d949819b7415d23bf28c77e7abf900f027adb7e76e3e5460570590cc1",
+      "company": "CXApp Inc.",
+      "ticker": "CXAI",
+      "exDate": "2026-08-18",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1e7388b18792e1607aa59d852328bb0e973b800c558022d791d11b56139b6c3a",
       "company": "AiRWA Inc.",
       "ticker": "YYAI",
@@ -462,7 +528,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -471,6 +537,17 @@
       "ticker": "PFSA",
       "exDate": "2026-08-17",
       "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E376795f5c5b8fad5663962fc9c3866acdd80aaa7517cbf85122ee4f1c8b81225",
+      "company": "Global Health Clinics Ltd.",
+      "ticker": "LRSNF",
+      "exDate": "2026-08-17",
+      "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -485,6 +562,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Efee457adba894bffd98aa28944b23b596636f686754af564f63c8bf2e532227f",
+      "company": "Johnson Matthey Plc",
+      "ticker": "JMPLF",
+      "exDate": "2026-08-17",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -713,28 +801,6 @@
       "ticker": "AEHL",
       "exDate": "2026-08-10",
       "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7120a3d86c504d4f4f6c9df3a86c5427d9ac064cc8d8e4f138839189525fab9b",
-      "company": "Jupiter Neurosciences, Inc.",
-      "ticker": "JUNS",
-      "exDate": "2026-08-07",
-      "ratio": "1-for-75",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef1e930778d358e08b106669de00ddbcfc867b4d94c9b38f5f94c2ffa246fe220",
-      "company": "iPower Inc.",
-      "ticker": "IPW",
-      "exDate": "2026-08-07",
-      "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
