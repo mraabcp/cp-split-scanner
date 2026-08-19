@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-18T14:24:35.943Z",
-  "totalRecords": 68,
-  "newThisScan": 4,
+  "lastUpdated": "2026-08-19T14:24:34.575Z",
+  "totalRecords": 73,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "Ec7ce6f33c3a23b955fc9be025e655e609f8bae7b26df99a58bf28e9750f6ff4a",
@@ -27,12 +27,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -203,12 +203,12 @@
     },
     {
       "id": "Eab7215413419ae86408c010e2e8e38926d73f5f70e8d4092564526567df4c3d8",
-      "company": "21Shares 2x Long Dogecoin ETF",
+      "company": "TXXD",
       "ticker": "TXXD",
       "exDate": "2026-09-08",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -279,6 +279,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ec338877aff18942c5eb079ee9994b4f574260fae769aa97f63bedb8232684470",
+      "company": "Trio Petroleum Corp.",
+      "ticker": "TPET",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee9417837f3051539def0d0a1ea5464eda9f3218f97d2518e7a5372e8246da8d6",
+      "company": "Sugi Holdings Co.,Ltd.",
+      "ticker": "SGIPF",
+      "exDate": "2026-08-28",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E5c743677c516d826adcbc6f9c67a1696b9f00234cd5310c0ab07b503f6d95175",
       "company": "Yimutian Inc.",
       "ticker": "YMT",
@@ -298,6 +320,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0530683c0c3405ddfe41201c6b703dbef1e0b5077fde465bb6cfb075753d8cf2",
+      "company": "IM Cannabis Corp.",
+      "ticker": "IMCC",
+      "exDate": "2026-08-27",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -335,7 +368,7 @@
     },
     {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ETF",
+      "company": "T-REX 2X Long TTD Daily Target ",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -367,6 +400,17 @@
       "source": "polygon"
     },
     {
+      "id": "E326d84bbae9502697aa5784bd534064c75aa6754a09a71fab66f63a022811725",
+      "company": "Skye Bioscience, Inc.",
+      "ticker": "SKYE",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E06455baf21516a16026c23f81cd0a5cbc08fb8cde8214559615d30a03b20933f",
       "company": "SCPFD",
       "ticker": "SCPFD",
@@ -374,7 +418,7 @@
       "ratio": "187-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -499,9 +543,42 @@
       "source": "polygon"
     },
     {
+      "id": "E2b0dad135b16370d98dfab6ef645c04907d297c910a12020502e9e500ff693d7",
+      "company": "Liminatus Pharma, Inc.",
+      "ticker": "LIMN",
+      "exDate": "2026-08-21",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2b6b04faaf2c84d542c2188e56a33ba92a164e7780dbc0f2c9c6f41b6c3ad58b",
+      "company": "Curanex Pharmaceuticals Inc",
+      "ticker": "CURX",
+      "exDate": "2026-08-20",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec5fde755410d8d186658735e4517825e274e721f50b774a2b83765dd66f4370b",
       "company": "Nerdy Inc.",
       "ticker": "NRDY",
+      "exDate": "2026-08-19",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3f86f1f4672ce6d00af69afdb76d2c9faee4e4768951d93cc69c51048c1030ec",
+      "company": "Hillgrove Resources Limited",
+      "ticker": "HLGVF",
       "exDate": "2026-08-19",
       "ratio": "1-for-15",
       "type": "reverse",
@@ -517,7 +594,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +605,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -725,28 +802,6 @@
       "exDate": "2026-08-12",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea631859ebc67ed81be8c7bb7e042bac2a660d28b267fb6c0fe611a5e9c6bec5e",
-      "company": "Masonglory Limited",
-      "ticker": "MSGY",
-      "exDate": "2026-08-11",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3bbed498c62db9fd36efa308cdd927111a399001673bccd4824d930794e8ba88",
-      "company": "Monster Beverage Corporation",
-      "ticker": "MNST",
-      "exDate": "2026-08-11",
-      "ratio": "2-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
