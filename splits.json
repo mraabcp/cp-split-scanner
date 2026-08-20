@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-19T14:24:34.575Z",
-  "totalRecords": 73,
-  "newThisScan": 7,
+  "lastUpdated": "2026-08-20T14:27:39.327Z",
+  "totalRecords": 77,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "Ec7ce6f33c3a23b955fc9be025e655e609f8bae7b26df99a58bf28e9750f6ff4a",
@@ -203,12 +203,12 @@
     },
     {
       "id": "Eab7215413419ae86408c010e2e8e38926d73f5f70e8d4092564526567df4c3d8",
-      "company": "TXXD",
+      "company": "21Shares 2x Long Dogecoin ETF",
       "ticker": "TXXD",
       "exDate": "2026-09-08",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -257,6 +257,17 @@
       "source": "polygon"
     },
     {
+      "id": "E8ca42103fe33f5f234324112733203f56ccdddb352c36c946bfc2d2ae98d7386",
+      "company": "NewGenIvf Group Limited",
+      "ticker": "NIVF",
+      "exDate": "2026-09-01",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E00d67c3d628ca353a5e201aa29d9e5b3c2d5440088cd77bf9ee6a618588e0429",
       "company": "Opportunistic Trader ETF",
       "ticker": "WZRD",
@@ -286,7 +297,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +308,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +341,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -368,7 +379,7 @@
     },
     {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ",
+      "company": "T-REX 2X Long TTD Daily Target ETF",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -407,7 +418,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -441,6 +452,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4537baf9ee0429f5c88a71d69a7fea77590d794f6bb31925a3f9ec032c7be799",
+      "company": "InterCure Ltd.",
+      "ticker": "INCR",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -510,6 +532,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed95c8e315fad62b7fa6e056f3f9c57e9de3153923fb96ad1d08a54c03d7d511a",
+      "company": "SmartKem, Inc.",
+      "ticker": "SMTK",
+      "exDate": "2026-08-21",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
       "company": "ServisFirst Bancshares, Inc.",
       "ticker": "SFBS",
@@ -550,6 +583,39 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E581384a13429d5e9232b588af3ffb0877be91c0df737cb0950c463492209d479",
+      "company": "PMGC Holdings Inc.",
+      "ticker": "ELAB",
+      "exDate": "2026-08-21",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5d02564031c65044c6e2686e9cddf71080312b1f2e3b603e2ec2d386b2c02dec",
+      "company": "Bit Origin Ltd",
+      "ticker": "BTOG",
+      "exDate": "2026-08-21",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5f49703ca9873d4aa01f1ea3dce950632adc46a3d4df30e4559b26be183dfd70",
+      "company": "Tactical Resources Corp. Common Shares",
+      "ticker": "TREO",
+      "exDate": "2026-08-20",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -561,7 +627,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -577,13 +643,13 @@
     },
     {
       "id": "E3f86f1f4672ce6d00af69afdb76d2c9faee4e4768951d93cc69c51048c1030ec",
-      "company": "Hillgrove Resources Limited",
+      "company": "Kantra Copper Ltd",
       "ticker": "HLGVF",
       "exDate": "2026-08-19",
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -779,28 +845,6 @@
       "ticker": "BNRG",
       "exDate": "2026-08-13",
       "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3aede943bc0c2a7c4d1d07750e8aa1fdb00678895d130f92f186fdff865c8dc0",
-      "company": "Taiyo Yuden Co., Ltd.",
-      "ticker": "TYOYY",
-      "exDate": "2026-08-12",
-      "ratio": "16-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edaf7eb4962a9c6e30f90c4a138a88665c61b0e3c764db739f36c1d21b2a9d1a3",
-      "company": "GLOBAL URANIUM CORP.",
-      "ticker": "GURFF",
-      "exDate": "2026-08-12",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
