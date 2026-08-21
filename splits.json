@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-20T14:27:39.327Z",
-  "totalRecords": 77,
+  "lastUpdated": "2026-08-21T14:26:08.331Z",
+  "totalRecords": 78,
   "newThisScan": 6,
   "splits": [
     {
@@ -27,12 +27,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short TSM ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -213,6 +213,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ef335472da64a825ed971317a5ebdb70ae33e46587dfa4bc4f9682fa45671e517",
+      "company": "Xiao-I Corporation",
+      "ticker": "AIXI",
+      "exDate": "2026-09-08",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee98349b9b881855479540b1f8c4acf47e0d341178fb127ac0299631705d76a51",
       "company": "Amphenol Corporation",
       "ticker": "APH",
@@ -264,7 +275,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -367,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "E54900860492d8da3724ff20da98c29de5500c46eb6a5d7fcb3cdce3c18bc3079",
+      "company": "The Real Brokerage Inc.",
+      "ticker": "REAX",
+      "exDate": "2026-08-25",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eec344700e3837dafe148fd41e486b6c93cfa498097a5559daeca1f0bed075a52",
       "company": "Hyperscale Data, Inc.",
       "ticker": "GPUS",
@@ -378,8 +400,19 @@
       "source": "polygon"
     },
     {
+      "id": "E11a312537dc7419bfec888e97d054cacc3dc69aca220356f350990f58d63a5a9",
+      "company": "VCI Global Limited",
+      "ticker": "VCIG",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ETF",
+      "company": "T-REX 2X Long TTD Daily Target ",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -462,7 +495,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -474,6 +507,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb4fb1aca13146f02f2086301252d55107adcf9439f91b113fbafb53be01e50de",
+      "company": "Greenland Mines Ltd",
+      "ticker": "GRML",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef974c494a920e7d54af8bcf90241430a3f677004da6c93dba44fe231603b5977",
+      "company": "GameSquare Holdings, Inc.",
+      "ticker": "GAME",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -510,6 +565,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6a41c8877662424d921202a79cc688c31c6b62a9c8c427ca64797a56ee5e985d",
+      "company": "bioAffinity Technologies, Inc.",
+      "ticker": "BIAF",
+      "exDate": "2026-08-24",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E969374fbd4657a83f971a42a509f338abfd4e6c5234fcf3ba968ffc1b34620cf",
       "company": "T-REX 2X Long AXTI Daily Target",
       "ticker": "AXTU",
@@ -539,7 +605,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -594,7 +660,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -605,7 +671,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -616,7 +682,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -753,7 +819,7 @@
     },
     {
       "id": "Efee457adba894bffd98aa28944b23b596636f686754af564f63c8bf2e532227f",
-      "company": "Johnson Matthey Plc",
+      "company": "Johnson Matthey PLC",
       "ticker": "JMPLF",
       "exDate": "2026-08-17",
       "ratio": "1-for-4",
@@ -790,61 +856,6 @@
       "ticker": "BYND",
       "exDate": "2026-08-14",
       "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7b1840ba936ba91f925d92f51322ce42149c26b14252618d7c1d563ca40af884",
-      "company": "SolarMax Technology, Inc.",
-      "ticker": "SMXT",
-      "exDate": "2026-08-13",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E176dfe65e05db025b14562e289d315bd51ed6e3dc4f346f1c4a9554a63d6bd70",
-      "company": "My Size, Inc.",
-      "ticker": "MYSZ",
-      "exDate": "2026-08-13",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3f03d995564ec54de4b07c98138dc50d346879cbf2d5897964667d85332ca92f",
-      "company": "Check-Cap Ltd.",
-      "ticker": "MBAI",
-      "exDate": "2026-08-13",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E85a1f4bac10164d2d217fae8ee2d3d55cc032ad609e5271c55b1f58b0577f189",
-      "company": "KIDZ AI Inc.",
-      "ticker": "KIDZ",
-      "exDate": "2026-08-13",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed5f51623a7b6aaebc4780688a67478a4dde244aa6aa64e543d9bdc0a6baccbf8",
-      "company": "Brenmiller Energy Ltd",
-      "ticker": "BNRG",
-      "exDate": "2026-08-13",
-      "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
