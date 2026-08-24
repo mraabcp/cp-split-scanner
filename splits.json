@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-21T14:26:08.331Z",
-  "totalRecords": 78,
-  "newThisScan": 6,
+  "lastUpdated": "2026-08-24T14:34:02.589Z",
+  "totalRecords": 77,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "Ec7ce6f33c3a23b955fc9be025e655e609f8bae7b26df99a58bf28e9750f6ff4a",
@@ -220,7 +220,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,6 +279,17 @@
       "source": "polygon"
     },
     {
+      "id": "E437c914f74d8ff890e18863457ef44bfc318962db4be55894df3e239e36dc222",
+      "company": "Kairos Pharma, Ltd.",
+      "ticker": "KAPA",
+      "exDate": "2026-09-01",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E00d67c3d628ca353a5e201aa29d9e5b3c2d5440088cd77bf9ee6a618588e0429",
       "company": "Opportunistic Trader ETF",
       "ticker": "WZRD",
@@ -334,6 +345,17 @@
       "source": "polygon"
     },
     {
+      "id": "E451433c377f588b2e528e8d772e415033770fddc3ca737d0d98f06b47156b01b",
+      "company": "Wheeler Real Estate Investment Trust, Inc.",
+      "ticker": "WHLR",
+      "exDate": "2026-08-27",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ede00ebd36c278ca3b3775fce41b41b98596243ec8a868bdbe01da80d274249f6",
       "company": "NOVONIX Limited",
       "ticker": "NVX",
@@ -385,7 +407,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,12 +429,12 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ",
+      "company": "T-REX 2X Long TTD Daily Target ETF",
       "ticker": "TTDU",
       "exDate": "2026-08-24",
       "ratio": "1-for-10",
@@ -517,7 +539,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +550,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -572,7 +594,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -676,7 +698,7 @@
     },
     {
       "id": "E5f49703ca9873d4aa01f1ea3dce950632adc46a3d4df30e4559b26be183dfd70",
-      "company": "Tactical Resources Corp. Common Shares",
+      "company": "Tactical Resources Corp.",
       "ticker": "TREO",
       "exDate": "2026-08-20",
       "ratio": "1-for-4",
@@ -808,7 +830,7 @@
     },
     {
       "id": "E5354689de89e60073fc32802a150ca4c2b3a2d3308e5e63cf790c3d732c7913a",
-      "company": "Johnson Matthey Plc",
+      "company": "Johnson Matthey PLC",
       "ticker": "JMPLY",
       "exDate": "2026-08-17",
       "ratio": "1-for-4",
@@ -823,39 +845,6 @@
       "ticker": "JMPLF",
       "exDate": "2026-08-17",
       "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E49f5e4aa6e27d0b7f8f52e7230d8c759c71050a98f2747a5be359f2372343d6e",
-      "company": "IDTIF",
-      "ticker": "IDTIF",
-      "exDate": "2026-08-14",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4122e857ae09f1aeb5067eea013a12a7d54eb52d6456cc0417e55f67fe5a5302",
-      "company": "Haoxi Health Technology Limited",
-      "ticker": "HAO",
-      "exDate": "2026-08-14",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed5f97485a937ceac6ed4fa8d71debc8f40b7926e9fc448e727e900f5bd6e819e",
-      "company": "Beyond Meat, Inc.",
-      "ticker": "BYND",
-      "exDate": "2026-08-14",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
