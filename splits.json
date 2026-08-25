@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-08-24T14:34:02.589Z",
-  "totalRecords": 77,
-  "newThisScan": 2,
+  "lastUpdated": "2026-08-25T14:36:34.780Z",
+  "totalRecords": 75,
+  "newThisScan": 3,
   "splits": [
+    {
+      "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
+      "company": "IDTID",
+      "ticker": "IDTID",
+      "exDate": "2026-09-14",
+      "ratio": "192-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ec7ce6f33c3a23b955fc9be025e655e609f8bae7b26df99a58bf28e9750f6ff4a",
       "company": "CLSIF",
@@ -27,12 +38,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -286,7 +297,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +363,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -364,6 +375,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E41b13933d12576ebac73c3eb402c44bca86cbf875fd436f0f7dc485e047b6040",
+      "company": "Longeveron Inc.",
+      "ticker": "LGVN",
+      "exDate": "2026-08-27",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -379,7 +401,7 @@
     },
     {
       "id": "E8c2fa38bcab3fdea6db9fc1526b7290056da051fabb636c13e6bb66942e88c86",
-      "company": "Grupo Mexico S.A.B. de C.V.",
+      "company": "Grupo México, S.A.B. de C.V.",
       "ticker": "GPMXY",
       "exDate": "2026-08-27",
       "ratio": "195-for-194",
@@ -397,6 +419,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E09af3d0040e84743959ac7306dbadead86fa09de84d52781a635ebbe0ef8a007",
+      "company": "Vision Marine Technologies Inc.",
+      "ticker": "VMAR",
+      "exDate": "2026-08-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -445,7 +478,7 @@
     },
     {
       "id": "Ecfe2a6593de7ed699cd8ea4cd63a22af5b488b6e509401372246abbfaaff5b35",
-      "company": "TKUNF",
+      "company": "Tikun Olam-Cannbit Pharmaceuticals Ltd",
       "ticker": "TKUNF",
       "exDate": "2026-08-24",
       "ratio": "1-for-500",
@@ -790,61 +823,6 @@
       "ticker": "CXAI",
       "exDate": "2026-08-18",
       "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1e7388b18792e1607aa59d852328bb0e973b800c558022d791d11b56139b6c3a",
-      "company": "AiRWA Inc.",
-      "ticker": "YYAI",
-      "exDate": "2026-08-17",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee3f0d42b3189df58d295ee1878505d802752c7aa9abd49a17572a53d2e0e1e0d",
-      "company": "Profusa, Inc.",
-      "ticker": "PFSA",
-      "exDate": "2026-08-17",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E376795f5c5b8fad5663962fc9c3866acdd80aaa7517cbf85122ee4f1c8b81225",
-      "company": "Global Health Clinics Ltd.",
-      "ticker": "LRSNF",
-      "exDate": "2026-08-17",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5354689de89e60073fc32802a150ca4c2b3a2d3308e5e63cf790c3d732c7913a",
-      "company": "Johnson Matthey PLC",
-      "ticker": "JMPLY",
-      "exDate": "2026-08-17",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efee457adba894bffd98aa28944b23b596636f686754af564f63c8bf2e532227f",
-      "company": "Johnson Matthey PLC",
-      "ticker": "JMPLF",
-      "exDate": "2026-08-17",
-      "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
