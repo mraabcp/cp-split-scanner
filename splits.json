@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-25T14:36:34.780Z",
-  "totalRecords": 75,
-  "newThisScan": 3,
+  "lastUpdated": "2026-08-26T14:36:29.569Z",
+  "totalRecords": 78,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -11,7 +11,7 @@
       "ratio": "192-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -111,6 +111,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1b829ab380fefaa9461578be2c7ef0af58e25087dc53a43fef1aba7d242e9c9a",
+      "company": "Lion Group Holding Ltd.",
+      "ticker": "LGHL",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -221,6 +232,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec25ed884d6a4f13bafe07952fcc9e65e09fec6764d9946db74484b4b55a1e63c",
+      "company": "CBRE Global Real Estate Income Fund",
+      "ticker": "IGR",
+      "exDate": "2026-09-08",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -385,7 +407,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -422,6 +444,17 @@
       "source": "polygon"
     },
     {
+      "id": "E2c910903ceb2e734e5132c476d40bfaf9c7cf6a645f2c0b8d4295cb27e5b0e0e",
+      "company": "GlobalTech Corporation",
+      "ticker": "GLTK",
+      "exDate": "2026-08-27",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E09af3d0040e84743959ac7306dbadead86fa09de84d52781a635ebbe0ef8a007",
       "company": "Vision Marine Technologies Inc.",
       "ticker": "VMAR",
@@ -429,12 +462,34 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E5a19da1bf2894de1ccef21330ce06cb172226278aacf4eca1cadc864bdb18700",
+      "company": "PDI Gold Limited",
+      "ticker": "PDIYF",
+      "exDate": "2026-08-26",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebdcca3578e8eaaefa752569a8bde0831e60c41e5eb65b4b5e25b8214b561b251",
+      "company": "BIGG Digital Assets Inc.",
+      "ticker": "BBKCF",
+      "exDate": "2026-08-26",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
     {
       "id": "E54900860492d8da3724ff20da98c29de5500c46eb6a5d7fcb3cdce3c18bc3079",
-      "company": "The Real Brokerage Inc.",
+      "company": "Real REMAX Group Inc.",
       "ticker": "REAX",
       "exDate": "2026-08-25",
       "ratio": "1-for-10",
@@ -764,7 +819,7 @@
     },
     {
       "id": "E3f86f1f4672ce6d00af69afdb76d2c9faee4e4768951d93cc69c51048c1030ec",
-      "company": "Kantra Copper Ltd",
+      "company": "Hillgrove Resources Ltd",
       "ticker": "HLGVF",
       "exDate": "2026-08-19",
       "ratio": "1-for-15",
@@ -802,28 +857,6 @@
       "exDate": "2026-08-19",
       "ratio": "201-for-200",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E188efb92b62d07f8571f7ef223d2096cac26a676aedcd88a5ed8054b853f99da",
-      "company": "Recon Technology, Ltd.",
-      "ticker": "RCON",
-      "exDate": "2026-08-18",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8beb901d949819b7415d23bf28c77e7abf900f027adb7e76e3e5460570590cc1",
-      "company": "CXApp Inc.",
-      "ticker": "CXAI",
-      "exDate": "2026-08-18",
-      "ratio": "1-for-50",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
