@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-26T14:36:29.569Z",
-  "totalRecords": 78,
-  "newThisScan": 5,
+  "lastUpdated": "2026-08-27T23:25:16.389Z",
+  "totalRecords": 85,
+  "newThisScan": 12,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -38,12 +38,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short TSM ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -121,7 +121,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
-      "company": "Defiance Daily Target 2x Long K",
+      "company": "Defiance Daily Target 2x Long KEEL ETF",
       "ticker": "KEEX",
       "exDate": "2026-09-10",
       "ratio": "4-for-1",
@@ -148,12 +148,12 @@
     },
     {
       "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short AMD ETF",
       "ticker": "DAMD",
       "exDate": "2026-09-10",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -235,6 +235,17 @@
       "source": "polygon"
     },
     {
+      "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
+      "company": "Megan Holdings Limited",
+      "ticker": "MGN",
+      "exDate": "2026-09-08",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ec25ed884d6a4f13bafe07952fcc9e65e09fec6764d9946db74484b4b55a1e63c",
       "company": "CBRE Global Real Estate Income Fund",
       "ticker": "IGR",
@@ -242,7 +253,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -334,6 +345,28 @@
       "source": "polygon"
     },
     {
+      "id": "E4bb3531c26ad066a6476a0ec24cf9da0c4cabb36c77179c980d03a508ef9763e",
+      "company": "Veea Inc.",
+      "ticker": "VEEA",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb3f2ea70a500ab34b017ddc86002300aa96d7b60d9d3b7dff9a41522628e5631",
+      "company": "Valion Bio, Inc.",
+      "ticker": "VBIO",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee5ac13b6ada15127294b0885d1fabd711389aaa9796779520d52a2b048e920db",
       "company": "Truxton Corporation",
       "ticker": "TRUX",
@@ -356,6 +389,83 @@
       "source": "polygon"
     },
     {
+      "id": "E922c363ef2a0f9bd753e66c1b70bdb966dafaa907ed0d9b21b8e68399288e444",
+      "company": "Ohmyhome Limited",
+      "ticker": "OMH",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecdbe89b2d45362015b7909350048cac63d85fa365fcded389c3da7654f90819d",
+      "company": "Nexalin Technology, Inc.",
+      "ticker": "NXL",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E664a48537aa0c93fda53354e4d4cd57e72dfafcf71fd28dae95af170704e4e0f",
+      "company": "GlucoTrack, Inc.",
+      "ticker": "GCTK",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8a08b5f5f80aa0fd503f0ddf667650aafe89927ba119efdcbaf3dab684ada444",
+      "company": "Future FinTech Group Inc.",
+      "ticker": "FTFT",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6fd09e5313e0252eedc42cab8f54eea8345aab009a1a32d98daeadb084792d18",
+      "company": "Change Agents Corporation",
+      "ticker": "CHGA",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E73458af45024aaea5a5588c57c0d2f07797bfd2daa36b922f41082fe1e9aa343",
+      "company": "CalciMedica, Inc.",
+      "ticker": "CALC",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E511469a4202b5d7f2befb955a54f59d9855b558e2b9dbf9cfaf9299dec1ba4f5",
+      "company": "Artelo Biosciences, Inc.",
+      "ticker": "ARTL",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee9417837f3051539def0d0a1ea5464eda9f3218f97d2518e7a5372e8246da8d6",
       "company": "Sugi Holdings Co.,Ltd.",
       "ticker": "SGIPF",
@@ -364,6 +474,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed20247e0c0d19ebe662482571aa00bcfff402c9a65bc3486b3a48a919d58445a",
+      "company": "Cycurion, Inc.",
+      "ticker": "CYCU",
+      "exDate": "2026-08-28",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -422,6 +543,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed42330769dca47bf45a3fcf5ad738c88e4ba96cd958a711df6aaf3b4768fc317",
+      "company": "Interpace Biosciences, Inc.",
+      "ticker": "IDXG",
+      "exDate": "2026-08-27",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8c2fa38bcab3fdea6db9fc1526b7290056da051fabb636c13e6bb66942e88c86",
       "company": "Grupo México, S.A.B. de C.V.",
       "ticker": "GPMXY",
@@ -451,7 +583,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,18 +605,18 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "Ebdcca3578e8eaaefa752569a8bde0831e60c41e5eb65b4b5e25b8214b561b251",
-      "company": "BIGG Digital Assets Inc.",
+      "company": "Surge Digital Inc.",
       "ticker": "BBKCF",
       "exDate": "2026-08-26",
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -741,17 +873,6 @@
       "source": "polygon"
     },
     {
-      "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
-      "company": "Megan Holdings Limited",
-      "ticker": "MGN",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E2b0dad135b16370d98dfab6ef645c04907d297c910a12020502e9e500ff693d7",
       "company": "Liminatus Pharma, Inc.",
       "ticker": "LIMN",
@@ -796,67 +917,23 @@
       "source": "polygon"
     },
     {
+      "id": "Eba814d5a4319c6a1503fecb3c3e337f97ff6ad223f0d3d1355ccb4c00eee1110",
+      "company": "TCW MetWest Sustainable Securitized I",
+      "ticker": "MWESX",
+      "exDate": "2026-08-20",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E2b6b04faaf2c84d542c2188e56a33ba92a164e7780dbc0f2c9c6f41b6c3ad58b",
       "company": "Curanex Pharmaceuticals Inc",
       "ticker": "CURX",
       "exDate": "2026-08-20",
       "ratio": "1-for-20",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec5fde755410d8d186658735e4517825e274e721f50b774a2b83765dd66f4370b",
-      "company": "Nerdy Inc.",
-      "ticker": "NRDY",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3f86f1f4672ce6d00af69afdb76d2c9faee4e4768951d93cc69c51048c1030ec",
-      "company": "Hillgrove Resources Ltd",
-      "ticker": "HLGVF",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3bf54c4327437f30a7b1e458dd1e55ee12343e70e3bc737294df7a9bebe7e871",
-      "company": "Galmed Pharmaceuticals Ltd.",
-      "ticker": "GLMD",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eccfa81c7222239255a26cafc309d68d9d604eb915b6a2267788beff7a689d0d8",
-      "company": "C3is Inc.",
-      "ticker": "CISS",
-      "exDate": "2026-08-19",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec4aa8610d148d5df155240db21c9c68c103a27f11144404b590f2f05329607e9",
-      "company": "ANCMF",
-      "ticker": "ANCMF",
-      "exDate": "2026-08-19",
-      "ratio": "201-for-200",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
