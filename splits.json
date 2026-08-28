@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-27T23:25:16.389Z",
-  "totalRecords": 85,
-  "newThisScan": 12,
+  "lastUpdated": "2026-08-28T23:20:24.186Z",
+  "totalRecords": 89,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -137,7 +137,7 @@
     },
     {
       "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
-      "company": "Defiance Daily Target 2x Long KEEL ETF",
+      "company": "Defiance Daily Target 2x Long K",
       "ticker": "KEEX",
       "exDate": "2026-09-10",
       "ratio": "4-for-1",
@@ -199,6 +199,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eeb999a42fe21c5603ec13eb22047175e8bebfe05a805f065d8d6eed4481d6159",
+      "company": "Cyclerion Therapeutics, Inc.",
+      "ticker": "CYCN",
+      "exDate": "2026-09-09",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -323,6 +334,17 @@
       "source": "polygon"
     },
     {
+      "id": "E67c2e560b803025c37e8f25ad7899dfd9137db13184b752f1f5d2b76b366b8f7",
+      "company": "Lucas GC Limited",
+      "ticker": "LGCL",
+      "exDate": "2026-09-01",
+      "ratio": "1-for-125",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E437c914f74d8ff890e18863457ef44bfc318962db4be55894df3e239e36dc222",
       "company": "Kairos Pharma, Ltd.",
       "ticker": "KAPA",
@@ -331,6 +353,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec83b3d738d43ba323185e3e8ddf838be08fb1125058a933880d04176def5b1c6",
+      "company": "Founder Group Limited",
+      "ticker": "FGL",
+      "exDate": "2026-09-01",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1299e752f2973db1dc610285ea2697137bdcce577a99c8b35c32fb4ec4dec3bb",
+      "company": "ENvue Medical, Inc.",
+      "ticker": "FEED",
+      "exDate": "2026-09-01",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -352,7 +396,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +407,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +440,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -405,6 +449,28 @@
       "ticker": "NXL",
       "exDate": "2026-08-31",
       "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebbfa790b3fe32d0d48b6a52e3bee1bcee4775d5d1d2730ac8f4aeede4e7b6351",
+      "company": "Leader Capital Holdings Corp.",
+      "ticker": "LCHD",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea5b989da2e01c46ac649ad94e0f4844c11a82e4ff7fdc6c503b5e51d7a879cfb",
+      "company": "Healthy Choice Wellness Corp.",
+      "ticker": "HCWC",
+      "exDate": "2026-08-31",
+      "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -418,7 +484,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +495,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +506,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -451,7 +517,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +528,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -477,6 +543,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee15b616bf8cbb87d6373b539ed9da38fc88a8a1c3a6d876c3ba0fe11fc4aba33",
+      "company": "Fast Track Group",
+      "ticker": "FTRKF",
+      "exDate": "2026-08-28",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed20247e0c0d19ebe662482571aa00bcfff402c9a65bc3486b3a48a919d58445a",
       "company": "Cycurion, Inc.",
       "ticker": "CYCU",
@@ -484,7 +561,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +627,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -665,7 +742,7 @@
     },
     {
       "id": "Ecfe2a6593de7ed699cd8ea4cd63a22af5b488b6e509401372246abbfaaff5b35",
-      "company": "Tikun Olam-Cannbit Pharmaceuticals Ltd",
+      "company": "Tikun Olam Cannbit Pharmaceuticals Ltd",
       "ticker": "TKUNF",
       "exDate": "2026-08-24",
       "ratio": "1-for-500",
@@ -900,39 +977,6 @@
       "ticker": "BTOG",
       "exDate": "2026-08-21",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5f49703ca9873d4aa01f1ea3dce950632adc46a3d4df30e4559b26be183dfd70",
-      "company": "Tactical Resources Corp.",
-      "ticker": "TREO",
-      "exDate": "2026-08-20",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eba814d5a4319c6a1503fecb3c3e337f97ff6ad223f0d3d1355ccb4c00eee1110",
-      "company": "TCW MetWest Sustainable Securitized I",
-      "ticker": "MWESX",
-      "exDate": "2026-08-20",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E2b6b04faaf2c84d542c2188e56a33ba92a164e7780dbc0f2c9c6f41b6c3ad58b",
-      "company": "Curanex Pharmaceuticals Inc",
-      "ticker": "CURX",
-      "exDate": "2026-08-20",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
