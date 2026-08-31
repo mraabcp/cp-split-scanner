@@ -1,8 +1,52 @@
 {
-  "lastUpdated": "2026-08-28T23:20:24.186Z",
-  "totalRecords": 89,
-  "newThisScan": 7,
+  "lastUpdated": "2026-08-31T19:46:17.675Z",
+  "totalRecords": 88,
+  "newThisScan": 6,
   "splits": [
+    {
+      "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
+      "company": "Ibiden Co.,Ltd.",
+      "ticker": "IBIDY",
+      "exDate": "2026-09-30",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9b2312a23e48a4dafb2a64a09ec18b0f0ce6acb47ba8d26cb60fdcf9c7abbe1a",
+      "company": "Credit Suisse High Yield Credit Fund",
+      "ticker": "DHY",
+      "exDate": "2026-09-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eff462532edf0e18afabcf95b4026bb6fb133d3bf71eb0b2134b204d041ed35de",
+      "company": "Toyoda Gosei Co., Ltd.",
+      "ticker": "TGOSF",
+      "exDate": "2026-09-29",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed309705d3b2c1d23ef1243624929c5dd9bdb6a3bf898984097685bc44438ed30",
+      "company": "SNKUF",
+      "ticker": "SNKUF",
+      "exDate": "2026-09-29",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
       "company": "IDTID",
@@ -148,12 +192,12 @@
     },
     {
       "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short AMD ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "DAMD",
       "exDate": "2026-09-10",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -191,6 +235,17 @@
       "source": "polygon"
     },
     {
+      "id": "E33aeb534d22894b3bcef422320fcb42e537a2d5a39f4b940b98e966d480bfee7",
+      "company": "BiomX Inc.",
+      "ticker": "PHGE",
+      "exDate": "2026-09-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E74b207f4d15b0096a811dbc12b64b5ac7571b85ca1563428760882d2b38a5a46",
       "company": "Defiance Daily Target 2X Short IONQ ETF",
       "ticker": "IONZ",
@@ -209,7 +264,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,6 +334,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee14e5c7ada62e70d6493a6755b4d37d8e398d74b404b85bfdd200c17344af355",
+      "company": "XMHHF",
+      "ticker": "XMHHF",
+      "exDate": "2026-09-04",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ee98349b9b881855479540b1f8c4acf47e0d341178fb127ac0299631705d76a51",
       "company": "Amphenol Corporation",
       "ticker": "APH",
@@ -341,7 +407,7 @@
       "ratio": "1-for-125",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +429,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +440,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +528,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +539,7 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +616,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -902,83 +968,6 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb60a22054ad8b03201b2c2b7f81c831fdb6cd268834f9bd6cc69eddebc57d790",
-      "company": "XCHG Limited",
-      "ticker": "XCH",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed95c8e315fad62b7fa6e056f3f9c57e9de3153923fb96ad1d08a54c03d7d511a",
-      "company": "SmartKem, Inc.",
-      "ticker": "SMTK",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E31c9474e1d46381734bd20c795b8758458272ee3bb75c17cc4adc3ef585aaeea",
-      "company": "ServisFirst Bancshares, Inc.",
-      "ticker": "SFBS",
-      "exDate": "2026-08-21",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E881e1a7ee72948dffdc16ba5848c03ef9fbe2d3bf5733371bd72d7aef11af700",
-      "company": "Scinai Immunotherapeutics Ltd.",
-      "ticker": "SCNI",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2b0dad135b16370d98dfab6ef645c04907d297c910a12020502e9e500ff693d7",
-      "company": "Liminatus Pharma, Inc.",
-      "ticker": "LIMN",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E581384a13429d5e9232b588af3ffb0877be91c0df737cb0950c463492209d479",
-      "company": "PMGC Holdings Inc.",
-      "ticker": "ELAB",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5d02564031c65044c6e2686e9cddf71080312b1f2e3b603e2ec2d386b2c02dec",
-      "company": "Bit Origin Ltd",
-      "ticker": "BTOG",
-      "exDate": "2026-08-21",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
