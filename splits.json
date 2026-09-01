@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-31T19:46:17.675Z",
-  "totalRecords": 88,
-  "newThisScan": 6,
+  "lastUpdated": "2026-09-01T17:31:11.400Z",
+  "totalRecords": 73,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
@@ -11,7 +11,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +242,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "id": "Ec25ed884d6a4f13bafe07952fcc9e65e09fec6764d9946db74484b4b55a1e63c",
-      "company": "CBRE Global Real Estate Income Fund",
+      "company": "IGR",
       "ticker": "IGR",
       "exDate": "2026-09-08",
       "ratio": "1-for-3",
@@ -341,7 +341,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -364,6 +364,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eab765781569d547ea9e03ddfd4de51087ca39628c7a505c7dcef145e0ad103dd",
+      "company": "Nuburu, Inc.",
+      "ticker": "BURU",
+      "exDate": "2026-09-02",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -441,6 +452,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb325b64f8bdabbf970e44dd0b1d1297b6dbb703458853a6157da354f14659ac6",
+      "company": "Decibel Cannabis Company Inc.",
+      "ticker": "DBCCF",
+      "exDate": "2026-09-01",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -781,193 +803,6 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E11a312537dc7419bfec888e97d054cacc3dc69aca220356f350990f58d63a5a9",
-      "company": "VCI Global Limited",
-      "ticker": "VCIG",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8ee234864f63116d1cc61fd0086cadf3a21632d10ca9d7721aebf1c92255ca89",
-      "company": "T-REX 2X Long TTD Daily Target ETF",
-      "ticker": "TTDU",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecfe2a6593de7ed699cd8ea4cd63a22af5b488b6e509401372246abbfaaff5b35",
-      "company": "Tikun Olam Cannbit Pharmaceuticals Ltd",
-      "ticker": "TKUNF",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-500",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea1c29ffbd6b88bbb4ebb45beb29f9f13c68e2fb2cbb06dc58a79165e3d045b7b",
-      "company": "T-REX 2X Long TE Daily Target E",
-      "ticker": "TEUP",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E326d84bbae9502697aa5784bd534064c75aa6754a09a71fab66f63a022811725",
-      "company": "Skye Bioscience, Inc.",
-      "ticker": "SKYE",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E06455baf21516a16026c23f81cd0a5cbc08fb8cde8214559615d30a03b20933f",
-      "company": "SCPFD",
-      "ticker": "SCPFD",
-      "exDate": "2026-08-24",
-      "ratio": "187-for-100",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4b079d03155675a4853bb747e316161061c8e4eea1b929d23ab8331ca3874917",
-      "company": "T-REX 2X Long SBET Daily Target",
-      "ticker": "SBTU",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb82a501e7a363c9c9ce738eed805d0d35964f23e3aec8e3716649c92261d99ec",
-      "company": "T-Rex 2X Long MSTR Daily Target",
-      "ticker": "MSTU",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4537baf9ee0429f5c88a71d69a7fea77590d794f6bb31925a3f9ec032c7be799",
-      "company": "InterCure Ltd.",
-      "ticker": "INCR",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4a5b01e40a8838bb70c20eef4732dd490e4250bddc57320f05bfdb48d3ebcf92",
-      "company": "IES Holdings, Inc.",
-      "ticker": "IESC",
-      "exDate": "2026-08-24",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb4fb1aca13146f02f2086301252d55107adcf9439f91b113fbafb53be01e50de",
-      "company": "Greenland Mines Ltd",
-      "ticker": "GRML",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef974c494a920e7d54af8bcf90241430a3f677004da6c93dba44fe231603b5977",
-      "company": "GameSquare Holdings, Inc.",
-      "ticker": "GAME",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E59bd72797926b6dbad1d380171e3e8f660c8dab24755eaef8b1a3e8e83c7d2b3",
-      "company": "T-REX 2X Long CRWV Daily Target",
-      "ticker": "CRWU",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edeae31560975be08c18222eb57b08bba47d0e243f8a6262fcafad1e36f68065c",
-      "company": "T-REX 2X Long CRCL Daily Target",
-      "ticker": "CCUP",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E19d3d8845f4c5c3aa1d608930557557b3f2593b8c2c6d53a58e54cc20209039c",
-      "company": "BRC Inc.",
-      "ticker": "BRCC",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6a41c8877662424d921202a79cc688c31c6b62a9c8c427ca64797a56ee5e985d",
-      "company": "bioAffinity Technologies, Inc.",
-      "ticker": "BIAF",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E969374fbd4657a83f971a42a509f338abfd4e6c5234fcf3ba968ffc1b34620cf",
-      "company": "T-REX 2X Long AXTI Daily Target",
-      "ticker": "AXTU",
-      "exDate": "2026-08-24",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
