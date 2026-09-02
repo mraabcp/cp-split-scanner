@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-09-01T17:31:11.400Z",
-  "totalRecords": 73,
-  "newThisScan": 2,
+  "lastUpdated": "2026-09-02T17:31:48.056Z",
+  "totalRecords": 74,
+  "newThisScan": 3,
   "splits": [
+    {
+      "id": "Edf07d8f6ffa8cbfd82e071a0b22217e621cedacec3f18ab1c6d1f1f9efb1c82a",
+      "company": "Tokyo Electron Limited",
+      "ticker": "TOELY",
+      "exDate": "2026-10-02",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
       "company": "Ibiden Co.,Ltd.",
@@ -192,12 +203,12 @@
     },
     {
       "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short AMD ETF",
       "ticker": "DAMD",
       "exDate": "2026-09-10",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -313,7 +324,7 @@
     },
     {
       "id": "Ec25ed884d6a4f13bafe07952fcc9e65e09fec6764d9946db74484b4b55a1e63c",
-      "company": "IGR",
+      "company": "CBRE Global Real Estate Income Fund",
       "ticker": "IGR",
       "exDate": "2026-09-08",
       "ratio": "1-for-3",
@@ -342,6 +353,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7f543d365b3263634d3c5c47de63c7902f13f3f63fdf55f00e597cbbb139e1c8",
+      "company": "Tantech Holdings Ltd",
+      "ticker": "TANH",
+      "exDate": "2026-09-04",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6e453e6c9ce04732de899837abf470fb13be113a1104586d7aa7e10bd5f2bdd6",
+      "company": "CollPlant Biotechnologies Ltd.",
+      "ticker": "CLGN",
+      "exDate": "2026-09-04",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -374,7 +407,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +495,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -779,28 +812,6 @@
       "ticker": "BBKCF",
       "exDate": "2026-08-26",
       "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E54900860492d8da3724ff20da98c29de5500c46eb6a5d7fcb3cdce3c18bc3079",
-      "company": "Real REMAX Group Inc.",
-      "ticker": "REAX",
-      "exDate": "2026-08-25",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eec344700e3837dafe148fd41e486b6c93cfa498097a5559daeca1f0bed075a52",
-      "company": "Hyperscale Data, Inc.",
-      "ticker": "GPUS",
-      "exDate": "2026-08-25",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
