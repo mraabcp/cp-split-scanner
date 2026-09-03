@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:31:48.056Z",
+  "lastUpdated": "2026-09-03T17:25:02.170Z",
   "totalRecords": 74,
   "newThisScan": 3,
   "splits": [
@@ -11,7 +11,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -56,6 +56,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E70a543806fc2f5099cb723794e6e0d3ad5468dca3f3c0e7074055e7e1f124a1f",
+      "company": "Mega Matrix Inc.",
+      "ticker": "MPU",
+      "exDate": "2026-09-15",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -158,17 +169,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
-      "company": "Defiance Daily Target 2x Long NOK ETF",
-      "ticker": "LNOK",
-      "exDate": "2026-09-10",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E1b829ab380fefaa9461578be2c7ef0af58e25087dc53a43fef1aba7d242e9c9a",
       "company": "Lion Group Holding Ltd.",
       "ticker": "LGHL",
@@ -191,24 +191,13 @@
       "source": "polygon"
     },
     {
-      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
-      "company": "Defiance Daily Target 2x Long K",
-      "ticker": "KEEX",
-      "exDate": "2026-09-10",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short AMD ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "DAMD",
       "exDate": "2026-09-10",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -253,6 +242,28 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
+      "company": "Defiance Daily Target 2x Long NOK ETF",
+      "ticker": "LNOK",
+      "exDate": "2026-09-09",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
+      "company": "Defiance Daily Target 2x Long K",
+      "ticker": "KEEX",
+      "exDate": "2026-09-09",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -312,6 +323,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea950f77de953d9d99f24e0feea494dfe62ed8789fa581de796edc50a7c47443a",
+      "company": "Shengfeng Development Limited",
+      "ticker": "SFWL",
+      "exDate": "2026-09-08",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
       "company": "Megan Holdings Limited",
       "ticker": "MGN",
@@ -331,6 +353,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E72aaeb859068563b6f10e35aa257cb52f51cbdf39b0b3525acd7b68be29dcf55",
+      "company": "BioRestorative Therapies, Inc.",
+      "ticker": "BRTX",
+      "exDate": "2026-09-08",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -363,7 +396,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +407,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -742,7 +775,7 @@
     },
     {
       "id": "Ed42330769dca47bf45a3fcf5ad738c88e4ba96cd958a711df6aaf3b4768fc317",
-      "company": "Interpace Biosciences, Inc.",
+      "company": "Interpace Biosciences Inc",
       "ticker": "IDXG",
       "exDate": "2026-08-27",
       "ratio": "1-for-5",
@@ -775,43 +808,10 @@
     },
     {
       "id": "E2c910903ceb2e734e5132c476d40bfaf9c7cf6a645f2c0b8d4295cb27e5b0e0e",
-      "company": "GlobalTech Corporation",
+      "company": "GlobalTech Corp",
       "ticker": "GLTK",
       "exDate": "2026-08-27",
       "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E09af3d0040e84743959ac7306dbadead86fa09de84d52781a635ebbe0ef8a007",
-      "company": "Vision Marine Technologies Inc.",
-      "ticker": "VMAR",
-      "exDate": "2026-08-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5a19da1bf2894de1ccef21330ce06cb172226278aacf4eca1cadc864bdb18700",
-      "company": "PDI Gold Limited",
-      "ticker": "PDIYF",
-      "exDate": "2026-08-26",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebdcca3578e8eaaefa752569a8bde0831e60c41e5eb65b4b5e25b8214b561b251",
-      "company": "Surge Digital Inc.",
-      "ticker": "BBKCF",
-      "exDate": "2026-08-26",
-      "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
