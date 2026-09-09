@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-09-08T17:41:25.151Z",
-  "totalRecords": 67,
-  "newThisScan": 0,
+  "lastUpdated": "2026-09-09T17:27:20.284Z",
+  "totalRecords": 63,
+  "newThisScan": 5,
   "splits": [
+    {
+      "id": "E0faa7d94e6d489275a0263279117ad0ebdd6372655c93c6158a6709c28fedfce",
+      "company": "Kioxia Holdings Corporation",
+      "ticker": "KXIAY",
+      "exDate": "2026-10-09",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecf2263d038794d0f275e4ec92f12169394b3221ad83c38cfdffef14724b73a2c",
+      "company": "Isetan Mitsukoshi Holdings Ltd.",
+      "ticker": "IMHDY",
+      "exDate": "2026-10-09",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea4cd88be2183271fffbe5a7fd4c6f5cfb09736089eee27eb792d584fd909203e",
+      "company": "Daiwa House Industry Co., Ltd.",
+      "ticker": "DWAHY",
+      "exDate": "2026-10-09",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E70c2eb452e21e8b91d42508f9821696a025a36a9edbd9fc55da2f897a6d8bafa",
       "company": "iShares Ethereum Trust ETF",
@@ -191,14 +224,14 @@
       "source": "polygon"
     },
     {
-      "id": "Ec7ce6f33c3a23b955fc9be025e655e609f8bae7b26df99a58bf28e9750f6ff4a",
-      "company": "CLSIF",
-      "ticker": "CLSIF",
-      "exDate": "2026-09-14",
+      "id": "E5aa9ca7e69df40324e9feb0d9fc61bc0bbea7096b8ea7889a194da6d39f44b6e",
+      "company": "Gauzy Ltd.",
+      "ticker": "GAUZ",
+      "exDate": "2026-09-11",
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -214,12 +247,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -252,17 +285,6 @@
       "exDate": "2026-09-10",
       "ratio": "1-for-5",
       "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
-      "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
-      "ticker": "OSCX",
-      "exDate": "2026-09-10",
-      "ratio": "3-for-1",
-      "type": "forward",
       "isETF": true,
       "isNew": false,
       "source": "polygon"
@@ -367,6 +389,17 @@
       "source": "polygon"
     },
     {
+      "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
+      "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
+      "ticker": "OSCX",
+      "exDate": "2026-09-09",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
       "company": "Defiance Daily Target 2x Long NOK ETF",
       "ticker": "LNOK",
@@ -386,6 +419,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7fd8bc6ab7b09ce39360da2b74cf0a99898645efceeede859c08a68ec7d473cc",
+      "company": "Jubilant Flame International, Ltd.",
+      "ticker": "JFIL",
+      "exDate": "2026-09-09",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -647,94 +691,6 @@
       "ticker": "BURU",
       "exDate": "2026-09-02",
       "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E21f7207934c87553ab5b4231a99c1f3f03db19c51805727e3e0ef2b4f9595eb0",
-      "company": "Rush Enterprises, Inc.",
-      "ticker": "RUSHB",
-      "exDate": "2026-09-01",
-      "ratio": "3-for-2",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecf25d2c0d8ef5372f0f1e9af0fb21c72bd0ef6cccf55b2f6859d2a11fd024a3f",
-      "company": "Rush Enterprises, Inc.",
-      "ticker": "RUSHA",
-      "exDate": "2026-09-01",
-      "ratio": "3-for-2",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8ca42103fe33f5f234324112733203f56ccdddb352c36c946bfc2d2ae98d7386",
-      "company": "NewGenIvf Group Limited",
-      "ticker": "NIVF",
-      "exDate": "2026-09-01",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E67c2e560b803025c37e8f25ad7899dfd9137db13184b752f1f5d2b76b366b8f7",
-      "company": "Lucas GC Limited",
-      "ticker": "LGCL",
-      "exDate": "2026-09-01",
-      "ratio": "1-for-125",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E437c914f74d8ff890e18863457ef44bfc318962db4be55894df3e239e36dc222",
-      "company": "Kairos Pharma, Ltd.",
-      "ticker": "KAPA",
-      "exDate": "2026-09-01",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec83b3d738d43ba323185e3e8ddf838be08fb1125058a933880d04176def5b1c6",
-      "company": "Founder Group Limited",
-      "ticker": "FGL",
-      "exDate": "2026-09-01",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1299e752f2973db1dc610285ea2697137bdcce577a99c8b35c32fb4ec4dec3bb",
-      "company": "ENvue Medical, Inc.",
-      "ticker": "FEED",
-      "exDate": "2026-09-01",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb325b64f8bdabbf970e44dd0b1d1297b6dbb703458853a6157da354f14659ac6",
-      "company": "Decibel Cannabis Company Inc.",
-      "ticker": "DBCCF",
-      "exDate": "2026-09-01",
-      "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
