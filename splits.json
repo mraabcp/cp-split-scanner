@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-09T17:27:20.284Z",
-  "totalRecords": 63,
+  "lastUpdated": "2026-09-10T17:25:18.967Z",
+  "totalRecords": 66,
   "newThisScan": 5,
   "splits": [
     {
@@ -11,7 +11,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -213,6 +213,28 @@
       "source": "polygon"
     },
     {
+      "id": "E5fe114bda5ef8ce9e4042853df70ddc4d4c3881d279bb021eab4cebacc30be35",
+      "company": "Linkage Global Inc",
+      "ticker": "UZX",
+      "exDate": "2026-09-18",
+      "ratio": "1-for-23",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
+      "company": "Megan Holdings Limited",
+      "ticker": "MGN",
+      "exDate": "2026-09-17",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E70a543806fc2f5099cb723794e6e0d3ad5468dca3f3c0e7074055e7e1f124a1f",
       "company": "Mega Matrix Inc.",
       "ticker": "MPU",
@@ -224,6 +246,39 @@
       "source": "polygon"
     },
     {
+      "id": "Ef3b98fa995f9f71d91a064ea63bf1f8f0f8a12d3f38519002b96cdf55142c62e",
+      "company": "Pop Culture Group Co., Ltd",
+      "ticker": "CPOP",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E211c5a5ec914a007fcf21f5b3031a5598751b7805fabe8273fe3fbe9090d580d",
+      "company": "New Fortress Energy Inc.",
+      "ticker": "NFE",
+      "exDate": "2026-09-11",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Edb6f2125b6a10682547046ea7c0ef7f8b1d6acf21d22a68089858fdcfc3c0de2",
+      "company": "Gossamer Bio, Inc.",
+      "ticker": "GOSS",
+      "exDate": "2026-09-11",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E5aa9ca7e69df40324e9feb0d9fc61bc0bbea7096b8ea7889a194da6d39f44b6e",
       "company": "Gauzy Ltd.",
       "ticker": "GAUZ",
@@ -231,7 +286,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -247,12 +302,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short TSM ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -331,6 +386,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E32827ba6f19405e21fe63b3e4743543a2058980a30e21d8263363e803ad68f44",
+      "company": "Aurwest Resources Corporation",
+      "ticker": "AURWF",
+      "exDate": "2026-09-10",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -429,7 +495,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -526,17 +592,6 @@
       "ticker": "SFWL",
       "exDate": "2026-09-08",
       "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
-      "company": "Megan Holdings Limited",
-      "ticker": "MGN",
-      "exDate": "2026-09-08",
-      "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -670,28 +725,6 @@
       "exDate": "2026-09-03",
       "ratio": "2-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2da29031f9950d5e3bf8be8417d3283a0dce03f548a023339ba88b4fc2b87041",
-      "company": "MITNF",
-      "ticker": "MITNF",
-      "exDate": "2026-09-02",
-      "ratio": "203-for-200",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eab765781569d547ea9e03ddfd4de51087ca39628c7a505c7dcef145e0ad103dd",
-      "company": "Nuburu, Inc.",
-      "ticker": "BURU",
-      "exDate": "2026-09-02",
-      "ratio": "1-for-40",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
