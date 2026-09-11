@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-10T17:25:18.967Z",
-  "totalRecords": 66,
-  "newThisScan": 5,
+  "lastUpdated": "2026-09-11T17:26:42.090Z",
+  "totalRecords": 75,
+  "newThisScan": 10,
   "splits": [
     {
       "id": "E0faa7d94e6d489275a0263279117ad0ebdd6372655c93c6158a6709c28fedfce",
@@ -34,6 +34,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E45fa8c1e8f11792ed413918a83eaee50e4249b088109746889e2b21793a95836",
+      "company": "TOPPAN Holdings Inc.",
+      "ticker": "TOPPY",
+      "exDate": "2026-10-07",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -92,6 +103,17 @@
       "source": "polygon"
     },
     {
+      "id": "E47dc3b60a6cffee2e3f0d3b51bc306e4347b5b5e1b5f7c2fb6bf59c5ca97278f",
+      "company": "TOPPAN Holdings Inc.",
+      "ticker": "TONPF",
+      "exDate": "2026-09-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eff462532edf0e18afabcf95b4026bb6fb133d3bf71eb0b2134b204d041ed35de",
       "company": "Toyoda Gosei Co., Ltd.",
       "ticker": "TGOSF",
@@ -111,6 +133,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecbda83cc6b747f89e4413e7b821254acb92fef540730c677e16c0a0960256762",
+      "company": "Immutep Limited",
+      "ticker": "IMMP",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -220,7 +253,7 @@
       "ratio": "1-for-23",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -238,11 +271,77 @@
       "id": "E70a543806fc2f5099cb723794e6e0d3ad5468dca3f3c0e7074055e7e1f124a1f",
       "company": "Mega Matrix Inc.",
       "ticker": "MPU",
-      "exDate": "2026-09-15",
+      "exDate": "2026-09-16",
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea3d695d7701d733cb512e993cdf37c7bfd43f120b72118e0900fa7dd91e68ca8",
+      "company": "Ocean Power Technologies, Inc.",
+      "ticker": "OPTT",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E95a4bbf7277bfc4377af987561fbe84f2fdcf72756712768ed617692760cb3ee",
+      "company": "NextNRG, Inc.",
+      "ticker": "NXXT",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Edc26211adfc10b62fb12cba8a151b211c507f99a103b4b416f0503c866e6f9b4",
+      "company": "NeuroSense Therapeutics Ltd.",
+      "ticker": "NRSN",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E211c5a5ec914a007fcf21f5b3031a5598751b7805fabe8273fe3fbe9090d580d",
+      "company": "New Fortress Energy Inc.",
+      "ticker": "NFE",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E139bbc731a3e6ff2d5a1641761178cb473880cdf2d9d87c055af2610e87ba4fa",
+      "company": "Professional Diversity Network, Inc.",
+      "ticker": "IPDN",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee3ea40e358a7ce7bab7a99744464d2cd0b189d3bea99b49ca07f4346e0ad2f10",
+      "company": "HUB Cyber Security Ltd.",
+      "ticker": "HUBC",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -253,18 +352,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E211c5a5ec914a007fcf21f5b3031a5598751b7805fabe8273fe3fbe9090d580d",
-      "company": "New Fortress Energy Inc.",
-      "ticker": "NFE",
-      "exDate": "2026-09-11",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -273,6 +361,17 @@
       "ticker": "GOSS",
       "exDate": "2026-09-11",
       "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eab3026b1ba2f4961d40f48ce4a1da35e30379d7f34aef6909be08cc08c168085",
+      "company": "Global Gold Corporation",
+      "ticker": "GBGD",
+      "exDate": "2026-09-11",
+      "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -301,13 +400,24 @@
       "source": "polygon"
     },
     {
+      "id": "E29f254d8557b1b6ac9186b6018c25d28216226f50694faa5fabfb6a756a4cd15",
+      "company": "Bonjour Holdings Limited",
+      "ticker": "BJURF",
+      "exDate": "2026-09-11",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -396,7 +506,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,17 +550,6 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E33aeb534d22894b3bcef422320fcb42e537a2d5a39f4b940b98e966d480bfee7",
-      "company": "BiomX Inc.",
-      "ticker": "PHGE",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -506,6 +605,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E33aeb534d22894b3bcef422320fcb42e537a2d5a39f4b940b98e966d480bfee7",
+      "company": "HLSQ",
+      "ticker": "HLSQ",
+      "exDate": "2026-09-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -714,17 +824,6 @@
       "exDate": "2026-09-04",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee98349b9b881855479540b1f8c4acf47e0d341178fb127ac0299631705d76a51",
-      "company": "Amphenol Corporation",
-      "ticker": "APH",
-      "exDate": "2026-09-03",
-      "ratio": "2-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
