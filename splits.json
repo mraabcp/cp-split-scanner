@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-09-11T17:26:42.090Z",
-  "totalRecords": 75,
-  "newThisScan": 10,
+  "lastUpdated": "2026-09-14T18:58:36.611Z",
+  "totalRecords": 78,
+  "newThisScan": 6,
   "splits": [
+    {
+      "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
+      "company": "IDTID",
+      "ticker": "IDTID",
+      "exDate": "2026-10-12",
+      "ratio": "192-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E0faa7d94e6d489275a0263279117ad0ebdd6372655c93c6158a6709c28fedfce",
       "company": "Kioxia Holdings Corporation",
@@ -44,7 +55,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -81,6 +92,17 @@
       "source": "polygon"
     },
     {
+      "id": "E415fc54b50dc6a7d9f2263db589749a615fa20bca7eac770817527fc4b2a97b5",
+      "company": "Niterra Co., Ltd.",
+      "ticker": "NGKSY",
+      "exDate": "2026-10-02",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
       "company": "Ibiden Co.,Ltd.",
       "ticker": "IBIDY",
@@ -110,7 +132,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +165,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,6 +301,28 @@
       "source": "polygon"
     },
     {
+      "id": "E4144385824a319d46bd67a53764685e13a86109fe0b7cbcfaccdb14841a669b5",
+      "company": "ICZOOM Group Inc.",
+      "ticker": "IZM",
+      "exDate": "2026-09-15",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec5aabe28e0be5b62fede3ba2d2cd14ba3c9c9e176c90bc2e1c4526de19695d5a",
+      "company": "RPTLF",
+      "ticker": "RPTLF",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea3d695d7701d733cb512e993cdf37c7bfd43f120b72118e0900fa7dd91e68ca8",
       "company": "Ocean Power Technologies, Inc.",
       "ticker": "OPTT",
@@ -286,7 +330,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +341,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -306,6 +350,17 @@
       "ticker": "NRSN",
       "exDate": "2026-09-14",
       "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6de83b6dd62ddf06437b079a245eac2350e5d4c3a06e1f8030e81d80f56edf70",
+      "company": "NKTP",
+      "ticker": "NKTP",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -323,6 +378,17 @@
       "source": "polygon"
     },
     {
+      "id": "E37213964b7ad5498d7a163ae2a7e70e85965bc050f28eb17d19696110844cc43",
+      "company": "Lion Copper and Gold Corp.",
+      "ticker": "LCGMF",
+      "exDate": "2026-09-14",
+      "ratio": "1-for-27",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E139bbc731a3e6ff2d5a1641761178cb473880cdf2d9d87c055af2610e87ba4fa",
       "company": "Professional Diversity Network, Inc.",
       "ticker": "IPDN",
@@ -330,7 +396,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +407,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +440,7 @@
       "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,17 +473,17 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short TSM ETF",
+      "company": "Defiance Daily Target 2X Short ",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -610,7 +676,7 @@
     },
     {
       "id": "E33aeb534d22894b3bcef422320fcb42e537a2d5a39f4b940b98e966d480bfee7",
-      "company": "HLSQ",
+      "company": "Tessera Defense and Homeland Se",
       "ticker": "HLSQ",
       "exDate": "2026-09-09",
       "ratio": "1-for-10",
@@ -790,39 +856,6 @@
       "ticker": "AIXI",
       "exDate": "2026-09-08",
       "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee14e5c7ada62e70d6493a6755b4d37d8e398d74b404b85bfdd200c17344af355",
-      "company": "XMHHF",
-      "ticker": "XMHHF",
-      "exDate": "2026-09-04",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7f543d365b3263634d3c5c47de63c7902f13f3f63fdf55f00e597cbbb139e1c8",
-      "company": "Tantech Holdings Ltd",
-      "ticker": "TANH",
-      "exDate": "2026-09-04",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6e453e6c9ce04732de899837abf470fb13be113a1104586d7aa7e10bd5f2bdd6",
-      "company": "CollPlant Biotechnologies Ltd.",
-      "ticker": "CLGN",
-      "exDate": "2026-09-04",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
