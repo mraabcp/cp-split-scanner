@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-14T18:58:36.611Z",
-  "totalRecords": 78,
-  "newThisScan": 6,
+  "lastUpdated": "2026-09-15T17:51:31.967Z",
+  "totalRecords": 81,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -11,7 +11,7 @@
       "ratio": "192-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -301,11 +301,44 @@
       "source": "polygon"
     },
     {
+      "id": "E1bee85377787084b38c338827ca3b6ceb1284724cf6fab93e6d15339806beab7",
+      "company": "Sparxx Corporation",
+      "ticker": "SPQS",
+      "exDate": "2026-09-15",
+      "ratio": "1-for-1000",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4144385824a319d46bd67a53764685e13a86109fe0b7cbcfaccdb14841a669b5",
       "company": "ICZOOM Group Inc.",
       "ticker": "IZM",
       "exDate": "2026-09-15",
       "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E6fe2cde216bf3fbed18fc6f803a748cec24c975d20641e6c5966db4fa4c78c9a",
+      "company": "1 Finanx AI Technologies, Inc.",
+      "ticker": "FUXA",
+      "exDate": "2026-09-15",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec0b1ec2218c78965e78bb9b6aeca692f04cbea4d6ff5d586bf98b8f1787524db",
+      "company": "DAZSF",
+      "ticker": "DAZSF",
+      "exDate": "2026-09-15",
+      "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -319,7 +352,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +396,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +418,7 @@
       "ratio": "1-for-27",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -478,12 +511,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -764,7 +797,7 @@
     },
     {
       "id": "Ea950f77de953d9d99f24e0feea494dfe62ed8789fa581de796edc50a7c47443a",
-      "company": "Shengfeng Development Limited",
+      "company": "SFWL",
       "ticker": "SFWL",
       "exDate": "2026-09-08",
       "ratio": "1-for-15",
