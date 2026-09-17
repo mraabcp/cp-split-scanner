@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-16T17:53:13.945Z",
-  "totalRecords": 70,
+  "lastUpdated": "2026-09-17T17:52:42.215Z",
+  "totalRecords": 61,
   "newThisScan": 3,
   "splits": [
     {
@@ -34,6 +34,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9b9bc0ab83bfbf9b1ac377acab535ffb2787e785eaa8d98028000aab18bf25ce",
+      "company": "WisdomTree Japan Hedged Equity Fund",
+      "ticker": "DXJ",
+      "exDate": "2026-10-09",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -99,7 +110,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,6 +290,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eba0bdc25e6f23e8923aec2bf3dd4a6ef279ab2475dc5c8ddc102a06940c307d1",
+      "company": "E-Power Inc.",
+      "ticker": "EPOW",
+      "exDate": "2026-09-18",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E36b6842f7455a1d807affc25adebb3ed452e43bf511bca5865c5c781cb20b675",
       "company": "Intercont (Cayman) Limited",
       "ticker": "NCT",
@@ -286,7 +308,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -306,6 +328,17 @@
       "ticker": "JAGX",
       "exDate": "2026-09-17",
       "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E95901aee5de0b60aa4209d37b3113a7ef052b2bf709208d8cbda249373c3f12c",
+      "company": "Trafalgar International, Inc.",
+      "ticker": "GCAN",
+      "exDate": "2026-09-17",
+      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -522,7 +555,7 @@
     },
     {
       "id": "E29f254d8557b1b6ac9186b6018c25d28216226f50694faa5fabfb6a756a4cd15",
-      "company": "Bonjour Holdings Limited",
+      "company": "Bonjour Holdings Ltd",
       "ticker": "BJURF",
       "exDate": "2026-09-11",
       "ratio": "1-for-30",
@@ -533,12 +566,12 @@
     },
     {
       "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short ",
+      "company": "Defiance Daily Target 2X Short TSM ETF",
       "ticker": "STSM",
       "exDate": "2026-09-10",
       "ratio": "1-for-2",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -638,138 +671,6 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb8fcf7a1a1765fa82b691bc18d16ce4a6e30e34d58538c991b9f9a4d530ad2da",
-      "company": "U Power Limited",
-      "ticker": "UCAR",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E22cebd7b179bc161c2bd674658f1e09c466634535833055087420518322ec53e",
-      "company": "Defiance Daily Target 2X Short RKLB ETF",
-      "ticker": "RKLZ",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7f2368c2014aec49618caf1ecca406203166ef2bee3ce620b6079f0b5d7c69d6",
-      "company": "Defiance Daily Target 2X Long RCAT ETF",
-      "ticker": "RCAX",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0c8655e2610b3a6923725ee951ce15182f84502814ad2ef27ee7fe4dce3d6511",
-      "company": "Tidal Trust II - Defiance Daily Target 2X Long OSCR ETF",
-      "ticker": "OSCX",
-      "exDate": "2026-09-09",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec778ff3af2f20c22f10aa4afc44d06d2fb52577204c63febb4b0c8fad267062b",
-      "company": "Defiance Daily Target 2x Long NOK ETF",
-      "ticker": "LNOK",
-      "exDate": "2026-09-09",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee4c9e7bf382e49945a7617d9659abade3659dcdf7fb3e95f462d8590193df3cf",
-      "company": "Defiance Daily Target 2x Long K",
-      "ticker": "KEEX",
-      "exDate": "2026-09-09",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7fd8bc6ab7b09ce39360da2b74cf0a99898645efceeede859c08a68ec7d473cc",
-      "company": "Jubilant Flame International, Ltd.",
-      "ticker": "JFIL",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E74b207f4d15b0096a811dbc12b64b5ac7571b85ca1563428760882d2b38a5a46",
-      "company": "Defiance Daily Target 2X Short IONQ ETF",
-      "ticker": "IONZ",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E33aeb534d22894b3bcef422320fcb42e537a2d5a39f4b940b98e966d480bfee7",
-      "company": "Tessera Defense and Homeland Se",
-      "ticker": "HLSQ",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeb999a42fe21c5603ec13eb22047175e8bebfe05a805f065d8d6eed4481d6159",
-      "company": "Cyclerion Therapeutics, Inc.",
-      "ticker": "CYCN",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1fddafa6ce96e822a89f6c958309c9aab48807e849031e30cd35c587c2f8c309",
-      "company": "Defiance Daily Target 2X Long AVAV ETF",
-      "ticker": "AVXX",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E362185e658ee65a648f85eb58a71dbf146a60fb5e8cad5fe1a6745b0a4e06277",
-      "company": "Alpha Compute Corp",
-      "ticker": "ALP",
-      "exDate": "2026-09-09",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
