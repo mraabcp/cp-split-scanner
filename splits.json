@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-17T17:52:42.215Z",
-  "totalRecords": 61,
-  "newThisScan": 3,
+  "lastUpdated": "2026-09-18T17:23:46.826Z",
+  "totalRecords": 55,
+  "newThisScan": 4,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -44,7 +44,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -282,11 +282,33 @@
       "id": "E5fe114bda5ef8ce9e4042853df70ddc4d4c3881d279bb021eab4cebacc30be35",
       "company": "Linkage Global Inc",
       "ticker": "UZX",
-      "exDate": "2026-09-18",
+      "exDate": "2026-09-21",
       "ratio": "1-for-23",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3dbf78130a2de05def74f392e4a3a77ae31341007e14ca28b53e34ead88c283d",
+      "company": "Planet Ventures Inc.",
+      "ticker": "PNXPF",
+      "exDate": "2026-09-18",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed57ce14596b1d476718f84fd7293cbbf4a1ed9c3712efafeb88fda9976d12532",
+      "company": "Leocor Mining Inc.",
+      "ticker": "LECRF",
+      "exDate": "2026-09-18",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -295,6 +317,17 @@
       "ticker": "EPOW",
       "exDate": "2026-09-18",
       "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E04cb14323435029780fec534ee723ef42e78c9ef451bbd0eb6559e67ca21bf88",
+      "company": "CUEXF",
+      "ticker": "CUEXF",
+      "exDate": "2026-09-18",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -341,7 +374,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -510,6 +543,17 @@
       "source": "polygon"
     },
     {
+      "id": "E805e3490ae9abb50a463089b6fe80b49e93139b00311337a33f8ac4bccc8f446",
+      "company": "Prudential plc",
+      "ticker": "PUKPF",
+      "exDate": "2026-09-11",
+      "ratio": "150-for-149",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Edb6f2125b6a10682547046ea7c0ef7f8b1d6acf21d22a68089858fdcfc3c0de2",
       "company": "Gossamer Bio, Inc.",
       "ticker": "GOSS",
@@ -561,116 +605,6 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed848d9a9faf70ee21e2f6281d8373555aa59d141560b7eb5ff5802399894a2a1",
-      "company": "Defiance Daily Target 2X Short TSM ETF",
-      "ticker": "STSM",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee07f1bdb6939a34734e3147b949b54613ff4a97bb526f1a5c7cf4ede5aabd5ae",
-      "company": "Defiance Daily Target 2X Short SMCI ETF",
-      "ticker": "SMCZ",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb65f5d04f0fd6cceb7aa60f4456c09884b40be5da2c36a5456a9a06118f3f218",
-      "company": "Defiance Daily Target 2x Short ",
-      "ticker": "RGTZ",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb11cd19b577f307775bdea7dc01d2fe2d7bdc23fba4182d27bc0416738770f05",
-      "company": "Defiance Daily Target 2x Short ",
-      "ticker": "QBTZ",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4e119589a331593ed7923d5e718b0578b57109efed20f358bf751de6c372fc08",
-      "company": "Defiance Daily Target 2X Long OKLO ETF",
-      "ticker": "OKLL",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1b829ab380fefaa9461578be2c7ef0af58e25087dc53a43fef1aba7d242e9c9a",
-      "company": "Lion Group Holding Ltd.",
-      "ticker": "LGHL",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eca8416795c00789e462309a6f381fd7006b1809c22b8ed871ce74b282d1b3ed1",
-      "company": "Lument Finance Trust, Inc.",
-      "ticker": "LFT",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1d4b2dd5e9bf94edea24498e5c02d5b5f8f691813ad98a72b30320c590d68473",
-      "company": "Defiance Daily Target 2X Short ",
-      "ticker": "DAMD",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E32827ba6f19405e21fe63b3e4743543a2058980a30e21d8263363e803ad68f44",
-      "company": "Aurwest Resources Corporation",
-      "ticker": "AURWF",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E06e920abc5bf616c7f4abf343ee2cc16d7160a93a7f2df6616163da62e49a462",
-      "company": "Defiance Daily Target 2X Short ASTS ETF",
-      "ticker": "ASTN",
-      "exDate": "2026-09-10",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
