@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-18T17:23:46.826Z",
-  "totalRecords": 55,
-  "newThisScan": 4,
+  "lastUpdated": "2026-09-21T18:59:40.767Z",
+  "totalRecords": 56,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -70,6 +70,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ef3809df4c1dacf41c63775e5241249d958d500fc95f288ab8e9c4440478899e6",
+      "company": "Tokio Marine Holdings, Inc.",
+      "ticker": "TKOMY",
+      "exDate": "2026-10-07",
+      "ratio": "15-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E70c2eb452e21e8b91d42508f9821696a025a36a9edbd9fc55da2f897a6d8bafa",
       "company": "iShares Ethereum Trust ETF",
       "ticker": "ETHA",
@@ -111,6 +122,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E5070d9270235ff864a5e5a75b62e1cea705beed2fef511187385d98e8052cfe9",
+      "company": "The Zcash ETF",
+      "ticker": "ZCSH",
+      "exDate": "2026-09-30",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -169,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "E3ba86c474a5dbad143488cfc4661d2724519f4e4ad6f1b3be4d5c797b03bfa5e",
+      "company": "Matinas BioPharma Holdings, Inc.",
+      "ticker": "MTNB",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ecbda83cc6b747f89e4413e7b821254acb92fef540730c677e16c0a0960256762",
       "company": "Immutep Limited",
       "ticker": "IMMP",
@@ -177,6 +210,39 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E69f58f8f135fea21114164cc4a890548aa03d921e179af6eb34aa9cfbe552d15",
+      "company": "Delixy Holdings Limited",
+      "ticker": "DLXY",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2d004083859b1a954ee5dc95afaac4aeb363512c8ad9a8a27e3aa6e59ad3cd3a",
+      "company": "Wheeler Real Estate Investment Trust, Inc.",
+      "ticker": "WHLR",
+      "exDate": "2026-09-22",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1eb6681669540d96ea115c3a267fd2a2e924f7fce51123c31ee8375260df0220",
+      "company": "VisionWave Holdings, Inc.",
+      "ticker": "VWAV",
+      "exDate": "2026-09-22",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -290,6 +356,17 @@
       "source": "polygon"
     },
     {
+      "id": "E212db39adbda08f4ff096de0a68ad28f0228d122b3c9f3d275d160ec8ccd4f08",
+      "company": "Fjordland Exploration Inc.",
+      "ticker": "FEXXF",
+      "exDate": "2026-09-21",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3dbf78130a2de05def74f392e4a3a77ae31341007e14ca28b53e34ead88c283d",
       "company": "Planet Ventures Inc.",
       "ticker": "PNXPF",
@@ -297,7 +374,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +385,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +407,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -500,7 +577,7 @@
     },
     {
       "id": "E37213964b7ad5498d7a163ae2a7e70e85965bc050f28eb17d19696110844cc43",
-      "company": "Lion Copper and Gold Corp.",
+      "company": "LCGMF",
       "ticker": "LCGMF",
       "exDate": "2026-09-14",
       "ratio": "1-for-27",
@@ -537,72 +614,6 @@
       "ticker": "CPOP",
       "exDate": "2026-09-14",
       "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E805e3490ae9abb50a463089b6fe80b49e93139b00311337a33f8ac4bccc8f446",
-      "company": "Prudential plc",
-      "ticker": "PUKPF",
-      "exDate": "2026-09-11",
-      "ratio": "150-for-149",
-      "type": "forward",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Edb6f2125b6a10682547046ea7c0ef7f8b1d6acf21d22a68089858fdcfc3c0de2",
-      "company": "Gossamer Bio, Inc.",
-      "ticker": "GOSS",
-      "exDate": "2026-09-11",
-      "ratio": "1-for-80",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eab3026b1ba2f4961d40f48ce4a1da35e30379d7f34aef6909be08cc08c168085",
-      "company": "Global Gold Corporation",
-      "ticker": "GBGD",
-      "exDate": "2026-09-11",
-      "ratio": "1-for-1000",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5aa9ca7e69df40324e9feb0d9fc61bc0bbea7096b8ea7889a194da6d39f44b6e",
-      "company": "Gauzy Ltd.",
-      "ticker": "GAUZ",
-      "exDate": "2026-09-11",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee3f7b4860961651c767c65c59fb03ee022d33371e7773eb91b51c4cf6d5defe3",
-      "company": "DLHGF",
-      "ticker": "DLHGF",
-      "exDate": "2026-09-11",
-      "ratio": "51-for-50",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E29f254d8557b1b6ac9186b6018c25d28216226f50694faa5fabfb6a756a4cd15",
-      "company": "Bonjour Holdings Ltd",
-      "ticker": "BJURF",
-      "exDate": "2026-09-11",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
