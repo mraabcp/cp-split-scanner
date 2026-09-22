@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-21T18:59:40.767Z",
-  "totalRecords": 56,
-  "newThisScan": 7,
+  "lastUpdated": "2026-09-22T17:50:51.765Z",
+  "totalRecords": 52,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
@@ -77,7 +77,7 @@
       "ratio": "15-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +132,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -180,6 +180,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6354bf0bf8880a84ec3efd09c43950b47e9859bee02fda29f34c83da0dcb4f65",
+      "company": "Suzuken Co., Ltd.",
+      "ticker": "SZUKF",
+      "exDate": "2026-09-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed309705d3b2c1d23ef1243624929c5dd9bdb6a3bf898984097685bc44438ed30",
       "company": "SNKUF",
       "ticker": "SNKUF",
@@ -191,6 +202,61 @@
       "source": "polygon"
     },
     {
+      "id": "E980d3d6daed746fb0b88966b1c67c1c6735a62721c94421a7dd3f130283fa371",
+      "company": "Sumitomo Mitsui Financial Group, Inc.",
+      "ticker": "SMFNF",
+      "exDate": "2026-09-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef85d6ede5731eda59bfa9a59446f73063218f0eca25f39ea03803ef2d110c058",
+      "company": "Organo Corporation",
+      "ticker": "ORGJF",
+      "exDate": "2026-09-29",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3586dd61959fce22e9f63b269b2fcc86c4fe0f4014e95240f2181caac93ad21b",
+      "company": "KYBIF",
+      "ticker": "KYBIF",
+      "exDate": "2026-09-29",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8b2dad2d8585849af9d3e27ee060d86f66984e90ef36f893b76ad4ae4cb1cf9e",
+      "company": "KIYOF",
+      "ticker": "KIYOF",
+      "exDate": "2026-09-29",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Edc945e5f46467c822c146ecccbe2ea6aa01a46251c3d66bda37a910b7c4d0067",
+      "company": "Daiwa House Industry Co., Ltd.",
+      "ticker": "DWAHF",
+      "exDate": "2026-09-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3ba86c474a5dbad143488cfc4661d2724519f4e4ad6f1b3be4d5c797b03bfa5e",
       "company": "Matinas BioPharma Holdings, Inc.",
       "ticker": "MTNB",
@@ -198,7 +264,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,7 +286,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +297,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +308,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +429,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -504,116 +570,6 @@
       "ticker": "DAZSF",
       "exDate": "2026-09-15",
       "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec5aabe28e0be5b62fede3ba2d2cd14ba3c9c9e176c90bc2e1c4526de19695d5a",
-      "company": "RPTLF",
-      "ticker": "RPTLF",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea3d695d7701d733cb512e993cdf37c7bfd43f120b72118e0900fa7dd91e68ca8",
-      "company": "Ocean Power Technologies, Inc.",
-      "ticker": "OPTT",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E95a4bbf7277bfc4377af987561fbe84f2fdcf72756712768ed617692760cb3ee",
-      "company": "NextNRG, Inc.",
-      "ticker": "NXXT",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edc26211adfc10b62fb12cba8a151b211c507f99a103b4b416f0503c866e6f9b4",
-      "company": "NeuroSense Therapeutics Ltd.",
-      "ticker": "NRSN",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6de83b6dd62ddf06437b079a245eac2350e5d4c3a06e1f8030e81d80f56edf70",
-      "company": "NKTP",
-      "ticker": "NKTP",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E211c5a5ec914a007fcf21f5b3031a5598751b7805fabe8273fe3fbe9090d580d",
-      "company": "New Fortress Energy Inc.",
-      "ticker": "NFE",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E37213964b7ad5498d7a163ae2a7e70e85965bc050f28eb17d19696110844cc43",
-      "company": "LCGMF",
-      "ticker": "LCGMF",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-27",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E139bbc731a3e6ff2d5a1641761178cb473880cdf2d9d87c055af2610e87ba4fa",
-      "company": "Professional Diversity Network, Inc.",
-      "ticker": "IPDN",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee3ea40e358a7ce7bab7a99744464d2cd0b189d3bea99b49ca07f4346e0ad2f10",
-      "company": "HUB Cyber Security Ltd.",
-      "ticker": "HUBC",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef3b98fa995f9f71d91a064ea63bf1f8f0f8a12d3f38519002b96cdf55142c62e",
-      "company": "Pop Culture Group Co., Ltd",
-      "ticker": "CPOP",
-      "exDate": "2026-09-14",
-      "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
