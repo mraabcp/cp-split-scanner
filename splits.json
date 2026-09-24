@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-23T18:06:34.834Z",
-  "totalRecords": 75,
-  "newThisScan": 27,
+  "lastUpdated": "2026-09-24T18:05:29.985Z",
+  "totalRecords": 84,
+  "newThisScan": 11,
   "splits": [
     {
       "id": "Ea23ca33b398e925eb81bdb2df4794ae7b97f541cd48e8e56bdcad078729143f4",
@@ -11,7 +11,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -92,6 +92,39 @@
       "source": "polygon"
     },
     {
+      "id": "E1e5f9f4889837c2efdddf5b91ca33c0634976551c4ca16c57dc2180c457c9b32",
+      "company": "Sequoia",
+      "ticker": "SEQUX",
+      "exDate": "2026-10-07",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E831bace5b71dcb742437ea54a56529fceacc68c41ee3813600d0ff36ab902d73",
+      "company": "Green Circle Decarbonize Techno",
+      "ticker": "GCDT",
+      "exDate": "2026-10-07",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0d40f697367c085cb62669e5a63a8cf5115b9f4901b7a724ce2e035e5608adb2",
+      "company": "Granite Point Mortgage Trust Inc.",
+      "ticker": "GPMT",
+      "exDate": "2026-10-06",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E70c2eb452e21e8b91d42508f9821696a025a36a9edbd9fc55da2f897a6d8bafa",
       "company": "iShares Ethereum Trust ETF",
       "ticker": "ETHA",
@@ -111,6 +144,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebd845dfad246a2a75e09d8d09b5f882178049d4209234ca84c07781123e4abda",
+      "company": "HKHUY",
+      "ticker": "HKHUY",
+      "exDate": "2026-10-05",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -136,14 +180,14 @@
       "source": "polygon"
     },
     {
-      "id": "E5070d9270235ff864a5e5a75b62e1cea705beed2fef511187385d98e8052cfe9",
+      "id": "Eeeaa212cd35361bed79d83b9054466eba202d6eff0fa5f7cd114fc86e89f2932",
       "company": "The Zcash ETF",
       "ticker": "ZCSH",
       "exDate": "2026-09-30",
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -176,7 +220,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -187,7 +231,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -198,7 +242,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,7 +264,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +275,7 @@
       "ratio": "15-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +286,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +319,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +330,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +341,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +374,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +385,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +396,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +418,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +429,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +440,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +451,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +462,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +473,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,7 +484,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +506,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -484,7 +528,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +539,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +561,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +572,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +583,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +594,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -576,6 +620,17 @@
       "source": "polygon"
     },
     {
+      "id": "E4f7cbc505a22aa28bee87503317a0a012e117f97332ff8dfb50c7e70bd626ae5",
+      "company": "GMEX Robotics Corporation",
+      "ticker": "GMEX",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E69f58f8f135fea21114164cc4a890548aa03d921e179af6eb34aa9cfbe552d15",
       "company": "Delixy Holdings Limited",
       "ticker": "DLXY",
@@ -584,6 +639,61 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E558886b2365bd35265ed423ba2ed57f6127dbafc4dcc2309af397bc4c72b45e0",
+      "company": "Cheetah Net Supply Chain Service Inc.",
+      "ticker": "CTNT",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-150",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed6584adfe3869bc861cfe9fd099549fe71910e2605a94822a58dd35489362694",
+      "company": "Brightline Interactive, Inc.",
+      "ticker": "BTLN",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2a52dd9d27f74e313baadd87f8876806800d4be8bd786d1fe77ae4a8a5eeb88f",
+      "company": "Republic Power Group Limited",
+      "ticker": "RPGL",
+      "exDate": "2026-09-25",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E783daae78be545a3433211d27809b154295b1fb0287d000c1f02e80cf5d6b6ed",
+      "company": "Nauticus Robotics, Inc.",
+      "ticker": "KITT",
+      "exDate": "2026-09-25",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3ad398fb08366fb0d46a80db624526bf3e1956a9325a0ce10e6e98654af665d0",
+      "company": "VSee Health, Inc.",
+      "ticker": "VSEE",
+      "exDate": "2026-09-24",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -812,17 +922,6 @@
       "ticker": "GCAN",
       "exDate": "2026-09-17",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E70a543806fc2f5099cb723794e6e0d3ad5468dca3f3c0e7074055e7e1f124a1f",
-      "company": "Mega Matrix Inc.",
-      "ticker": "MPU",
-      "exDate": "2026-09-16",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
