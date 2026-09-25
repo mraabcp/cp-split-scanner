@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-24T18:05:29.985Z",
-  "totalRecords": 84,
-  "newThisScan": 11,
+  "lastUpdated": "2026-09-25T18:09:32.909Z",
+  "totalRecords": 88,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "Ea23ca33b398e925eb81bdb2df4794ae7b97f541cd48e8e56bdcad078729143f4",
@@ -48,6 +48,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ebd845dfad246a2a75e09d8d09b5f882178049d4209234ca84c07781123e4abda",
+      "company": "HKHUY",
+      "ticker": "HKHUY",
+      "exDate": "2026-10-09",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E9b9bc0ab83bfbf9b1ac377acab535ffb2787e785eaa8d98028000aab18bf25ce",
       "company": "WisdomTree Japan Hedged Equity Fund",
       "ticker": "DXJ",
@@ -67,6 +78,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed93f14c8546bae5dc8f0789e0f0ea1294a80a4b93efe652135a8fc239a4e91c1",
+      "company": "Aberdeen Intermediate Income Fund",
+      "ticker": "MIN",
+      "exDate": "2026-10-08",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee838be55900ea4159e593a846fafb51945094af7b0b15cad0338cf52107f5f3b",
+      "company": "Aberdeen Government Markets Income Fund",
+      "ticker": "MGF",
+      "exDate": "2026-10-08",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -99,7 +132,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +143,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +154,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -147,17 +180,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ebd845dfad246a2a75e09d8d09b5f882178049d4209234ca84c07781123e4abda",
-      "company": "HKHUY",
-      "ticker": "HKHUY",
-      "exDate": "2026-10-05",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
       "id": "E415fc54b50dc6a7d9f2263db589749a615fa20bca7eac770817527fc4b2a97b5",
       "company": "Niterra Co., Ltd.",
       "ticker": "NGKSY",
@@ -180,7 +202,18 @@
       "source": "polygon"
     },
     {
-      "id": "Eeeaa212cd35361bed79d83b9054466eba202d6eff0fa5f7cd114fc86e89f2932",
+      "id": "E738c11e6b88d313eff2486f677395017dd8342605e4d101c783cfc02bde9b875",
+      "company": "PLAYSTUDIOS, Inc.",
+      "ticker": "MYPS",
+      "exDate": "2026-10-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5070d9270235ff864a5e5a75b62e1cea705beed2fef511187385d98e8052cfe9",
       "company": "The Zcash ETF",
       "ticker": "ZCSH",
       "exDate": "2026-09-30",
@@ -368,7 +401,7 @@
     },
     {
       "id": "E19be697e2c9831746e01a2ebf134e1c86ff3e939718a24a4f224f5de6d7580f1",
-      "company": "RAIZNEXT Corporation",
+      "company": "RZNXF",
       "ticker": "RZNXF",
       "exDate": "2026-09-29",
       "ratio": "3-for-1",
@@ -478,7 +511,7 @@
     },
     {
       "id": "E3f1ab96773a00a9d26c6a451c99210f41225f3b614c56b8deb1a71a66a131c27",
-      "company": "Makino Milling Machine Co., Ltd.",
+      "company": "MKMLF",
       "ticker": "MKMLF",
       "exDate": "2026-09-29",
       "ratio": "5-for-1",
@@ -598,6 +631,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6c424ce28cf45cd534e1b945696dca82ef8300c6a35f8c0407cfbefb6de830eb",
+      "company": "Agroz Inc.",
+      "ticker": "AGRZ",
+      "exDate": "2026-09-29",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3ba86c474a5dbad143488cfc4661d2724519f4e4ad6f1b3be4d5c797b03bfa5e",
       "company": "Matinas BioPharma Holdings, Inc.",
       "ticker": "MTNB",
@@ -627,6 +671,17 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3b8400b3f1a3368e4afab9cb2aeb390f0788a33fe3b30e224c6ce48379b43e29",
+      "company": "FBS Global Limited",
+      "ticker": "FBGL",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -642,6 +697,17 @@
       "source": "polygon"
     },
     {
+      "id": "E205576873fc2de6191adb2432742b13ac793b8eabd5ad995ca37a3310400ed3d",
+      "company": "Digital Currency X Technology Inc.",
+      "ticker": "DCX",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-160",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E558886b2365bd35265ed423ba2ed57f6127dbafc4dcc2309af397bc4c72b45e0",
       "company": "Cheetah Net Supply Chain Service Inc.",
       "ticker": "CTNT",
@@ -649,7 +715,7 @@
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -658,6 +724,17 @@
       "ticker": "BTLN",
       "exDate": "2026-09-28",
       "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1d98709d1309c18f93fe9e1e9e262002b7144b19d45ec8e12cc6cbd689a49704",
+      "company": "VSTUF",
+      "ticker": "VSTUF",
+      "exDate": "2026-09-25",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -671,15 +748,26 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E783daae78be545a3433211d27809b154295b1fb0287d000c1f02e80cf5d6b6ed",
-      "company": "Nauticus Robotics, Inc.",
+      "company": "KITT",
       "ticker": "KITT",
       "exDate": "2026-09-25",
       "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E34598b049560c6df21a81a5499f09cdacc5ed244f77144bbe1bf060d47c911d7",
+      "company": "First Au Limited",
+      "ticker": "FRSAF",
+      "exDate": "2026-09-25",
+      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -693,7 +781,7 @@
       "ratio": "1-for-80",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -878,50 +966,6 @@
       "ticker": "CUEXF",
       "exDate": "2026-09-18",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E36b6842f7455a1d807affc25adebb3ed452e43bf511bca5865c5c781cb20b675",
-      "company": "Intercont (Cayman) Limited",
-      "ticker": "NCT",
-      "exDate": "2026-09-17",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7812acf752e92d14c9ead446d1212d673d3616e30b358f7bbe67c77cdbd29ffc",
-      "company": "Megan Holdings Limited",
-      "ticker": "MGN",
-      "exDate": "2026-09-17",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec9c5f39aacbe768f2632872dcfbe98135cb523ca9bfa010a9b68209cf943a346",
-      "company": "Jaguar Health, Inc.",
-      "ticker": "JAGX",
-      "exDate": "2026-09-17",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E95901aee5de0b60aa4209d37b3113a7ef052b2bf709208d8cbda249373c3f12c",
-      "company": "Greater Cannabis Co Inc",
-      "ticker": "GCAN",
-      "exDate": "2026-09-17",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
