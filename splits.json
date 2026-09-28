@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-25T18:09:32.909Z",
-  "totalRecords": 88,
+  "lastUpdated": "2026-09-28T20:20:00.707Z",
+  "totalRecords": 92,
   "newThisScan": 9,
   "splits": [
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -169,6 +169,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb7bb94351e8b65b0eb02c9be928d1b1af124ebe57dd0eb720c114e27229ff9d9",
+      "company": "Catheter Precision, Inc.",
+      "ticker": "VTAK",
+      "exDate": "2026-10-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E94301acb8c6cb84ca3079b5bef65995a05fdd718218d4605883f4fcdc2581f62",
       "company": "Toyoda Gosei Co., Ltd.",
       "ticker": "TGOSY",
@@ -177,6 +188,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E81f9c074ccda6349c8afcc0138a23b1fc5f00a644c0a8c51b66840461fa1fbf2",
+      "company": "Paramount Skydance Corporation",
+      "ticker": "PSKY",
+      "exDate": "2026-10-05",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -209,11 +231,22 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E85ea9b76fde9453a8ba5446d6fb2c6a4f9bdecd92b50c31f67c18f0e9735595b",
+      "company": "BGM Group Ltd.",
+      "ticker": "BGM",
+      "exDate": "2026-10-01",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
     {
-      "id": "E5070d9270235ff864a5e5a75b62e1cea705beed2fef511187385d98e8052cfe9",
+      "id": "Eeeaa212cd35361bed79d83b9054466eba202d6eff0fa5f7cd114fc86e89f2932",
       "company": "The Zcash ETF",
       "ticker": "ZCSH",
       "exDate": "2026-09-30",
@@ -257,6 +290,17 @@
       "source": "polygon"
     },
     {
+      "id": "E2e8f4a1c2211f87df766e43027ef7ec18837285e8c0dc4c1f6a934e458db5778",
+      "company": "VerifyMe, Inc.",
+      "ticker": "VRME",
+      "exDate": "2026-09-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0f7869d10f6a2c3b0bde36c6d599227aa85fa098e3c3deafce7c20bcacd63474",
       "company": "TSOCF",
       "ticker": "TSOCF",
@@ -265,6 +309,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7a619697f4c00fffb034672cca077ad0bafa5921a2466e36ebfa128089711d5c",
+      "company": "TruGolf Holdings, Inc.",
+      "ticker": "TRUG",
+      "exDate": "2026-09-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -368,7 +423,7 @@
     },
     {
       "id": "Eba39a21858a000779b2308a87504b6ef73ffc81077b2cef0588c44fdf2ae0226",
-      "company": "SUCEF",
+      "company": "Sumitomo Osaka Cement Co., Ltd.",
       "ticker": "SUCEF",
       "exDate": "2026-09-29",
       "ratio": "3-for-1",
@@ -401,7 +456,7 @@
     },
     {
       "id": "E19be697e2c9831746e01a2ebf134e1c86ff3e939718a24a4f224f5de6d7580f1",
-      "company": "RZNXF",
+      "company": "RAIZNEXT Corporation",
       "ticker": "RZNXF",
       "exDate": "2026-09-29",
       "ratio": "3-for-1",
@@ -441,6 +496,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0174df5b9ae07b4b7038e6b0dfca2535e46e518e370876677621ab7516271ed3",
+      "company": "OneMedNet Corporation",
+      "ticker": "ONMD",
+      "exDate": "2026-09-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -511,7 +577,7 @@
     },
     {
       "id": "E3f1ab96773a00a9d26c6a451c99210f41225f3b614c56b8deb1a71a66a131c27",
-      "company": "MKMLF",
+      "company": "Makino Milling Machine Co., Ltd.",
       "ticker": "MKMLF",
       "exDate": "2026-09-29",
       "ratio": "5-for-1",
@@ -598,6 +664,17 @@
       "source": "polygon"
     },
     {
+      "id": "E80103d6bf6c30163a8f51c7ce4beecd4ea3dc5a1b8cf788241d92c97e2e5c3c3",
+      "company": "CDT Equity Inc.",
+      "ticker": "CDT",
+      "exDate": "2026-09-29",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Efa02642db6d2a72ce7f099c9ca80eca10df8c202dad2b1dee0aa888ce234c9e3",
       "company": "AWBKF",
       "ticker": "AWBKF",
@@ -638,7 +715,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -682,7 +759,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -704,7 +781,7 @@
       "ratio": "1-for-160",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -730,6 +807,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ece064351cd1b080031723ea7faa0a92b053e53bb4265784eb3be249f79decc3d",
+      "company": "Vision Lithium Inc.",
+      "ticker": "ABEPF",
+      "exDate": "2026-09-28",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1d98709d1309c18f93fe9e1e9e262002b7144b19d45ec8e12cc6cbd689a49704",
       "company": "VSTUF",
       "ticker": "VSTUF",
@@ -737,7 +825,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -753,7 +841,7 @@
     },
     {
       "id": "E783daae78be545a3433211d27809b154295b1fb0287d000c1f02e80cf5d6b6ed",
-      "company": "KITT",
+      "company": "Nauticus Robotics, Inc.",
       "ticker": "KITT",
       "exDate": "2026-09-25",
       "ratio": "1-for-6",
@@ -770,7 +858,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -918,54 +1006,10 @@
     },
     {
       "id": "E212db39adbda08f4ff096de0a68ad28f0228d122b3c9f3d275d160ec8ccd4f08",
-      "company": "Fjordland Exploration Inc.",
+      "company": "Fjordland Exploration Inc",
       "ticker": "FEXXF",
       "exDate": "2026-09-21",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3dbf78130a2de05def74f392e4a3a77ae31341007e14ca28b53e34ead88c283d",
-      "company": "Planet Ventures Inc.",
-      "ticker": "PNXPF",
-      "exDate": "2026-09-18",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed57ce14596b1d476718f84fd7293cbbf4a1ed9c3712efafeb88fda9976d12532",
-      "company": "Leocor Mining Inc.",
-      "ticker": "LECRF",
-      "exDate": "2026-09-18",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eba0bdc25e6f23e8923aec2bf3dd4a6ef279ab2475dc5c8ddc102a06940c307d1",
-      "company": "E-Power Inc.",
-      "ticker": "EPOW",
-      "exDate": "2026-09-18",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E04cb14323435029780fec534ee723ef42e78c9ef451bbd0eb6559e67ca21bf88",
-      "company": "CUEXF",
-      "ticker": "CUEXF",
-      "exDate": "2026-09-18",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
