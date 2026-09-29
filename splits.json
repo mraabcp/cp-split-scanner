@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-09-28T20:20:00.707Z",
-  "totalRecords": 92,
-  "newThisScan": 9,
+  "lastUpdated": "2026-09-29T19:01:42.173Z",
+  "totalRecords": 94,
+  "newThisScan": 5,
   "splits": [
+    {
+      "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
+      "company": "Enhanced Group Inc.",
+      "ticker": "ENHA",
+      "exDate": "2026-10-28",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ea23ca33b398e925eb81bdb2df4794ae7b97f541cd48e8e56bdcad078729143f4",
       "company": "CTAMF",
@@ -12,6 +23,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-10-15",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -40,6 +62,17 @@
       "id": "Ecf2263d038794d0f275e4ec92f12169394b3221ad83c38cfdffef14724b73a2c",
       "company": "Isetan Mitsukoshi Holdings Ltd.",
       "ticker": "IMHDY",
+      "exDate": "2026-10-09",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
+      "company": "Ibiden Co.,Ltd.",
+      "ticker": "IBIDY",
       "exDate": "2026-10-09",
       "ratio": "2-for-1",
       "type": "forward",
@@ -176,7 +209,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -198,7 +231,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,11 +275,11 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
-      "id": "Eeeaa212cd35361bed79d83b9054466eba202d6eff0fa5f7cd114fc86e89f2932",
+      "id": "E5070d9270235ff864a5e5a75b62e1cea705beed2fef511187385d98e8052cfe9",
       "company": "The Zcash ETF",
       "ticker": "ZCSH",
       "exDate": "2026-09-30",
@@ -257,14 +290,14 @@
       "source": "polygon"
     },
     {
-      "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
-      "company": "Ibiden Co.,Ltd.",
-      "ticker": "IBIDY",
+      "id": "E444f694278a3dc57756eedad5dd041084b3dd5dab06546f7962abb0a9fe6f7ff",
+      "company": "SHF Holdings, Inc.",
+      "ticker": "SHFS",
       "exDate": "2026-09-30",
-      "ratio": "2-for-1",
-      "type": "forward",
+      "ratio": "1-for-12",
+      "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -297,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +352,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +539,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -631,6 +664,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ebd26923595b8e51e17ff40c7d6434fb857bb8412dfc4929c98ae71b5d754bdfa",
+      "company": "Ibiden Co.,Ltd.",
+      "ticker": "IBIDF",
+      "exDate": "2026-09-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E31c253e5e00cca646484e1d81305915bdeadb08a3b496137896cc737b686554e",
       "company": "HKTOF",
       "ticker": "HKTOF",
@@ -671,7 +715,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -814,7 +858,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -990,28 +1034,6 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5fe114bda5ef8ce9e4042853df70ddc4d4c3881d279bb021eab4cebacc30be35",
-      "company": "Linkage Global Inc",
-      "ticker": "UZX",
-      "exDate": "2026-09-21",
-      "ratio": "1-for-23",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E212db39adbda08f4ff096de0a68ad28f0228d122b3c9f3d275d160ec8ccd4f08",
-      "company": "Fjordland Exploration Inc",
-      "ticker": "FEXXF",
-      "exDate": "2026-09-21",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
