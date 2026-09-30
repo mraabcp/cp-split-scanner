@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-29T19:01:42.173Z",
-  "totalRecords": 94,
-  "newThisScan": 5,
+  "lastUpdated": "2026-09-30T18:44:37.788Z",
+  "totalRecords": 87,
+  "newThisScan": 4,
   "splits": [
     {
       "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
@@ -11,7 +11,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -158,6 +158,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ebcf15df4ae41296d5f1ae9f8d1a21889e2dd1240e0969a0a4f28101906da383f",
+      "company": "Tokyo Electron Limited",
+      "ticker": "TELWY",
+      "exDate": "2026-10-07",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1e5f9f4889837c2efdddf5b91ca33c0634976551c4ca16c57dc2180c457c9b32",
       "company": "Sequoia",
       "ticker": "SEQUX",
@@ -235,6 +246,17 @@
       "source": "polygon"
     },
     {
+      "id": "E1db501661b5b6efe1a7e730b0aa74d7d61001a9b65d86d46abff380aaa821f93",
+      "company": "ReTo Eco-Solutions, Inc.",
+      "ticker": "RETO",
+      "exDate": "2026-10-02",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E415fc54b50dc6a7d9f2263db589749a615fa20bca7eac770817527fc4b2a97b5",
       "company": "Niterra Co., Ltd.",
       "ticker": "NGKSY",
@@ -268,6 +290,17 @@
       "source": "polygon"
     },
     {
+      "id": "E88380737153b4ae862bd5a8d840bb49d1f089cd6fe9e574531863562ddffbcda",
+      "company": "Kustom Entertainment, Inc.",
+      "ticker": "KUST",
+      "exDate": "2026-10-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E85ea9b76fde9453a8ba5446d6fb2c6a4f9bdecd92b50c31f67c18f0e9735595b",
       "company": "BGM Group Ltd.",
       "ticker": "BGM",
@@ -286,7 +319,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -295,6 +328,17 @@
       "ticker": "SHFS",
       "exDate": "2026-09-30",
       "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4797f84ac19842ab7d96d977890468d3e1d958ad81510bc4d8da4bbb17c81e95",
+      "company": "Golden Spike Resources Corp.",
+      "ticker": "GSPFD",
+      "exDate": "2026-09-30",
+      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -671,7 +715,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -907,133 +951,12 @@
     },
     {
       "id": "E3ad398fb08366fb0d46a80db624526bf3e1956a9325a0ce10e6e98654af665d0",
-      "company": "VSee Health, Inc.",
+      "company": "VSee Health Inc",
       "ticker": "VSEE",
       "exDate": "2026-09-24",
       "ratio": "1-for-80",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2d004083859b1a954ee5dc95afaac4aeb363512c8ad9a8a27e3aa6e59ad3cd3a",
-      "company": "Wheeler Real Estate Investment Trust, Inc.",
-      "ticker": "WHLR",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1eb6681669540d96ea115c3a267fd2a2e924f7fce51123c31ee8375260df0220",
-      "company": "VisionWave Holdings, Inc.",
-      "ticker": "VWAV",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6a21ab60673f487861667102b7532b732ade8a4a5bd2dc325c97fb67a7efd3a4",
-      "company": "Tradr 2X Long U Daily ETF",
-      "ticker": "UNX",
-      "exDate": "2026-09-22",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8658b96f55bb580a94af0ac725ad2b63385893d8d21e593b9fec218f896f0ff8",
-      "company": "Tradr 2X Long SMR Daily ETF",
-      "ticker": "SMU",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea458e2a11f91af3998d8fcc0070f28c5cd64402c13ae9b3cbed4b8be7288eb24",
-      "company": "Tradr 2X Long QUBT Daily ETF",
-      "ticker": "QUBX",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5b85e745e111ba3d553d3cc1a9b20cbb69bd6b9a3e77754ed7f9ebc5a07e9c78",
-      "company": "Tradr 2X Long QBTS Daily ETF",
-      "ticker": "QBTX",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef23d681fd85d0efabf3d9e6ac0570e5e282d57b7dc19917c396909a86dd61c58",
-      "company": "Tradr 2X Long ONDS Daily ETF",
-      "ticker": "ONDU",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed1034b4aa0bf48f0e65ae5db4291c8339c4d8d81fa04eea5083bc728a1e26d10",
-      "company": "Tradr 2X Short Nbis Daily ETF",
-      "ticker": "NBIZ",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee64271f1eb7f0c999058bc7b31ac90fe9ccc691beaa2e45bcd4398de46077da9",
-      "company": "Tradr 2X Short LITE Daily ETF",
-      "ticker": "LITZ",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6550b4ebfbd9c2f38b4b445056060a61034afec1534afe6c0ef8822d1f61a367",
-      "company": "Tradr 2X Long CRML Daily ETF",
-      "ticker": "CRMX",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeb488029969c5c8d545c01ce928ef96cc03b6b7265021dd3fd7a277c7e359732",
-      "company": "Tradr 2X Long AXTI Daily ETF",
-      "ticker": "AXTX",
-      "exDate": "2026-09-22",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
