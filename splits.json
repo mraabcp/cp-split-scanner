@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-30T18:44:37.788Z",
-  "totalRecords": 87,
-  "newThisScan": 4,
+  "lastUpdated": "2026-10-01T19:11:01.154Z",
+  "totalRecords": 93,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
@@ -12,6 +12,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E313b9f2debe07edc94b8e6eca50f6822e46ab5e3c0e3d14e10f5a45f8552becd",
+      "company": "Lufax Holding Ltd",
+      "ticker": "LU",
+      "exDate": "2026-10-23",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -165,7 +176,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -224,6 +235,17 @@
       "source": "polygon"
     },
     {
+      "id": "E7583498e77350810ec4eefe151c052a6db99b3fb12996a7f4526e4e8bf5228f2",
+      "company": "Vivakor, Inc.",
+      "ticker": "VIVK",
+      "exDate": "2026-10-05",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E94301acb8c6cb84ca3079b5bef65995a05fdd718218d4605883f4fcdc2581f62",
       "company": "Toyoda Gosei Co., Ltd.",
       "ticker": "TGOSY",
@@ -235,14 +257,36 @@
       "source": "polygon"
     },
     {
-      "id": "E81f9c074ccda6349c8afcc0138a23b1fc5f00a644c0a8c51b66840461fa1fbf2",
+      "id": "E33484df9d2d7acfecbc6ac909f741972783c1a9d07db2a16d7790aa03eccbcc2",
+      "company": "Scienture Holdings, Inc.",
+      "ticker": "SCNX",
+      "exDate": "2026-10-05",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9c893f36f616aa0d5a415b9f0822d7ab74399ec1eec52840d0f50693d7b59f27",
       "company": "Paramount Skydance Corporation",
       "ticker": "PSKY",
       "exDate": "2026-10-05",
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebdaadd08491d67210fcd6cf825fc435c9e46a63087028280c9e41dea125287c2",
+      "company": "Zhongchao Inc.",
+      "ticker": "ZCMD",
+      "exDate": "2026-10-02",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -253,7 +297,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,6 +323,17 @@
       "source": "polygon"
     },
     {
+      "id": "Efeec877b576107e0c404b85f7da96431409cf7419e76fc775bed931f39ba4264",
+      "company": "Aventis Energy Inc.",
+      "ticker": "VBAMF",
+      "exDate": "2026-10-01",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E738c11e6b88d313eff2486f677395017dd8342605e4d101c783cfc02bde9b875",
       "company": "PLAYSTUDIOS, Inc.",
       "ticker": "MYPS",
@@ -295,6 +350,17 @@
       "ticker": "KUST",
       "exDate": "2026-10-01",
       "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee3cc6e59d0d419ab0ae2ebc3604a87abbb175c5f60b95a3d41b719d7c964c5ed",
+      "company": "TUNGSTEN EAGLE DEVELOPMENT CORP.",
+      "ticker": "FDOGF",
+      "exDate": "2026-10-01",
+      "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -335,13 +401,13 @@
     },
     {
       "id": "E4797f84ac19842ab7d96d977890468d3e1d958ad81510bc4d8da4bbb17c81e95",
-      "company": "Golden Spike Resources Corp.",
+      "company": "Gordon Mining Group Inc.",
       "ticker": "GSPFD",
       "exDate": "2026-09-30",
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -940,7 +1006,7 @@
     },
     {
       "id": "E34598b049560c6df21a81a5499f09cdacc5ed244f77144bbe1bf060d47c911d7",
-      "company": "First Au Limited",
+      "company": "First Au Ltd",
       "ticker": "FRSAF",
       "exDate": "2026-09-25",
       "ratio": "1-for-20",
