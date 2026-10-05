@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-10-02T18:50:35.254Z",
-  "totalRecords": 95,
-  "newThisScan": 3,
+  "lastUpdated": "2026-10-05T21:23:23.159Z",
+  "totalRecords": 99,
+  "newThisScan": 8,
   "splits": [
+    {
+      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-10-29",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
     {
       "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
       "company": "Enhanced Group Inc.",
@@ -12,6 +23,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E510a2cfe8483485886172e4d1917f2bf166cc49265b963a819973c9081fa5486",
+      "company": "Solowin Holdings",
+      "ticker": "AXG",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -26,6 +48,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ecf6820b82ace6cac009659aa68267fd2fde8ba04ea0c21d1fd8d5b54ae434b53",
+      "company": "Huachen AI Parking Management Technology Holding Co., Ltd",
+      "ticker": "HCAI",
+      "exDate": "2026-10-23",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea23ca33b398e925eb81bdb2df4794ae7b97f541cd48e8e56bdcad078729143f4",
       "company": "CTAMF",
       "ticker": "CTAMF",
@@ -37,14 +70,36 @@
       "source": "polygon"
     },
     {
-      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-10-15",
+      "id": "E18f3e4bb633b1e14703025277b27805981d17a106fc1d01fc3981bda6b0ae1c4",
+      "company": "AMTD IDEA Group",
+      "ticker": "AMTD",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-60",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8665030d284dd7f880b10fd997f03ce6fedb77bd25b10943f59e69ac7ce4a247",
+      "company": "Kandal M Venture Limited",
+      "ticker": "FMFC",
+      "exDate": "2026-10-13",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E218459fb7ba3b2168b33c8062125e8e897357f2007a014c0c1b207f344564d00",
+      "company": "Phaos Technology Holdings (Caym",
+      "ticker": "POAS",
+      "exDate": "2026-10-12",
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -180,6 +235,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb740d08b2d2a8dff2a40ef29e16d1d84075132871697286c05383675e4ceb5ae",
+      "company": "SU Group Holdings Limited",
+      "ticker": "SUGP",
+      "exDate": "2026-10-07",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1e5f9f4889837c2efdddf5b91ca33c0634976551c4ca16c57dc2180c457c9b32",
       "company": "Sequoia",
       "ticker": "SEQUX",
@@ -199,6 +265,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea5000d4e2cea9481e09ad8858bfd6f0494f578021de6ef383a9ba2c842b0f2c6",
+      "company": "iTonic Holdings Ltd.",
+      "ticker": "ITOC",
+      "exDate": "2026-10-06",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -225,7 +302,7 @@
     },
     {
       "id": "Eb7bb94351e8b65b0eb02c9be928d1b1af124ebe57dd0eb720c114e27229ff9d9",
-      "company": "Catheter Precision, Inc.",
+      "company": "Flyte Aviation, Inc.",
       "ticker": "VTAK",
       "exDate": "2026-10-05",
       "ratio": "1-for-10",
@@ -254,6 +331,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E637e6ab83aef15fb6768307efab612f09e55af36ab4ee1455c85bc794f7f4972",
+      "company": "StrikePoint Gold Inc.",
+      "ticker": "STKXF",
+      "exDate": "2026-10-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -286,7 +374,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +385,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -346,13 +434,13 @@
     },
     {
       "id": "Ed4d51830c254849cf2be603b228079bd6e3fddcd8969bccaa6a5c3c393f2991e",
-      "company": "Aeternum Health Inc.",
+      "company": "Aeternum Resources Inc.",
       "ticker": "AETN",
       "exDate": "2026-10-02",
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -489,7 +577,7 @@
     },
     {
       "id": "E7a619697f4c00fffb034672cca077ad0bafa5921a2466e36ebfa128089711d5c",
-      "company": "TRUG",
+      "company": "TruGolf Holdings, Inc.",
       "ticker": "TRUG",
       "exDate": "2026-09-29",
       "ratio": "1-for-10",
@@ -500,7 +588,7 @@
     },
     {
       "id": "E7a5887a601d869e15ae0dfe77ce9290715a4d8c2d5bbabfbe8aeb7e0239c4bf4",
-      "company": "TRDCF",
+      "company": "Terra Drone Corporation",
       "ticker": "TRDCF",
       "exDate": "2026-09-29",
       "ratio": "2-for-1",
@@ -995,54 +1083,10 @@
     },
     {
       "id": "Ece064351cd1b080031723ea7faa0a92b053e53bb4265784eb3be249f79decc3d",
-      "company": "Vision Lithium Inc",
+      "company": "Vision Lithium Inc.",
       "ticker": "ABEPF",
       "exDate": "2026-09-28",
       "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1d98709d1309c18f93fe9e1e9e262002b7144b19d45ec8e12cc6cbd689a49704",
-      "company": "VSTUF",
-      "ticker": "VSTUF",
-      "exDate": "2026-09-25",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2a52dd9d27f74e313baadd87f8876806800d4be8bd786d1fe77ae4a8a5eeb88f",
-      "company": "Republic Power Group Limited",
-      "ticker": "RPGL",
-      "exDate": "2026-09-25",
-      "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E783daae78be545a3433211d27809b154295b1fb0287d000c1f02e80cf5d6b6ed",
-      "company": "Nauticus Robotics, Inc.",
-      "ticker": "KITT",
-      "exDate": "2026-09-25",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E34598b049560c6df21a81a5499f09cdacc5ed244f77144bbe1bf060d47c911d7",
-      "company": "First Au Ltd",
-      "ticker": "FRSAF",
-      "exDate": "2026-09-25",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
