@@ -1,11 +1,77 @@
 {
-  "lastUpdated": "2026-10-05T21:23:23.159Z",
-  "totalRecords": 99,
+  "lastUpdated": "2026-10-06T19:15:45.520Z",
+  "totalRecords": 98,
   "newThisScan": 8,
   "splits": [
     {
+      "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
+      "company": "iShares Semiconductor ETF",
+      "ticker": "SOXX",
+      "exDate": "2026-11-05",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1c3a46a85d66a155028dcfad66d20b22f49bc681c5ca4bee276ceada86088b04",
+      "company": "iShares MSCI USA Quality Factor ETF",
+      "ticker": "QUAL",
+      "exDate": "2026-11-05",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3625e1d9971c4c77dd78e485863b3a0a350bbfda5d253687d8b573b16c99cd51",
+      "company": "iShares MSCI USA Momentum Factor ETF",
+      "ticker": "MTUM",
+      "exDate": "2026-11-05",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E044e9d49f07e97f7bad274a4707dfcb74a6bd6bcb41ab17490b086e61c25177d",
+      "company": "iShares U.S. Aerospace & Defense ETF",
+      "ticker": "ITA",
+      "exDate": "2026-11-05",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E41e18e1404bb5cbfb3bb1163bc11509e93d7cc9241e34ef7700cb2398c8e5d40",
+      "company": "iShares MSCI EAFE Value ETF",
+      "ticker": "EFV",
+      "exDate": "2026-11-05",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E239be4fc452e1df269ac139b500534d9f37e67e254b0daca6f1ea17f462b63cf",
+      "company": "iShares MSCI EAFE Growth ETF",
+      "ticker": "EFG",
+      "exDate": "2026-11-05",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
-      "company": "Jianzhi Education Technology Group Company Limited",
+      "company": "JZ",
       "ticker": "JZ",
       "exDate": "2026-10-29",
       "ratio": "1-for-15",
@@ -33,7 +99,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +121,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +143,18 @@
       "ratio": "1-for-60",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9c893f36f616aa0d5a415b9f0822d7ab74399ec1eec52840d0f50693d7b59f27",
+      "company": "Skydance Corporation",
+      "ticker": "SKYD",
+      "exDate": "2026-10-14",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +165,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +176,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,7 +319,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -268,6 +345,17 @@
       "source": "polygon"
     },
     {
+      "id": "E689490a9e0674f6f1aab63cd1ad871bb2fa7d593ecff7b4aa019e0c0d0b32a37",
+      "company": "Armory Mining Corp.",
+      "ticker": "RMRYF",
+      "exDate": "2026-10-06",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea5000d4e2cea9481e09ad8858bfd6f0494f578021de6ef383a9ba2c842b0f2c6",
       "company": "iTonic Holdings Ltd.",
       "ticker": "ITOC",
@@ -275,7 +363,7 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +429,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -356,14 +444,14 @@
       "source": "polygon"
     },
     {
-      "id": "E9c893f36f616aa0d5a415b9f0822d7ab74399ec1eec52840d0f50693d7b59f27",
-      "company": "Paramount Skydance Corporation",
-      "ticker": "PSKY",
+      "id": "E5d941230f717a3aedd28e6f40649bd82cb7e55e34e31efb08e2befc991f3a83d",
+      "company": "NTETF",
+      "ticker": "NTETF",
       "exDate": "2026-10-05",
-      "ratio": "2-for-1",
+      "ratio": "100-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -588,7 +676,7 @@
     },
     {
       "id": "E7a5887a601d869e15ae0dfe77ce9290715a4d8c2d5bbabfbe8aeb7e0239c4bf4",
-      "company": "Terra Drone Corporation",
+      "company": "TRDCF",
       "ticker": "TRDCF",
       "exDate": "2026-09-29",
       "ratio": "2-for-1",
@@ -988,105 +1076,6 @@
       "ticker": "AGRZ",
       "exDate": "2026-09-29",
       "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3ba86c474a5dbad143488cfc4661d2724519f4e4ad6f1b3be4d5c797b03bfa5e",
-      "company": "Matinas BioPharma Holdings, Inc.",
-      "ticker": "MTNB",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecbda83cc6b747f89e4413e7b821254acb92fef540730c677e16c0a0960256762",
-      "company": "Immutep Limited",
-      "ticker": "IMMP",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4f7cbc505a22aa28bee87503317a0a012e117f97332ff8dfb50c7e70bd626ae5",
-      "company": "GMEX Robotics Corporation",
-      "ticker": "GMEX",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3b8400b3f1a3368e4afab9cb2aeb390f0788a33fe3b30e224c6ce48379b43e29",
-      "company": "FBS Global Limited",
-      "ticker": "FBGL",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E69f58f8f135fea21114164cc4a890548aa03d921e179af6eb34aa9cfbe552d15",
-      "company": "Delixy Holdings Limited",
-      "ticker": "DLXY",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E205576873fc2de6191adb2432742b13ac793b8eabd5ad995ca37a3310400ed3d",
-      "company": "Digital Currency X Technology Inc.",
-      "ticker": "DCX",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-160",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E558886b2365bd35265ed423ba2ed57f6127dbafc4dcc2309af397bc4c72b45e0",
-      "company": "Cheetah Net Supply Chain Service Inc.",
-      "ticker": "CTNT",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-150",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed6584adfe3869bc861cfe9fd099549fe71910e2605a94822a58dd35489362694",
-      "company": "Brightline Interactive, Inc.",
-      "ticker": "BTLN",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ece064351cd1b080031723ea7faa0a92b053e53bb4265784eb3be249f79decc3d",
-      "company": "Vision Lithium Inc.",
-      "ticker": "ABEPF",
-      "exDate": "2026-09-28",
-      "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
