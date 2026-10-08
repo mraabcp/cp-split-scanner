@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-07T19:39:56.185Z",
-  "totalRecords": 60,
-  "newThisScan": 4,
+  "lastUpdated": "2026-10-08T19:35:41.252Z",
+  "totalRecords": 59,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
@@ -77,7 +77,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -202,6 +202,39 @@
       "source": "polygon"
     },
     {
+      "id": "E357fd1ec1cbfcdf8b848c621df436ebbdc13dfefaff6f17741f9f6b04a74db6b",
+      "company": "NEXGEL, Inc.",
+      "ticker": "NXGL",
+      "exDate": "2026-10-12",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6c77be6dae1d283ca238b09b0cbcc8649bb6da99ac7e0653c1abc342b802a40c",
+      "company": "NewGenIvf Group Limited",
+      "ticker": "NIVF",
+      "exDate": "2026-10-12",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5dc3b4e68cf2356ab130bba30db902a2dea7d1c4dc0a4fca87862a88e89d7599",
+      "company": "Medicus Pharma Ltd.",
+      "ticker": "MDCX",
+      "exDate": "2026-10-12",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0faa7d94e6d489275a0263279117ad0ebdd6372655c93c6158a6709c28fedfce",
       "company": "Kioxia Holdings Corporation",
       "ticker": "KXIAY",
@@ -297,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +396,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -555,7 +588,7 @@
     },
     {
       "id": "Ed4d51830c254849cf2be603b228079bd6e3fddcd8969bccaa6a5c3c393f2991e",
-      "company": "Aeternum Resources Inc.",
+      "company": "Aeternum Health Inc",
       "ticker": "AETN",
       "exDate": "2026-10-02",
       "ratio": "1-for-20",
@@ -614,50 +647,6 @@
       "ticker": "BGM",
       "exDate": "2026-10-01",
       "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eeeaa212cd35361bed79d83b9054466eba202d6eff0fa5f7cd114fc86e89f2932",
-      "company": "The Zcash ETF",
-      "ticker": "ZCSH",
-      "exDate": "2026-09-30",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "E444f694278a3dc57756eedad5dd041084b3dd5dab06546f7962abb0a9fe6f7ff",
-      "company": "SHF Holdings, Inc.",
-      "ticker": "SHFS",
-      "exDate": "2026-09-30",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4797f84ac19842ab7d96d977890468d3e1d958ad81510bc4d8da4bbb17c81e95",
-      "company": "Gordon Mining Group Inc.",
-      "ticker": "GSPFD",
-      "exDate": "2026-09-30",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9b2312a23e48a4dafb2a64a09ec18b0f0ce6acb47ba8d26cb60fdcf9c7abbe1a",
-      "company": "UBS Asset Management High Yield Credit Fund",
-      "ticker": "DHY",
-      "exDate": "2026-09-30",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
