@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T19:35:41.252Z",
-  "totalRecords": 59,
+  "lastUpdated": "2026-10-09T19:10:30.675Z",
+  "totalRecords": 57,
   "newThisScan": 3,
   "splits": [
     {
@@ -114,6 +114,17 @@
       "source": "polygon"
     },
     {
+      "id": "E1812f86e14bbd3fd21992611bede63cecd50b019f3e374a9147531fff3da9b23",
+      "company": "Biodexa Pharmaceuticals Plc",
+      "ticker": "BDRX",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E510a2cfe8483485886172e4d1917f2bf166cc49265b963a819973c9081fa5486",
       "company": "Solowin Holdings",
       "ticker": "AXG",
@@ -191,6 +202,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee47a00e536650bffb0428c1ca2eecd49a4a958118eb2af76e6cac96830c2ac4b",
+      "company": "Zhibao Technology Inc.",
+      "ticker": "ZBAO",
+      "exDate": "2026-10-12",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E218459fb7ba3b2168b33c8062125e8e897357f2007a014c0c1b207f344564d00",
       "company": "Phaos Technology Holdings (Caym",
       "ticker": "POAS",
@@ -209,7 +231,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -220,7 +242,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -229,6 +251,17 @@
       "ticker": "MDCX",
       "exDate": "2026-10-12",
       "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee4adde513be3c72d593bf99218ed6da20070c1f8f3f27d9fb2b66ff0d0a846cb",
+      "company": "Dragonfly Energy Holdings Corp.",
+      "ticker": "DFLI",
+      "exDate": "2026-10-12",
+      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -324,7 +357,7 @@
     },
     {
       "id": "E220a2a538b3fba9c0310510835d4808b92ec390c6608f8506d1bcd6101c84500",
-      "company": "Global Engine Group Holding Limited",
+      "company": "GLE",
       "ticker": "GLE",
       "exDate": "2026-10-08",
       "ratio": "1-for-10",
@@ -592,61 +625,6 @@
       "ticker": "AETN",
       "exDate": "2026-10-02",
       "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efeec877b576107e0c404b85f7da96431409cf7419e76fc775bed931f39ba4264",
-      "company": "Aventis Energy Inc.",
-      "ticker": "VBAMF",
-      "exDate": "2026-10-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E738c11e6b88d313eff2486f677395017dd8342605e4d101c783cfc02bde9b875",
-      "company": "PLAYSTUDIOS, Inc.",
-      "ticker": "MYPS",
-      "exDate": "2026-10-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E88380737153b4ae862bd5a8d840bb49d1f089cd6fe9e574531863562ddffbcda",
-      "company": "Kustom Entertainment, Inc.",
-      "ticker": "KUST",
-      "exDate": "2026-10-01",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee3cc6e59d0d419ab0ae2ebc3604a87abbb175c5f60b95a3d41b719d7c964c5ed",
-      "company": "Tungsten Eagle Development Corp.",
-      "ticker": "FDOGF",
-      "exDate": "2026-10-01",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E85ea9b76fde9453a8ba5446d6fb2c6a4f9bdecd92b50c31f67c18f0e9735595b",
-      "company": "BGM Group Ltd.",
-      "ticker": "BGM",
-      "exDate": "2026-10-01",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
