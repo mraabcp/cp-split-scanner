@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-09T19:10:30.675Z",
-  "totalRecords": 57,
-  "newThisScan": 3,
+  "lastUpdated": "2026-10-12T21:56:19.186Z",
+  "totalRecords": 58,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
@@ -81,6 +81,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ebadb2a9cf1647e3cc4ff44b457473db9f17119c744ca9cf18326b86ca1ecfe62",
+      "company": "Meiko Electronics Co., Ltd.",
+      "ticker": "MKOEF",
+      "exDate": "2026-10-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5005f87173705d2df399139eaa46d5a44ccd245d4115e838ca02f15514d43923",
+      "company": "KPRTF",
+      "ticker": "KPRTF",
+      "exDate": "2026-10-29",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
       "company": "Jianzhi Education Technology Group Company Limited",
       "ticker": "JZ",
@@ -121,7 +143,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -169,6 +191,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea8422277f790140997012742d663966c91ac554fdb368498abcb309cea4e3596",
+      "company": "SITC International Holdings Company Limited",
+      "ticker": "SITIY",
+      "exDate": "2026-10-22",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E18f3e4bb633b1e14703025277b27805981d17a106fc1d01fc3981bda6b0ae1c4",
       "company": "AMTD IDEA Group",
       "ticker": "AMTD",
@@ -180,6 +213,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb0d633e7928bc00cc4d81c33249b70882b041aa3065f78b56abc32c72775dc2c",
+      "company": "Armlogi Holding Corp.",
+      "ticker": "BTOC",
+      "exDate": "2026-10-15",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9c893f36f616aa0d5a415b9f0822d7ab74399ec1eec52840d0f50693d7b59f27",
       "company": "Skydance Corporation",
       "ticker": "SKYD",
@@ -188,6 +232,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea38dd74a3e6ebadf9ee75f4085a82d981b2af1d7a55e73f0b172a7165718c217",
+      "company": "SkinHealth Systems Inc.",
+      "ticker": "SKIN",
+      "exDate": "2026-10-14",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9db3b18060129f357d5c9ea66eb75863474fe4524329fd6fb95b28df71b2d5ed",
+      "company": "Marvion Inc.",
+      "ticker": "MVNC",
+      "exDate": "2026-10-13",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -209,7 +275,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +330,18 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1e5f9f4889837c2efdddf5b91ca33c0634976551c4ca16c57dc2180c457c9b32",
+      "company": "Sequoia",
+      "ticker": "SEQUX",
+      "exDate": "2026-10-09",
+      "ratio": "4-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -324,7 +401,7 @@
     },
     {
       "id": "Ea4cd88be2183271fffbe5a7fd4c6f5cfb09736089eee27eb792d584fd909203e",
-      "company": "Daiwa House Industry Co., Ltd.",
+      "company": "DWAHY",
       "ticker": "DWAHY",
       "exDate": "2026-10-09",
       "ratio": "2-for-1",
@@ -357,7 +434,7 @@
     },
     {
       "id": "E220a2a538b3fba9c0310510835d4808b92ec390c6608f8506d1bcd6101c84500",
-      "company": "GLE",
+      "company": "Global Engine Group Holding Limited",
       "ticker": "GLE",
       "exDate": "2026-10-08",
       "ratio": "1-for-10",
@@ -406,17 +483,6 @@
       "exDate": "2026-10-07",
       "ratio": "1-for-6",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1e5f9f4889837c2efdddf5b91ca33c0634976551c4ca16c57dc2180c457c9b32",
-      "company": "Sequoia",
-      "ticker": "SEQUX",
-      "exDate": "2026-10-07",
-      "ratio": "4-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -489,7 +555,7 @@
     },
     {
       "id": "Eb7bb94351e8b65b0eb02c9be928d1b1af124ebe57dd0eb720c114e27229ff9d9",
-      "company": "Flyte Aviation, Inc.",
+      "company": "VTAK",
       "ticker": "VTAK",
       "exDate": "2026-10-05",
       "ratio": "1-for-10",
@@ -570,61 +636,6 @@
       "ticker": "CMND",
       "exDate": "2026-10-05",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebdaadd08491d67210fcd6cf825fc435c9e46a63087028280c9e41dea125287c2",
-      "company": "Zhongchao Inc.",
-      "ticker": "ZCMD",
-      "exDate": "2026-10-02",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1db501661b5b6efe1a7e730b0aa74d7d61001a9b65d86d46abff380aaa821f93",
-      "company": "ReTo Eco-Solutions, Inc.",
-      "ticker": "RETO",
-      "exDate": "2026-10-02",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E415fc54b50dc6a7d9f2263db589749a615fa20bca7eac770817527fc4b2a97b5",
-      "company": "Niterra Co., Ltd.",
-      "ticker": "NGKSY",
-      "exDate": "2026-10-02",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1c11fda9aab924be7a67995e100240136105344109612a17311e19c1da521887",
-      "company": "Mitsui Kinzoku Company, Limited",
-      "ticker": "MMSMY",
-      "exDate": "2026-10-02",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed4d51830c254849cf2be603b228079bd6e3fddcd8969bccaa6a5c3c393f2991e",
-      "company": "Aeternum Health Inc",
-      "ticker": "AETN",
-      "exDate": "2026-10-02",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
