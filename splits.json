@@ -1,16 +1,27 @@
 {
-  "lastUpdated": "2026-10-13T20:00:18.998Z",
+  "lastUpdated": "2026-10-14T18:14:33.792Z",
   "totalRecords": 50,
-  "newThisScan": 0,
+  "newThisScan": 4,
   "splits": [
     {
+      "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
+      "company": "RedCloud Holdings plc",
+      "ticker": "RCT",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
-      "company": "iShares Semiconductor ETF",
+      "company": "SOXX",
       "ticker": "SOXX",
       "exDate": "2026-11-05",
       "ratio": "3-for-1",
       "type": "forward",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -136,6 +147,17 @@
       "source": "polygon"
     },
     {
+      "id": "E4851821e1b5981b1e8354a2a79836673f847efb661dd571d1c6ccc18d6a2a30d",
+      "company": "ChowChow Cloud International Holdings Limited",
+      "ticker": "CHOW",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1812f86e14bbd3fd21992611bede63cecd50b019f3e374a9147531fff3da9b23",
       "company": "Biodexa Pharmaceuticals Plc",
       "ticker": "BDRX",
@@ -213,6 +235,17 @@
       "source": "polygon"
     },
     {
+      "id": "E44ae706a879003841233d9eabd1b5c599408d3ea13c1d788701f2117cb13c1a3",
+      "company": "Kandi Technologies Group, Inc.",
+      "ticker": "KNDI",
+      "exDate": "2026-10-16",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eb0d633e7928bc00cc4d81c33249b70882b041aa3065f78b56abc32c72775dc2c",
       "company": "Armlogi Holding Corp.",
       "ticker": "BTOC",
@@ -243,6 +276,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef54115c894b3bf1933413213d51e12f8091245a664c5eef5bf2f6fa4a9b4cfe8",
+      "company": "Cruz Mining Corp.",
+      "ticker": "BKTPF",
+      "exDate": "2026-10-14",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -506,50 +550,6 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E689490a9e0674f6f1aab63cd1ad871bb2fa7d593ecff7b4aa019e0c0d0b32a37",
-      "company": "Armory Mining Corp.",
-      "ticker": "RMRYF",
-      "exDate": "2026-10-06",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea5000d4e2cea9481e09ad8858bfd6f0494f578021de6ef383a9ba2c842b0f2c6",
-      "company": "iTonic Holdings Ltd.",
-      "ticker": "ITOC",
-      "exDate": "2026-10-06",
-      "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0d40f697367c085cb62669e5a63a8cf5115b9f4901b7a724ce2e035e5608adb2",
-      "company": "Granite Point Mortgage Trust Inc.",
-      "ticker": "GPMT",
-      "exDate": "2026-10-06",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E70c2eb452e21e8b91d42508f9821696a025a36a9edbd9fc55da2f897a6d8bafa",
-      "company": "iShares Ethereum Trust ETF",
-      "ticker": "ETHA",
-      "exDate": "2026-10-06",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
