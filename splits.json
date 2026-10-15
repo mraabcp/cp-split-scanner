@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-14T18:14:33.792Z",
-  "totalRecords": 50,
-  "newThisScan": 4,
+  "lastUpdated": "2026-10-15T17:57:08.588Z",
+  "totalRecords": 46,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
@@ -11,17 +11,17 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
-      "company": "SOXX",
+      "company": "iShares Semiconductor ETF",
       "ticker": "SOXX",
       "exDate": "2026-11-05",
       "ratio": "3-for-1",
       "type": "forward",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -92,6 +92,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eef7950a78d0debe7a9adc978d40b2a8465d4fbe6ee10767e627015e6a94bacea",
+      "company": "Global X NYSE 100 ETF",
+      "ticker": "NYSX",
+      "exDate": "2026-10-30",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebadb2a9cf1647e3cc4ff44b457473db9f17119c744ca9cf18326b86ca1ecfe62",
       "company": "Meiko Electronics Co., Ltd.",
       "ticker": "MKOEF",
@@ -125,6 +136,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea9a1e8a4aa3c0502483a808ed1eda96b6161b6ac8eed59428e95456e489d2050",
+      "company": "Havas N.V.",
+      "ticker": "HVNVY",
+      "exDate": "2026-10-28",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
       "company": "Enhanced Group Inc.",
       "ticker": "ENHA",
@@ -154,7 +176,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -242,6 +264,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebb85b7e3f4612332ce7d0a84e761085cd4d0f6a0019cf8b82957dcf7c6c418cc",
+      "company": "Jaguar Health, Inc.",
+      "ticker": "JAGX",
+      "exDate": "2026-10-16",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -252,17 +285,6 @@
       "exDate": "2026-10-15",
       "ratio": "1-for-16",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9c893f36f616aa0d5a415b9f0822d7ab74399ec1eec52840d0f50693d7b59f27",
-      "company": "Skydance Corporation",
-      "ticker": "SKYD",
-      "exDate": "2026-10-14",
-      "ratio": "2-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -286,7 +308,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -482,72 +504,6 @@
       "ticker": "GLE",
       "exDate": "2026-10-08",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E45fa8c1e8f11792ed413918a83eaee50e4249b088109746889e2b21793a95836",
-      "company": "TOPPAN Holdings Inc.",
-      "ticker": "TOPPY",
-      "exDate": "2026-10-07",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef3809df4c1dacf41c63775e5241249d958d500fc95f288ab8e9c4440478899e6",
-      "company": "Tokio Marine Holdings, Inc.",
-      "ticker": "TKOMY",
-      "exDate": "2026-10-07",
-      "ratio": "15-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebcf15df4ae41296d5f1ae9f8d1a21889e2dd1240e0969a0a4f28101906da383f",
-      "company": "Tokyo Electron Limited",
-      "ticker": "TELWY",
-      "exDate": "2026-10-07",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb740d08b2d2a8dff2a40ef29e16d1d84075132871697286c05383675e4ceb5ae",
-      "company": "SU Group Holdings Limited",
-      "ticker": "SUGP",
-      "exDate": "2026-10-07",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ede13cc5d1b5cf6d8db1c2aa76722ca0371deee1c23cc4cf667d96977114db91c",
-      "company": "Pacific Imperial Mines Inc",
-      "ticker": "PCIMF",
-      "exDate": "2026-10-07",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E831bace5b71dcb742437ea54a56529fceacc68c41ee3813600d0ff36ab902d73",
-      "company": "Green Circle Decarbonize Techno",
-      "ticker": "GCDT",
-      "exDate": "2026-10-07",
-      "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
