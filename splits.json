@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-15T17:57:08.588Z",
-  "totalRecords": 46,
-  "newThisScan": 3,
+  "lastUpdated": "2026-10-16T17:45:36.578Z",
+  "totalRecords": 48,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
@@ -9,6 +9,17 @@
       "ticker": "RCT",
       "exDate": "2026-11-13",
       "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -99,7 +110,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -125,17 +136,6 @@
       "source": "polygon"
     },
     {
-      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-10-29",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "Ea9a1e8a4aa3c0502483a808ed1eda96b6161b6ac8eed59428e95456e489d2050",
       "company": "Havas N.V.",
       "ticker": "HVNVY",
@@ -143,7 +143,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -246,6 +246,50 @@
       "source": "polygon"
     },
     {
+      "id": "E55f5f1f6fa8e41223f09d0ed2781f4a5f3cbc7b794bf05226769ac5635b56ef4",
+      "company": "Our Bond, Inc.",
+      "ticker": "OBAI",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea25620ad56a2c36f931314cdb811a3dca4508c8d0390cd5d18f9a3b85c7ed05e",
+      "company": "GreenPower Motor Company Inc.",
+      "ticker": "GP",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2e983b418e7bf07c8c83838d00fff90ad01e389cdc6644e27f7d612846727bea",
+      "company": "Freight Technologies, Inc.",
+      "ticker": "FRGT",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E08fd0510ab12ffd77779ce9bdd557cf91dce560254f410cf83928814229f822b",
+      "company": "Capstone Holding Corp.",
+      "ticker": "CAPS",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E18f3e4bb633b1e14703025277b27805981d17a106fc1d01fc3981bda6b0ae1c4",
       "company": "AMTD IDEA Group",
       "ticker": "AMTD",
@@ -268,12 +312,23 @@
       "source": "polygon"
     },
     {
-      "id": "Ebb85b7e3f4612332ce7d0a84e761085cd4d0f6a0019cf8b82957dcf7c6c418cc",
-      "company": "Jaguar Health, Inc.",
-      "ticker": "JAGX",
+      "id": "E11c437add5eddf239295b47a1a50eca9200a5cb5d13286ff8ce1087507edf113",
+      "company": "GGL Resources Corp.",
+      "ticker": "GGLXF",
       "exDate": "2026-10-16",
-      "ratio": "2-for-1",
-      "type": "forward",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E654004f4417352cb6e247103a38d3bbd709a13f6d5700fd17eea2cfd6b6d2d4c",
+      "company": "Australian Mines Limited",
+      "ticker": "AMSLF",
+      "exDate": "2026-10-16",
+      "ratio": "1-for-5",
+      "type": "reverse",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -472,39 +527,6 @@
       "exDate": "2026-10-09",
       "ratio": "2-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed93f14c8546bae5dc8f0789e0f0ea1294a80a4b93efe652135a8fc239a4e91c1",
-      "company": "Aberdeen Intermediate Income Fund",
-      "ticker": "MIN",
-      "exDate": "2026-10-08",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee838be55900ea4159e593a846fafb51945094af7b0b15cad0338cf52107f5f3b",
-      "company": "Aberdeen Government Markets Income Fund",
-      "ticker": "MGF",
-      "exDate": "2026-10-08",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E220a2a538b3fba9c0310510835d4808b92ec390c6608f8506d1bcd6101c84500",
-      "company": "Global Engine Group Holding Limited",
-      "ticker": "GLE",
-      "exDate": "2026-10-08",
-      "ratio": "1-for-10",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
