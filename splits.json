@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-16T17:45:36.578Z",
-  "totalRecords": 48,
-  "newThisScan": 6,
+  "lastUpdated": "2026-10-19T19:34:54.262Z",
+  "totalRecords": 49,
+  "newThisScan": 8,
   "splits": [
     {
       "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
@@ -23,6 +23,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1620808ddcf9100a488319178bb3bf18d8a7fae6e741e3838a71eb6a03a9c9cb",
+      "company": "Robo.ai Inc.",
+      "ticker": "AIIO",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -114,6 +125,17 @@
       "source": "polygon"
     },
     {
+      "id": "E35fde16573f0d767246566e68168af84e44b4360808bca10420b5b6f71b6b531",
+      "company": "Odyssey Marine Exploration, Inc.",
+      "ticker": "OMEX",
+      "exDate": "2026-10-29",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebadb2a9cf1647e3cc4ff44b457473db9f17119c744ca9cf18326b86ca1ecfe62",
       "company": "Meiko Electronics Co., Ltd.",
       "ticker": "MKOEF",
@@ -180,6 +202,17 @@
       "source": "polygon"
     },
     {
+      "id": "E8ce2b0f29a4b01994ad737ef41d5e90f1394f56d5e7f78f13e9198a547a09688",
+      "company": "BUUU Group Limited",
+      "ticker": "BUUU",
+      "exDate": "2026-10-26",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1812f86e14bbd3fd21992611bede63cecd50b019f3e374a9147531fff3da9b23",
       "company": "Biodexa Pharmaceuticals Plc",
       "ticker": "BDRX",
@@ -188,6 +221,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eaad96a4fad8810540a8630137a7767547802812fae36fdd3ed0698e5e9481aa2",
+      "company": "Azitra, Inc.",
+      "ticker": "AZTR",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -246,11 +290,55 @@
       "source": "polygon"
     },
     {
+      "id": "E3e6b657bd1c2939a1b5c3d7a81b00c030be7fa4f28aab938eaed08cd440e7197",
+      "company": "Revelation Biosciences, Inc.",
+      "ticker": "REVB",
+      "exDate": "2026-10-20",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed2ca242dd01734abafb64c099e669fe62b0ca8c975dc0259c30786b95e277b17",
+      "company": "Moleculin Biotech, Inc.",
+      "ticker": "MBRX",
+      "exDate": "2026-10-20",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5284298db8ef6c5b71c5e3137b300383caf7e08d246582eed1f05318f8746801",
+      "company": "Sunday Lake Gold Corp.",
+      "ticker": "WLBMF",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E55f5f1f6fa8e41223f09d0ed2781f4a5f3cbc7b794bf05226769ac5635b56ef4",
       "company": "Our Bond, Inc.",
       "ticker": "OBAI",
       "exDate": "2026-10-19",
       "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E172b87264945f7ee83e404ceea1cd2851c8d4c79521b9c727ff4f58cf6c39103",
+      "company": "Innovaro, Inc.",
+      "ticker": "INNI",
+      "exDate": "2026-10-19",
+      "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -264,7 +352,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +363,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +374,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +407,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +418,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -450,83 +538,6 @@
       "exDate": "2026-10-12",
       "ratio": "1-for-8",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1e5f9f4889837c2efdddf5b91ca33c0634976551c4ca16c57dc2180c457c9b32",
-      "company": "Sequoia",
-      "ticker": "SEQUX",
-      "exDate": "2026-10-09",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0faa7d94e6d489275a0263279117ad0ebdd6372655c93c6158a6709c28fedfce",
-      "company": "Kioxia Holdings Corporation",
-      "ticker": "KXIAY",
-      "exDate": "2026-10-09",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecf2263d038794d0f275e4ec92f12169394b3221ad83c38cfdffef14724b73a2c",
-      "company": "Isetan Mitsukoshi Holdings Ltd.",
-      "ticker": "IMHDY",
-      "exDate": "2026-10-09",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8cb92f648aca7366578a8d6d55d9034e51508f7f1153932ef64227005328311b",
-      "company": "Ibiden Co.,Ltd.",
-      "ticker": "IBIDY",
-      "exDate": "2026-10-09",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebd845dfad246a2a75e09d8d09b5f882178049d4209234ca84c07781123e4abda",
-      "company": "HKHUY",
-      "ticker": "HKHUY",
-      "exDate": "2026-10-09",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9b9bc0ab83bfbf9b1ac377acab535ffb2787e785eaa8d98028000aab18bf25ce",
-      "company": "WisdomTree Japan Hedged Equity Fund",
-      "ticker": "DXJ",
-      "exDate": "2026-10-09",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea4cd88be2183271fffbe5a7fd4c6f5cfb09736089eee27eb792d584fd909203e",
-      "company": "Daiwa House Industry Co., Ltd.",
-      "ticker": "DWAHY",
-      "exDate": "2026-10-09",
-      "ratio": "2-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
