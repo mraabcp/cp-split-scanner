@@ -1,8 +1,41 @@
 {
-  "lastUpdated": "2026-10-19T19:34:54.262Z",
-  "totalRecords": 49,
+  "lastUpdated": "2026-10-20T18:12:42.771Z",
+  "totalRecords": 51,
   "newThisScan": 8,
   "splits": [
+    {
+      "id": "E24857e62a3d8c3105ba82e34c1e050e824aed414d5576b3eb18c48dd048c0b47",
+      "company": "Angel Oak Mortgage-Backed Securities ETF",
+      "ticker": "MBS",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb35474e5522dfd892b7e05304a506576c1aa5437ce39def97a69dbcdb2c42512",
+      "company": "Angel Oak Income ETF",
+      "ticker": "CARY",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E6bffcd2be67a80173f742e7123b748ae9a7510805ce0c1083048b410361f2660",
+      "company": "Angel Oak High Yield Opportunities ETF",
+      "ticker": "AOHY",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
       "company": "RedCloud Holdings plc",
@@ -33,7 +66,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -103,6 +136,17 @@
       "source": "polygon"
     },
     {
+      "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
+      "company": "Zone Frontier Inc.",
+      "ticker": "ZONE",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-60",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef2bb7f9d8575623c980e6e1ebf8e23cc470ba353ab3833cd446b9f499806ba6a",
       "company": "Scage Future",
       "ticker": "SCAG",
@@ -132,7 +176,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -152,6 +196,17 @@
       "ticker": "KPRTF",
       "exDate": "2026-10-29",
       "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
+      "company": "IDTIF",
+      "ticker": "IDTIF",
+      "exDate": "2026-10-29",
+      "ratio": "192-for-100",
       "type": "forward",
       "isETF": false,
       "isNew": false,
@@ -180,17 +235,6 @@
       "source": "polygon"
     },
     {
-      "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
-      "company": "IDTIF",
-      "ticker": "IDTIF",
-      "exDate": "2026-10-26",
-      "ratio": "192-for-100",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E4851821e1b5981b1e8354a2a79836673f847efb661dd571d1c6ccc18d6a2a30d",
       "company": "ChowChow Cloud International Holdings Limited",
       "ticker": "CHOW",
@@ -209,7 +253,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +275,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -290,11 +334,44 @@
       "source": "polygon"
     },
     {
+      "id": "Eaff83807430159db696b5a61feba426b4df7aa0428a5e665afa5dd5f4e812ede",
+      "company": "Darkiris Inc.",
+      "ticker": "DKI",
+      "exDate": "2026-10-22",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9efd2492fb51181186a87c4fc40ef3ab3a0b87b993424802f03d898957c36ac0",
+      "company": "Eshallgo Inc.",
+      "ticker": "EHGO",
+      "exDate": "2026-10-21",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3e6b657bd1c2939a1b5c3d7a81b00c030be7fa4f28aab938eaed08cd440e7197",
       "company": "Revelation Biosciences, Inc.",
       "ticker": "REVB",
       "exDate": "2026-10-20",
       "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8643d332827a3a55fc8a36bc01bc217e8fc8b4cec170a6b33dde5c23e86e3dd1",
+      "company": "Nightfood Holdings, Inc.",
+      "ticker": "NGTF",
+      "exDate": "2026-10-20",
+      "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -308,6 +385,17 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0daf1d7e551776bda3e24aa467ef5a1bbafd05dfd4e16bc4934bf41ffe238c4b",
+      "company": "HINTO Energy, Inc.",
+      "ticker": "HENI",
+      "exDate": "2026-10-20",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -319,7 +407,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +429,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -471,72 +559,6 @@
       "ticker": "FMFC",
       "exDate": "2026-10-13",
       "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee47a00e536650bffb0428c1ca2eecd49a4a958118eb2af76e6cac96830c2ac4b",
-      "company": "Zhibao Technology Inc.",
-      "ticker": "ZBAO",
-      "exDate": "2026-10-12",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E218459fb7ba3b2168b33c8062125e8e897357f2007a014c0c1b207f344564d00",
-      "company": "Phaos Technology Holdings (Caym",
-      "ticker": "POAS",
-      "exDate": "2026-10-12",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E357fd1ec1cbfcdf8b848c621df436ebbdc13dfefaff6f17741f9f6b04a74db6b",
-      "company": "NEXGEL, Inc.",
-      "ticker": "NXGL",
-      "exDate": "2026-10-12",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6c77be6dae1d283ca238b09b0cbcc8649bb6da99ac7e0653c1abc342b802a40c",
-      "company": "NewGenIvf Group Limited",
-      "ticker": "NIVF",
-      "exDate": "2026-10-12",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5dc3b4e68cf2356ab130bba30db902a2dea7d1c4dc0a4fca87862a88e89d7599",
-      "company": "Medicus Pharma Ltd.",
-      "ticker": "MDCX",
-      "exDate": "2026-10-12",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee4adde513be3c72d593bf99218ed6da20070c1f8f3f27d9fb2b66ff0d0a846cb",
-      "company": "Dragonfly Energy Holdings Corp.",
-      "ticker": "DFLI",
-      "exDate": "2026-10-12",
-      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
