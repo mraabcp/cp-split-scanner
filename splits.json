@@ -1,8 +1,173 @@
 {
-  "lastUpdated": "2026-10-20T18:12:42.771Z",
-  "totalRecords": 51,
-  "newThisScan": 8,
+  "lastUpdated": "2026-10-21T18:19:17.128Z",
+  "totalRecords": 67,
+  "newThisScan": 18,
   "splits": [
+    {
+      "id": "E1b1a9628d23ed7a94cca983b46b1ceaba074868dda0f37339c07acf3014b0239",
+      "company": "JHancock High Yield I",
+      "ticker": "JYHIX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E90542bfd63f885eecf2c944189158d2b4aab0bb7886796c3b4af9da1cd666dfe",
+      "company": "JHancock Income I",
+      "ticker": "JSTIX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef34a10512ab3725db16e0ccc494530935af3e82bba5c33785c71c3482c6b485d",
+      "company": "JHancock Income C",
+      "ticker": "JSTCX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7cb650489c940af23395dfe016fcfca08b2094101fcfeec72eedc95e775de0ec",
+      "company": "JHancock Income R6",
+      "ticker": "JSNWX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee9c35a0bedb0de8c6b25a4097de31c8700d922f08afd2446500ca228b85f9649",
+      "company": "JHancock Income R5",
+      "ticker": "JSNVX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb6c5ea187c33ce0124ed55921107d51d39df310423e50da6b14bad42027f96f3",
+      "company": "JHancock Income R2",
+      "ticker": "JSNSX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef2cbdd290654730b580c98ce8300899b7813346d7a70c122b7b8c9793c19f750",
+      "company": "JHancock Income R4",
+      "ticker": "JSNFX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef9b4786f6940586d7968c3947db240c619fcc9e94622e74e11d29b1359529148",
+      "company": "JHancock High Yield Municipal Bond I",
+      "ticker": "JHYMX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4b585505c3d778e996c691a76f9c83a7caae5c5f78d97eb628ce0fdf78c57c49",
+      "company": "JHancock High Yield C",
+      "ticker": "JHYCX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1de627df8aa14d1e5a082b2c0f2c157dd5894b02a1cc91851287d735c9eb56dd",
+      "company": "JHancock High Yield Municipal Bond A",
+      "ticker": "JHTFX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4e1b1db62a970f30f9c7627485827b71722bbab6f180a25445b7d8f40d116967",
+      "company": "JHancock High Yield A",
+      "ticker": "JHHBX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E76b83fa049adbb41b1447dbad1fb898100759973ec1af3fde340dbd23bf40b6a",
+      "company": "JHancock Income A",
+      "ticker": "JHFIX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2059ff04acb6b57bb77c22664291c3176c46b00a967a02cbd9c9668259f946b5",
+      "company": "JHancock High Yield R6",
+      "ticker": "JFHYX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eafcd7629baedf8c1b8325fb8ae1c7a08849e9268145788ca0bf0a7c6d24b722b",
+      "company": "JHancock High Yield Municipal Bond R6",
+      "ticker": "JCTRX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea0a9717421eb38cd38a6a8b063c0138ceb79f43afc72305a1f56445973f4669f",
+      "company": "JHancock High Yield Municipal Bond C",
+      "ticker": "JCTFX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E24857e62a3d8c3105ba82e34c1e050e824aed414d5576b3eb18c48dd048c0b47",
       "company": "Angel Oak Mortgage-Backed Securities ETF",
@@ -11,7 +176,7 @@
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +187,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +198,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +308,7 @@
       "ratio": "1-for-60",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,6 +506,39 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E558219b67642217f333f092983aad67af3073f65caf43312b689816b2619cd66",
+      "company": "Axonex AI Group Limited",
+      "ticker": "AXNX",
+      "exDate": "2026-10-22",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee79d05549be355f28b76ca5629016843211d1d80e63ca815fc58186bd2ae4459",
+      "company": "STSUF",
+      "ticker": "STSUF",
+      "exDate": "2026-10-21",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E448c68d42d8c6850d7f53a0a8ef684e11eaf67ef14fa34856b03f5773de346df",
+      "company": "Scancell Holdings plc",
+      "ticker": "SCNLF",
+      "exDate": "2026-10-21",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -352,7 +550,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +572,7 @@
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -390,13 +588,13 @@
     },
     {
       "id": "E0daf1d7e551776bda3e24aa467ef5a1bbafd05dfd4e16bc4934bf41ffe238c4b",
-      "company": "HINTO Energy, Inc.",
+      "company": "Catali Inc.",
       "ticker": "HENI",
       "exDate": "2026-10-20",
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -537,28 +735,6 @@
       "ticker": "BKTPF",
       "exDate": "2026-10-14",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9db3b18060129f357d5c9ea66eb75863474fe4524329fd6fb95b28df71b2d5ed",
-      "company": "Marvion Inc.",
-      "ticker": "MVNC",
-      "exDate": "2026-10-13",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8665030d284dd7f880b10fd997f03ce6fedb77bd25b10943f59e69ac7ce4a247",
-      "company": "Kandal M Venture Limited",
-      "ticker": "FMFC",
-      "exDate": "2026-10-13",
-      "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
