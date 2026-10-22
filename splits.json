@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-21T18:19:17.128Z",
-  "totalRecords": 67,
-  "newThisScan": 18,
+  "lastUpdated": "2026-10-22T18:13:26.706Z",
+  "totalRecords": 73,
+  "newThisScan": 8,
   "splits": [
     {
       "id": "E1b1a9628d23ed7a94cca983b46b1ceaba074868dda0f37339c07acf3014b0239",
@@ -11,7 +11,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +110,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +121,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +132,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +154,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -165,7 +165,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -221,6 +221,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E365ebeb272ca08775c9c31afb94c874969c94f364e22fff7ae0233fe810bde47",
+      "company": "Steakholder Foods Ltd.",
+      "ticker": "STKH",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -400,6 +411,50 @@
       "source": "polygon"
     },
     {
+      "id": "Ed9bcf322b514602215e212b514abf20df3b34aefa0fd77b9a1d949f882fcbe06",
+      "company": "MULYF",
+      "ticker": "MULYF",
+      "exDate": "2026-10-27",
+      "ratio": "80-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E1566216a919d98d035547e2429dd6720c5ece655c7a80a17a92830bd578f6fa3",
+      "company": "MLTAF",
+      "ticker": "MLTAF",
+      "exDate": "2026-10-27",
+      "ratio": "100-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed96e31b91f95da63b04759355c769b845fd2834102f2bc47183c3538c783532c",
+      "company": "Cellyan Biotechnology Co., Ltd",
+      "ticker": "HKPD",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb0be65a66df160e5dd8114f822d4431fa309e1dd21bba4d46d7fb0228753bde2",
+      "company": "Healthcare Triangle, Inc.",
+      "ticker": "HCTI",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4851821e1b5981b1e8354a2a79836673f847efb661dd571d1c6ccc18d6a2a30d",
       "company": "ChowChow Cloud International Holdings Limited",
       "ticker": "CHOW",
@@ -452,6 +507,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3a9ed12592c2d3d926c9287b31d9adc189dea0396db4c1cd187c0c7b496afee2",
+      "company": "Ping An Biomedical Co., Ltd.",
+      "ticker": "PASW",
+      "exDate": "2026-10-23",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E90b9ff93dacc5095d1060b6eeebe8a5a22e5be02f778aeef1ebe25e93c9819c9",
+      "company": "NewGenIvf Group Limited",
+      "ticker": "NIVF",
+      "exDate": "2026-10-23",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -510,6 +587,17 @@
       "source": "polygon"
     },
     {
+      "id": "E611bd7cad9b71a540059f106bdcc74a616ad80f881c04aa48c57642f74d7e458",
+      "company": "Blue Star Helium Limited",
+      "ticker": "BSNLF",
+      "exDate": "2026-10-22",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E558219b67642217f333f092983aad67af3073f65caf43312b689816b2619cd66",
       "company": "Axonex AI Group Limited",
       "ticker": "AXNX",
@@ -517,7 +605,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +616,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +627,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -698,7 +786,7 @@
     },
     {
       "id": "E654004f4417352cb6e247103a38d3bbd709a13f6d5700fd17eea2cfd6b6d2d4c",
-      "company": "Australian Mines Limited",
+      "company": "Australian Mines Ltd",
       "ticker": "AMSLF",
       "exDate": "2026-10-16",
       "ratio": "1-for-5",
@@ -713,28 +801,6 @@
       "ticker": "BTOC",
       "exDate": "2026-10-15",
       "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea38dd74a3e6ebadf9ee75f4085a82d981b2af1d7a55e73f0b172a7165718c217",
-      "company": "SkinHealth Systems Inc.",
-      "ticker": "SKIN",
-      "exDate": "2026-10-14",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef54115c894b3bf1933413213d51e12f8091245a664c5eef5bf2f6fa4a9b4cfe8",
-      "company": "Cruz Mining Corp.",
-      "ticker": "BKTPF",
-      "exDate": "2026-10-14",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
