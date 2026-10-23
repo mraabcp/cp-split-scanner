@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-22T18:13:26.706Z",
-  "totalRecords": 73,
-  "newThisScan": 8,
+  "lastUpdated": "2026-10-23T18:02:13.735Z",
+  "totalRecords": 83,
+  "newThisScan": 11,
   "splits": [
     {
       "id": "E1b1a9628d23ed7a94cca983b46b1ceaba074868dda0f37339c07acf3014b0239",
@@ -148,7 +148,7 @@
     },
     {
       "id": "Eafcd7629baedf8c1b8325fb8ae1c7a08849e9268145788ca0bf0a7c6d24b722b",
-      "company": "JHancock High Yield Municipal Bond R6",
+      "company": "JCTRX",
       "ticker": "JCTRX",
       "exDate": "2026-11-20",
       "ratio": "1-for-2",
@@ -231,7 +231,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -313,21 +313,10 @@
     },
     {
       "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
-      "company": "Zone Frontier Inc.",
+      "company": "CleanCore Solutions, Inc.",
       "ticker": "ZONE",
       "exDate": "2026-10-30",
       "ratio": "1-for-60",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef2bb7f9d8575623c980e6e1ebf8e23cc470ba353ab3833cd446b9f499806ba6a",
-      "company": "Scage Future",
-      "ticker": "SCAG",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -411,6 +400,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ef2bb7f9d8575623c980e6e1ebf8e23cc470ba353ab3833cd446b9f499806ba6a",
+      "company": "Scage Future",
+      "ticker": "SCAG",
+      "exDate": "2026-10-27",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3c40a11b5e455bdb63361031344bc04c0295468044eeee83e15d6dc3e3c6717c",
+      "company": "Banzai International, Inc.",
+      "ticker": "PARA",
+      "exDate": "2026-10-27",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed9bcf322b514602215e212b514abf20df3b34aefa0fd77b9a1d949f882fcbe06",
       "company": "MULYF",
       "ticker": "MULYF",
@@ -418,7 +429,7 @@
       "ratio": "80-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -428,6 +439,83 @@
       "exDate": "2026-10-27",
       "ratio": "100-for-1",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9cf9b7c89a405a539e78eed001a1ab014b930e9baf346f21a13ffd20091f29e5",
+      "company": "Enlivex Ltd.",
+      "ticker": "ENLV",
+      "exDate": "2026-10-27",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec2b41fe57d84bfde622d12eefc61a111b1d9524b5cc2643359eb327b38e5beb6",
+      "company": "Top Wealth Group Holding Limited",
+      "ticker": "TWG",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eed4edb2cfe3803b625ce4181574808c98d6e159cfd5d9a9d97f5b63f1d44061c",
+      "company": "China SXT Pharmaceuticals, Inc.",
+      "ticker": "SXTC",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E49545b420c93f0778fe319bc7dbdd793469b7ea797c6f152174dbdf0e72aecb1",
+      "company": "Sunshine Biopharma, Inc.",
+      "ticker": "SBFM",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee7c8b40040d9a6c8e1ea32f007c028b8b90aae05426b1f4d994eed5802446625",
+      "company": "Propanc Biopharma, Inc.",
+      "ticker": "PPCB",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4e1fb1b70b59f1813cc0a4a708792b08d7a819bc2d3d6c3d75abd928b993134c",
+      "company": "Lianhe Sowell International Group Ltd",
+      "ticker": "LHSW",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E28558896220c08431d56b03c8a160cf05860263ea61a80e1014a0db8cdfe1979",
+      "company": "iPower Inc.",
+      "ticker": "IPW",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-12",
+      "type": "reverse",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -440,7 +528,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -449,6 +537,28 @@
       "ticker": "HCTI",
       "exDate": "2026-10-26",
       "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E15650bee4c5e40e44fa5b11023f901cd0fc2d4d63e6dd9da813a1655c136a7d6",
+      "company": "GlucoTrack, Inc.",
+      "ticker": "GCTK",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9b1475ee6cb817ac235c97e32dd9509b5e1ac2e52a2f32136a8f0b20ddf10d80",
+      "company": "Envoy Medical, Inc.",
+      "ticker": "COCH",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -517,7 +627,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +638,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -565,6 +675,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed0492b77ac7f82dea6013fc0215337b15a8084009c4e27aca97b7e250e92608a",
+      "company": "Belgravia Hartford Capital Inc.",
+      "ticker": "BLGVF",
+      "exDate": "2026-10-23",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea8422277f790140997012742d663966c91ac554fdb368498abcb309cea4e3596",
       "company": "SITC International Holdings Company Limited",
       "ticker": "SITIY",
@@ -594,7 +715,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -632,7 +753,7 @@
     },
     {
       "id": "E9efd2492fb51181186a87c4fc40ef3ab3a0b87b993424802f03d898957c36ac0",
-      "company": "Eshallgo Inc.",
+      "company": "EHGO",
       "ticker": "EHGO",
       "exDate": "2026-10-21",
       "ratio": "1-for-5",
@@ -790,17 +911,6 @@
       "ticker": "AMSLF",
       "exDate": "2026-10-16",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb0d633e7928bc00cc4d81c33249b70882b041aa3065f78b56abc32c72775dc2c",
-      "company": "Armlogi Holding Corp.",
-      "ticker": "BTOC",
-      "exDate": "2026-10-15",
-      "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
