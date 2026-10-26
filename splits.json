@@ -1,8 +1,30 @@
 {
-  "lastUpdated": "2026-10-23T18:02:13.735Z",
-  "totalRecords": 83,
-  "newThisScan": 11,
+  "lastUpdated": "2026-10-26T19:40:27.703Z",
+  "totalRecords": 87,
+  "newThisScan": 7,
   "splits": [
+    {
+      "id": "Ed58b3712c1deda96987778949870d24e684e7700570450fb631a58d0e9ef7fde",
+      "company": "CTF Services Limited",
+      "ticker": "NWSZF",
+      "exDate": "2026-11-23",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2ad6d7982e4c708de3904d520a927a848846ddc3bc4ac288066e256d7da03022",
+      "company": "NetClass Technology Inc",
+      "ticker": "NTCL",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E1b1a9628d23ed7a94cca983b46b1ceaba074868dda0f37339c07acf3014b0239",
       "company": "JHancock High Yield I",
@@ -148,7 +170,7 @@
     },
     {
       "id": "Eafcd7629baedf8c1b8325fb8ae1c7a08849e9268145788ca0bf0a7c6d24b722b",
-      "company": "JCTRX",
+      "company": "JHancock High Yield Municipal Bond R6",
       "ticker": "JCTRX",
       "exDate": "2026-11-20",
       "ratio": "1-for-2",
@@ -202,6 +224,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eef0e6e1a30ebf5558a173d978086ec7159f70f55ee49dd835861a969428c9389",
+      "company": "Sangrix Inc.",
+      "ticker": "SGRX",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
       "company": "RedCloud Holdings plc",
       "ticker": "RCT",
@@ -232,6 +265,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec0b674f122589d776cf3b264f965750b22a2a66871adf85010a4682bb714b3af",
+      "company": "Aberdeen Multi-Market Income Fund",
+      "ticker": "MMT",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -291,12 +335,12 @@
     },
     {
       "id": "E41e18e1404bb5cbfb3bb1163bc11509e93d7cc9241e34ef7700cb2398c8e5d40",
-      "company": "iShares MSCI EAFE Value ETF",
+      "company": "EFV",
       "ticker": "EFV",
       "exDate": "2026-11-05",
       "ratio": "2-for-1",
       "type": "forward",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -331,6 +375,17 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8103e72fe23f971500f9b1e97b609ad85e95af579a3a9ebe306e895bf20cad12",
+      "company": "3 E Network Technology Group Limited",
+      "ticker": "MASK",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -418,6 +473,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4f79034dc93fedc438174a71624e9f8532364e378af2a06e1cbea0fc39a5e371",
+      "company": "Nuwellis, Inc.",
+      "ticker": "NUWE",
+      "exDate": "2026-10-27",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -451,6 +517,17 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E5e3c179f624b238ef783c5eb1bd2ff9c8527ce1b6fc9c62c274e6dc6d074f4e3",
+      "company": "Wealthcraft Capital, Inc.",
+      "ticker": "WCCP",
+      "exDate": "2026-10-26",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -462,7 +539,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +550,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -484,7 +561,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +572,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +583,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,7 +594,7 @@
       "ratio": "1-for-12",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -550,7 +627,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -561,7 +638,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -682,7 +759,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -753,7 +830,7 @@
     },
     {
       "id": "E9efd2492fb51181186a87c4fc40ef3ab3a0b87b993424802f03d898957c36ac0",
-      "company": "EHGO",
+      "company": "Eshallgo Inc.",
       "ticker": "EHGO",
       "exDate": "2026-10-21",
       "ratio": "1-for-5",
@@ -775,7 +852,7 @@
     },
     {
       "id": "E8643d332827a3a55fc8a36bc01bc217e8fc8b4cec170a6b33dde5c23e86e3dd1",
-      "company": "Nightfood Holdings, Inc.",
+      "company": "NightFood Holdings Inc",
       "ticker": "NGTF",
       "exDate": "2026-10-20",
       "ratio": "1-for-150",
@@ -797,7 +874,7 @@
     },
     {
       "id": "E0daf1d7e551776bda3e24aa467ef5a1bbafd05dfd4e16bc4934bf41ffe238c4b",
-      "company": "Catali Inc.",
+      "company": "Hinto Energy Inc",
       "ticker": "HENI",
       "exDate": "2026-10-20",
       "ratio": "1-for-100",
@@ -808,7 +885,7 @@
     },
     {
       "id": "E5284298db8ef6c5b71c5e3137b300383caf7e08d246582eed1f05318f8746801",
-      "company": "Sunday Lake Gold Corp.",
+      "company": "Sunday Lake Gold Corp",
       "ticker": "WLBMF",
       "exDate": "2026-10-19",
       "ratio": "1-for-20",
@@ -830,7 +907,7 @@
     },
     {
       "id": "E172b87264945f7ee83e404ceea1cd2851c8d4c79521b9c727ff4f58cf6c39103",
-      "company": "Innovaro, Inc.",
+      "company": "Innovaro Inc",
       "ticker": "INNI",
       "exDate": "2026-10-19",
       "ratio": "1-for-200",
@@ -878,39 +955,6 @@
       "ticker": "AMTD",
       "exDate": "2026-10-19",
       "ratio": "1-for-60",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E44ae706a879003841233d9eabd1b5c599408d3ea13c1d788701f2117cb13c1a3",
-      "company": "Kandi Technologies Group, Inc.",
-      "ticker": "KNDI",
-      "exDate": "2026-10-16",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E11c437add5eddf239295b47a1a50eca9200a5cb5d13286ff8ce1087507edf113",
-      "company": "GGL Resources Corp.",
-      "ticker": "GGLXF",
-      "exDate": "2026-10-16",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E654004f4417352cb6e247103a38d3bbd709a13f6d5700fd17eea2cfd6b6d2d4c",
-      "company": "Australian Mines Ltd",
-      "ticker": "AMSLF",
-      "exDate": "2026-10-16",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
