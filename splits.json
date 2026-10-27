@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-26T19:40:27.703Z",
-  "totalRecords": 87,
-  "newThisScan": 7,
+  "lastUpdated": "2026-10-27T19:09:01.941Z",
+  "totalRecords": 82,
+  "newThisScan": 2,
   "splits": [
     {
       "id": "Ed58b3712c1deda96987778949870d24e684e7700570450fb631a58d0e9ef7fde",
@@ -11,7 +11,7 @@
       "ratio": "11-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +231,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -273,6 +273,17 @@
       "ticker": "MMT",
       "exDate": "2026-11-09",
       "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E136c5ac1d0fb77390e8fc7f8d06df8376f9b5cb7110d9b42219d29c49f72d61c",
+      "company": "Onconetix, Inc.",
+      "ticker": "ONCO",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -334,13 +345,24 @@
       "source": "polygon"
     },
     {
-      "id": "E41e18e1404bb5cbfb3bb1163bc11509e93d7cc9241e34ef7700cb2398c8e5d40",
-      "company": "EFV",
-      "ticker": "EFV",
+      "id": "Ea5f9c9ab871f673a0e891cffa636f6b3970b96655bda74c03b65ff4d43c62b33",
+      "company": "InMed Pharmaceuticals Inc.",
+      "ticker": "INM",
       "exDate": "2026-11-05",
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E41e18e1404bb5cbfb3bb1163bc11509e93d7cc9241e34ef7700cb2398c8e5d40",
+      "company": "iShares MSCI EAFE Value ETF",
+      "ticker": "EFV",
+      "exDate": "2026-11-05",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -385,7 +407,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -433,23 +455,23 @@
       "source": "polygon"
     },
     {
+      "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
+      "company": "Enhanced Group Inc.",
+      "ticker": "ENHA",
+      "exDate": "2026-10-29",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ea9a1e8a4aa3c0502483a808ed1eda96b6161b6ac8eed59428e95456e489d2050",
       "company": "Havas N.V.",
       "ticker": "HVNVY",
       "exDate": "2026-10-28",
       "ratio": "10-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
-      "company": "Enhanced Group Inc.",
-      "ticker": "ENHA",
-      "exDate": "2026-10-28",
-      "ratio": "1-for-10",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -467,7 +489,7 @@
     },
     {
       "id": "E3c40a11b5e455bdb63361031344bc04c0295468044eeee83e15d6dc3e3c6717c",
-      "company": "Banzai International, Inc.",
+      "company": "Parabolic Technologies, Inc.",
       "ticker": "PARA",
       "exDate": "2026-10-27",
       "ratio": "1-for-10",
@@ -484,7 +506,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -528,7 +550,7 @@
       "ratio": "1-for-200",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -819,7 +841,7 @@
     },
     {
       "id": "E448c68d42d8c6850d7f53a0a8ef684e11eaf67ef14fa34856b03f5773de346df",
-      "company": "Scancell Holdings plc",
+      "company": "Scancell Holdings PLC",
       "ticker": "SCNLF",
       "exDate": "2026-10-21",
       "ratio": "1-for-10",
@@ -878,83 +900,6 @@
       "ticker": "HENI",
       "exDate": "2026-10-20",
       "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5284298db8ef6c5b71c5e3137b300383caf7e08d246582eed1f05318f8746801",
-      "company": "Sunday Lake Gold Corp",
-      "ticker": "WLBMF",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E55f5f1f6fa8e41223f09d0ed2781f4a5f3cbc7b794bf05226769ac5635b56ef4",
-      "company": "Our Bond, Inc.",
-      "ticker": "OBAI",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E172b87264945f7ee83e404ceea1cd2851c8d4c79521b9c727ff4f58cf6c39103",
-      "company": "Innovaro Inc",
-      "ticker": "INNI",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea25620ad56a2c36f931314cdb811a3dca4508c8d0390cd5d18f9a3b85c7ed05e",
-      "company": "GreenPower Motor Company Inc.",
-      "ticker": "GP",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2e983b418e7bf07c8c83838d00fff90ad01e389cdc6644e27f7d612846727bea",
-      "company": "Freight Technologies, Inc.",
-      "ticker": "FRGT",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E08fd0510ab12ffd77779ce9bdd557cf91dce560254f410cf83928814229f822b",
-      "company": "Capstone Holding Corp.",
-      "ticker": "CAPS",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E18f3e4bb633b1e14703025277b27805981d17a106fc1d01fc3981bda6b0ae1c4",
-      "company": "AMTD IDEA Group",
-      "ticker": "AMTD",
-      "exDate": "2026-10-19",
-      "ratio": "1-for-60",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
