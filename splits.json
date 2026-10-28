@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-10-27T19:09:01.941Z",
-  "totalRecords": 82,
-  "newThisScan": 2,
+  "lastUpdated": "2026-10-28T19:12:30.183Z",
+  "totalRecords": 87,
+  "newThisScan": 9,
   "splits": [
+    {
+      "id": "E31a6535a97fc42c9e5c79e05fdd7e0d0650c3546554c5ff7f688530e2e3b4a0c",
+      "company": "MPHSF",
+      "ticker": "MPHSF",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ed58b3712c1deda96987778949870d24e684e7700570450fb631a58d0e9ef7fde",
       "company": "CTF Services Limited",
@@ -191,6 +202,28 @@
       "source": "polygon"
     },
     {
+      "id": "E49de8f0def96cee2b6c568aba36cb1c1999c213e657f276dbd6cd16f56cffb26",
+      "company": "Lichen International Limited",
+      "ticker": "LICN",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9142b759f95ba893c971d6ae409fed6d35386665f9e452d6c67cc33704708941",
+      "company": "Yimutian Inc.",
+      "ticker": "YMT",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E24857e62a3d8c3105ba82e34c1e050e824aed414d5576b3eb18c48dd048c0b47",
       "company": "Angel Oak Mortgage-Backed Securities ETF",
       "ticker": "MBS",
@@ -279,6 +312,17 @@
       "source": "polygon"
     },
     {
+      "id": "E25f3739a2349e9aa1498ee61f3291747228cadc7af06e87a248fe465c754364b",
+      "company": "Top Ships Inc.",
+      "ticker": "TOPS",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E136c5ac1d0fb77390e8fc7f8d06df8376f9b5cb7110d9b42219d29c49f72d61c",
       "company": "Onconetix, Inc.",
       "ticker": "ONCO",
@@ -286,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +396,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -379,13 +423,35 @@
     },
     {
       "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
-      "company": "CleanCore Solutions, Inc.",
+      "company": "Zone Frontier Inc.",
       "ticker": "ZONE",
       "exDate": "2026-10-30",
       "ratio": "1-for-60",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E26bc3ffd2604a49ce390c4e7f46756541527772dc97f35f5854be4e00b8c023c",
+      "company": "Wheeler Real Estate Investment Trust, Inc.",
+      "ticker": "WHLR",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E43358c59ccc70e3620e3266bb6590812e639b913f05e2b791a2c1393a8e2ea94",
+      "company": "WF Holding Limited",
+      "ticker": "WFF",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -408,6 +474,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edd4cb49c2b3192a71c60925026c866ae6d9f04ab37c1eb259c6b5618d47c8679",
+      "company": "INVO Fertility, Inc.",
+      "ticker": "IVF",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -463,6 +540,39 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E510a2cfe8483485886172e4d1917f2bf166cc49265b963a819973c9081fa5486",
+      "company": "Solowin Holdings",
+      "ticker": "AXG",
+      "exDate": "2026-10-29",
+      "ratio": "1-for-200",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed944dcff09edc0bfd4d3ab4d26b87e4dd2e9de85143576dce1d693aa041f2638",
+      "company": "aTyr Pharma, Inc.",
+      "ticker": "ATYR",
+      "exDate": "2026-10-29",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E05720257d116bf1e3592777bab180a1c5f183b50971026fdf92dd0ce5c8bfa0d",
+      "company": "White Cliff Minerals Limited",
+      "ticker": "WCMLF",
+      "exDate": "2026-10-28",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -708,17 +818,6 @@
       "source": "polygon"
     },
     {
-      "id": "E510a2cfe8483485886172e4d1917f2bf166cc49265b963a819973c9081fa5486",
-      "company": "Solowin Holdings",
-      "ticker": "AXG",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E3a9ed12592c2d3d926c9287b31d9adc189dea0396db4c1cd187c0c7b496afee2",
       "company": "Ping An Biomedical Co., Ltd.",
       "ticker": "PASW",
@@ -808,7 +907,7 @@
     },
     {
       "id": "E611bd7cad9b71a540059f106bdcc74a616ad80f881c04aa48c57642f74d7e458",
-      "company": "Blue Star Helium Limited",
+      "company": "Blue Star Helium Ltd",
       "ticker": "BSNLF",
       "exDate": "2026-10-22",
       "ratio": "1-for-50",
@@ -856,50 +955,6 @@
       "ticker": "EHGO",
       "exDate": "2026-10-21",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3e6b657bd1c2939a1b5c3d7a81b00c030be7fa4f28aab938eaed08cd440e7197",
-      "company": "Revelation Biosciences, Inc.",
-      "ticker": "REVB",
-      "exDate": "2026-10-20",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8643d332827a3a55fc8a36bc01bc217e8fc8b4cec170a6b33dde5c23e86e3dd1",
-      "company": "NightFood Holdings Inc",
-      "ticker": "NGTF",
-      "exDate": "2026-10-20",
-      "ratio": "1-for-150",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed2ca242dd01734abafb64c099e669fe62b0ca8c975dc0259c30786b95e277b17",
-      "company": "Moleculin Biotech, Inc.",
-      "ticker": "MBRX",
-      "exDate": "2026-10-20",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E0daf1d7e551776bda3e24aa467ef5a1bbafd05dfd4e16bc4934bf41ffe238c4b",
-      "company": "Hinto Energy Inc",
-      "ticker": "HENI",
-      "exDate": "2026-10-20",
-      "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
