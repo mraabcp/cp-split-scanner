@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-28T19:12:30.183Z",
-  "totalRecords": 87,
-  "newThisScan": 9,
+  "lastUpdated": "2026-10-29T19:21:52.484Z",
+  "totalRecords": 89,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "E31a6535a97fc42c9e5c79e05fdd7e0d0650c3546554c5ff7f688530e2e3b4a0c",
@@ -10,6 +10,17 @@
       "exDate": "2026-11-27",
       "ratio": "1-for-10",
       "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec6d65f46f1b66fc2a44be881bd16e70d25dca4b979f46490b63d9d097453d3d6",
+      "company": "DAFVF",
+      "ticker": "DAFVF",
+      "exDate": "2026-11-27",
+      "ratio": "4-for-1",
+      "type": "forward",
       "isETF": false,
       "isNew": true,
       "source": "polygon"
@@ -209,6 +220,17 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4a6e815c19efacf6f427f19cde42295f2630288c0bdb18ef69c1a909ad5b0a5f",
+      "company": "ANCMF",
+      "ticker": "ANCMF",
+      "exDate": "2026-11-18",
+      "ratio": "101-for-100",
+      "type": "forward",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -220,7 +242,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -279,14 +301,14 @@
       "source": "polygon"
     },
     {
-      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-15",
+      "id": "Eab1a1df3c77a591898366c99375f1f351f76ae898181a37f3b8c185809abc67c",
+      "company": "GEE Group Inc.",
+      "ticker": "JOB",
+      "exDate": "2026-11-10",
+      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -319,7 +341,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -440,13 +462,24 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E43358c59ccc70e3620e3266bb6590812e639b913f05e2b791a2c1393a8e2ea94",
       "company": "WF Holding Limited",
       "ticker": "WFF",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb3cf53ebd84ad3aec476de9f20a739bc35e433cab2bdd155ae5e45b62286c39c",
+      "company": "Rubico Inc.",
+      "ticker": "RUBI",
       "exDate": "2026-10-30",
       "ratio": "1-for-25",
       "type": "reverse",
@@ -466,11 +499,22 @@
       "source": "polygon"
     },
     {
+      "id": "E7afc8d63e0072afd0f2a7eec4a1b8718b7299b206c9562978df12d08dcdfa1c6",
+      "company": "NextNRG, Inc.",
+      "ticker": "NXXT",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E8103e72fe23f971500f9b1e97b609ad85e95af579a3a9ebe306e895bf20cad12",
       "company": "3 E Network Technology Group Limited",
       "ticker": "MASK",
       "exDate": "2026-10-30",
-      "ratio": "1-for-2",
+      "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -484,7 +528,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -543,6 +587,17 @@
       "source": "polygon"
     },
     {
+      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZLF",
+      "exDate": "2026-10-29",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E510a2cfe8483485886172e4d1917f2bf166cc49265b963a819973c9081fa5486",
       "company": "Solowin Holdings",
       "ticker": "AXG",
@@ -561,7 +616,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -572,7 +627,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -921,39 +976,6 @@
       "company": "Axonex AI Group Limited",
       "ticker": "AXNX",
       "exDate": "2026-10-22",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee79d05549be355f28b76ca5629016843211d1d80e63ca815fc58186bd2ae4459",
-      "company": "STSUF",
-      "ticker": "STSUF",
-      "exDate": "2026-10-21",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E448c68d42d8c6850d7f53a0a8ef684e11eaf67ef14fa34856b03f5773de346df",
-      "company": "Scancell Holdings PLC",
-      "ticker": "SCNLF",
-      "exDate": "2026-10-21",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9efd2492fb51181186a87c4fc40ef3ab3a0b87b993424802f03d898957c36ac0",
-      "company": "Eshallgo Inc.",
-      "ticker": "EHGO",
-      "exDate": "2026-10-21",
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
