@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-10-29T19:21:52.484Z",
-  "totalRecords": 89,
-  "newThisScan": 6,
+  "lastUpdated": "2026-10-30T18:56:30.842Z",
+  "totalRecords": 93,
+  "newThisScan": 8,
   "splits": [
+    {
+      "id": "E0ddf412d5c9d19d6ffd9b925dfea305a57f299a5ca8036f4b63e16f4abb69f0f",
+      "company": "TKPTF",
+      "ticker": "TKPTF",
+      "exDate": "2026-11-27",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E31a6535a97fc42c9e5c79e05fdd7e0d0650c3546554c5ff7f688530e2e3b4a0c",
       "company": "MPHSF",
@@ -22,7 +33,7 @@
       "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -231,7 +242,7 @@
       "ratio": "101-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -301,6 +312,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ebbff8202d4e7a7a96cd916e5dcaa872839eb2ff1d76b46fbe3ef23523c784a10",
+      "company": "Enovix Corporation",
+      "ticker": "ENVX",
+      "exDate": "2026-11-13",
+      "ratio": "5-for-4",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E398b8643c87838f1511c8aebf89d664cf0f46958f27b5d167bbc2307e4570a38",
+      "company": "Life & Banc Split Corp.",
+      "ticker": "LFBCF",
+      "exDate": "2026-11-10",
+      "ratio": "112-for-100",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eab1a1df3c77a591898366c99375f1f351f76ae898181a37f3b8c185809abc67c",
       "company": "GEE Group Inc.",
       "ticker": "JOB",
@@ -308,7 +341,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -353,6 +386,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eab114127f2989430df94d5ac8d60e7d7e803686e36d1b69e68b022ef5d52c4e6",
+      "company": "Nexera Technologies Ltd",
+      "ticker": "NEXR",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -444,8 +488,41 @@
       "source": "polygon"
     },
     {
+      "id": "E8c61114a22b6a9ca2ddf56958578a18f8819265f392d6c32256920f19142f2ce",
+      "company": "Uni-Fuels Holdings Limited",
+      "ticker": "UFG",
+      "exDate": "2026-11-03",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E141f43e7e3a11d4bce78367fa5c598ce822c35fa0f60458223614296ed404bd8",
+      "company": "VCI Global Limited",
+      "ticker": "VCIG",
+      "exDate": "2026-11-02",
+      "ratio": "1-for-18",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E82a84c1e58556b24d4abd5dc5a13dbb18f1e1b9c9c1a01fdab6b36a24c4e48d9",
+      "company": "ReTo Eco-Solutions, Inc.",
+      "ticker": "RETO",
+      "exDate": "2026-11-02",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
-      "company": "Zone Frontier Inc.",
+      "company": "CleanCore Solutions, Inc.",
       "ticker": "ZONE",
       "exDate": "2026-10-30",
       "ratio": "1-for-60",
@@ -484,7 +561,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -506,7 +583,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -529,6 +606,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZLF",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E35ef2a579343d81639714842c6d24c8db34f58b6ffb825b45ca3cacda65fc7be",
+      "company": "Clarity Metals Corp.",
+      "ticker": "CLGCF",
+      "exDate": "2026-10-30",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -584,17 +683,6 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
-      "company": "Cizzle Brands Corporation",
-      "ticker": "CZZLF",
-      "exDate": "2026-10-29",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
       "source": "polygon"
     },
     {
@@ -933,50 +1021,6 @@
       "ticker": "BLGVF",
       "exDate": "2026-10-23",
       "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea8422277f790140997012742d663966c91ac554fdb368498abcb309cea4e3596",
-      "company": "SITC International Holdings Company Limited",
-      "ticker": "SITIY",
-      "exDate": "2026-10-22",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eaff83807430159db696b5a61feba426b4df7aa0428a5e665afa5dd5f4e812ede",
-      "company": "Darkiris Inc.",
-      "ticker": "DKI",
-      "exDate": "2026-10-22",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E611bd7cad9b71a540059f106bdcc74a616ad80f881c04aa48c57642f74d7e458",
-      "company": "Blue Star Helium Ltd",
-      "ticker": "BSNLF",
-      "exDate": "2026-10-22",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E558219b67642217f333f092983aad67af3073f65caf43312b689816b2619cd66",
-      "company": "Axonex AI Group Limited",
-      "ticker": "AXNX",
-      "exDate": "2026-10-22",
-      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
