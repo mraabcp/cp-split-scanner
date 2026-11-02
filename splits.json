@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-10-30T18:56:30.842Z",
-  "totalRecords": 93,
+  "lastUpdated": "2026-11-02T22:32:18.151Z",
+  "totalRecords": 95,
   "newThisScan": 8,
   "splits": [
+    {
+      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E0ddf412d5c9d19d6ffd9b925dfea305a57f299a5ca8036f4b63e16f4abb69f0f",
       "company": "TKPTF",
@@ -11,7 +22,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -45,6 +56,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec1b457a4c7b72a4903385820d7cee019cb5eb917041aa6f0d6f87bb52836de6a",
+      "company": "Sandisk Corporation",
+      "ticker": "SNDK",
+      "exDate": "2026-11-20",
+      "ratio": "9-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -224,6 +246,17 @@
       "source": "polygon"
     },
     {
+      "id": "E985d1f5b9ca0831e4d2ab8f2410320b8c78f8985be99689fb1915ad9774ca91f",
+      "company": "Scinai Immunotherapeutics Ltd.",
+      "ticker": "SCNI",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E49de8f0def96cee2b6c568aba36cb1c1999c213e657f276dbd6cd16f56cffb26",
       "company": "Lichen International Limited",
       "ticker": "LICN",
@@ -265,6 +298,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E452e38abb136d79e3d59a6a7f03e8fdd3581df1b9d62bc19995ae0de3da56fda",
+      "company": "Embraer S.A.",
+      "ticker": "EMBJ",
+      "exDate": "2026-11-16",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -319,7 +363,7 @@
       "ratio": "5-for-4",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +374,7 @@
       "ratio": "112-for-100",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -367,6 +411,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ef1b3fc233118154854d2bc8b2e44fb7066fa46d6ef5e14060a0b9bca0df98ee3",
+      "company": "Alps Group Inc",
+      "ticker": "ALPS",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E25f3739a2349e9aa1498ee61f3291747228cadc7af06e87a248fe465c754364b",
       "company": "Top Ships Inc.",
       "ticker": "TOPS",
@@ -394,6 +449,17 @@
       "ticker": "NEXR",
       "exDate": "2026-11-06",
       "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E960e62ffb5eb0e9a11d7b843856b05812bd8d0fc89d86b0de094e450f2a410e0",
+      "company": "Canamera Energy Metals Corp.",
+      "ticker": "EMETF",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -495,6 +561,39 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E98a9c792175f9e64983545db2f4360e9670a55005cd86817f61eb40bddfcbfc0",
+      "company": "TUXS",
+      "ticker": "TUXS",
+      "exDate": "2026-11-03",
+      "ratio": "1-for-1000",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZLF",
+      "exDate": "2026-11-03",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ee4f78b5dfd805c5ba700fe503d3d781b689d5b422fefadcad5349a0fef47c54e",
+      "company": "Bluejay Diagnostics, Inc.",
+      "ticker": "BJDX",
+      "exDate": "2026-11-03",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -506,7 +605,7 @@
       "ratio": "1-for-18",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -517,12 +616,12 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
-      "company": "CleanCore Solutions, Inc.",
+      "company": "Zone Frontier Inc.",
       "ticker": "ZONE",
       "exDate": "2026-10-30",
       "ratio": "1-for-60",
@@ -609,25 +708,14 @@
       "source": "polygon"
     },
     {
-      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
-      "company": "Cizzle Brands Corporation",
-      "ticker": "CZZLF",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E35ef2a579343d81639714842c6d24c8db34f58b6ffb825b45ca3cacda65fc7be",
-      "company": "Clarity Metals Corp.",
+      "company": "Critical Copper Mining Corp.",
       "ticker": "CLGCF",
       "exDate": "2026-10-30",
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -797,7 +885,7 @@
     },
     {
       "id": "E5e3c179f624b238ef783c5eb1bd2ff9c8527ce1b6fc9c62c274e6dc6d074f4e3",
-      "company": "Wealthcraft Capital, Inc.",
+      "company": "Wealthcraft Capital Inc",
       "ticker": "WCCP",
       "exDate": "2026-10-26",
       "ratio": "1-for-200",
@@ -954,72 +1042,6 @@
       "company": "Azitra, Inc.",
       "ticker": "AZTR",
       "exDate": "2026-10-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3a9ed12592c2d3d926c9287b31d9adc189dea0396db4c1cd187c0c7b496afee2",
-      "company": "Ping An Biomedical Co., Ltd.",
-      "ticker": "PASW",
-      "exDate": "2026-10-23",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E90b9ff93dacc5095d1060b6eeebe8a5a22e5be02f778aeef1ebe25e93c9819c9",
-      "company": "NewGenIvf Group Limited",
-      "ticker": "NIVF",
-      "exDate": "2026-10-23",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E313b9f2debe07edc94b8e6eca50f6822e46ab5e3c0e3d14e10f5a45f8552becd",
-      "company": "Lufax Holding Ltd",
-      "ticker": "LU",
-      "exDate": "2026-10-23",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecf6820b82ace6cac009659aa68267fd2fde8ba04ea0c21d1fd8d5b54ae434b53",
-      "company": "Huachen AI Parking Management Technology Holding Co., Ltd",
-      "ticker": "HCAI",
-      "exDate": "2026-10-23",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea23ca33b398e925eb81bdb2df4794ae7b97f541cd48e8e56bdcad078729143f4",
-      "company": "CTAMF",
-      "ticker": "CTAMF",
-      "exDate": "2026-10-23",
-      "ratio": "1-for-40",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed0492b77ac7f82dea6013fc0215337b15a8084009c4e27aca97b7e250e92608a",
-      "company": "Belgravia Hartford Capital Inc.",
-      "ticker": "BLGVF",
-      "exDate": "2026-10-23",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
