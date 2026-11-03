@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-02T22:32:18.151Z",
-  "totalRecords": 95,
-  "newThisScan": 8,
+  "lastUpdated": "2026-11-03T20:21:22.223Z",
+  "totalRecords": 83,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -11,7 +11,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -63,10 +63,10 @@
       "company": "Sandisk Corporation",
       "ticker": "SNDK",
       "exDate": "2026-11-20",
-      "ratio": "9-for-1",
+      "ratio": "8-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -253,7 +253,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +308,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -367,6 +367,17 @@
       "source": "polygon"
     },
     {
+      "id": "E1edbe98756e579b2592c761cb594af6db12b915823210e3d34e7d89bff98bd62",
+      "company": "Neo-Concept International Group Holdings Limited",
+      "ticker": "NCI",
+      "exDate": "2026-11-10",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E398b8643c87838f1511c8aebf89d664cf0f46958f27b5d167bbc2307e4570a38",
       "company": "Life & Banc Split Corp.",
       "ticker": "LFBCF",
@@ -418,7 +429,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -462,7 +473,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -532,6 +543,17 @@
       "source": "polygon"
     },
     {
+      "id": "E9a367f4563a64d9e97086a024c600775df6680416c9adbb4045a9278d4e040e1",
+      "company": "InMed Pharmaceuticals Inc.",
+      "ticker": "INM",
+      "exDate": "2026-11-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E41e18e1404bb5cbfb3bb1163bc11509e93d7cc9241e34ef7700cb2398c8e5d40",
       "company": "iShares MSCI EAFE Value ETF",
       "ticker": "EFV",
@@ -565,6 +587,17 @@
       "source": "polygon"
     },
     {
+      "id": "E13ea0d9cc064b6eedd84fb6541c3a384ed574542c5763efa2402638f6750a386",
+      "company": "TUXSD",
+      "ticker": "TUXSD",
+      "exDate": "2026-11-03",
+      "ratio": "1000-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E98a9c792175f9e64983545db2f4360e9670a55005cd86817f61eb40bddfcbfc0",
       "company": "TUXS",
       "ticker": "TUXS",
@@ -572,7 +605,7 @@
       "ratio": "1-for-1000",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -594,7 +627,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -797,7 +830,7 @@
     },
     {
       "id": "E05720257d116bf1e3592777bab180a1c5f183b50971026fdf92dd0ce5c8bfa0d",
-      "company": "White Cliff Minerals Limited",
+      "company": "White Cliff Minerals Ltd",
       "ticker": "WCMLF",
       "exDate": "2026-10-28",
       "ratio": "1-for-20",
@@ -878,171 +911,6 @@
       "ticker": "ENLV",
       "exDate": "2026-10-27",
       "ratio": "1-for-16",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5e3c179f624b238ef783c5eb1bd2ff9c8527ce1b6fc9c62c274e6dc6d074f4e3",
-      "company": "Wealthcraft Capital Inc",
-      "ticker": "WCCP",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec2b41fe57d84bfde622d12eefc61a111b1d9524b5cc2643359eb327b38e5beb6",
-      "company": "Top Wealth Group Holding Limited",
-      "ticker": "TWG",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eed4edb2cfe3803b625ce4181574808c98d6e159cfd5d9a9d97f5b63f1d44061c",
-      "company": "China SXT Pharmaceuticals, Inc.",
-      "ticker": "SXTC",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E49545b420c93f0778fe319bc7dbdd793469b7ea797c6f152174dbdf0e72aecb1",
-      "company": "Sunshine Biopharma, Inc.",
-      "ticker": "SBFM",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee7c8b40040d9a6c8e1ea32f007c028b8b90aae05426b1f4d994eed5802446625",
-      "company": "Propanc Biopharma, Inc.",
-      "ticker": "PPCB",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4e1fb1b70b59f1813cc0a4a708792b08d7a819bc2d3d6c3d75abd928b993134c",
-      "company": "Lianhe Sowell International Group Ltd",
-      "ticker": "LHSW",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E28558896220c08431d56b03c8a160cf05860263ea61a80e1014a0db8cdfe1979",
-      "company": "iPower Inc.",
-      "ticker": "IPW",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-12",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed96e31b91f95da63b04759355c769b845fd2834102f2bc47183c3538c783532c",
-      "company": "Cellyan Biotechnology Co., Ltd",
-      "ticker": "HKPD",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb0be65a66df160e5dd8114f822d4431fa309e1dd21bba4d46d7fb0228753bde2",
-      "company": "Healthcare Triangle, Inc.",
-      "ticker": "HCTI",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E15650bee4c5e40e44fa5b11023f901cd0fc2d4d63e6dd9da813a1655c136a7d6",
-      "company": "GlucoTrack, Inc.",
-      "ticker": "GCTK",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9b1475ee6cb817ac235c97e32dd9509b5e1ac2e52a2f32136a8f0b20ddf10d80",
-      "company": "Envoy Medical, Inc.",
-      "ticker": "COCH",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4851821e1b5981b1e8354a2a79836673f847efb661dd571d1c6ccc18d6a2a30d",
-      "company": "ChowChow Cloud International Holdings Limited",
-      "ticker": "CHOW",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8ce2b0f29a4b01994ad737ef41d5e90f1394f56d5e7f78f13e9198a547a09688",
-      "company": "BUUU Group Limited",
-      "ticker": "BUUU",
-      "exDate": "2026-10-26",
-      "ratio": "10-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1812f86e14bbd3fd21992611bede63cecd50b019f3e374a9147531fff3da9b23",
-      "company": "Biodexa Pharmaceuticals Plc",
-      "ticker": "BDRX",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eaad96a4fad8810540a8630137a7767547802812fae36fdd3ed0698e5e9481aa2",
-      "company": "Azitra, Inc.",
-      "ticker": "AZTR",
-      "exDate": "2026-10-26",
-      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
