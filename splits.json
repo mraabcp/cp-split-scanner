@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-03T20:21:22.223Z",
-  "totalRecords": 83,
-  "newThisScan": 3,
+  "lastUpdated": "2026-11-04T20:37:27.844Z",
+  "totalRecords": 95,
+  "newThisScan": 19,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -59,14 +59,14 @@
       "source": "polygon"
     },
     {
-      "id": "Ec1b457a4c7b72a4903385820d7cee019cb5eb917041aa6f0d6f87bb52836de6a",
+      "id": "E9e78f587e5015847f15ea87764e1cc37c555cae9c9008a5b9c5d5c8604c72bd3",
       "company": "Sandisk Corporation",
       "ticker": "SNDK",
       "exDate": "2026-11-20",
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -246,6 +246,50 @@
       "source": "polygon"
     },
     {
+      "id": "Ebffa547d0ad165fb6c6d037ae04a4ca48a8adb78498bd1f03658abc635ec3f3d",
+      "company": "ProShares VIX Mid-Term Futures ETF",
+      "ticker": "VIXM",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E412d4b682e613ec8ad94057925a3ee864c1f934b3a5373d467162afdf6516cad",
+      "company": "ProShares Ultra 20+ Year Treasury",
+      "ticker": "UBT",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E183cc213ffe768f41d85f1418f171ed4b6218ef36b2155966b26769ed88751fb",
+      "company": "ProShares UltraShort Semiconductors",
+      "ticker": "SSG",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec6214f4525b0b1a017620284eafb94988234ed2b04a880d27d565b843ac3f965",
+      "company": "ProShares UltraPro Short MidCap400",
+      "ticker": "SMDD",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E985d1f5b9ca0831e4d2ab8f2410320b8c78f8985be99689fb1915ad9774ca91f",
       "company": "Scinai Immunotherapeutics Ltd.",
       "ticker": "SCNI",
@@ -257,6 +301,61 @@
       "source": "polygon"
     },
     {
+      "id": "E99988e02d386012e36acd0389a1a4d61b136b2ed5734298161d173bec8293dce",
+      "company": "ProShares Short Russell2000",
+      "ticker": "RWM",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E10e1faa913db3df39dbf5cdfaf12767fd61e729c834d6c361bb05efe2cfe043c",
+      "company": "ProShares Ultra Technology",
+      "ticker": "ROM",
+      "exDate": "2026-11-19",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E19052a4b123f258abc529574d5965b246652f64ae8a4b2551b4b0440dcf7c737",
+      "company": "ProShares UltraShort Technology",
+      "ticker": "REW",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecc6a2db64ea97c2700e0cd30218fbe0c470d0fed9fb91e8338a929382898b5cd",
+      "company": "ProShares UltraShort QQQ",
+      "ticker": "QID",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2c11b2035e36a93e1babe0799f8e90521cb4a1d97dde9b4b050cf6ec6246617f",
+      "company": "ProShares UltraShort MidCap400",
+      "ticker": "MZZ",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E49de8f0def96cee2b6c568aba36cb1c1999c213e657f276dbd6cd16f56cffb26",
       "company": "Lichen International Limited",
       "ticker": "LICN",
@@ -265,6 +364,72 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8e59734a32a0624f859cfc1f871b4d96b5ee36865316b61dd53f53b176046bb8",
+      "company": "ProShares Ultra MSCI Emerging Markets",
+      "ticker": "EET",
+      "exDate": "2026-11-19",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E79d091113d2f742d8ebd1f60b2fd81baf6b95199e1c3a61f1a87a91b8f7ec93d",
+      "company": "ProShares UltraShort Dow30",
+      "ticker": "DXD",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E9a3aea688972183ed85a5c3da4758aaf819d5acece5e9d030a4b2cfb8a119f49",
+      "company": "ProShares UltraShort Energy ETF",
+      "ticker": "DUG",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E82fc5e36d9da9ef70399f1611f934bbc7d67fd6dc2dc4a206030ed0aa9b1a1e3",
+      "company": "ProShares Bitcoin ETF",
+      "ticker": "BITO",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E609849c9d4ea0a2914725a1f567fabfdc773039e698ea763f2028e350f2c3530",
+      "company": "ProShares Short Bitcoin ETF",
+      "ticker": "BITI",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7a1bbb189ae3bc543bf641bf3269d98f3c38a894db786e76df3f4cb4fa50a7b5",
+      "company": "ProShares Ultra Nasdaq Biotechnology",
+      "ticker": "BIB",
+      "exDate": "2026-11-19",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -305,7 +470,7 @@
       "company": "Embraer S.A.",
       "ticker": "EMBJ",
       "exDate": "2026-11-16",
-      "ratio": "3-for-1",
+      "ratio": "4-for-1",
       "type": "forward",
       "isETF": false,
       "isNew": false,
@@ -374,7 +539,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -488,6 +653,17 @@
       "source": "polygon"
     },
     {
+      "id": "E26a59e95556fbcda82f37b741e05e790e111de5c86b0f94acca83db3de74b0e2",
+      "company": "22nd Century Group, Inc.",
+      "ticker": "XXII",
+      "exDate": "2026-11-05",
+      "ratio": "1-for-58",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
       "company": "iShares Semiconductor ETF",
       "ticker": "SOXX",
@@ -550,6 +726,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ecc98b59307e457852d4b22ad85e2020022174497a5f3d7f90a2b603e3d02c116",
+      "company": "EZGO Technologies Ltd.",
+      "ticker": "EZGO",
+      "exDate": "2026-11-05",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -594,7 +781,7 @@
       "ratio": "1000-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -639,6 +826,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed0f3ee8ef3f9956504cf2b87659f96bf6abfe40500b5fd86563998f7012a4a46",
+      "company": "Reitar Logtech Holdings Limited",
+      "ticker": "RITRF",
+      "exDate": "2026-11-02",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -846,72 +1044,6 @@
       "exDate": "2026-10-28",
       "ratio": "10-for-1",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef2bb7f9d8575623c980e6e1ebf8e23cc470ba353ab3833cd446b9f499806ba6a",
-      "company": "Scage Future",
-      "ticker": "SCAG",
-      "exDate": "2026-10-27",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3c40a11b5e455bdb63361031344bc04c0295468044eeee83e15d6dc3e3c6717c",
-      "company": "Parabolic Technologies, Inc.",
-      "ticker": "PARA",
-      "exDate": "2026-10-27",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4f79034dc93fedc438174a71624e9f8532364e378af2a06e1cbea0fc39a5e371",
-      "company": "Nuwellis, Inc.",
-      "ticker": "NUWE",
-      "exDate": "2026-10-27",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed9bcf322b514602215e212b514abf20df3b34aefa0fd77b9a1d949f882fcbe06",
-      "company": "MULYF",
-      "ticker": "MULYF",
-      "exDate": "2026-10-27",
-      "ratio": "80-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1566216a919d98d035547e2429dd6720c5ece655c7a80a17a92830bd578f6fa3",
-      "company": "MLTAF",
-      "ticker": "MLTAF",
-      "exDate": "2026-10-27",
-      "ratio": "100-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9cf9b7c89a405a539e78eed001a1ab014b930e9baf346f21a13ffd20091f29e5",
-      "company": "Enlivex Ltd.",
-      "ticker": "ENLV",
-      "exDate": "2026-10-27",
-      "ratio": "1-for-16",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
