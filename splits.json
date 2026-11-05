@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-04T20:37:27.844Z",
-  "totalRecords": 95,
-  "newThisScan": 19,
+  "lastUpdated": "2026-11-05T20:54:02.973Z",
+  "totalRecords": 102,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -48,6 +48,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ea7eacb78c96076fe479251860b2d5001bf6d4d33a18f019a641b1b9d4da40c40",
+      "company": "Granite Real Estate Investment Trust",
+      "ticker": "GRTUF",
+      "exDate": "2026-11-24",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed58b3712c1deda96987778949870d24e684e7700570450fb631a58d0e9ef7fde",
       "company": "CTF Services Limited",
       "ticker": "NWSZF",
@@ -66,7 +77,7 @@
       "ratio": "8-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -246,6 +257,17 @@
       "source": "polygon"
     },
     {
+      "id": "E40d9b8dc2ca0c20f49acd49f5d5fbb1b3b2549ed458c7feb6d67fdee35f23316",
+      "company": "Grupo México, S.A.B. de C.V.",
+      "ticker": "GMBXF",
+      "exDate": "2026-11-20",
+      "ratio": "195-for-194",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebffa547d0ad165fb6c6d037ae04a4ca48a8adb78498bd1f03658abc635ec3f3d",
       "company": "ProShares VIX Mid-Term Futures ETF",
       "ticker": "VIXM",
@@ -253,7 +275,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +286,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -275,7 +297,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -286,7 +308,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +330,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +341,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +352,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +363,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +374,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +396,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +407,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +418,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +429,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -418,7 +440,7 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -429,7 +451,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -441,6 +463,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E04fc542acee378e7efd2bf8cffd29907c13dd185735e86c1c72122eb348f6fc7",
+      "company": "Seneca Foods Corporation",
+      "ticker": "SENEB",
+      "exDate": "2026-11-17",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E63038f7c7adc5c6f5c40d0a12be040d251a99528a5ef601e0c64333dbd225e24",
+      "company": "Seneca Foods Corporation",
+      "ticker": "SENEA",
+      "exDate": "2026-11-17",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -587,6 +631,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ebd287b0043447dd54643a520b8e7f2f8bd951c4aad6c92d04977b03ff0723c87",
+      "company": "Accuray Incorporated",
+      "ticker": "ARAY",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef1b3fc233118154854d2bc8b2e44fb7066fa46d6ef5e14060a0b9bca0df98ee3",
       "company": "Alps Group Inc",
       "ticker": "ALPS",
@@ -620,14 +675,36 @@
       "source": "polygon"
     },
     {
+      "id": "E113a6370b378f5f3509b38dfa2acc58c61d589e866367bfca07baf2bbb0b2fb8",
+      "company": "CL Workshop Group Limited",
+      "ticker": "NWGL",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eab114127f2989430df94d5ac8d60e7d7e803686e36d1b69e68b022ef5d52c4e6",
       "company": "Nexera Technologies Ltd",
       "ticker": "NEXR",
       "exDate": "2026-11-06",
-      "ratio": "1-for-5",
+      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef060381a15928f42f69f1e2d39a4541fff2b425b5347a88c716b2a05275ba19f",
+      "company": "Jasper Therapeutics, Inc.",
+      "ticker": "JSPR",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -639,6 +716,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8e47035cade9c4578d80641051eacc2779e6137f1b274ff43a44ddae122d7237",
+      "company": "CDT Equity Inc.",
+      "ticker": "CDT",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -660,7 +748,7 @@
       "ratio": "1-for-58",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -737,7 +825,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -760,6 +848,28 @@
       "type": "forward",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZLF",
+      "exDate": "2026-11-05",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed4fa9a74b5f77eaf36d04fae3b8450d59777732779e29387e5815edac8601e50",
+      "company": "Precinct Properties NZ Ltd & Precinct Properties Investments Ltd",
+      "ticker": "AOTUF",
+      "exDate": "2026-11-05",
+      "ratio": "1-for-17",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -796,17 +906,6 @@
       "source": "polygon"
     },
     {
-      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
-      "company": "Cizzle Brands Corporation",
-      "ticker": "CZZLF",
-      "exDate": "2026-11-03",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "Ee4f78b5dfd805c5ba700fe503d3d781b689d5b422fefadcad5349a0fef47c54e",
       "company": "Bluejay Diagnostics, Inc.",
       "ticker": "BJDX",
@@ -836,7 +935,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -852,7 +951,7 @@
     },
     {
       "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
-      "company": "Zone Frontier Inc.",
+      "company": "CleanCore Solutions, Inc.",
       "ticker": "ZONE",
       "exDate": "2026-10-30",
       "ratio": "1-for-60",
@@ -940,7 +1039,7 @@
     },
     {
       "id": "E35ef2a579343d81639714842c6d24c8db34f58b6ffb825b45ca3cacda65fc7be",
-      "company": "Critical Copper Mining Corp.",
+      "company": "Clarity Metals Corp",
       "ticker": "CLGCF",
       "exDate": "2026-10-30",
       "ratio": "1-for-3",
@@ -1017,33 +1116,11 @@
     },
     {
       "id": "Ed944dcff09edc0bfd4d3ab4d26b87e4dd2e9de85143576dce1d693aa041f2638",
-      "company": "aTyr Pharma, Inc.",
+      "company": "ATYR",
       "ticker": "ATYR",
       "exDate": "2026-10-29",
       "ratio": "1-for-40",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E05720257d116bf1e3592777bab180a1c5f183b50971026fdf92dd0ce5c8bfa0d",
-      "company": "White Cliff Minerals Ltd",
-      "ticker": "WCMLF",
-      "exDate": "2026-10-28",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea9a1e8a4aa3c0502483a808ed1eda96b6161b6ac8eed59428e95456e489d2050",
-      "company": "Havas N.V.",
-      "ticker": "HVNVY",
-      "exDate": "2026-10-28",
-      "ratio": "10-for-1",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
