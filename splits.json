@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-05T20:54:02.973Z",
-  "totalRecords": 102,
+  "lastUpdated": "2026-11-06T20:10:41.578Z",
+  "totalRecords": 101,
   "newThisScan": 9,
   "splits": [
     {
@@ -55,7 +55,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -264,7 +264,7 @@
       "ratio": "195-for-194",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -334,14 +334,14 @@
       "source": "polygon"
     },
     {
-      "id": "E10e1faa913db3df39dbf5cdfaf12767fd61e729c834d6c361bb05efe2cfe043c",
+      "id": "E3548c10163113c5913975c555faaa94b65cdd1b19aca084a0377975f1d62f5b1",
       "company": "ProShares Ultra Technology",
       "ticker": "ROM",
       "exDate": "2026-11-19",
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -389,14 +389,14 @@
       "source": "polygon"
     },
     {
-      "id": "E8e59734a32a0624f859cfc1f871b4d96b5ee36865316b61dd53f53b176046bb8",
+      "id": "E786eab1e2ecc881fb2527223f1ffbc94e67c7a75c6daaa8ac1c064a620ae143f",
       "company": "ProShares Ultra MSCI Emerging Markets",
       "ticker": "EET",
       "exDate": "2026-11-19",
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -444,14 +444,14 @@
       "source": "polygon"
     },
     {
-      "id": "E7a1bbb189ae3bc543bf641bf3269d98f3c38a894db786e76df3f4cb4fa50a7b5",
+      "id": "Eb470729ae39d11e90ac5d7d3c3942848a2e756e4bc33cbe3dd13928e174a1a5f",
       "company": "ProShares Ultra Nasdaq Biotechnology",
       "ticker": "BIB",
       "exDate": "2026-11-19",
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -473,7 +473,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -484,7 +484,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -576,6 +576,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ef95178ece70f813a6f581d85cba573f53fd54f7dd53fd525254c3faf428366a4",
+      "company": "OFA Group",
+      "ticker": "OFAL",
+      "exDate": "2026-11-10",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E1edbe98756e579b2592c761cb594af6db12b915823210e3d34e7d89bff98bd62",
       "company": "Neo-Concept International Group Holdings Limited",
       "ticker": "NCI",
@@ -609,6 +620,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ee07b634be34b7368d162e7fcbde8e12615f8a8007420e58aa012c65af2af9244",
+      "company": "Wellchange Holdings Company Limited",
+      "ticker": "WCT",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E365ebeb272ca08775c9c31afb94c874969c94f364e22fff7ae0233fe810bde47",
       "company": "Steakholder Foods Ltd.",
       "ticker": "STKH",
@@ -617,6 +639,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E1a26d852dbb69a221fad4d94dce656d9974c500df274e3c14a824580b8c82126",
+      "company": "Nexentis Technologies Inc.",
+      "ticker": "NXTS",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -631,6 +664,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ecbfc9f16fda249346600cf5cd4d11390a53932f17001aa43441abf0020229367",
+      "company": "C3is Inc.",
+      "ticker": "CISS",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebd287b0043447dd54643a520b8e7f2f8bd951c4aad6c92d04977b03ff0723c87",
       "company": "Accuray Incorporated",
       "ticker": "ARAY",
@@ -638,7 +682,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -650,6 +694,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebb8f1e2da41407434055e0b3c32a17061e198f437472159c46df120409e24b6d",
+      "company": "Adagio Medical Holdings, Inc.",
+      "ticker": "ADGM",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -682,7 +737,7 @@
       "ratio": "1-for-80",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -702,6 +757,17 @@
       "ticker": "JSPR",
       "exDate": "2026-11-06",
       "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8475a1f1c349ce48811bee1a2a3df319368dd6e52b5517ea44dd8520a7057853",
+      "company": "Hyterra Ltd",
+      "ticker": "HYTLF",
+      "exDate": "2026-11-06",
+      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -726,7 +792,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -869,7 +935,7 @@
       "ratio": "1-for-17",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1043,83 +1109,6 @@
       "ticker": "CLGCF",
       "exDate": "2026-10-30",
       "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E35fde16573f0d767246566e68168af84e44b4360808bca10420b5b6f71b6b531",
-      "company": "Odyssey Marine Exploration, Inc.",
-      "ticker": "OMEX",
-      "exDate": "2026-10-29",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebadb2a9cf1647e3cc4ff44b457473db9f17119c744ca9cf18326b86ca1ecfe62",
-      "company": "Meiko Electronics Co., Ltd.",
-      "ticker": "MKOEF",
-      "exDate": "2026-10-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5005f87173705d2df399139eaa46d5a44ccd245d4115e838ca02f15514d43923",
-      "company": "KPRTF",
-      "ticker": "KPRTF",
-      "exDate": "2026-10-29",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea8cf9271ba4dc2116d5d1c5393b42cf91bd9e5cefa6c5b51116a39627eb292b0",
-      "company": "IDTIF",
-      "ticker": "IDTIF",
-      "exDate": "2026-10-29",
-      "ratio": "192-for-100",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E721be7c706d6d89459a370eaaf791f10e5f65c19ebd26abcee6a96c7b42300f9",
-      "company": "Enhanced Group Inc.",
-      "ticker": "ENHA",
-      "exDate": "2026-10-29",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E510a2cfe8483485886172e4d1917f2bf166cc49265b963a819973c9081fa5486",
-      "company": "Solowin Holdings",
-      "ticker": "AXG",
-      "exDate": "2026-10-29",
-      "ratio": "1-for-200",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed944dcff09edc0bfd4d3ab4d26b87e4dd2e9de85143576dce1d693aa041f2638",
-      "company": "ATYR",
-      "ticker": "ATYR",
-      "exDate": "2026-10-29",
-      "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
