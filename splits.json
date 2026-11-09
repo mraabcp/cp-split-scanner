@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-11-06T20:10:41.578Z",
-  "totalRecords": 101,
-  "newThisScan": 9,
+  "lastUpdated": "2026-11-09T23:14:14.579Z",
+  "totalRecords": 94,
+  "newThisScan": 3,
   "splits": [
+    {
+      "id": "E137b7ea4832b55a566ff94e90473658b19d2a27b326696d07ca2178ea0402f85",
+      "company": "SiTime Corporation",
+      "ticker": "SITM",
+      "exDate": "2026-12-07",
+      "ratio": "3-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
       "company": "Jianzhi Education Technology Group Company Limited",
@@ -341,7 +352,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +407,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -451,7 +462,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -583,7 +594,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -593,17 +604,6 @@
       "exDate": "2026-11-10",
       "ratio": "1-for-8",
       "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E398b8643c87838f1511c8aebf89d664cf0f46958f27b5d167bbc2307e4570a38",
-      "company": "Life & Banc Split Corp.",
-      "ticker": "LFBCF",
-      "exDate": "2026-11-10",
-      "ratio": "112-for-100",
-      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -627,7 +627,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -649,7 +649,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -664,6 +664,28 @@
       "source": "polygon"
     },
     {
+      "id": "E095b716692ea5268ebfa9fe1dbfc11ca33ada18e21da82ac52203e26ebde20d6",
+      "company": "St. James Gold Corp.",
+      "ticker": "LRDJF",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed638e4dbdd5baf9b3878527e71dd01e0965c4a2a3ba9a6c0e1926e9e68f852ed",
+      "company": "Hydaway Digital Corp.",
+      "ticker": "HIDDF",
+      "exDate": "2026-11-09",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ecbfc9f16fda249346600cf5cd4d11390a53932f17001aa43441abf0020229367",
       "company": "C3is Inc.",
       "ticker": "CISS",
@@ -671,7 +693,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -704,7 +726,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -770,7 +792,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -929,7 +951,7 @@
     },
     {
       "id": "Ed4fa9a74b5f77eaf36d04fae3b8450d59777732779e29387e5815edac8601e50",
-      "company": "Precinct Properties NZ Ltd & Precinct Properties Investments Ltd",
+      "company": "Precinct Properties New Zealand Limited, Precinct Properties Investments Limited",
       "ticker": "AOTUF",
       "exDate": "2026-11-05",
       "ratio": "1-for-17",
@@ -1010,105 +1032,6 @@
       "ticker": "RETO",
       "exDate": "2026-11-02",
       "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3df75c34ef896417f0b82aa45d04b4ee3e4846e633077e313953d7e6a10604b6",
-      "company": "CleanCore Solutions, Inc.",
-      "ticker": "ZONE",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-60",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E26bc3ffd2604a49ce390c4e7f46756541527772dc97f35f5854be4e00b8c023c",
-      "company": "Wheeler Real Estate Investment Trust, Inc.",
-      "ticker": "WHLR",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E43358c59ccc70e3620e3266bb6590812e639b913f05e2b791a2c1393a8e2ea94",
-      "company": "WF Holding Limited",
-      "ticker": "WFF",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb3cf53ebd84ad3aec476de9f20a739bc35e433cab2bdd155ae5e45b62286c39c",
-      "company": "Rubico Inc.",
-      "ticker": "RUBI",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eef7950a78d0debe7a9adc978d40b2a8465d4fbe6ee10767e627015e6a94bacea",
-      "company": "Global X NYSE 100 ETF",
-      "ticker": "NYSX",
-      "exDate": "2026-10-30",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7afc8d63e0072afd0f2a7eec4a1b8718b7299b206c9562978df12d08dcdfa1c6",
-      "company": "NextNRG, Inc.",
-      "ticker": "NXXT",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8103e72fe23f971500f9b1e97b609ad85e95af579a3a9ebe306e895bf20cad12",
-      "company": "3 E Network Technology Group Limited",
-      "ticker": "MASK",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Edd4cb49c2b3192a71c60925026c866ae6d9f04ab37c1eb259c6b5618d47c8679",
-      "company": "INVO Fertility, Inc.",
-      "ticker": "IVF",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E35ef2a579343d81639714842c6d24c8db34f58b6ffb825b45ca3cacda65fc7be",
-      "company": "Clarity Metals Corp",
-      "ticker": "CLGCF",
-      "exDate": "2026-10-30",
-      "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
