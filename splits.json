@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-09T23:14:14.579Z",
-  "totalRecords": 94,
-  "newThisScan": 3,
+  "lastUpdated": "2026-11-10T20:40:04.490Z",
+  "totalRecords": 95,
+  "newThisScan": 4,
   "splits": [
     {
       "id": "E137b7ea4832b55a566ff94e90473658b19d2a27b326696d07ca2178ea0402f85",
@@ -11,7 +11,7 @@
       "ratio": "3-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -56,6 +56,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eff6860d7f17d2ff8303e568956dba4971330a91fdb8b5c37f5193513e204398c",
+      "company": "Robin Energy Ltd.",
+      "ticker": "RBNE",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-75",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -309,6 +320,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3dc72115b67e961e9514fba5ce3044ae34413aacd9c6f4db283fc22437c05c02",
+      "company": "SOS Limited",
+      "ticker": "SOS",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -587,6 +609,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ebc25c53805350bf1230cbd31a3b66ac0669488c9aeeb9aee47a1f01292bb30f8",
+      "company": "Silexion Therapeutics Corp",
+      "ticker": "SLXN",
+      "exDate": "2026-11-11",
+      "ratio": "1-for-24",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Efe88ef6bef417c1db52409246dd7d508b57c863ba771e88b6f87ddca4f9abc8e",
+      "company": "GeoVax Labs, Inc.",
+      "ticker": "GOVX",
+      "exDate": "2026-11-11",
+      "ratio": "1-for-24",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef95178ece70f813a6f581d85cba573f53fd54f7dd53fd525254c3faf428366a4",
       "company": "OFA Group",
       "ticker": "OFAL",
@@ -671,18 +715,18 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "Ed638e4dbdd5baf9b3878527e71dd01e0965c4a2a3ba9a6c0e1926e9e68f852ed",
-      "company": "Hydaway Digital Corp.",
+      "company": "Quantex Digital Corp.",
       "ticker": "HIDDF",
       "exDate": "2026-11-09",
       "ratio": "1-for-7",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -999,39 +1043,6 @@
       "ticker": "BJDX",
       "exDate": "2026-11-03",
       "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E141f43e7e3a11d4bce78367fa5c598ce822c35fa0f60458223614296ed404bd8",
-      "company": "VCI Global Limited",
-      "ticker": "VCIG",
-      "exDate": "2026-11-02",
-      "ratio": "1-for-18",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed0f3ee8ef3f9956504cf2b87659f96bf6abfe40500b5fd86563998f7012a4a46",
-      "company": "Reitar Logtech Holdings Limited",
-      "ticker": "RITRF",
-      "exDate": "2026-11-02",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E82a84c1e58556b24d4abd5dc5a13dbb18f1e1b9c9c1a01fdab6b36a24c4e48d9",
-      "company": "ReTo Eco-Solutions, Inc.",
-      "ticker": "RETO",
-      "exDate": "2026-11-02",
-      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
