@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-11-10T20:40:04.490Z",
-  "totalRecords": 95,
-  "newThisScan": 4,
+  "lastUpdated": "2026-11-11T21:00:02.145Z",
+  "totalRecords": 99,
+  "newThisScan": 8,
   "splits": [
+    {
+      "id": "E9da78e2ce836e225bad58f13f2084d40d3862a0366abf9a79b2ed860b434d853",
+      "company": "Hermès International Société en commandite par actions",
+      "ticker": "HESAY",
+      "exDate": "2026-12-11",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "E137b7ea4832b55a566ff94e90473658b19d2a27b326696d07ca2178ea0402f85",
       "company": "SiTime Corporation",
@@ -12,6 +23,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb4db6790977d9a55262ee9039f3b81f9a12efade84538be88a14171c9a05e752",
+      "company": "Canaan Inc.",
+      "ticker": "CAN",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -66,7 +88,7 @@
       "ratio": "1-for-75",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -100,6 +122,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2cfca510d84e6dd53da0790b8cde82bf8101c0339d27bdc81667734aeac398da",
+      "company": "Rallybio Corporation",
+      "ticker": "RLYB",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -279,6 +312,17 @@
       "source": "polygon"
     },
     {
+      "id": "E5b38caa3a2a4e5735c418e3431424021c6421282007c6e46144a0968b7ccb845",
+      "company": "Genius Group Limited",
+      "ticker": "GNS",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E40d9b8dc2ca0c20f49acd49f5d5fbb1b3b2549ed458c7feb6d67fdee35f23316",
       "company": "Grupo México, S.A.B. de C.V.",
       "ticker": "GMBXF",
@@ -287,6 +331,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ebaff82110f348ba79c82a4e56abe1a42e56f8c6b73bf4024608eaf8b252bfbb0",
+      "company": "Air Industries Group",
+      "ticker": "AIRI",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -330,7 +385,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -532,6 +587,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ed9d7671c420d7256ea5376a73efed2efb7808d640193eac86cf27f78f6111461",
+      "company": "Intercont (Cayman) Limited",
+      "ticker": "NCT",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E24857e62a3d8c3105ba82e34c1e050e824aed414d5576b3eb18c48dd048c0b47",
       "company": "Angel Oak Mortgage-Backed Securities ETF",
       "ticker": "MBS",
@@ -598,6 +664,17 @@
       "source": "polygon"
     },
     {
+      "id": "E21815996b8437b4e2cbacfa9938f924a243da0c78ad50d721d377d0c93407bd7",
+      "company": "HUB Cyber Security Ltd.",
+      "ticker": "HUBC",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebbff8202d4e7a7a96cd916e5dcaa872839eb2ff1d76b46fbe3ef23523c784a10",
       "company": "Enovix Corporation",
       "ticker": "ENVX",
@@ -609,6 +686,17 @@
       "source": "polygon"
     },
     {
+      "id": "E33db905c7a64005284d10d8fb0cd2bc0217c26eca3ae2a419a989374afb01790",
+      "company": "Arrive AI Inc.",
+      "ticker": "ARAI",
+      "exDate": "2026-11-12",
+      "ratio": "1-for-48",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebc25c53805350bf1230cbd31a3b66ac0669488c9aeeb9aee47a1f01292bb30f8",
       "company": "Silexion Therapeutics Corp",
       "ticker": "SLXN",
@@ -616,7 +704,7 @@
       "ratio": "1-for-24",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -627,7 +715,7 @@
       "ratio": "1-for-24",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -928,23 +1016,23 @@
       "source": "polygon"
     },
     {
-      "id": "Ea5f9c9ab871f673a0e891cffa636f6b3970b96655bda74c03b65ff4d43c62b33",
-      "company": "InMed Pharmaceuticals Inc.",
-      "ticker": "INM",
-      "exDate": "2026-11-05",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E9a367f4563a64d9e97086a024c600775df6680416c9adbb4045a9278d4e040e1",
       "company": "InMed Pharmaceuticals Inc.",
       "ticker": "INM",
       "exDate": "2026-11-05",
       "ratio": "1-for-10",
       "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea5f9c9ab871f673a0e891cffa636f6b3970b96655bda74c03b65ff4d43c62b33",
+      "company": "InMed Pharmaceuticals Inc.",
+      "ticker": "INM",
+      "exDate": "2026-11-05",
+      "ratio": "2-for-1",
+      "type": "forward",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
@@ -995,54 +1083,10 @@
     },
     {
       "id": "Ed4fa9a74b5f77eaf36d04fae3b8450d59777732779e29387e5815edac8601e50",
-      "company": "Precinct Properties New Zealand Limited, Precinct Properties Investments Limited",
+      "company": "Precinct Properties NZ Ltd & Precinct Properties Investments Ltd",
       "ticker": "AOTUF",
       "exDate": "2026-11-05",
       "ratio": "1-for-17",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8c61114a22b6a9ca2ddf56958578a18f8819265f392d6c32256920f19142f2ce",
-      "company": "Uni-Fuels Holdings Limited",
-      "ticker": "UFG",
-      "exDate": "2026-11-03",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E13ea0d9cc064b6eedd84fb6541c3a384ed574542c5763efa2402638f6750a386",
-      "company": "TUXSD",
-      "ticker": "TUXSD",
-      "exDate": "2026-11-03",
-      "ratio": "1000-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E98a9c792175f9e64983545db2f4360e9670a55005cd86817f61eb40bddfcbfc0",
-      "company": "TUXS",
-      "ticker": "TUXS",
-      "exDate": "2026-11-03",
-      "ratio": "1-for-1000",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ee4f78b5dfd805c5ba700fe503d3d781b689d5b422fefadcad5349a0fef47c54e",
-      "company": "Bluejay Diagnostics, Inc.",
-      "ticker": "BJDX",
-      "exDate": "2026-11-03",
-      "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
