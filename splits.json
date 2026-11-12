@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-11T21:00:02.145Z",
-  "totalRecords": 99,
-  "newThisScan": 8,
+  "lastUpdated": "2026-11-12T21:16:03.852Z",
+  "totalRecords": 106,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "E9da78e2ce836e225bad58f13f2084d40d3862a0366abf9a79b2ed860b434d853",
@@ -11,7 +11,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -103,6 +103,17 @@
       "source": "polygon"
     },
     {
+      "id": "E2cfca510d84e6dd53da0790b8cde82bf8101c0339d27bdc81667734aeac398da",
+      "company": "Rallybio Corporation",
+      "ticker": "RLYB",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-2",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "Ed58b3712c1deda96987778949870d24e684e7700570450fb631a58d0e9ef7fde",
       "company": "CTF Services Limited",
       "ticker": "NWSZF",
@@ -114,6 +125,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6d5f2a2906482e271f3f1c38cf53b3f42d4eab05dd51502b60267388eb589e22",
+      "company": "IT Tech Packaging, Inc.",
+      "ticker": "ITP",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9e78f587e5015847f15ea87764e1cc37c555cae9c9008a5b9c5d5c8604c72bd3",
       "company": "Sandisk Corporation",
       "ticker": "SNDK",
@@ -122,17 +144,6 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2cfca510d84e6dd53da0790b8cde82bf8101c0339d27bdc81667734aeac398da",
-      "company": "Rallybio Corporation",
-      "ticker": "RLYB",
-      "exDate": "2026-11-20",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
       "source": "polygon"
     },
     {
@@ -319,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +352,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -477,6 +488,17 @@
       "source": "polygon"
     },
     {
+      "id": "E3d027ce64ec9eb979db149fda401224b2a1495920bcfa9f8654c30abdce4842e",
+      "company": "Keyence Corporation",
+      "ticker": "KYCCF",
+      "exDate": "2026-11-19",
+      "ratio": "5-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E786eab1e2ecc881fb2527223f1ffbc94e67c7a75c6daaa8ac1c064a620ae143f",
       "company": "ProShares Ultra MSCI Emerging Markets",
       "ticker": "EET",
@@ -594,7 +616,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -606,6 +628,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eadc09daf9b7ecfc4a312a3ba74e7e7cd7996b78f71dada6887badddb331175e0",
+      "company": "KALA BIO, Inc.",
+      "ticker": "KALA",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -646,7 +679,7 @@
       "company": "Sangrix Inc.",
       "ticker": "SGRX",
       "exDate": "2026-11-13",
-      "ratio": "1-for-10",
+      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -664,6 +697,17 @@
       "source": "polygon"
     },
     {
+      "id": "E07087a89072c2e060da7bf4a12ca530d7a6f960b8f1235f6337420d1403cba96",
+      "company": "PharmaCyte Biotech, Inc.",
+      "ticker": "PMCB",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-19",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E21815996b8437b4e2cbacfa9938f924a243da0c78ad50d721d377d0c93407bd7",
       "company": "HUB Cyber Security Ltd.",
       "ticker": "HUBC",
@@ -671,7 +715,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -686,6 +730,28 @@
       "source": "polygon"
     },
     {
+      "id": "E349864182a96ae67599974206a9f0d71923819c603b0300e32f615a77c917547",
+      "company": "Cosmos Health Inc.",
+      "ticker": "COSM",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E600e9f8d216af87e4470c0b479c4757b242a50ac515c66bef98e0819e2674c8c",
+      "company": "Reitar Logtech Holdings Limited",
+      "ticker": "RITRF",
+      "exDate": "2026-11-12",
+      "ratio": "1-for-250",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E33db905c7a64005284d10d8fb0cd2bc0217c26eca3ae2a419a989374afb01790",
       "company": "Arrive AI Inc.",
       "ticker": "ARAI",
@@ -693,7 +759,7 @@
       "ratio": "1-for-48",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -705,6 +771,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9a491af628fb4579294a521e0e1c89a5a933b940d507a6eb3478169addd01553",
+      "company": "Marketing Worldwide Corp",
+      "ticker": "MWWC",
+      "exDate": "2026-11-11",
+      "ratio": "1-for-350",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -918,7 +995,7 @@
     },
     {
       "id": "E8475a1f1c349ce48811bee1a2a3df319368dd6e52b5517ea44dd8520a7057853",
-      "company": "Hyterra Ltd",
+      "company": "HyTerra Ltd",
       "ticker": "HYTLF",
       "exDate": "2026-11-06",
       "ratio": "1-for-20",
@@ -1016,23 +1093,23 @@
       "source": "polygon"
     },
     {
-      "id": "E9a367f4563a64d9e97086a024c600775df6680416c9adbb4045a9278d4e040e1",
-      "company": "InMed Pharmaceuticals Inc.",
-      "ticker": "INM",
-      "exDate": "2026-11-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "Ea5f9c9ab871f673a0e891cffa636f6b3970b96655bda74c03b65ff4d43c62b33",
       "company": "InMed Pharmaceuticals Inc.",
       "ticker": "INM",
       "exDate": "2026-11-05",
       "ratio": "2-for-1",
       "type": "forward",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9a367f4563a64d9e97086a024c600775df6680416c9adbb4045a9278d4e040e1",
+      "company": "InMed Pharmaceuticals Inc.",
+      "ticker": "INM",
+      "exDate": "2026-11-05",
+      "ratio": "1-for-10",
+      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
