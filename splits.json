@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-12T21:16:03.852Z",
-  "totalRecords": 106,
-  "newThisScan": 7,
+  "lastUpdated": "2026-11-13T20:43:05.838Z",
+  "totalRecords": 114,
+  "newThisScan": 20,
   "splits": [
     {
       "id": "E9da78e2ce836e225bad58f13f2084d40d3862a0366abf9a79b2ed860b434d853",
@@ -15,6 +15,116 @@
       "source": "polygon"
     },
     {
+      "id": "Ede1f3b9c832151f8b4d7e68f36a5e54fc6eee8658ce0861bbf411ed4154a1f57",
+      "company": "Leverage Shares 2X Long SNDK Da",
+      "ticker": "SNDG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E13b28ecd46a064088231f3c881ec7636bd09257a3641d554a634350981c4d9e1",
+      "company": "Leverage Shares 2X Long FPS Dai",
+      "ticker": "FPSX",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea3c56d088824c16a63e0cc514d35d34b7abb64fb23443736b50d0bca1d7e720b",
+      "company": "Leverage Shares 2X Long FORM Da",
+      "ticker": "FOMG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7ef803043cfb5bb2a2ade49f6ccad3a7c8d91b09bff10bba1d1170fb62808e5b",
+      "company": "Leverage Shares 2X Long COHR Da",
+      "ticker": "COHH",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0224c6d0a6ca07aff9e750485a3bfdc53e118c1b544d6ced94a0960c36a1fe9a",
+      "company": "Leverage Shares 2X Long CIEN Da",
+      "ticker": "CIEG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E47da53c312cbfb9675cae247d76a70a6ca4a2cba64a0afdec1abb57275fabb1e",
+      "company": "Leverage Shares 2X Long CBRS Daily ETF",
+      "ticker": "CBRG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E29f502f0114756f46e6cdaa7a2795b976b426e19d4d60bf19dfade86ff9d9293",
+      "company": "Leverage Shares 2X Long AXTI Da",
+      "ticker": "AXTL",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7c57ba2a5929882b540b0fbad6503f112085ce85954fc7b855363fc01fc5caa5",
+      "company": "Leverage Shares 2X Long ASTS Da",
+      "ticker": "ASTG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5e473f72c3a24b517c1fdeb0ade24627ade567757ff5f408c6f9f14ead17b1f5",
+      "company": "Leverage Shares 2X Long AEHR Da",
+      "ticker": "AEHG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb71c5e63d9eb2ca412c6b298be5eae9bf931adb11f973b7e4c617c3d60653816",
+      "company": "Leverage Shares 2X Long AAOI Da",
+      "ticker": "AAOG",
+      "exDate": "2026-12-09",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E137b7ea4832b55a566ff94e90473658b19d2a27b326696d07ca2178ea0402f85",
       "company": "SiTime Corporation",
       "ticker": "SITM",
@@ -23,6 +133,72 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9bec4d864a591604aa824d52f15a5cfc9151c26ed9dce2c871b8ff880ccb97bc",
+      "company": "Leverage Shares 2X Long UUUU Daily ETF",
+      "ticker": "UUUG",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2b4c97561de5dfe946b682ab8ccde167fb04811b7150bf81be6d60368f9c59d0",
+      "company": "Leverage Shares 2X Long USAR Daily ETF",
+      "ticker": "USGG",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed25bbd52199ae6b7adad66ca7e44c4a279c61d87541ce059830dd679f63a1eaa",
+      "company": "Leverage Shares 2X Long ONDS Daily ETF",
+      "ticker": "ONDG",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef8f23b533b21f4f4180777e261bb5e991fd76c3a3994c7e0da36b65bc0195d35",
+      "company": "Leverage Shares 2X Long MP Daily ETF",
+      "ticker": "MPG",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7e8300d67ee28f9795d3810a99f2349bcd9a62b0a68e4246c1c0562cff4ad36e",
+      "company": "Leverage Shares 2X Long IREN Daily ETF",
+      "ticker": "IREG",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3bf3cdf6ddc8ed5aa4ce8626420252bbfed85b3aa3e08c4910adbcd2cae41437",
+      "company": "Leverage Shares 2X Long CIFR Daily ETF",
+      "ticker": "CIFG",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-50",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -81,6 +257,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6fd76197a98c8109105d79c57d653ef955f63c0985a9f587ac4a337c6ab4d38e",
+      "company": "Viscofan, S.A.",
+      "ticker": "VSCFF",
+      "exDate": "2026-11-25",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eff6860d7f17d2ff8303e568956dba4971330a91fdb8b5c37f5193513e204398c",
       "company": "Robin Energy Ltd.",
       "ticker": "RBNE",
@@ -132,7 +319,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -495,7 +682,7 @@
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -598,11 +785,55 @@
       "source": "polygon"
     },
     {
+      "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
+      "company": "RedCloud Holdings plc",
+      "ticker": "RCT",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E2190b4223ad5c33c536cbce7bbb108ce4ef52b5efa4b7edb65c93530178cd302",
+      "company": "Lobo Technologies Ltd.",
+      "ticker": "LOBO",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9142b759f95ba893c971d6ae409fed6d35386665f9e452d6c67cc33704708941",
       "company": "Yimutian Inc.",
       "ticker": "YMT",
       "exDate": "2026-11-16",
       "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9155f128e5542451ca2831e4654c259be8af3381d58920c468edb595a7bc8c77",
+      "company": "Treasure Global Inc.",
+      "ticker": "TGL",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-24",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eef0e6e1a30ebf5558a173d978086ec7159f70f55ee49dd835861a969428c9389",
+      "company": "Sangrix Inc.",
+      "ticker": "SGRX",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -638,7 +869,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -650,6 +881,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb4e629e08101677eaf38ada7fd9082540009c4ed8de563613a93532d23a05038",
+      "company": "DEFSEC Technologies Inc.",
+      "ticker": "DFSC",
+      "exDate": "2026-11-16",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -675,28 +917,6 @@
       "source": "polygon"
     },
     {
-      "id": "Eef0e6e1a30ebf5558a173d978086ec7159f70f55ee49dd835861a969428c9389",
-      "company": "Sangrix Inc.",
-      "ticker": "SGRX",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
-      "company": "RedCloud Holdings plc",
-      "ticker": "RCT",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E07087a89072c2e060da7bf4a12ca530d7a6f960b8f1235f6337420d1403cba96",
       "company": "PharmaCyte Biotech, Inc.",
       "ticker": "PMCB",
@@ -704,7 +924,18 @@
       "ratio": "1-for-19",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9a491af628fb4579294a521e0e1c89a5a933b940d507a6eb3478169addd01553",
+      "company": "Marketing Worldwide Corp",
+      "ticker": "MWWC",
+      "exDate": "2026-11-13",
+      "ratio": "1-for-350",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -737,7 +968,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -748,7 +979,7 @@
       "ratio": "1-for-250",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -771,17 +1002,6 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9a491af628fb4579294a521e0e1c89a5a933b940d507a6eb3478169addd01553",
-      "company": "Marketing Worldwide Corp",
-      "ticker": "MWWC",
-      "exDate": "2026-11-11",
-      "ratio": "1-for-350",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
       "source": "polygon"
     },
     {
@@ -1032,138 +1252,6 @@
       "ticker": "AIIO",
       "exDate": "2026-11-06",
       "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E26a59e95556fbcda82f37b741e05e790e111de5c86b0f94acca83db3de74b0e2",
-      "company": "22nd Century Group, Inc.",
-      "ticker": "XXII",
-      "exDate": "2026-11-05",
-      "ratio": "1-for-58",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E75e42c53b07756b6ddede7c472e7a5a1ad5ea0adae3e6d1c48119ff2186303b0",
-      "company": "iShares Semiconductor ETF",
-      "ticker": "SOXX",
-      "exDate": "2026-11-05",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1c3a46a85d66a155028dcfad66d20b22f49bc681c5ca4bee276ceada86088b04",
-      "company": "iShares MSCI USA Quality Factor ETF",
-      "ticker": "QUAL",
-      "exDate": "2026-11-05",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3625e1d9971c4c77dd78e485863b3a0a350bbfda5d253687d8b573b16c99cd51",
-      "company": "iShares MSCI USA Momentum Factor ETF",
-      "ticker": "MTUM",
-      "exDate": "2026-11-05",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E044e9d49f07e97f7bad274a4707dfcb74a6bd6bcb41ab17490b086e61c25177d",
-      "company": "iShares U.S. Aerospace & Defense ETF",
-      "ticker": "ITA",
-      "exDate": "2026-11-05",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ea5f9c9ab871f673a0e891cffa636f6b3970b96655bda74c03b65ff4d43c62b33",
-      "company": "InMed Pharmaceuticals Inc.",
-      "ticker": "INM",
-      "exDate": "2026-11-05",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9a367f4563a64d9e97086a024c600775df6680416c9adbb4045a9278d4e040e1",
-      "company": "InMed Pharmaceuticals Inc.",
-      "ticker": "INM",
-      "exDate": "2026-11-05",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecc98b59307e457852d4b22ad85e2020022174497a5f3d7f90a2b603e3d02c116",
-      "company": "EZGO Technologies Ltd.",
-      "ticker": "EZGO",
-      "exDate": "2026-11-05",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E41e18e1404bb5cbfb3bb1163bc11509e93d7cc9241e34ef7700cb2398c8e5d40",
-      "company": "iShares MSCI EAFE Value ETF",
-      "ticker": "EFV",
-      "exDate": "2026-11-05",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E239be4fc452e1df269ac139b500534d9f37e67e254b0daca6f1ea17f462b63cf",
-      "company": "iShares MSCI EAFE Growth ETF",
-      "ticker": "EFG",
-      "exDate": "2026-11-05",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
-      "company": "Cizzle Brands Corporation",
-      "ticker": "CZZLF",
-      "exDate": "2026-11-05",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed4fa9a74b5f77eaf36d04fae3b8450d59777732779e29387e5815edac8601e50",
-      "company": "Precinct Properties NZ Ltd & Precinct Properties Investments Ltd",
-      "ticker": "AOTUF",
-      "exDate": "2026-11-05",
-      "ratio": "1-for-17",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
