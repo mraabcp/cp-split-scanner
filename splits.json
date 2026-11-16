@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-13T20:43:05.838Z",
-  "totalRecords": 114,
-  "newThisScan": 20,
+  "lastUpdated": "2026-11-16T23:08:24.523Z",
+  "totalRecords": 124,
+  "newThisScan": 19,
   "splits": [
     {
       "id": "E9da78e2ce836e225bad58f13f2084d40d3862a0366abf9a79b2ed860b434d853",
@@ -22,7 +22,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +110,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +121,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +154,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -165,7 +165,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -176,7 +176,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -187,7 +187,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -198,7 +198,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -210,6 +210,138 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7c94951b2f2e44ebd6f001444fe9be3ceef8b1e4c40c64196a2bbb300fd87138",
+      "company": "Tradr 2X Long XNDU Daily ETF",
+      "ticker": "XNDX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E632a16efcfcfc642c0269a0801991a7753882305bf7ce42fc8c31dbc3234a0cf",
+      "company": "Tradr 2X Long USAR Daily ETF",
+      "ticker": "USAX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb0e296bddf56790315104f2c42223203f9fcc83982c1c4a3354279c9783913df",
+      "company": "Tradr 2X Long TTMI Daily ETF",
+      "ticker": "TTMX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E67d8fe1cc6f85e6ce5ac59806dfd30d1f519ec50153b962565e5e281395ef78f",
+      "company": "Tradr 2X Long QNT Daily ETF",
+      "ticker": "QNTU",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb8ddb83649be2d8dbd3582c0bcc672affad2895b1e13b9cd68792dc291454cb8",
+      "company": "Tradr 2X Long OPEN Daily ETF",
+      "ticker": "OPEX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-14",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E0a54eed87df3364e63e92d4148d281c21802efd799a4404c141ceb99a06c80df",
+      "company": "Tradr 2X Long IREN Daily ETF",
+      "ticker": "IREX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef89c16e0023022bc06dfbf27bd58d9d0046b891d03132cae0da3a125abe306e5",
+      "company": "Tradr 2X Long FLY Daily ETF",
+      "ticker": "FLYT",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed503fb3f602355c5872487328624e463529860931c196883471cf193ac23b7a8",
+      "company": "Tradr 2X Long CLSK Daily ETF",
+      "ticker": "CLSX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-14",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E12cb251ea7b2e77acb3214a2be24604d8a76d36ff83323f81d657f7e3d00ae70",
+      "company": "Tradr 2X Long CBRS Daily",
+      "ticker": "CBRX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E44ba0cb56104376b7b2581fe53e0a990c74772375894ab05533cc216633f8a0e",
+      "company": "Tradr 2X Long ASTS Daily ETF",
+      "ticker": "ASTX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E65ef2674ad0c7da9999456602d003ad8b37877473d50184bfe84a159540a7f44",
+      "company": "Tradr 2X Long APLD Daily ETF",
+      "ticker": "APLX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E7aa322cbf6250ecf7d892f4602ddfc26db140c0c1bf4f3a67dc342f0ad9daf64",
+      "company": "Tradr 2X Long AAOI Daily ETF",
+      "ticker": "AAOX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": true,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -264,7 +396,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -287,6 +419,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3bdf243c74b59da4324954aea5840903ca5a446f0b39e6a30530122ad4ffa914",
+      "company": "Toppoint Holdings Inc.",
+      "ticker": "TOPP",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -752,6 +895,17 @@
       "source": "polygon"
     },
     {
+      "id": "E5100695a7e4cc0eca99f3a411adaac10f57b5b658bfc4705949f6b388c2e2aa5",
+      "company": "Landvision Technology Limited",
+      "ticker": "MKDW",
+      "exDate": "2026-11-18",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E4a6e815c19efacf6f427f19cde42295f2630288c0bdb18ef69c1a909ad5b0a5f",
       "company": "ANCMF",
       "ticker": "ANCMF",
@@ -760,6 +914,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7a131a51db96f95fc76808d6d0b499b12bb34cb1a4f3fce897e239faa6cb6842",
+      "company": "SelectQuote, Inc.",
+      "ticker": "SLQT",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -796,11 +961,55 @@
       "source": "polygon"
     },
     {
+      "id": "Ead120017dfd1bd121aa7d3c29d495a4e9033d987a836c30ca91f13aba7a9a267",
+      "company": "Otto Energy Limited",
+      "ticker": "OTTEF",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E4532bc1362a52ee8555bae92d7df49e327ca4b62ef9e18d0f37b340bea160d50",
+      "company": "Mobix Labs, Inc.",
+      "ticker": "MOBX",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-7",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E2190b4223ad5c33c536cbce7bbb108ce4ef52b5efa4b7edb65c93530178cd302",
       "company": "Lobo Technologies Ltd.",
       "ticker": "LOBO",
       "exDate": "2026-11-17",
       "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E00255f559abc91f97e4d73e0fa5a755d38bcce34f6693434ae4f592282cc8354",
+      "company": "Forcendra Holding Limited",
+      "ticker": "FCDH",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E2487cd6724d1fb9a95289762f56d1ca2fed6514a46622e67641a86314f08bf61",
+      "company": "Edible Garden AG Incorporated",
+      "ticker": "EDBL",
+      "exDate": "2026-11-17",
+      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -825,7 +1034,7 @@
       "ratio": "1-for-24",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -891,7 +1100,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1153,105 +1362,6 @@
       "ticker": "ADGM",
       "exDate": "2026-11-09",
       "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E25f3739a2349e9aa1498ee61f3291747228cadc7af06e87a248fe465c754364b",
-      "company": "Top Ships Inc.",
-      "ticker": "TOPS",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E136c5ac1d0fb77390e8fc7f8d06df8376f9b5cb7110d9b42219d29c49f72d61c",
-      "company": "Onconetix, Inc.",
-      "ticker": "ONCO",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E113a6370b378f5f3509b38dfa2acc58c61d589e866367bfca07baf2bbb0b2fb8",
-      "company": "CL Workshop Group Limited",
-      "ticker": "NWGL",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-80",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eab114127f2989430df94d5ac8d60e7d7e803686e36d1b69e68b022ef5d52c4e6",
-      "company": "Nexera Technologies Ltd",
-      "ticker": "NEXR",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef060381a15928f42f69f1e2d39a4541fff2b425b5347a88c716b2a05275ba19f",
-      "company": "Jasper Therapeutics, Inc.",
-      "ticker": "JSPR",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8475a1f1c349ce48811bee1a2a3df319368dd6e52b5517ea44dd8520a7057853",
-      "company": "HyTerra Ltd",
-      "ticker": "HYTLF",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E960e62ffb5eb0e9a11d7b843856b05812bd8d0fc89d86b0de094e450f2a410e0",
-      "company": "Canamera Energy Metals Corp.",
-      "ticker": "EMETF",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-6",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E8e47035cade9c4578d80641051eacc2779e6137f1b274ff43a44ddae122d7237",
-      "company": "CDT Equity Inc.",
-      "ticker": "CDT",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1620808ddcf9100a488319178bb3bf18d8a7fae6e741e3838a71eb6a03a9c9cb",
-      "company": "Robo.ai Inc.",
-      "ticker": "AIIO",
-      "exDate": "2026-11-06",
-      "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
