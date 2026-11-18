@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-17T21:58:40.539Z",
-  "totalRecords": 144,
-  "newThisScan": 30,
+  "lastUpdated": "2026-11-18T21:40:42.343Z",
+  "totalRecords": 146,
+  "newThisScan": 5,
   "splits": [
     {
       "id": "Ee311332e3f60ade13ccbf987b2d89b2085533e7db481fe8b311b5d167e949c8e",
@@ -11,7 +11,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -22,7 +22,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -33,7 +33,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -44,7 +44,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -55,7 +55,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -66,7 +66,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -77,7 +77,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -88,7 +88,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -99,7 +99,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -110,7 +110,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -121,7 +121,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -132,7 +132,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -143,7 +143,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -154,7 +154,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -214,12 +214,12 @@
     },
     {
       "id": "E0224c6d0a6ca07aff9e750485a3bfdc53e118c1b544d6ced94a0960c36a1fe9a",
-      "company": "CIEG",
+      "company": "Leverage Shares 2X Long CIEN Da",
       "ticker": "CIEG",
       "exDate": "2026-12-09",
       "ratio": "1-for-10",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -280,13 +280,13 @@
     },
     {
       "id": "Ed2a13fe046c3df12270e53021a353e8c5b5801708a31a58bf9f0822cde84dc3d",
-      "company": "SNXX",
+      "company": "Tradr 2X Long Sndk Daily ETF",
       "ticker": "SNXX",
       "exDate": "2026-12-08",
       "ratio": "1-for-8",
       "type": "reverse",
-      "isETF": false,
-      "isNew": true,
+      "isETF": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -297,7 +297,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -308,7 +308,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -319,7 +319,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -330,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -341,7 +341,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -352,7 +352,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -363,7 +363,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -374,7 +374,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -385,7 +385,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -396,7 +396,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -407,7 +407,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": true,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -539,7 +539,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -763,6 +763,28 @@
       "source": "polygon"
     },
     {
+      "id": "E734599859439d6f3691030ceb0a0d47c98fc0b3a91909cc0ad6b6644b2cacb43",
+      "company": "BrenX Ltd.",
+      "ticker": "BRNX",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3dc72115b67e961e9514fba5ce3044ae34413aacd9c6f4db283fc22437c05c02",
+      "company": "SOS Limited",
+      "ticker": "SOS",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E9e78f587e5015847f15ea87764e1cc37c555cae9c9008a5b9c5d5c8604c72bd3",
       "company": "Sandisk Corporation",
       "ticker": "SNDK",
@@ -779,6 +801,28 @@
       "ticker": "NTCL",
       "exDate": "2026-11-20",
       "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eaeded230be801156904e692ee03f3773de72dac5d75a6c8d6680167cca4bc81a",
+      "company": "Nixxy, Inc.",
+      "ticker": "NIXX",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E49de8f0def96cee2b6c568aba36cb1c1999c213e657f276dbd6cd16f56cffb26",
+      "company": "Lichen International Limited",
+      "ticker": "LICN",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
@@ -990,7 +1034,7 @@
       "ratio": "1-for-50",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1027,17 +1071,6 @@
       "source": "polygon"
     },
     {
-      "id": "E3dc72115b67e961e9514fba5ce3044ae34413aacd9c6f4db283fc22437c05c02",
-      "company": "SOS Limited",
-      "ticker": "SOS",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E66537210545542add8759c62988146af27c69ad870697a645ee05dc88f08a748",
       "company": "Senti Biosciences Holdings, Inc.",
       "ticker": "SNTI",
@@ -1045,7 +1078,7 @@
       "ratio": "1-for-33",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1126,17 +1159,6 @@
       "source": "polygon"
     },
     {
-      "id": "E49de8f0def96cee2b6c568aba36cb1c1999c213e657f276dbd6cd16f56cffb26",
-      "company": "Lichen International Limited",
-      "ticker": "LICN",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E3d027ce64ec9eb979db149fda401224b2a1495920bcfa9f8654c30abdce4842e",
       "company": "Keyence Corporation",
       "ticker": "KYCCF",
@@ -1145,6 +1167,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7754fbbf7ef4dbdab1e87b80f0d1ff4a575f0a702fb90450cb82d718bcda94bf",
+      "company": "GBM Resources Limited",
+      "ticker": "GBMRF",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -1178,6 +1211,28 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZLF",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E99883c74d34e5dee042deac2b9adc4f4c946c6d6157f071c5384107ce813b1a0",
+      "company": "Cromwell Property Group",
+      "ticker": "CMWCF",
+      "exDate": "2026-11-19",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -1221,12 +1276,12 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E5100695a7e4cc0eca99f3a411adaac10f57b5b658bfc4705949f6b388c2e2aa5",
-      "company": "Landvision Technology Limited",
+      "company": "MKDWELL Tech Inc.",
       "ticker": "MKDW",
       "exDate": "2026-11-18",
       "ratio": "1-for-20",
@@ -1512,7 +1567,7 @@
     },
     {
       "id": "E600e9f8d216af87e4470c0b479c4757b242a50ac515c66bef98e0819e2674c8c",
-      "company": "Reitar Logtech Holdings Limited",
+      "company": "Reitar Logtech Holdings Ltd",
       "ticker": "RITRF",
       "exDate": "2026-11-12",
       "ratio": "1-for-250",
@@ -1549,39 +1604,6 @@
       "ticker": "GOVX",
       "exDate": "2026-11-11",
       "ratio": "1-for-24",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef95178ece70f813a6f581d85cba573f53fd54f7dd53fd525254c3faf428366a4",
-      "company": "OFA Group",
-      "ticker": "OFAL",
-      "exDate": "2026-11-10",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1edbe98756e579b2592c761cb594af6db12b915823210e3d34e7d89bff98bd62",
-      "company": "Neo-Concept International Group Holdings Limited",
-      "ticker": "NCI",
-      "exDate": "2026-11-10",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eab1a1df3c77a591898366c99375f1f351f76ae898181a37f3b8c185809abc67c",
-      "company": "GEE Group Inc.",
-      "ticker": "JOB",
-      "exDate": "2026-11-10",
-      "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
