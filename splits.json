@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-18T21:40:42.343Z",
-  "totalRecords": 146,
-  "newThisScan": 5,
+  "lastUpdated": "2026-11-19T21:56:27.641Z",
+  "totalRecords": 149,
+  "newThisScan": 6,
   "splits": [
     {
       "id": "Ee311332e3f60ade13ccbf987b2d89b2085533e7db481fe8b311b5d167e949c8e",
@@ -422,6 +422,17 @@
       "source": "polygon"
     },
     {
+      "id": "E58f5ca246b585e86b1c048d5260620f3de6aec3063d0939f81737e61578b34fe",
+      "company": "Foresight Autonomous Holdings Ltd.",
+      "ticker": "FRSX",
+      "exDate": "2026-12-07",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9bec4d864a591604aa824d52f15a5cfc9151c26ed9dce2c871b8ff880ccb97bc",
       "company": "Leverage Shares 2X Long UUUU Daily ETF",
       "ticker": "UUUG",
@@ -474,6 +485,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9867aef7ef1d2167e91a8937456090cccf7e13858fe0ca2c9c118c64c752fc87",
+      "company": "Innoviz Technologies Ltd.",
+      "ticker": "INVZ",
+      "exDate": "2026-12-04",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -642,17 +664,6 @@
       "source": "polygon"
     },
     {
-      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
-      "company": "Jianzhi Education Technology Group Company Limited",
-      "ticker": "JZ",
-      "exDate": "2026-11-30",
-      "ratio": "1-for-15",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
       "id": "E0ddf412d5c9d19d6ffd9b925dfea305a57f299a5ca8036f4b63e16f4abb69f0f",
       "company": "TKPTF",
       "ticker": "TKPTF",
@@ -741,6 +752,17 @@
       "source": "polygon"
     },
     {
+      "id": "Ec90984b695eafa6302f80f3e978a95ab1ff7fb14208d89479b2e8fcdf9227a48",
+      "company": "Algorhythm Holdings, Inc.",
+      "ticker": "RIME",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed58b3712c1deda96987778949870d24e684e7700570450fb631a58d0e9ef7fde",
       "company": "CTF Services Limited",
       "ticker": "NWSZF",
@@ -763,11 +785,44 @@
       "source": "polygon"
     },
     {
+      "id": "E72bcd70584c3344b0b029f72f166d5786d4219c27dfa1d7214914764bd51d6b4",
+      "company": "IM Cannabis Corp.",
+      "ticker": "IMCC",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-3",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec4c02bdbe811620986d52c8f1c4abd56ef5b7b6f24b9ca2580fd7d5c56d2cbf7",
+      "company": "Cyabra, Inc.",
+      "ticker": "CYAB",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E734599859439d6f3691030ceb0a0d47c98fc0b3a91909cc0ad6b6644b2cacb43",
       "company": "BrenX Ltd.",
       "ticker": "BRNX",
       "exDate": "2026-11-23",
       "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef4b2a7987b4e50cbf2f6d6a59490b5139da26357c2bcfb03b771c2a57b5cf306",
+      "company": "Alset Inc.",
+      "ticker": "AEI",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -814,7 +869,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1177,7 +1232,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1221,7 +1276,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1232,7 +1287,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1582,28 +1637,6 @@
       "ticker": "ARAI",
       "exDate": "2026-11-12",
       "ratio": "1-for-48",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebc25c53805350bf1230cbd31a3b66ac0669488c9aeeb9aee47a1f01292bb30f8",
-      "company": "Silexion Therapeutics Corp",
-      "ticker": "SLXN",
-      "exDate": "2026-11-11",
-      "ratio": "1-for-24",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Efe88ef6bef417c1db52409246dd7d508b57c863ba771e88b6f87ddca4f9abc8e",
-      "company": "GeoVax Labs, Inc.",
-      "ticker": "GOVX",
-      "exDate": "2026-11-11",
-      "ratio": "1-for-24",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
