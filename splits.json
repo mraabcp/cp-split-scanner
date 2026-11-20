@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-19T21:56:27.641Z",
-  "totalRecords": 149,
-  "newThisScan": 6,
+  "lastUpdated": "2026-11-20T21:39:09.186Z",
+  "totalRecords": 156,
+  "newThisScan": 9,
   "splits": [
     {
       "id": "Ee311332e3f60ade13ccbf987b2d89b2085533e7db481fe8b311b5d167e949c8e",
@@ -161,7 +161,7 @@
       "id": "E9da78e2ce836e225bad58f13f2084d40d3862a0366abf9a79b2ed860b434d853",
       "company": "Hermès International Société en commandite par actions",
       "ticker": "HESAY",
-      "exDate": "2026-12-11",
+      "exDate": "2026-12-14",
       "ratio": "5-for-1",
       "type": "forward",
       "isETF": false,
@@ -422,6 +422,17 @@
       "source": "polygon"
     },
     {
+      "id": "E9867aef7ef1d2167e91a8937456090cccf7e13858fe0ca2c9c118c64c752fc87",
+      "company": "Innoviz Technologies Ltd.",
+      "ticker": "INVZ",
+      "exDate": "2026-12-07",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
       "id": "E58f5ca246b585e86b1c048d5260620f3de6aec3063d0939f81737e61578b34fe",
       "company": "Foresight Autonomous Holdings Ltd.",
       "ticker": "FRSX",
@@ -429,7 +440,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -485,17 +496,6 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9867aef7ef1d2167e91a8937456090cccf7e13858fe0ca2c9c118c64c752fc87",
-      "company": "Innoviz Technologies Ltd.",
-      "ticker": "INVZ",
-      "exDate": "2026-12-04",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
       "source": "polygon"
     },
     {
@@ -719,6 +719,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6761edf4cf4932bbcad4582d9626a7be671cef9b5ed0dab0b7069659ad8d920e",
+      "company": "iSpecimen Inc.",
+      "ticker": "ISPC",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ea7eacb78c96076fe479251860b2d5001bf6d4d33a18f019a641b1b9d4da40c40",
       "company": "Granite Real Estate Investment Trust",
       "ticker": "GRTUF",
@@ -730,6 +741,28 @@
       "source": "polygon"
     },
     {
+      "id": "E76b07782223b64c8581a59dbd5b0c6bf4d861ea7541633e989a6cb0192fc3015",
+      "company": "Co-Diagnostics, Inc.",
+      "ticker": "CODX",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E07019f5ef24598ae26874bdbac5456dac2bfe68e84de30fa3a48fb79cb3286b3",
+      "company": "Zip Co Limited",
+      "ticker": "ZIZTF",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E3bdf243c74b59da4324954aea5840903ca5a446f0b39e6a30530122ad4ffa914",
       "company": "Toppoint Holdings Inc.",
       "ticker": "TOPP",
@@ -738,6 +771,28 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Edf0b4fb60bfe0a75740577a58003194845117a73de92a1fe814f8d718c40e54e",
+      "company": "Stratum Holdings Corp.",
+      "ticker": "SRTM",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-9",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E56a1ab2fe20139f38058cb573c0ed4caaa896808bf5811dfd8edaf9235ed0b45",
+      "company": "SmartKem, Inc.",
+      "ticker": "SMTK",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -759,6 +814,17 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E4de30bc4f50ba880ec747b706beea0e82f3accfbb17992fb52ff3c19dd146586",
+      "company": "Parabolic Technologies, Inc.",
+      "ticker": "PARA",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -771,6 +837,17 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb41d08eec40d160fb6276fb59d790460ab78fe1e7c8fbf5579ee5c9cab806053",
+      "company": "Lisata Therapeutics, Inc.",
+      "ticker": "LSTA",
+      "exDate": "2026-11-23",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -792,7 +869,7 @@
       "ratio": "1-for-3",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -803,7 +880,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -825,7 +902,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1071,6 +1148,39 @@
       "source": "polygon"
     },
     {
+      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZLF",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E8d135cadcfdc36696b3e5a00a7a90bfa5f6fcd391ac9e7d332c5dcb41ad351f3",
+      "company": "Cizzle Brands Corporation",
+      "ticker": "CZZL",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3ae9bf70e458692a482dcafec2fd2a4ce0bcde52548d031176ca4fc97dfe8077",
+      "company": "CopperCorp Resources Inc.",
+      "ticker": "CPCPF",
+      "exDate": "2026-11-20",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ebaff82110f348ba79c82a4e56abe1a42e56f8c6b73bf4024608eaf8b252bfbb0",
       "company": "Air Industries Group",
       "ticker": "AIRI",
@@ -1265,17 +1375,6 @@
       "ratio": "1-for-2",
       "type": "reverse",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
-      "company": "Cizzle Brands Corporation",
-      "ticker": "CZZLF",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-25",
-      "type": "reverse",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -1615,28 +1714,6 @@
       "ticker": "COSM",
       "exDate": "2026-11-13",
       "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E600e9f8d216af87e4470c0b479c4757b242a50ac515c66bef98e0819e2674c8c",
-      "company": "Reitar Logtech Holdings Ltd",
-      "ticker": "RITRF",
-      "exDate": "2026-11-12",
-      "ratio": "1-for-250",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E33db905c7a64005284d10d8fb0cd2bc0217c26eca3ae2a419a989374afb01790",
-      "company": "Arrive AI Inc.",
-      "ticker": "ARAI",
-      "exDate": "2026-11-12",
-      "ratio": "1-for-48",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
