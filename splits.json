@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-11-20T21:39:09.186Z",
-  "totalRecords": 156,
-  "newThisScan": 9,
+  "lastUpdated": "2026-11-24T01:25:36.120Z",
+  "totalRecords": 152,
+  "newThisScan": 12,
   "splits": [
+    {
+      "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
+      "company": "Jianzhi Education Technology Group Company Limited",
+      "ticker": "JZ",
+      "exDate": "2026-12-24",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
     {
       "id": "Ee311332e3f60ade13ccbf987b2d89b2085533e7db481fe8b311b5d167e949c8e",
       "company": "DB Commodity Long ETN",
@@ -225,12 +236,12 @@
     },
     {
       "id": "E47da53c312cbfb9675cae247d76a70a6ca4a2cba64a0afdec1abb57275fabb1e",
-      "company": "Leverage Shares 2X Long CBRS Daily ETF",
+      "company": "CBRG",
       "ticker": "CBRG",
       "exDate": "2026-12-09",
       "ratio": "1-for-40",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -320,6 +331,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E96cb7d72582c49cb8e7f15ef2a563ad8c70bee7daf08363690da81ad62837d7b",
+      "company": "NextCure, Inc.",
+      "ticker": "NXTC",
+      "exDate": "2026-12-08",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -444,6 +466,17 @@
       "source": "polygon"
     },
     {
+      "id": "E339d206ca20a08cd7d4a7820cd9c9b2cbd0ba88af499d7cfa3eeec8f09d1429e",
+      "company": "ACP",
+      "ticker": "ACP",
+      "exDate": "2026-12-07",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E9bec4d864a591604aa824d52f15a5cfc9151c26ed9dce2c871b8ff880ccb97bc",
       "company": "Leverage Shares 2X Long UUUU Daily ETF",
       "ticker": "UUUG",
@@ -551,6 +584,28 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E35b98f17a97802c57042e26e9e16a6683475fe17b183c9310ae72dc768299490",
+      "company": "Theriva Biologics, Inc.",
+      "ticker": "TOVX",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E23cce103263bcd6fb9176ffdd64bea75b028610d127b1602b06427386f683c3a",
+      "company": "60 Degrees Pharmaceuticals, Inc.",
+      "ticker": "SXTP",
+      "exDate": "2026-12-02",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -664,6 +719,17 @@
       "source": "polygon"
     },
     {
+      "id": "E7c7171259b99630fd4ecf6a945115ee7ce873f9fffd64066223f7b53d027912c",
+      "company": "Grupo México, S.A.B. de C.V.",
+      "ticker": "GPMXY",
+      "exDate": "2026-11-30",
+      "ratio": "195-for-194",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E0ddf412d5c9d19d6ffd9b925dfea305a57f299a5ca8036f4b63e16f4abb69f0f",
       "company": "TKPTF",
       "ticker": "TKPTF",
@@ -686,6 +752,17 @@
       "source": "polygon"
     },
     {
+      "id": "E31d3d7a2d28026a2f2f6a2b4ad5624122d270aa0ccfdb4e8d343fe64b3ff7759",
+      "company": "Huadi International Group Co., Ltd.",
+      "ticker": "HUDI",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec6d65f46f1b66fc2a44be881bd16e70d25dca4b979f46490b63d9d097453d3d6",
       "company": "DAFVF",
       "ticker": "DAFVF",
@@ -701,10 +778,21 @@
       "company": "Viscofan, S.A.",
       "ticker": "VSCFF",
       "exDate": "2026-11-25",
-      "ratio": "2-for-1",
+      "ratio": "39-for-38",
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Ed3f5a5b18d052b3d5417d67b15c67220fcd9f5d6c19476c8f9ca1d2a34cdad75",
+      "company": "Frontier Nuclear and Minerals Inc.",
+      "ticker": "FNUC",
+      "exDate": "2026-11-25",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -719,6 +807,17 @@
       "source": "polygon"
     },
     {
+      "id": "E9ecbcf072ea89db3f84f873191cb3e4e53d2adac53a4fd44a4711e1591542a29",
+      "company": "Jaguar Health, Inc.",
+      "ticker": "JAGX",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E6761edf4cf4932bbcad4582d9626a7be671cef9b5ed0dab0b7069659ad8d920e",
       "company": "iSpecimen Inc.",
       "ticker": "ISPC",
@@ -726,7 +825,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -741,11 +840,44 @@
       "source": "polygon"
     },
     {
+      "id": "Ef2c83d37b9a9c012a828e77370deb5cd21cc87a85229995df2e4a865787bdbd9",
+      "company": "Guardforce AI Co., Limited",
+      "ticker": "GFAI",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-40",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E76b07782223b64c8581a59dbd5b0c6bf4d861ea7541633e989a6cb0192fc3015",
       "company": "Co-Diagnostics, Inc.",
       "ticker": "CODX",
       "exDate": "2026-11-24",
       "ratio": "1-for-25",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eff06b46ee10b4eabd0805451bed6d79e54a4d3180b6e1c1cd4403324cdef5af6",
+      "company": "CCSC Technology International Holdings Limited",
+      "ticker": "CCTG",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ead59a769a1f70a7d60a850c208d3dbb37ce5e593a313400f965e99e2c1353917",
+      "company": "Andromeda Metals Limited",
+      "ticker": "ANDMF",
+      "exDate": "2026-11-24",
+      "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -759,7 +891,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -781,7 +913,7 @@
       "ratio": "1-for-9",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -792,7 +924,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -825,7 +957,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -847,7 +979,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -885,7 +1017,7 @@
     },
     {
       "id": "E734599859439d6f3691030ceb0a0d47c98fc0b3a91909cc0ad6b6644b2cacb43",
-      "company": "BrenX Ltd.",
+      "company": "Brenmiller Energy Ltd",
       "ticker": "BRNX",
       "exDate": "2026-11-23",
       "ratio": "1-for-4",
@@ -1166,24 +1298,13 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
       "id": "E3ae9bf70e458692a482dcafec2fd2a4ce0bcde52548d031176ca4fc97dfe8077",
       "company": "CopperCorp Resources Inc.",
       "ticker": "CPCPF",
-      "exDate": "2026-11-20",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": true,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebaff82110f348ba79c82a4e56abe1a42e56f8c6b73bf4024608eaf8b252bfbb0",
-      "company": "Air Industries Group",
-      "ticker": "AIRI",
       "exDate": "2026-11-20",
       "ratio": "1-for-5",
       "type": "reverse",
@@ -1435,7 +1556,7 @@
     },
     {
       "id": "E5100695a7e4cc0eca99f3a411adaac10f57b5b658bfc4705949f6b388c2e2aa5",
-      "company": "MKDWELL Tech Inc.",
+      "company": "Landvision Technology Limited",
       "ticker": "MKDW",
       "exDate": "2026-11-18",
       "ratio": "1-for-20",
@@ -1501,7 +1622,7 @@
     },
     {
       "id": "Ead120017dfd1bd121aa7d3c29d495a4e9033d987a836c30ca91f13aba7a9a267",
-      "company": "Otto Energy Limited",
+      "company": "Otto Energy Ltd",
       "ticker": "OTTEF",
       "exDate": "2026-11-17",
       "ratio": "1-for-100",
@@ -1545,175 +1666,10 @@
     },
     {
       "id": "E2487cd6724d1fb9a95289762f56d1ca2fed6514a46622e67641a86314f08bf61",
-      "company": "Edible Garden AG Incorporated",
+      "company": "EDBL",
       "ticker": "EDBL",
       "exDate": "2026-11-17",
       "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9142b759f95ba893c971d6ae409fed6d35386665f9e452d6c67cc33704708941",
-      "company": "Yimutian Inc.",
-      "ticker": "YMT",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9155f128e5542451ca2831e4654c259be8af3381d58920c468edb595a7bc8c77",
-      "company": "Treasure Global Inc.",
-      "ticker": "TGL",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-24",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eef0e6e1a30ebf5558a173d978086ec7159f70f55ee49dd835861a969428c9389",
-      "company": "Sangrix Inc.",
-      "ticker": "SGRX",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ed9d7671c420d7256ea5376a73efed2efb7808d640193eac86cf27f78f6111461",
-      "company": "Intercont (Cayman) Limited",
-      "ticker": "NCT",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-8",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E24857e62a3d8c3105ba82e34c1e050e824aed414d5576b3eb18c48dd048c0b47",
-      "company": "Angel Oak Mortgage-Backed Securities ETF",
-      "ticker": "MBS",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eadc09daf9b7ecfc4a312a3ba74e7e7cd7996b78f71dada6887badddb331175e0",
-      "company": "KALA BIO, Inc.",
-      "ticker": "KALA",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-30",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E452e38abb136d79e3d59a6a7f03e8fdd3581df1b9d62bc19995ae0de3da56fda",
-      "company": "Embraer S.A.",
-      "ticker": "EMBJ",
-      "exDate": "2026-11-16",
-      "ratio": "4-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb4e629e08101677eaf38ada7fd9082540009c4ed8de563613a93532d23a05038",
-      "company": "DEFSEC Technologies Inc.",
-      "ticker": "DFSC",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-9",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb35474e5522dfd892b7e05304a506576c1aa5437ce39def97a69dbcdb2c42512",
-      "company": "Angel Oak Income ETF",
-      "ticker": "CARY",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-3",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E6bffcd2be67a80173f742e7123b748ae9a7510805ce0c1083048b410361f2660",
-      "company": "Angel Oak High Yield Opportunities ETF",
-      "ticker": "AOHY",
-      "exDate": "2026-11-16",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E07087a89072c2e060da7bf4a12ca530d7a6f960b8f1235f6337420d1403cba96",
-      "company": "PharmaCyte Biotech, Inc.",
-      "ticker": "PMCB",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-19",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9a491af628fb4579294a521e0e1c89a5a933b940d507a6eb3478169addd01553",
-      "company": "Marketing Worldwide Corp",
-      "ticker": "MWWC",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-350",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E21815996b8437b4e2cbacfa9938f924a243da0c78ad50d721d377d0c93407bd7",
-      "company": "HUB Cyber Security Ltd.",
-      "ticker": "HUBC",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebbff8202d4e7a7a96cd916e5dcaa872839eb2ff1d76b46fbe3ef23523c784a10",
-      "company": "Enovix Corporation",
-      "ticker": "ENVX",
-      "exDate": "2026-11-13",
-      "ratio": "5-for-4",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E349864182a96ae67599974206a9f0d71923819c603b0300e32f615a77c917547",
-      "company": "Cosmos Health Inc.",
-      "ticker": "COSM",
-      "exDate": "2026-11-13",
-      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": false,
