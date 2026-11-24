@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-24T01:25:36.120Z",
-  "totalRecords": 152,
-  "newThisScan": 12,
+  "lastUpdated": "2026-11-24T23:20:12.762Z",
+  "totalRecords": 163,
+  "newThisScan": 11,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -11,7 +11,7 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -236,12 +236,12 @@
     },
     {
       "id": "E47da53c312cbfb9675cae247d76a70a6ca4a2cba64a0afdec1abb57275fabb1e",
-      "company": "CBRG",
+      "company": "Leverage Shares 2X Long CBRS Daily ETF",
       "ticker": "CBRG",
       "exDate": "2026-12-09",
       "ratio": "1-for-40",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -323,6 +323,17 @@
       "source": "polygon"
     },
     {
+      "id": "E94ca1cad6248423cad7c7701ed7347e1a39cc418ff08c141da52bd8cc954b556",
+      "company": "Ready Capital Corporation",
+      "ticker": "RC",
+      "exDate": "2026-12-08",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ec94b4c326d5adf8c5f5c477b378e0299aeaa7538cc85e809cf51caf92ae0ad7b",
       "company": "Tradr 2X Long ON Daily ETF",
       "ticker": "ONX",
@@ -341,7 +352,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -467,13 +478,13 @@
     },
     {
       "id": "E339d206ca20a08cd7d4a7820cd9c9b2cbd0ba88af499d7cfa3eeec8f09d1429e",
-      "company": "ACP",
+      "company": "Abrdn Income Credit Strategies Fund",
       "ticker": "ACP",
       "exDate": "2026-12-07",
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -594,7 +605,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -605,7 +616,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -726,6 +737,17 @@
       "ratio": "195-for-194",
       "type": "forward",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb0706ca0899a185c898834f49271ce117aecb2178c75d8b2fd217223bd942cce",
+      "company": "Youxin Technology Ltd",
+      "ticker": "YAAS",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -741,6 +763,28 @@
       "source": "polygon"
     },
     {
+      "id": "Ecf31a0ad0e3d74007be2f614a591b06ccdccf9d224998c2649612b8f0dd9afd6",
+      "company": "SciSparc Ltd.",
+      "ticker": "SPRC",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E8e8a2dad3276b950e6b39cecd5d385ed5507b465bf8ef656bc907346dd29e820",
+      "company": "Profusa, Inc.",
+      "ticker": "PFSA",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E31a6535a97fc42c9e5c79e05fdd7e0d0650c3546554c5ff7f688530e2e3b4a0c",
       "company": "MPHSF",
       "ticker": "MPHSF",
@@ -752,11 +796,44 @@
       "source": "polygon"
     },
     {
+      "id": "E6431beb80e1c517d380e6b9c8fbb9e9ac0186341a382dfdef2252819ef07c61b",
+      "company": "INLIF Limited",
+      "ticker": "INLF",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-16",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ea6f813e9a504be1cc38dbe61f7bb2e3a595bd3714d2598040c157d6128f80de7",
+      "company": "INNEOVA Holdings Limited",
+      "ticker": "INEO",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E31d3d7a2d28026a2f2f6a2b4ad5624122d270aa0ccfdb4e8d343fe64b3ff7759",
       "company": "Huadi International Group Co., Ltd.",
       "ticker": "HUDI",
       "exDate": "2026-11-27",
       "ratio": "1-for-8",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E5dda00bcf0b2046fc364147b32c0dc3a196542ad0ee7ad32105ec1587c5a585c",
+      "company": "GMEX Robotics Corporation",
+      "ticker": "GMEX",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-19",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -785,11 +862,55 @@
       "source": "polygon"
     },
     {
+      "id": "E003cf8f185457109d185c91abf4fe6d31e83d579bd531e4ac3cfa0a97a730c72",
+      "company": "Passage Bio, Inc.",
+      "ticker": "PASG",
+      "exDate": "2026-11-25",
+      "ratio": "1-for-6",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ed3f5a5b18d052b3d5417d67b15c67220fcd9f5d6c19476c8f9ca1d2a34cdad75",
       "company": "Frontier Nuclear and Minerals Inc.",
       "ticker": "FNUC",
       "exDate": "2026-11-25",
       "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E77da3850bbdbfa1389791a55d4e9afbf8a5e83c1201edecef4527970bac8310e",
+      "company": "Springbok Ventures Inc.",
+      "ticker": "CLRMF",
+      "exDate": "2026-11-25",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E3ddad5f75e430bda4b376194ef73db3d0d0695305d846fcef51947738ff2042d",
+      "company": "Amaze Holdings Inc.",
+      "ticker": "AMZE",
+      "exDate": "2026-11-25",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb31c26f77b2e8c16ba026a16b50c9f1f806360a891c8072180a4ad38ceeb35a3",
+      "company": "Atomos Limited",
+      "ticker": "AMOSF",
+      "exDate": "2026-11-25",
+      "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -814,7 +935,7 @@
       "ratio": "1-for-25",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -847,7 +968,7 @@
       "ratio": "1-for-40",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -869,7 +990,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -880,7 +1001,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1017,7 +1138,7 @@
     },
     {
       "id": "E734599859439d6f3691030ceb0a0d47c98fc0b3a91909cc0ad6b6644b2cacb43",
-      "company": "Brenmiller Energy Ltd",
+      "company": "BrenX Ltd.",
       "ticker": "BRNX",
       "exDate": "2026-11-23",
       "ratio": "1-for-4",
@@ -1556,7 +1677,7 @@
     },
     {
       "id": "E5100695a7e4cc0eca99f3a411adaac10f57b5b658bfc4705949f6b388c2e2aa5",
-      "company": "Landvision Technology Limited",
+      "company": "MKDWELL Tech Inc.",
       "ticker": "MKDW",
       "exDate": "2026-11-18",
       "ratio": "1-for-20",
@@ -1666,7 +1787,7 @@
     },
     {
       "id": "E2487cd6724d1fb9a95289762f56d1ca2fed6514a46622e67641a86314f08bf61",
-      "company": "EDBL",
+      "company": "Edible Garden AG Incorporated",
       "ticker": "EDBL",
       "exDate": "2026-11-17",
       "ratio": "1-for-5",
