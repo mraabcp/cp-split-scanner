@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-24T23:20:12.762Z",
-  "totalRecords": 163,
-  "newThisScan": 11,
+  "lastUpdated": "2026-11-25T22:53:06.334Z",
+  "totalRecords": 166,
+  "newThisScan": 13,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -313,12 +313,12 @@
     },
     {
       "id": "Ef7886f8cd69903d76510b3784487020aeeaa54849ea20c523ee061e09dd1053c",
-      "company": "Tradr 2X Long RGTI Daily ETF",
+      "company": "RGTU",
       "ticker": "RGTU",
       "exDate": "2026-12-08",
       "ratio": "1-for-8",
       "type": "reverse",
-      "isETF": true,
+      "isETF": false,
       "isNew": false,
       "source": "polygon"
     },
@@ -330,7 +330,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -452,6 +452,28 @@
       "type": "forward",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E538fb69cc4c93fb49c0b03f9f4df0785ca4d93ca6ca224ed3bd0422af5447ba2",
+      "company": "Ryde Group Ltd.",
+      "ticker": "RYDE",
+      "exDate": "2026-12-07",
+      "ratio": "1-for-150",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec40971465323dd648f3c9764ffca4714bddd88598e48ae007c126b17a0c78494",
+      "company": "Standard BioTools Inc.",
+      "ticker": "LAB",
+      "exDate": "2026-12-07",
+      "ratio": "2-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -664,6 +686,17 @@
       "source": "polygon"
     },
     {
+      "id": "E6261292a8ca16ddb60bc2e4f0a6f1f02005966a40cd4929c07f59c7d70085f8d",
+      "company": "First Ottawa Bancshares, Inc.",
+      "ticker": "FOTB",
+      "exDate": "2026-12-02",
+      "ratio": "10-for-1",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ef89c16e0023022bc06dfbf27bd58d9d0046b891d03132cae0da3a125abe306e5",
       "company": "Tradr 2X Long FLY Daily ETF",
       "ticker": "FLYT",
@@ -730,6 +763,61 @@
       "source": "polygon"
     },
     {
+      "id": "E6c18757b93307f8d14c2b1a7517a3dc1094cbef0bce353f46b450c9f2c6213d7",
+      "company": "Haoxin Holdings Limited",
+      "ticker": "HXHX",
+      "exDate": "2026-12-01",
+      "ratio": "1-for-18",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E25b4dec0b3a196c1cdc20be6be1d08fc6c161d6c77ff9cbfcb52eeeee1f43f4a",
+      "company": "Wheeler Real Estate Investment Trust, Inc.",
+      "ticker": "WHLR",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ef23f5073ff1086ee6629962861d038504b917292cb3ea4e2da74eaa3e7c1bd7b",
+      "company": "Valion Bio, Inc.",
+      "ticker": "VBIO",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E77e4339f763877237d9d54cc2e57eb97ed4519638f36365aaa99c3e4c828edf6",
+      "company": "Mingteng International Corporation Inc.",
+      "ticker": "MTEN",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E398fbd7c8b5cb721544541fd0cacce8b24623b51ffa2c355d4f392f6226f8331",
+      "company": "Standard BioTools Inc.",
+      "ticker": "LAB",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-35",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E7c7171259b99630fd4ecf6a945115ee7ce873f9fffd64066223f7b53d027912c",
       "company": "Grupo México, S.A.B. de C.V.",
       "ticker": "GPMXY",
@@ -741,6 +829,39 @@
       "source": "polygon"
     },
     {
+      "id": "E9e91c33bbabf8f0c3c5fc2897449c001d30d01679257de2732d24f18f4e6c31e",
+      "company": "Golden Heaven Group Holdings Ltd.",
+      "ticker": "GDHG",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-80",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E5eb605d0ce366c18be82de96d06ecce0a273e40e13d5717ae6508ab747076020",
+      "company": "Core AI Holdings, Inc.",
+      "ticker": "CHAI",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "E227b124d4f2f4bc87e6f4d1338d6dad382bfa05767ccfe16ba9e9cdb75951ddc",
+      "company": "Bullfrog AI Holdings, Inc.",
+      "ticker": "BFRG",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Eb0706ca0899a185c898834f49271ce117aecb2178c75d8b2fd217223bd942cce",
       "company": "Youxin Technology Ltd",
       "ticker": "YAAS",
@@ -748,7 +869,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -770,6 +891,17 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "Eb6cfe72ccb2f1132fe71b82d413c8ab5a01d7e5b549ff20f0a6e5700b40c329b",
+      "company": "Singularity Future Technology Ltd.",
+      "ticker": "SGLY",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -781,7 +913,7 @@
       "ratio": "1-for-8",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -803,11 +935,11 @@
       "ratio": "1-for-16",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
-      "id": "Ea6f813e9a504be1cc38dbe61f7bb2e3a595bd3714d2598040c157d6128f80de7",
+      "id": "Ed87fe14bf820c93b6a87fea602048b8976fe383291265bd2dfa3984dc2fffe86",
       "company": "INNEOVA Holdings Limited",
       "ticker": "INEO",
       "exDate": "2026-11-27",
@@ -836,7 +968,7 @@
       "ratio": "1-for-19",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -869,7 +1001,7 @@
       "ratio": "1-for-6",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -885,13 +1017,13 @@
     },
     {
       "id": "E77da3850bbdbfa1389791a55d4e9afbf8a5e83c1201edecef4527970bac8310e",
-      "company": "Springbok Ventures Inc.",
+      "company": "Clean Air Metals Inc.",
       "ticker": "CLRMF",
       "exDate": "2026-11-25",
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -902,7 +1034,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -913,7 +1045,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -940,7 +1072,7 @@
     },
     {
       "id": "E6761edf4cf4932bbcad4582d9626a7be671cef9b5ed0dab0b7069659ad8d920e",
-      "company": "iSpecimen Inc.",
+      "company": "ISPC",
       "ticker": "ISPC",
       "exDate": "2026-11-24",
       "ratio": "1-for-6",
@@ -1138,7 +1270,7 @@
     },
     {
       "id": "E734599859439d6f3691030ceb0a0d47c98fc0b3a91909cc0ad6b6644b2cacb43",
-      "company": "BrenX Ltd.",
+      "company": "Brenmiller Energy Ltd",
       "ticker": "BRNX",
       "exDate": "2026-11-23",
       "ratio": "1-for-4",
@@ -1215,7 +1347,7 @@
     },
     {
       "id": "E1b1a9628d23ed7a94cca983b46b1ceaba074868dda0f37339c07acf3014b0239",
-      "company": "JHancock High Yield I",
+      "company": "JYHIX",
       "ticker": "JYHIX",
       "exDate": "2026-11-20",
       "ratio": "1-for-4",
@@ -1578,7 +1710,7 @@
     },
     {
       "id": "E7754fbbf7ef4dbdab1e87b80f0d1ff4a575f0a702fb90450cb82d718bcda94bf",
-      "company": "GBM Resources Limited",
+      "company": "GBM Resources Ltd",
       "ticker": "GBMRF",
       "exDate": "2026-11-19",
       "ratio": "1-for-20",
@@ -1677,7 +1809,7 @@
     },
     {
       "id": "E5100695a7e4cc0eca99f3a411adaac10f57b5b658bfc4705949f6b388c2e2aa5",
-      "company": "MKDWELL Tech Inc.",
+      "company": "Landvision Technology Limited",
       "ticker": "MKDW",
       "exDate": "2026-11-18",
       "ratio": "1-for-20",
@@ -1693,105 +1825,6 @@
       "exDate": "2026-11-18",
       "ratio": "101-for-100",
       "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7a131a51db96f95fc76808d6d0b499b12bb34cb1a4f3fce897e239faa6cb6842",
-      "company": "SelectQuote, Inc.",
-      "ticker": "SLQT",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E04fc542acee378e7efd2bf8cffd29907c13dd185735e86c1c72122eb348f6fc7",
-      "company": "Seneca Foods Corporation",
-      "ticker": "SENEB",
-      "exDate": "2026-11-17",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E63038f7c7adc5c6f5c40d0a12be040d251a99528a5ef601e0c64333dbd225e24",
-      "company": "Seneca Foods Corporation",
-      "ticker": "SENEA",
-      "exDate": "2026-11-17",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ef33aba1472723e06cbef1ba9c58afb410d17a33d341767a1fa71fefaba2f02bd",
-      "company": "RedCloud Holdings plc",
-      "ticker": "RCT",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ead120017dfd1bd121aa7d3c29d495a4e9033d987a836c30ca91f13aba7a9a267",
-      "company": "Otto Energy Ltd",
-      "ticker": "OTTEF",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-100",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4532bc1362a52ee8555bae92d7df49e327ca4b62ef9e18d0f37b340bea160d50",
-      "company": "Mobix Labs, Inc.",
-      "ticker": "MOBX",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-7",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2190b4223ad5c33c536cbce7bbb108ce4ef52b5efa4b7edb65c93530178cd302",
-      "company": "Lobo Technologies Ltd.",
-      "ticker": "LOBO",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-10",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E00255f559abc91f97e4d73e0fa5a755d38bcce34f6693434ae4f592282cc8354",
-      "company": "Forcendra Holding Limited",
-      "ticker": "FCDH",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2487cd6724d1fb9a95289762f56d1ca2fed6514a46622e67641a86314f08bf61",
-      "company": "Edible Garden AG Incorporated",
-      "ticker": "EDBL",
-      "exDate": "2026-11-17",
-      "ratio": "1-for-5",
-      "type": "reverse",
       "isETF": false,
       "isNew": false,
       "source": "polygon"
