@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-25T22:53:06.334Z",
-  "totalRecords": 166,
-  "newThisScan": 13,
+  "lastUpdated": "2026-11-26T22:43:27.275Z",
+  "totalRecords": 170,
+  "newThisScan": 7,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -180,6 +180,17 @@
       "source": "polygon"
     },
     {
+      "id": "Eb518b6b0af887204148fde3ddf6d611458a446dc56557c7fecf169296c0d5f3f",
+      "company": "Blink Charging Co.",
+      "ticker": "BLNK",
+      "exDate": "2026-12-11",
+      "ratio": "1-for-30",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "Ede1f3b9c832151f8b4d7e68f36a5e54fc6eee8658ce0861bbf411ed4154a1f57",
       "company": "Leverage Shares 2X Long SNDK Da",
       "ticker": "SNDG",
@@ -313,12 +324,12 @@
     },
     {
       "id": "Ef7886f8cd69903d76510b3784487020aeeaa54849ea20c523ee061e09dd1053c",
-      "company": "RGTU",
+      "company": "Tradr 2X Long RGTI Daily ETF",
       "ticker": "RGTU",
       "exDate": "2026-12-08",
       "ratio": "1-for-8",
       "type": "reverse",
-      "isETF": false,
+      "isETF": true,
       "isNew": false,
       "source": "polygon"
     },
@@ -462,7 +473,7 @@
       "ratio": "1-for-150",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -473,7 +484,7 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -693,7 +704,7 @@
       "ratio": "10-for-1",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -716,6 +727,17 @@
       "type": "reverse",
       "isETF": true,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E636b4ebe4c59474556480c46761c9010bc8db25a8cdb28c1e41cb233da2e0364",
+      "company": "CLSIF",
+      "ticker": "CLSIF",
+      "exDate": "2026-12-02",
+      "ratio": "11-for-10",
+      "type": "forward",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -763,6 +785,17 @@
       "source": "polygon"
     },
     {
+      "id": "E96b22580890da4537937d4f69635161ebcde757fd9ff05a511e262fb2e57eeb6",
+      "company": "Vivakor, Inc.",
+      "ticker": "VIVK",
+      "exDate": "2026-12-01",
+      "ratio": "1-for-15",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
       "id": "E6c18757b93307f8d14c2b1a7517a3dc1094cbef0bce353f46b450c9f2c6213d7",
       "company": "Haoxin Holdings Limited",
       "ticker": "HXHX",
@@ -770,7 +803,7 @@
       "ratio": "1-for-18",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -781,7 +814,7 @@
       "ratio": "1-for-4",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -790,6 +823,28 @@
       "ticker": "VBIO",
       "exDate": "2026-11-30",
       "ratio": "1-for-4",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9c7ec3fb9374f900c41fe5b767a2f48792a1b244e1a106e047fabc8ad67b0d81",
+      "company": "PowerBank Corporation",
+      "ticker": "PBK",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-20",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
+      "source": "polygon"
+    },
+    {
+      "id": "Ec8bef9fd430f038e31568e2fb85159dee89aebd452077ac4f4acdf3f5bfb6373",
+      "company": "NewGenIvf Group Limited",
+      "ticker": "NIVF",
+      "exDate": "2026-11-30",
+      "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -803,7 +858,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -814,7 +869,7 @@
       "ratio": "1-for-35",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -836,7 +891,7 @@
       "ratio": "1-for-80",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -847,7 +902,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -858,7 +913,7 @@
       "ratio": "1-for-10",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -870,6 +925,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E7c928321638a69c190fab50a0990801585c9d4777567caf3b1d6b7b5e68d07e9",
+      "company": "Wisr Limited",
+      "ticker": "WSRLF",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-100",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -900,6 +966,17 @@
       "ticker": "SGLY",
       "exDate": "2026-11-27",
       "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E0b6dcebd4b0c8fa424f40f253d1754f21659870ac32453dfe82912b29322325e",
+      "company": "PKMNF",
+      "ticker": "PKMNF",
+      "exDate": "2026-11-27",
+      "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
       "isNew": true,
@@ -946,7 +1023,7 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1017,7 +1094,7 @@
     },
     {
       "id": "E77da3850bbdbfa1389791a55d4e9afbf8a5e83c1201edecef4527970bac8310e",
-      "company": "Clean Air Metals Inc.",
+      "company": "Dante Metals Corp.",
       "ticker": "CLRMF",
       "exDate": "2026-11-25",
       "ratio": "1-for-10",
@@ -1072,7 +1149,7 @@
     },
     {
       "id": "E6761edf4cf4932bbcad4582d9626a7be671cef9b5ed0dab0b7069659ad8d920e",
-      "company": "ISPC",
+      "company": "iSpecimen Inc.",
       "ticker": "ISPC",
       "exDate": "2026-11-24",
       "ratio": "1-for-6",
@@ -1270,7 +1347,7 @@
     },
     {
       "id": "E734599859439d6f3691030ceb0a0d47c98fc0b3a91909cc0ad6b6644b2cacb43",
-      "company": "Brenmiller Energy Ltd",
+      "company": "BrenX Ltd.",
       "ticker": "BRNX",
       "exDate": "2026-11-23",
       "ratio": "1-for-4",
@@ -1347,7 +1424,7 @@
     },
     {
       "id": "E1b1a9628d23ed7a94cca983b46b1ceaba074868dda0f37339c07acf3014b0239",
-      "company": "JYHIX",
+      "company": "JHancock High Yield I",
       "ticker": "JYHIX",
       "exDate": "2026-11-20",
       "ratio": "1-for-4",
@@ -1534,7 +1611,7 @@
     },
     {
       "id": "E3928afe76711799e8a7d97a44b4836ba7ff50f1e281f047ff7db519afdab8666",
-      "company": "Cizzle Brands Corporation",
+      "company": "Cizzle Brands Corp",
       "ticker": "CZZLF",
       "exDate": "2026-11-20",
       "ratio": "1-for-25",
@@ -1556,7 +1633,7 @@
     },
     {
       "id": "E3ae9bf70e458692a482dcafec2fd2a4ce0bcde52548d031176ca4fc97dfe8077",
-      "company": "CopperCorp Resources Inc.",
+      "company": "CopperCorp Resources Inc",
       "ticker": "CPCPF",
       "exDate": "2026-11-20",
       "ratio": "1-for-5",
@@ -1793,39 +1870,6 @@
       "ratio": "2-for-1",
       "type": "forward",
       "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E1527bf2611713624efe5eebac7d047da73445d4c6d7eb3bee32891045ace396c",
-      "company": "SunPower Inc.",
-      "ticker": "SPWR",
-      "exDate": "2026-11-18",
-      "ratio": "1-for-35",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E5100695a7e4cc0eca99f3a411adaac10f57b5b658bfc4705949f6b388c2e2aa5",
-      "company": "Landvision Technology Limited",
-      "ticker": "MKDW",
-      "exDate": "2026-11-18",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E4a6e815c19efacf6f427f19cde42295f2630288c0bdb18ef69c1a909ad5b0a5f",
-      "company": "ANCMF",
-      "ticker": "ANCMF",
-      "exDate": "2026-11-18",
-      "ratio": "101-for-100",
-      "type": "forward",
-      "isETF": false,
       "isNew": false,
       "source": "polygon"
     }
