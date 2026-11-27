@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-11-26T22:43:27.275Z",
-  "totalRecords": 170,
-  "newThisScan": 7,
+  "lastUpdated": "2026-11-27T22:26:26.952Z",
+  "totalRecords": 152,
+  "newThisScan": 3,
   "splits": [
     {
       "id": "E323f5868093f8aa120b8b79e15a19d353a65e638b042ba32f1a3b86e40c5cf65",
@@ -12,6 +12,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E01a0bb9a07fca424fe0709acd90331f670a6683f70c9ec6240aec6a346699aaf",
+      "company": "Macau Legend Development Limited",
+      "ticker": "MALDF",
+      "exDate": "2026-12-22",
+      "ratio": "1-for-10",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -187,7 +198,7 @@
       "ratio": "1-for-30",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -737,7 +748,7 @@
       "ratio": "11-for-10",
       "type": "forward",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -792,6 +803,17 @@
       "ratio": "1-for-15",
       "type": "reverse",
       "isETF": false,
+      "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E3be44539145cf97d58b4293cdec2d0a18613fdb485be55d062e9019f8e62a665",
+      "company": "TruGolf Holdings, Inc.",
+      "ticker": "TRUG",
+      "exDate": "2026-12-01",
+      "ratio": "1-for-5",
+      "type": "reverse",
+      "isETF": false,
       "isNew": true,
       "source": "polygon"
     },
@@ -804,6 +826,17 @@
       "type": "reverse",
       "isETF": false,
       "isNew": false,
+      "source": "polygon"
+    },
+    {
+      "id": "E9ce07dde5fc0944d2519fb7984df13546b78fa607a2a39aebcf7a863477e118d",
+      "company": "Curis, Inc.",
+      "ticker": "CRIS",
+      "exDate": "2026-12-01",
+      "ratio": "1-for-12",
+      "type": "reverse",
+      "isETF": false,
+      "isNew": true,
       "source": "polygon"
     },
     {
@@ -836,7 +869,7 @@
       "ratio": "1-for-20",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -847,7 +880,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -935,7 +968,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -979,7 +1012,7 @@
       "ratio": "1-for-100",
       "type": "reverse",
       "isETF": false,
-      "isNew": true,
+      "isNew": false,
       "source": "polygon"
     },
     {
@@ -1639,237 +1672,6 @@
       "ratio": "1-for-5",
       "type": "reverse",
       "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9bd288210fa81afb4de62b6a04fe216424cbf5a66a6b9ddeff153634421b0420",
-      "company": "YYForce Inc.",
-      "ticker": "YFOR",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-50",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ebffa547d0ad165fb6c6d037ae04a4ca48a8adb78498bd1f03658abc635ec3f3d",
-      "company": "ProShares VIX Mid-Term Futures ETF",
-      "ticker": "VIXM",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E412d4b682e613ec8ad94057925a3ee864c1f934b3a5373d467162afdf6516cad",
-      "company": "ProShares Ultra 20+ Year Treasury",
-      "ticker": "UBT",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E183cc213ffe768f41d85f1418f171ed4b6218ef36b2155966b26769ed88751fb",
-      "company": "ProShares UltraShort Semiconductors",
-      "ticker": "SSG",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E66537210545542add8759c62988146af27c69ad870697a645ee05dc88f08a748",
-      "company": "Senti Biosciences Holdings, Inc.",
-      "ticker": "SNTI",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-33",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ec6214f4525b0b1a017620284eafb94988234ed2b04a880d27d565b843ac3f965",
-      "company": "ProShares UltraPro Short MidCap400",
-      "ticker": "SMDD",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E985d1f5b9ca0831e4d2ab8f2410320b8c78f8985be99689fb1915ad9774ca91f",
-      "company": "Scinai Immunotherapeutics Ltd.",
-      "ticker": "SCNI",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E99988e02d386012e36acd0389a1a4d61b136b2ed5734298161d173bec8293dce",
-      "company": "ProShares Short Russell2000",
-      "ticker": "RWM",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3548c10163113c5913975c555faaa94b65cdd1b19aca084a0377975f1d62f5b1",
-      "company": "ProShares Ultra Technology",
-      "ticker": "ROM",
-      "exDate": "2026-11-19",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E19052a4b123f258abc529574d5965b246652f64ae8a4b2551b4b0440dcf7c737",
-      "company": "ProShares UltraShort Technology",
-      "ticker": "REW",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Ecc6a2db64ea97c2700e0cd30218fbe0c470d0fed9fb91e8338a929382898b5cd",
-      "company": "ProShares UltraShort QQQ",
-      "ticker": "QID",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E2c11b2035e36a93e1babe0799f8e90521cb4a1d97dde9b4b050cf6ec6246617f",
-      "company": "ProShares UltraShort MidCap400",
-      "ticker": "MZZ",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-4",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E3d027ce64ec9eb979db149fda401224b2a1495920bcfa9f8654c30abdce4842e",
-      "company": "Keyence Corporation",
-      "ticker": "KYCCF",
-      "exDate": "2026-11-19",
-      "ratio": "5-for-1",
-      "type": "forward",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E7754fbbf7ef4dbdab1e87b80f0d1ff4a575f0a702fb90450cb82d718bcda94bf",
-      "company": "GBM Resources Ltd",
-      "ticker": "GBMRF",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-20",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E786eab1e2ecc881fb2527223f1ffbc94e67c7a75c6daaa8ac1c064a620ae143f",
-      "company": "ProShares Ultra MSCI Emerging Markets",
-      "ticker": "EET",
-      "exDate": "2026-11-19",
-      "ratio": "3-for-1",
-      "type": "forward",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E79d091113d2f742d8ebd1f60b2fd81baf6b95199e1c3a61f1a87a91b8f7ec93d",
-      "company": "ProShares UltraShort Dow30",
-      "ticker": "DXD",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E9a3aea688972183ed85a5c3da4758aaf819d5acece5e9d030a4b2cfb8a119f49",
-      "company": "ProShares UltraShort Energy ETF",
-      "ticker": "DUG",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E99883c74d34e5dee042deac2b9adc4f4c946c6d6157f071c5384107ce813b1a0",
-      "company": "Cromwell Property Group",
-      "ticker": "CMWCF",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-5",
-      "type": "reverse",
-      "isETF": false,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E82fc5e36d9da9ef70399f1611f934bbc7d67fd6dc2dc4a206030ed0aa9b1a1e3",
-      "company": "ProShares Bitcoin ETF",
-      "ticker": "BITO",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "E609849c9d4ea0a2914725a1f567fabfdc773039e698ea763f2028e350f2c3530",
-      "company": "ProShares Short Bitcoin ETF",
-      "ticker": "BITI",
-      "exDate": "2026-11-19",
-      "ratio": "1-for-2",
-      "type": "reverse",
-      "isETF": true,
-      "isNew": false,
-      "source": "polygon"
-    },
-    {
-      "id": "Eb470729ae39d11e90ac5d7d3c3942848a2e756e4bc33cbe3dd13928e174a1a5f",
-      "company": "ProShares Ultra Nasdaq Biotechnology",
-      "ticker": "BIB",
-      "exDate": "2026-11-19",
-      "ratio": "2-for-1",
-      "type": "forward",
-      "isETF": true,
       "isNew": false,
       "source": "polygon"
     }
